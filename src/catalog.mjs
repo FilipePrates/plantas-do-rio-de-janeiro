@@ -8,6 +8,11 @@ export const markerLabels = Object.freeze({
   root: "Raiz",
   unknown: "Sem marcador",
 });
+export const conservationLabels = Object.freeze({
+  EX: "Extinta", EW: "Extinta na natureza", CR: "Criticamente em perigo",
+  EN: "Em perigo", VU: "Vulnerável", NT: "Quase ameaçada",
+  LC: "Menos preocupante", DD: "Dados insuficientes", NE: "Não avaliada",
+});
 export const normalize = (value) =>
   value
     .normalize("NFD")
@@ -188,6 +193,46 @@ export function parseCatalog(value) {
         `${name}: espécie duplicada entre fichas ou grupos.`,
       );
       represented.add(name);
+    }
+    if (p.regionalEvidence !== undefined) {
+      requireValue(Array.isArray(p.regionalEvidence), `${label}: evidências regionais inválidas.`);
+      const evidenceKeys = new Set();
+      const page = (n) => Number.isSafeInteger(n) && n > 0;
+      const year = (n) => Number.isSafeInteger(n) && n >= 1900 && n <= 2100;
+      for (const evidence of p.regionalEvidence) {
+        requireValue(
+          evidence && names.includes(evidence.scientificName) &&
+            year(evidence.publicationYear) &&
+            text(evidence.source?.title) && https(evidence.source?.url) &&
+            text(evidence.source?.retrievedAt),
+          `${label}: espécie ou fonte da evidência regional inválida.`,
+        );
+        const key = `${evidence.scientificName}:${evidence.source.url}`;
+        requireValue(!evidenceKeys.has(key), `${label}: evidência regional duplicada.`);
+        evidenceKeys.add(key);
+        requireValue(
+          evidence.endemicToRioState === undefined || evidence.endemicToRioState === true,
+          `${label}: ausência de dado não comprova ausência de endemismo.`,
+        );
+        requireValue(
+          Array.isArray(evidence.conservationUnits) &&
+            evidence.conservationUnits.every((unit) => unit && text(unit.name) &&
+              text(unit.voucher) && page(unit.sourcePage) &&
+              (unit.municipality === undefined
+                ? unit.municipalitySourcePage === undefined
+                : text(unit.municipality) && page(unit.municipalitySourcePage))),
+          `${label}: unidade de conservação ou evidência municipal inválida.`,
+        );
+        requireValue(
+          Array.isArray(evidence.conservationAssessments) &&
+            evidence.conservationAssessments.every((assessment) => assessment &&
+              Object.hasOwn(conservationLabels, assessment.category) &&
+              ["brazil", "rio-state", "global", "unspecified"].includes(assessment.scope) &&
+              year(assessment.referenceYear) && assessment.referenceYear <= evidence.publicationYear &&
+              text(assessment.referenceTitle) && page(assessment.sourcePage)),
+          `${label}: categoria, abrangência ou data de conservação inválida.`,
+        );
+      }
     }
     requireValue(Array.isArray(p.photos), `${label}: fotos inválidas.`);
     for (const photo of p.photos) {

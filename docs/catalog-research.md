@@ -71,3 +71,13 @@ visual quality and photo-specific markers is still required.
 Habitat and vegetation attributes returned by the API describe the Brazilian
 distribution; they are not state-specific occurrence proofs. The profile labels
 these as national attributes. Native state membership is filtered separately.
+
+## Editorial expansion, 17 October 2026
+
+See [the editorial record](curation-2026-10-17.md) for the nine additions,
+plain-language descriptions, sources and complementary photo selection.
+New content remains draft; existing photos and photo categories were preserved.
+The structured Brazilian habitat attributes were retained, with simplified
+wording in the public text under “Ambientes no Brasil”. Scaevola plumieri has
+explicit municipal evidence in Machado & Konno (2010), p. 236; the other new
+entries retain state-level geography. Genus membership counts were unchanged.

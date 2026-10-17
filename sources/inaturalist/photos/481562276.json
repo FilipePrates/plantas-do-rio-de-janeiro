@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/267938781",
+  "photo": {
+    "id": 481562276,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481562276/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Hugo Saulino",
+  "observation": {
+    "id": 267938781,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 465976,
+      "name": "Costus spiralis"
+    },
+    "observerLogin": "hugosaulino"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481562276/large.jpeg",
+    "sha256": "03480c2663a9b4c599c86b1559188d71741d3cc6a4fa581fdcce412b366a969d",
+    "retrievedAt": "2026-10-17T19:41:13.055478Z"
+  }
+}

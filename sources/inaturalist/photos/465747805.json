@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/259452956",
+  "photo": {
+    "id": 465747805,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 922,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465747805/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Kauã Neves",
+  "observation": {
+    "id": 259452956,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1113012,
+      "name": "Pleroma granulosum"
+    },
+    "observerLogin": "theadventurehunter"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465747805/large.jpeg",
+    "sha256": "f6fc53740d2161cfe584e7ea30968c5483135422b715821c93d96d714487d88c",
+    "retrievedAt": "2026-10-17T19:42:15.336929Z"
+  }
+}

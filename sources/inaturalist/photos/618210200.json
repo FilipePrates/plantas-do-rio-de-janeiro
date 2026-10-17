@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/339795604",
+  "photo": {
+    "id": 618210200,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618210200/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Gabriel Cardoso Fialho",
+  "observation": {
+    "id": 339795604,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 874491,
+      "name": "Paubrasilia echinata"
+    },
+    "observerLogin": "gabrielfialho"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618210200/large.jpg",
+    "sha256": "7dbcac4033c3ea67e46025258169d1d387f9811b22a9627164a075954a2ff43b",
+    "retrievedAt": "2026-10-17T19:42:00.783585Z"
+  }
+}

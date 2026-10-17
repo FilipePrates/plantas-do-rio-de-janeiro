@@ -44,6 +44,7 @@ test("group membership contributes to the species ceiling and cannot overlap ano
     scientificName: "Testus spp.",
     rank: "genus",
     photos: [],
+    regionalEvidence: [],
     regionalSpecies: [
       {
         scientificName: "Testus alpha",
@@ -67,6 +68,7 @@ test("group membership contributes to the species ceiling and cannot overlap ano
     genus: "Testus",
     scientificName: "Testus alpha",
     photos: [],
+    regionalEvidence: [],
   });
   assert.throws(() => parseCatalog(catalog), /duplicada/);
   catalog.plants = [group];

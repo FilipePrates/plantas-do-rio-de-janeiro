@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/358298429",
+  "photo": {
+    "id": 653610296,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653610296/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Kristen Francis",
+  "observation": {
+    "id": 358298429,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 126620,
+      "name": "Scaevola plumieri"
+    },
+    "observerLogin": "kristen163"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653610296/large.jpg",
+    "sha256": "3e30a0b5837a6f6efd031adc7465083c10b7aec7405a684744e9c28108351b9d",
+    "retrievedAt": "2026-10-17T19:42:43.163722Z"
+  }
+}

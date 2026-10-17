@@ -18,6 +18,7 @@ import { plantImages } from "../data/plant-images";
 import { palette } from "../theme";
 import { LeafIcon } from "./icons";
 import { PlantPhotoMarkers } from "./PlantPhotoMarkers";
+import { RegionalRecords } from "./RegionalRecords";
 
 function openUrl(url: string) {
   void Linking.openURL(url).catch(() => undefined);
@@ -35,6 +36,7 @@ export function PlantProfile({
   const [showSources, setShowSources] = useState(false);
   const [showMembers, setShowMembers] = useState(false);
   const gallery = useRef<FlatList<PlantPhoto>>(null);
+  const activePhoto = plant.photos[activeIndex] ?? plant.photos[0];
   useEffect(() => {
     setActiveIndex(0);
     setShowSources(false);
@@ -95,6 +97,14 @@ export function PlantProfile({
                 <PhotoFrame photo={item} name={plant.commonName} size={size} />
               )}
             />
+            {activePhoto && (plant.rank === "genus" || activePhoto.caption) && (
+              <View style={styles.photoCaption}>
+                {plant.rank === "genus" && (
+                  <Text style={[styles.muted, styles.scientific]}>{activePhoto.taxonName}</Text>
+                )}
+                {!!activePhoto.caption && <Text style={styles.muted}>{activePhoto.caption}</Text>}
+              </View>
+            )}
             {plant.photos.length > 1 && (
               <View style={styles.galleryNavigation}>
                 <Pressable
@@ -192,6 +202,9 @@ export function PlantProfile({
           </Text>
           <View style={styles.identityMeta}>
             <Text style={styles.muted}>{plant.family}</Text>
+            <Text style={styles.muted}>
+              {plant.geography === "rio-city" ? "Registro municipal" : "Registro estadual"}
+            </Text>
             {plant.origin !== "native" && (
               <View style={styles.origin}>
                 <Text style={styles.originText}>
@@ -211,10 +224,11 @@ export function PlantProfile({
           </Section>
         )}
         {!!plant.ecology && (
-          <Section title="Ambiente e ecologia">
+          <Section title="Ambientes no Brasil">
             <Text style={styles.body}>{plant.ecology}</Text>
           </Section>
         )}
+        <RegionalRecords key={plant.id} plant={plant} />
         <Section title="Outros nomes">
           <Text style={styles.body}>
             {plant.alternateNames.length
@@ -378,6 +392,7 @@ const styles = StyleSheet.create({
     paddingVertical: 4,
   },
   creditText: { color: palette.paper, fontSize: 9, lineHeight: 12 },
+  photoCaption: { paddingHorizontal: 16, paddingTop: 8, gap: 3 },
   galleryNavigation: {
     flexDirection: "row",
     alignItems: "center",

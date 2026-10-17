@@ -240,17 +240,12 @@ function Guide() {
           {storageError}
         </Text>
       )}
+      <View style={styles.flex}>
       {!hydrated ? (
         <ActivityIndicator
           style={styles.loading}
           color={palette.pine}
           size="large"
-        />
-      ) : detail ? (
-        <PlantProfile
-          key={detail.id}
-          plant={detail}
-          principalName={saved.principalName}
         />
       ) : settings ? (
         <ScrollView contentContainerStyle={styles.content}>
@@ -415,6 +410,8 @@ function Guide() {
         <View
           style={styles.flex}
           onLayout={(event) => setGuideWidth(event.nativeEvent.layout.width)}
+          accessibilityElementsHidden={Boolean(detail)}
+          importantForAccessibility={detail ? "no-hide-descendants" : "auto"}
         >
           <View style={styles.searchRow}>
             <View style={styles.searchInputShell}>
@@ -566,6 +563,16 @@ function Guide() {
           )}
         </View>
       )}
+      {detail && (
+        <View style={styles.detailOverlay}>
+          <PlantProfile
+            key={detail.id}
+            plant={detail}
+            principalName={saved.principalName}
+          />
+        </View>
+      )}
+      </View>
       <SafeAreaView edges={["bottom"]} style={styles.navSafe}>
         <View style={styles.nav}>
           {(
@@ -759,6 +766,10 @@ const styles = StyleSheet.create({
   safe: { flex: 1, backgroundColor: palette.sand },
   statusBarSafe: { backgroundColor: "#000000" },
   flex: { flex: 1 },
+  detailOverlay: {
+    ...StyleSheet.absoluteFillObject,
+    backgroundColor: palette.paper,
+  },
   header: {
     minHeight: 76,
     backgroundColor: palette.pine,

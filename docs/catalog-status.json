@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-17T17:06:00.092Z",
-  "entries": 153,
-  "representedSpecies": 226,
-  "families": 28,
+  "generatedAt": "2026-10-17T20:22:07.794Z",
+  "entries": 162,
+  "representedSpecies": 235,
+  "families": 34,
   "invasiveEntries": 5,
   "groupedGenera": [
     {
@@ -16,13 +16,9 @@
       "terrestrialSpecies": 5
     }
   ],
-  "cc0Photos": 214,
-  "illustratedEntries": 114,
+  "cc0Photos": 277,
+  "illustratedEntries": 123,
   "missingPhotos": [
-    {
-      "id": "spondias-venulosa",
-      "scientificName": "Spondias venulosa"
-    },
     {
       "id": "allagoptera-caudescens",
       "scientificName": "Allagoptera caudescens"
@@ -174,8 +170,12 @@
     {
       "id": "manilkara-subsericea",
       "scientificName": "Manilkara subsericea"
+    },
+    {
+      "id": "avicennia-schaueriana",
+      "scientificName": "Avicennia schaueriana"
     }
   ],
-  "draftEntries": 153,
-  "draftPhotos": 214
+  "draftEntries": 0,
+  "draftPhotos": 0
 }

@@ -1,0 +1,880 @@
+{
+  "reviewStatus": "reviewed",
+  "photos": [
+    {
+      "plantId": "allagoptera-arenaria",
+      "photoId": 500657901,
+      "observationId": 278821932,
+      "taxonName": "Allagoptera arenaria",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Frutos agrupados em uma espiga compacta.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-500657901.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "allagoptera-arenaria",
+      "photoId": 677242396,
+      "observationId": 370703702,
+      "taxonName": "Allagoptera arenaria",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Inflorescência entre as folhas da palmeira.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-677242396.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "anthurium-spp",
+      "photoId": 668742274,
+      "observationId": 366244236,
+      "taxonName": "Anthurium pentaphyllum",
+      "proposedMarkers": [
+        "leaf"
+      ],
+      "caption": "Folha dividida em folíolos, uma das formas presentes neste grupo.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-668742274.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "anthurium-spp",
+      "photoId": 42075103,
+      "observationId": 27067291,
+      "taxonName": "Anthurium scandens",
+      "proposedMarkers": [
+        "wholePlant",
+        "fruit"
+      ],
+      "caption": "Planta sobre o tronco, com frutos agrupados no espádice.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-42075103.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "anthurium-spp",
+      "photoId": 343736824,
+      "observationId": 195395090,
+      "taxonName": "Anthurium scandens",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Detalhe dos frutos claros e arredondados.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-343736824.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "anthurium-spp",
+      "photoId": 117906745,
+      "observationId": 72329676,
+      "taxonName": "Anthurium scandens",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Espádice e espata vistos de perto.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-117906745.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "bromelia-antiacantha",
+      "photoId": 228015763,
+      "observationId": 133830175,
+      "taxonName": "Bromelia antiacantha",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Detalhe dos frutos ainda verdes.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-228015763.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "canavalia-rosea",
+      "photoId": 671334398,
+      "observationId": 367600850,
+      "taxonName": "Canavalia rosea",
+      "proposedMarkers": [
+        "flower",
+        "leaf"
+      ],
+      "caption": "Flores rosadas e folhas com três folíolos sobre a areia.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-671334398.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "canavalia-rosea",
+      "photoId": 340183203,
+      "observationId": 193640489,
+      "taxonName": "Canavalia rosea",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Flor vista de frente para comparar o formato das pétalas.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-340183203.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "canavalia-rosea",
+      "photoId": 120678383,
+      "observationId": 73879615,
+      "taxonName": "Canavalia rosea",
+      "proposedMarkers": [
+        "wholePlant"
+      ],
+      "caption": "Ramo rastejante mostrando como a planta se espalha sobre a areia.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-120678383.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "canavalia-rosea",
+      "photoId": 340224512,
+      "observationId": 193640489,
+      "taxonName": "Canavalia rosea",
+      "proposedMarkers": [
+        "leaf"
+      ],
+      "caption": "Uma folha completa, com seus três folíolos.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-340224512.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "ceiba-speciosa",
+      "photoId": 321512495,
+      "observationId": 184207069,
+      "taxonName": "Ceiba speciosa",
+      "proposedMarkers": [
+        "bark"
+      ],
+      "caption": "Tronco esverdeado com acúleos, as projeções pontiagudas da casca.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-321512495.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "cereus-fernambucensis",
+      "photoId": 161010806,
+      "observationId": 96878815,
+      "taxonName": "Cereus fernambucensis",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Flor aberta junto aos ramos do cacto.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-161010806.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "cereus-fernambucensis",
+      "photoId": 451808567,
+      "observationId": 252392079,
+      "taxonName": "Cereus fernambucensis",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Fruto verde preso ao caule, entre as fileiras de espinhos.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-451808567.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "clusia-fluminensis",
+      "photoId": 236094533,
+      "observationId": 138163391,
+      "taxonName": "Clusia fluminensis",
+      "proposedMarkers": [
+        "fruit",
+        "leaf"
+      ],
+      "caption": "Frutos verdes e folhas grossas em pares.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-236094533.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "conocarpus-erectus",
+      "photoId": 251174213,
+      "observationId": 146134788,
+      "taxonName": "Conocarpus erectus",
+      "proposedMarkers": [
+        "flower",
+        "leaf"
+      ],
+      "caption": "Pequenas flores reunidas em cabeças arredondadas.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-251174213.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "conocarpus-erectus",
+      "photoId": 208226148,
+      "observationId": 122948045,
+      "taxonName": "Conocarpus erectus",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Conjuntos de frutos castanhos, semelhantes a botões.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-208226148.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "conocarpus-erectus",
+      "photoId": 612246689,
+      "observationId": 336865521,
+      "taxonName": "Conocarpus erectus",
+      "proposedMarkers": [
+        "wholePlant"
+      ],
+      "caption": "Vista do arbusto e de sua ramificação.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-612246689.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "costus-spiralis",
+      "photoId": 104911507,
+      "observationId": 65204641,
+      "taxonName": "Costus spiralis",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Flor tubular saindo entre as brácteas vermelhas.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-104911507.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "costus-spiralis",
+      "photoId": 481562276,
+      "observationId": 267938781,
+      "taxonName": "Costus spiralis",
+      "proposedMarkers": [
+        "wholePlant",
+        "leaf"
+      ],
+      "caption": "Folhas distribuídas ao redor do caule e inflorescência na ponta.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-481562276.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "dalbergia-ecastaphyllum",
+      "photoId": 332865961,
+      "observationId": 189944109,
+      "taxonName": "Dalbergia ecastaphyllum",
+      "proposedMarkers": [
+        "leaf"
+      ],
+      "caption": "Folhas largas, cada uma com um único folíolo.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-332865961.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "dalbergia-ecastaphyllum",
+      "photoId": 659295137,
+      "observationId": 361277610,
+      "taxonName": "Dalbergia ecastaphyllum",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Detalhe das pequenas flores claras.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-659295137.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "dalbergia-ecastaphyllum",
+      "photoId": 177712352,
+      "observationId": 105857815,
+      "taxonName": "Dalbergia ecastaphyllum",
+      "proposedMarkers": [
+        "fruit",
+        "leaf"
+      ],
+      "caption": "Frutos achatados ainda presos ao ramo.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-177712352.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "dalbergia-ecastaphyllum",
+      "photoId": 464519439,
+      "observationId": 258848578,
+      "taxonName": "Dalbergia ecastaphyllum",
+      "proposedMarkers": [
+        "wholePlant"
+      ],
+      "caption": "Ramos espalhando-se pela vegetação da restinga.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-464519439.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "eugenia-brasiliensis",
+      "photoId": 596458352,
+      "observationId": 329088767,
+      "taxonName": "Eugenia brasiliensis",
+      "proposedMarkers": [
+        "wholePlant"
+      ],
+      "caption": "Vista da árvore, com o tronco e o contorno da copa.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-596458352.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "euterpe-edulis",
+      "photoId": 145828117,
+      "observationId": 88388403,
+      "taxonName": "Euterpe edulis",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Inflorescência ramificada abaixo da copa.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-145828117.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "euterpe-edulis",
+      "photoId": 389604637,
+      "observationId": 220080419,
+      "taxonName": "Euterpe edulis",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Cacho com frutos arredondados em diferentes estágios.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-389604637.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "ipomoea-pes-caprae",
+      "photoId": 338766518,
+      "observationId": 192913722,
+      "taxonName": "Ipomoea pes-caprae",
+      "proposedMarkers": [
+        "wholePlant"
+      ],
+      "caption": "Ramos rastejantes se espalhando sobre a areia.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-338766518.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "ipomoea-pes-caprae",
+      "photoId": 338766524,
+      "observationId": 192913722,
+      "taxonName": "Ipomoea pes-caprae",
+      "proposedMarkers": [
+        "leaf"
+      ],
+      "caption": "Folha com reentrância na ponta e nervuras bem visíveis.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-338766524.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "laguncularia-racemosa",
+      "photoId": 456338735,
+      "observationId": 252279534,
+      "taxonName": "Laguncularia racemosa",
+      "proposedMarkers": [
+        "flower",
+        "leaf"
+      ],
+      "caption": "Ramo com folhas em pares e pequenas flores claras.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-456338735.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "laguncularia-racemosa",
+      "photoId": 456338769,
+      "observationId": 252279534,
+      "taxonName": "Laguncularia racemosa",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Flores ampliadas para observar sua forma.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-456338769.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "laguncularia-racemosa",
+      "photoId": 595572466,
+      "observationId": 328644303,
+      "taxonName": "Laguncularia racemosa",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Detalhe dos frutos verdes alongados.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-595572466.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "laguncularia-racemosa",
+      "photoId": 107296233,
+      "observationId": 66544222,
+      "taxonName": "Laguncularia racemosa",
+      "proposedMarkers": [],
+      "caption": "Ramos sobre a água, mostrando a posição da planta no manguezal.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-107296233.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "passiflora-alata",
+      "photoId": 520912108,
+      "observationId": 289617586,
+      "taxonName": "Passiflora alata",
+      "proposedMarkers": [
+        "flower",
+        "fruit",
+        "leaf"
+      ],
+      "caption": "Flor aberta, fruto verde e folhas no mesmo ramo.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-520912108.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "passiflora-edulis",
+      "photoId": 652813955,
+      "observationId": 357892280,
+      "taxonName": "Passiflora edulis",
+      "proposedMarkers": [
+        "fruit",
+        "leaf"
+      ],
+      "caption": "Frutos ainda verdes entre as folhas da trepadeira.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-652813955.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "passiflora-edulis",
+      "photoId": 30424315,
+      "observationId": 19745548,
+      "taxonName": "Passiflora edulis",
+      "proposedMarkers": [
+        "wholePlant"
+      ],
+      "caption": "Vista da trepadeira cobrindo seu suporte.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-30424315.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "paubrasilia-echinata",
+      "photoId": 628956656,
+      "observationId": 345147803,
+      "taxonName": "Paubrasilia echinata",
+      "proposedMarkers": [
+        "leaf"
+      ],
+      "caption": "Folhas divididas em numerosos folíolos.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-628956656.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "paubrasilia-echinata",
+      "photoId": 618210200,
+      "observationId": 339795604,
+      "taxonName": "Paubrasilia echinata",
+      "proposedMarkers": [
+        "wholePlant"
+      ],
+      "caption": "Árvore jovem, mostrando a ramificação e o contorno da copa.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-618210200.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "philodendron-spp",
+      "photoId": 264791225,
+      "observationId": 153317947,
+      "taxonName": "Philodendron bipennifolium",
+      "proposedMarkers": [
+        "leaf"
+      ],
+      "caption": "Folha recortada, para comparar com as folhas inteiras de outros membros do grupo.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-264791225.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "philodendron-spp",
+      "photoId": 618059118,
+      "observationId": 339722457,
+      "taxonName": "Philodendron cordatum",
+      "proposedMarkers": [
+        "leaf"
+      ],
+      "caption": "Folha larga com nervuras destacadas.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-618059118.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "philodendron-spp",
+      "photoId": 740706523,
+      "observationId": 403428695,
+      "taxonName": "Philodendron cordatum",
+      "proposedMarkers": [
+        "wholePlant",
+        "root"
+      ],
+      "caption": "Planta apoiada no tronco, com raízes pendentes.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-740706523.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "piper-arboreum",
+      "photoId": 208135364,
+      "observationId": 122898127,
+      "taxonName": "Piper arboreum",
+      "proposedMarkers": [
+        "flower",
+        "leaf"
+      ],
+      "caption": "Ramos com folhas alongadas e espigas estreitas.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-208135364.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "pleroma-granulosum",
+      "photoId": 465747805,
+      "observationId": 259452956,
+      "taxonName": "Pleroma granulosum",
+      "proposedMarkers": [
+        "wholePlant",
+        "flower"
+      ],
+      "caption": "Vista da árvore florida e do contorno da copa.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-465747805.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "plinia-edulis",
+      "photoId": 637608482,
+      "observationId": 349529106,
+      "taxonName": "Plinia edulis",
+      "proposedMarkers": [
+        "leaf"
+      ],
+      "caption": "Detalhe de um ramo com folhas em pares.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-637608482.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "psidium-cattleyanum",
+      "photoId": 699965383,
+      "observationId": 382485685,
+      "taxonName": "Psidium cattleyanum",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Araçás vermelhos ainda presos aos ramos.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-699965383.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "psidium-cattleyanum",
+      "photoId": 553488433,
+      "observationId": 306895491,
+      "taxonName": "Psidium cattleyanum",
+      "proposedMarkers": [
+        "fruit",
+        "leaf"
+      ],
+      "caption": "Frutos amarelos, outra coloração presente na espécie.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-553488433.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "psidium-cattleyanum",
+      "photoId": 11217062,
+      "observationId": 8424378,
+      "taxonName": "Psidium cattleyanum",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Flor branca com numerosos estames.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-11217062.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "rhizophora-mangle",
+      "photoId": 223108952,
+      "observationId": 131132414,
+      "taxonName": "Rhizophora mangle",
+      "proposedMarkers": [
+        "root"
+      ],
+      "caption": "Raízes arqueadas de sustentação na margem do manguezal.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-223108952.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "rhizophora-mangle",
+      "photoId": 160306622,
+      "observationId": 96488919,
+      "taxonName": "Rhizophora mangle",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Detalhe das flores entre as folhas.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-160306622.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "rhizophora-mangle",
+      "photoId": 160307908,
+      "observationId": 96488919,
+      "taxonName": "Rhizophora mangle",
+      "proposedMarkers": [],
+      "caption": "Propágulo alongado ainda preso à planta: uma plântula em desenvolvimento.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-160307908.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "rhizophora-mangle",
+      "photoId": 664522272,
+      "observationId": 364024371,
+      "taxonName": "Rhizophora mangle",
+      "proposedMarkers": [
+        "wholePlant"
+      ],
+      "caption": "Indivíduo jovem mostrando copa, troncos e raízes.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-664522272.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "scaevola-plumieri",
+      "photoId": 653610252,
+      "observationId": 358298429,
+      "taxonName": "Scaevola plumieri",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Flores em forma de leque, abertas para um só lado.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-653610252.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "scaevola-plumieri",
+      "photoId": 653610296,
+      "observationId": 358298429,
+      "taxonName": "Scaevola plumieri",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Detalhe dos frutos escuros.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-653610296.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "scaevola-plumieri",
+      "photoId": 394825835,
+      "observationId": 222858643,
+      "taxonName": "Scaevola plumieri",
+      "proposedMarkers": [
+        "wholePlant"
+      ],
+      "caption": "Porte do arbusto na vegetação à beira da praia.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-394825835.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "paubrasilia-echinata",
+      "photoId": 592117130,
+      "observationId": 326887779,
+      "taxonName": "Paubrasilia echinata",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Frutos verdes achatados, com pequenas projeções na superfície.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-592117130.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "paubrasilia-echinata",
+      "photoId": 581333495,
+      "observationId": 321441294,
+      "taxonName": "Paubrasilia echinata",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Inflorescências amarelas entre as folhas da copa.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-581333495.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "schinus-terebinthifolia",
+      "photoId": 456408896,
+      "observationId": 254765528,
+      "taxonName": "Schinus terebinthifolia",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Cacho de pequenos frutos vermelhos.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-456408896.jpeg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "eugenia-uniflora",
+      "photoId": 555344604,
+      "observationId": 307856355,
+      "taxonName": "Eugenia uniflora",
+      "proposedMarkers": [
+        "wholePlant"
+      ],
+      "caption": "Vista da árvore mostrando os troncos e o contorno da copa.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-555344604.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "syagrus-romanzoffiana",
+      "photoId": 170738115,
+      "observationId": 102169880,
+      "taxonName": "Syagrus romanzoffiana",
+      "proposedMarkers": [
+        "fruit"
+      ],
+      "caption": "Cacho de frutos ainda verdes abaixo da copa.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-170738115.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "syagrus-romanzoffiana",
+      "photoId": 456718287,
+      "observationId": 254919442,
+      "taxonName": "Syagrus romanzoffiana",
+      "proposedMarkers": [
+        "flower"
+      ],
+      "caption": "Inflorescência aberta junto às bases das folhas.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-456718287.jpg",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "plantId": "syagrus-romanzoffiana",
+      "photoId": 494691898,
+      "observationId": 275276998,
+      "taxonName": "Syagrus romanzoffiana",
+      "proposedMarkers": [
+        "wholePlant"
+      ],
+      "caption": "Palmeira inteira vista à distância, com seu tronco e copa.",
+      "humanReviewRequired": false,
+      "selectionMethod": "Comparação visual de candidatos CC0; vista complementar às fotos existentes. Marcadores propostos por IA e aprovados pelo usuário em 17/10/2026.",
+      "fileName": "inat-494691898.jpeg",
+      "reviewStatus": "reviewed"
+    }
+  ],
+  "approval": {
+    "approvedAt": "2026-10-17T20:21:19.247233+00:00",
+    "approvedBy": "User confirmation in this conversation",
+    "statement": "human review approved",
+    "scope": "Current catalog text and photos, including proposed markers for the 61 added photos. Existing photo markers preserved.",
+    "entries": 162,
+    "photos": 277,
+    "photoMarkerSelections": 61,
+    "catalogSha256Before": "1ea16b7cffc071048b005913e5c0c3c4ddd9aadd64825077606ed3b184ba8ac5",
+    "catalogSha256After": "789e1c180ebb81edf7fa184e14eb8ffbdfb4d573d000cef6e03745341a70e7fe"
+  }
+}

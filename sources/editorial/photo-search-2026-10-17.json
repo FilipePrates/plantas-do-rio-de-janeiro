@@ -1,0 +1,530 @@
+{
+  "method": "Research-grade, non-captive observations; photo-level CC0 verified individually. Candidates limited to exact names or enumerated group members. This is a dated search, not proof that no other CC0 photo exists.",
+  "searches": [
+    {
+      "name": "Aechmea lingulata",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Aechmea+lingulata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:30:40.161081Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Alcantarea glaziouana",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Alcantarea+glaziouana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:30:42.420157Z",
+      "cc0ObservationResults": 18,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Alcantarea imperialis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Alcantarea+imperialis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:30:47.566937Z",
+      "cc0ObservationResults": 7,
+      "previewCandidates": 9
+    },
+    {
+      "name": "Alcantarea regina",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Alcantarea+regina&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:30:51.116512Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Allagoptera arenaria",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Allagoptera+arenaria&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:30:53.873957Z",
+      "cc0ObservationResults": 29,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Allagoptera caudescens",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Allagoptera+caudescens&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:30:59.304007Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Anthurium pentaphyllum",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+pentaphyllum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:01.232141Z",
+      "cc0ObservationResults": 4,
+      "previewCandidates": 11
+    },
+    {
+      "name": "Anthurium scandens",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+scandens&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:05.267195Z",
+      "cc0ObservationResults": 20,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Attalea humilis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Attalea+humilis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:09.358401Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Avicennia schaueriana",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Avicennia+schaueriana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:12.083420Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Bactris vulgaris",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Bactris+vulgaris&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:14.129897Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Bathysa australis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Bathysa+australis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:16.998402Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Bromelia antiacantha",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Bromelia+antiacantha&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:19.076303Z",
+      "cc0ObservationResults": 37,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Campomanesia guaviroba",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Campomanesia+guaviroba&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:24.355976Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Canavalia rosea",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Canavalia+rosea&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:26.341746Z",
+      "cc0ObservationResults": 174,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Cariniana ianeirensis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cariniana+ianeirensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:30.455707Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Cariniana legalis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cariniana+legalis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:32.878954Z",
+      "cc0ObservationResults": 1,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Cattleya guttata",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cattleya+guttata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:35.656838Z",
+      "cc0ObservationResults": 2,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Ceiba speciosa",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ceiba+speciosa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:38.591958Z",
+      "cc0ObservationResults": 25,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Cereus fernambucensis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cereus+fernambucensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:42.843162Z",
+      "cc0ObservationResults": 17,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Chrysophyllum flexuosum",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Chrysophyllum+flexuosum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:46.469926Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Clusia fluminensis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Clusia+fluminensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:48.371930Z",
+      "cc0ObservationResults": 8,
+      "previewCandidates": 14
+    },
+    {
+      "name": "Clusia hilariana",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Clusia+hilariana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:51.685574Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Conocarpus erectus",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Conocarpus+erectus&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:53.897097Z",
+      "cc0ObservationResults": 218,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Copaifera langsdorffii",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Copaifera+langsdorffii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:31:58.801311Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Costus spiralis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Costus+spiralis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:01.035450Z",
+      "cc0ObservationResults": 12,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Dalbergia ecastaphyllum",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Dalbergia+ecastaphyllum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:05.141290Z",
+      "cc0ObservationResults": 63,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Dalbergia nigra",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Dalbergia+nigra&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:10.948273Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Eugenia brasiliensis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+brasiliensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:13.016090Z",
+      "cc0ObservationResults": 6,
+      "previewCandidates": 6
+    },
+    {
+      "name": "Eugenia copacabanensis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+copacabanensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:16.853401Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Eugenia excelsa",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+excelsa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:18.735594Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Eugenia sulcata",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+sulcata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:20.754607Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Eugenia uniflora",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+uniflora&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:22.869864Z",
+      "cc0ObservationResults": 86,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Euterpe edulis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Euterpe+edulis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:27.778439Z",
+      "cc0ObservationResults": 51,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Ficus cyclophylla",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ficus+cyclophylla&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:33.344887Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Geonoma elegans",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Geonoma+elegans&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:35.462608Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Geonoma pohliana",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Geonoma+pohliana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:37.516766Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Ipomoea pes-caprae",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ipomoea+pes-caprae&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:39.486347Z",
+      "cc0ObservationResults": 725,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Laguncularia racemosa",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Laguncularia+racemosa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:43.576313Z",
+      "cc0ObservationResults": 122,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Lecythis lanceolata",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Lecythis+lanceolata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:50.119468Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Lecythis lurida",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Lecythis+lurida&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:52.740862Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Lecythis pisonis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Lecythis+pisonis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:55.422918Z",
+      "cc0ObservationResults": 4,
+      "previewCandidates": 6
+    },
+    {
+      "name": "Manilkara subsericea",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Manilkara+subsericea&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:32:59.100980Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Miconia cinnamomifolia",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Miconia+cinnamomifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:01.170924Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Myrcia guianensis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+guianensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:03.147998Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Myrcia multiflora",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+multiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:05.212467Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Myrcia spectabilis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+spectabilis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:07.151497Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Nectandra membranacea",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Nectandra+membranacea&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:09.317229Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Nectandra oppositifolia",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Nectandra+oppositifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:11.584237Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Nematanthus brasiliensis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Nematanthus+brasiliensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:13.592413Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Neoregelia spectabilis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Neoregelia+spectabilis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:15.504535Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Nidularium fulgens",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Nidularium+fulgens&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:17.496406Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Ocotea odorifera",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ocotea+odorifera&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:19.496051Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Passiflora alata",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Passiflora+alata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:21.541427Z",
+      "cc0ObservationResults": 21,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Passiflora edulis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Passiflora+edulis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:25.632127Z",
+      "cc0ObservationResults": 104,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Paubrasilia echinata",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Paubrasilia+echinata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:31.136350Z",
+      "cc0ObservationResults": 79,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Pavonia alnifolia",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pavonia+alnifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:35.041929Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Philodendron bipennifolium",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Philodendron+bipennifolium&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:37.088800Z",
+      "cc0ObservationResults": 2,
+      "previewCandidates": 4
+    },
+    {
+      "name": "Philodendron cordatum",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Philodendron+cordatum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:40.035837Z",
+      "cc0ObservationResults": 11,
+      "previewCandidates": 16
+    },
+    {
+      "name": "Philodendron martianum",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Philodendron+martianum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:44.872649Z",
+      "cc0ObservationResults": 1,
+      "previewCandidates": 1
+    },
+    {
+      "name": "Piper arboreum",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Piper+arboreum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:47.539703Z",
+      "cc0ObservationResults": 1,
+      "previewCandidates": 1
+    },
+    {
+      "name": "Pleroma granulosum",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pleroma+granulosum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:50.303630Z",
+      "cc0ObservationResults": 8,
+      "previewCandidates": 15
+    },
+    {
+      "name": "Pleroma mutabile",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pleroma+mutabile&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:53.685898Z",
+      "cc0ObservationResults": 4,
+      "previewCandidates": 2
+    },
+    {
+      "name": "Pleroma trichopodum",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pleroma+trichopodum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:56.762825Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Plinia edulis",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Plinia+edulis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:33:58.813488Z",
+      "cc0ObservationResults": 1,
+      "previewCandidates": 3
+    },
+    {
+      "name": "Psidium cattleyanum",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Psidium+cattleyanum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:34:01.621369Z",
+      "cc0ObservationResults": 171,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Rhizophora mangle",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Rhizophora+mangle&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:34:06.347801Z",
+      "cc0ObservationResults": 263,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Scaevola plumieri",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Scaevola+plumieri&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:34:12.054499Z",
+      "cc0ObservationResults": 52,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Schinus terebinthifolia",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Schinus+terebinthifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:34:18.144406Z",
+      "cc0ObservationResults": 756,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Sinningia speciosa",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Sinningia+speciosa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:34:23.680727Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Sparattosperma leucanthum",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Sparattosperma+leucanthum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:34:25.657768Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Syagrus picrophylla",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Syagrus+picrophylla&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:34:27.710535Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Syagrus romanzoffiana",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Syagrus+romanzoffiana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:34:29.826062Z",
+      "cc0ObservationResults": 79,
+      "previewCandidates": 18
+    },
+    {
+      "name": "Syagrus weddelliana",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Syagrus+weddelliana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:34:35.863862Z",
+      "cc0ObservationResults": 0,
+      "previewCandidates": 0
+    },
+    {
+      "name": "Tillandsia usneoides",
+      "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Tillandsia+usneoides&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+      "retrievedAt": "2026-10-17T19:34:37.808471Z",
+      "cc0ObservationResults": 855,
+      "previewCandidates": 18
+    }
+  ]
+}

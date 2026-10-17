@@ -19,6 +19,30 @@ export interface RegionalSpecies {
   lifeForms: string[];
   substrates: string[];
 }
+export type ConservationCategory = "EX" | "EW" | "CR" | "EN" | "VU" | "NT" | "LC" | "DD" | "NE";
+export interface RegionalEvidence {
+  scientificName: string;
+  publicationYear: number;
+  source: Source;
+  conservationUnits: {
+    name: string;
+    voucher: string;
+    /** One-based PDF page, including its cover. */
+    sourcePage: number;
+    /** Present only when the source places the entire unit in this municipality. */
+    municipality?: string;
+    municipalitySourcePage?: number;
+  }[];
+  conservationAssessments: {
+    category: ConservationCategory;
+    scope: "brazil" | "rio-state" | "global" | "unspecified";
+    referenceYear: number;
+    referenceTitle: string;
+    sourcePage: number;
+  }[];
+  /** An absent value means unknown, never false. */
+  endemicToRioState?: true;
+}
 export interface PlantPhoto {
   id: string;
   fileName: string;
@@ -57,6 +81,7 @@ export interface Plant {
   habitats: string[];
   floraId: number | null;
   regionalSpecies: RegionalSpecies[];
+  regionalEvidence?: RegionalEvidence[];
   sources: Source[];
   photos: PlantPhoto[];
   curationNotes: string;
@@ -70,6 +95,7 @@ export interface Catalog {
   plants: Plant[];
 }
 export const markerLabels: Record<PhotoMarker, string>;
+export const conservationLabels: Record<ConservationCategory, string>;
 export function parseCatalog(value: unknown): Catalog;
 export function representedSpeciesCount(catalog: Catalog): number;
 export function normalize(value: string): string;

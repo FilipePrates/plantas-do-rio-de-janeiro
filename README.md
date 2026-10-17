@@ -1,5 +1,8 @@
 # Plantas do Rio de Janeiro
 
+Curadoria de 17/10/2026: [espécies, textos e fotos](docs/curation-2026-10-17.md)
+e [importação de unidades de conservação e categorias históricas](docs/rio-conservation-import.md).
+
 Independent offline-first Expo + React Native + TypeScript guide, adapted from
 the structure and palette of Aves do Brasil. This is a development draft, not
 an App Store or Play release. No bird project files or services are changed.
@@ -27,6 +30,21 @@ family-grouped advanced list, configurable principal name, square photo gallerie
 single-scroll profiles, a family index with a persistent guide filter, and a phytophysiognomy entry
 point. The first habitat card filters the guide; other modules remain drafts.
 No vocalizations, microphone integration, maps, billing, or bird packs.
+
+To rebuild a standalone APK with the prepared Android project on this Linux
+machine (Android SDK installed at `~/Android/Sdk`, Java 17 available):
+
+```bash
+cd /home/filipe/Desktop/plantas-do-rio-de-janeiro
+npm run check
+cd android
+ANDROID_HOME="$HOME/Android/Sdk" GRADLE_USER_HOME="$PWD/.gradle-home" NODE_ENV=production ./gradlew :app:assembleRelease
+```
+
+The updated APK is `android/app/build/outputs/apk/release/app-release.apk`.
+This bundles the current catalog, photos and JavaScript for use without Metro.
+The current release variant uses this plant project's debug signing configuration,
+so this is a locally installable test APK; store signing remains separate work.
 
 The home grid follows the bird guide: edge-to-edge square tiles, one-pixel
 separators and one name over each photo. Configurações → Nome principal selects
@@ -56,9 +74,17 @@ and capim-colonião. They are not a ranked top five. See
 [research and limitations](docs/catalog-research.md), especially the unresolved
 local naming/evidence issue for jiboia.
 
-Draft descriptions summarize structured facts; they are not complete field
-descriptions. Names, diagnostic characters, ecological text, city occurrence,
-and photos still require botanical review. The app labels draft content.
+Descriptions summarize structured facts; they are not complete field
+descriptions. The user approved the current catalog's human review on
+17 October 2026; the approval is archived under `sources/editorial`.
+New unreviewed content should continue to enter as draft.
+
+The [17 October editorial pass](docs/curation-2026-10-17.md) adds nine native
+species, clearer Portuguese habitat text and sourced recognition notes for
+25 entries. It preserves all previous species, genus members, photos and photo
+tags. Complementary CC0 photos and their proposed categories were subsequently
+approved by the user. Profiles show state/municipal evidence,
+captions, and the pictured species name within genus galleries.
 
 ## Checks and generation
 
@@ -68,8 +94,9 @@ npm run catalog:generate
 npm run catalog:release-check
 ```
 
-The release check intentionally fails while any record or photo is a draft,
-or a record has no photo. Ordinary checks permit honest draft gaps.
+The release check fails while any record or photo is a draft, or a record has
+no photo. There are still 39 entries without photos after review approval.
+Ordinary checks permit those documented gaps.
 `catalog:generate` creates static Metro `require()` entries: the shipped guide
 loads its photos locally, with no runtime iNaturalist request.
 The grid and small gallery previews use generated 320-pixel WebP thumbnails;

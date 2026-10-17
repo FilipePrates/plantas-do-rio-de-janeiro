@@ -118,8 +118,8 @@ if __name__ == '__main__':
                 continue
             plant = base(name, match, payload)
             form = ', '.join(plant['lifeForms']).lower() or 'planta'
-            plant['description'] = f'{plant["commonName"]} ({name}) pertence à família {plant["family"]}. A Flora e Funga do Brasil registra a espécie como nativa no estado do Rio de Janeiro e no domínio da Mata Atlântica. Forma de vida registrada: {form}.'
-            plant['ecology'] = ('Ambientes registrados na fonte para a distribuição brasileira: ' + '; '.join(plant['habitats']) + '.') if plant['habitats'] else ''
+            plant['description'] = f'{form.capitalize()} nativa da Mata Atlântica, com registro no estado do Rio de Janeiro.'
+            plant['ecology'] = ('; '.join(plant['habitats']) + '.') if plant['habitats'] else ''
             plants.append(plant); dates.append(payload['retrievedAt'])
     for genus, common in [('Anthurium', 'Antúrios nativos'), ('Philodendron', 'Filodendros nativos')]:
         payload, records = load(genus)
@@ -136,9 +136,10 @@ if __name__ == '__main__':
         plant['substrates'] = sorted({v for r in members.values() for v in (r.get('specie_profile') or {}).get('habitat') or []})
         plant['habitats'] = sorted({v for r in members.values() for v in (r.get('specie_profile') or {}).get('vegetationType') or []})
         terrestrial = sum('Terrícola' in s['substrates'] for s in plant['regionalSpecies'])
-        plant['description'] = f'Este grupo reúne {len(members)} espécies aceitas de {genus} registradas como nativas no estado do Rio de Janeiro e no domínio da Mata Atlântica na consulta à Flora e Funga do Brasil. Destas, {terrestrial} têm hábito terrícola registrado. A contagem é estadual, não municipal, e depende da versão consultada.'
+        source_date = '/'.join(reversed(payload['retrievedAt'][:10].split('-')))
+        plant['description'] = f'Grupo de {len(members)} espécies de {genus} nativas do estado do Rio de Janeiro na Mata Atlântica. Destas, {terrestrial} têm ocorrência no solo registrada. Contagem estadual derivada dos membros, conforme a Flora e Funga do Brasil consultada em {source_date}.'
         plant['identification'] = 'Aráceas com inflorescência formada por uma espiga (espádice), associada a uma espata. A separação das espécies exige caracteres adicionais; esta ficha não permite identificar todas as espécies do gênero.'
-        plant['ecology'] = 'O grupo não se limita a plantas de chão. Substratos registrados: ' + '; '.join(plant['substrates']) + '. Observe a posição da planta no ambiente ao comparar exemplares.'
+        plant['ecology'] = ('; '.join(plant['habitats']) + '.') if plant['habitats'] else ''
         plant['sources'] = [{'title': f'Flora e Funga do Brasil · {genus} · nomes aceitos, BR-RJ, nativas, Mata Atlântica', 'url': payload['url'], 'retrievedAt': payload['retrievedAt']}]
         plants.append(plant); dates.append(payload['retrievedAt'])
     for name, (common, family, identification, source) in INVASIVES.items():

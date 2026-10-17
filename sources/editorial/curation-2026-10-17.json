@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-17",
+  "reviewStatus": "reviewed",
+  "addedSpecies": [
+    {
+      "id": "rhizophora-mangle",
+      "scientificName": "Rhizophora mangle",
+      "reason": "Raízes de sustentação e propágulos: comparação com os outros mangues.",
+      "floraId": 13821,
+      "sourceUrl": "https://servicos.jbrj.gov.br/v2/flora/taxon/Rhizophora_mangle"
+    },
+    {
+      "id": "avicennia-schaueriana",
+      "scientificName": "Avicennia schaueriana",
+      "reason": "Inclui o manguezal e suas raízes respiratórias no guia.",
+      "floraId": 34115,
+      "sourceUrl": "https://servicos.jbrj.gov.br/v2/flora/taxon/Avicennia_schaueriana"
+    },
+    {
+      "id": "laguncularia-racemosa",
+      "scientificName": "Laguncularia racemosa",
+      "reason": "Completa a comparação entre os três mangues registrados na Baía de Guanabara.",
+      "floraId": 6912,
+      "sourceUrl": "https://servicos.jbrj.gov.br/v2/flora/taxon/Laguncularia_racemosa"
+    },
+    {
+      "id": "conocarpus-erectus",
+      "scientificName": "Conocarpus erectus",
+      "reason": "Transição entre manguezal e restinga; inflorescências e frutos em cabeças globosas.",
+      "floraId": 6910,
+      "sourceUrl": "https://servicos.jbrj.gov.br/v2/flora/taxon/Conocarpus_erectus"
+    },
+    {
+      "id": "scaevola-plumieri",
+      "scientificName": "Scaevola plumieri",
+      "reason": "Arbusto da faixa de areia, com flor assimétrica; família antes ausente.",
+      "floraId": 7947,
+      "sourceUrl": "https://servicos.jbrj.gov.br/v2/flora/taxon/Scaevola_plumieri"
+    },
+    {
+      "id": "canavalia-rosea",
+      "scientificName": "Canavalia rosea",
+      "reason": "Erva rastejante para comparar com as salsas-da-praia.",
+      "floraId": 82745,
+      "sourceUrl": "https://servicos.jbrj.gov.br/v2/flora/taxon/Canavalia_rosea"
+    },
+    {
+      "id": "dalbergia-ecastaphyllum",
+      "scientificName": "Dalbergia ecastaphyllum",
+      "reason": "Arbusto trepador de restinga e manguezal, contrastando com árvores do mesmo gênero.",
+      "floraId": 83014,
+      "sourceUrl": "https://servicos.jbrj.gov.br/v2/flora/taxon/Dalbergia_ecastaphyllum"
+    },
+    {
+      "id": "piper-arboreum",
+      "scientificName": "Piper arboreum",
+      "reason": "Arbusto de mata, com espigas e folhas de base assimétrica; família antes ausente.",
+      "floraId": 12748,
+      "sourceUrl": "https://servicos.jbrj.gov.br/v2/flora/taxon/Piper_arboreum"
+    },
+    {
+      "id": "costus-spiralis",
+      "scientificName": "Costus spiralis",
+      "reason": "Erva com folhas em espiral e inflorescência terminal; família antes ausente.",
+      "floraId": 110658,
+      "sourceUrl": "https://servicos.jbrj.gov.br/v2/flora/taxon/Costus_spiralis"
+    }
+  ],
+  "recognitionTexts": [
+    "euterpe-edulis",
+    "allagoptera-arenaria",
+    "lecythis-pisonis",
+    "cariniana-legalis",
+    "pleroma-mutabile",
+    "schinus-terebinthifolia",
+    "psidium-cattleyanum",
+    "eugenia-uniflora",
+    "eugenia-brasiliensis",
+    "passiflora-alata",
+    "rhizophora-mangle",
+    "avicennia-schaueriana",
+    "laguncularia-racemosa",
+    "conocarpus-erectus",
+    "scaevola-plumieri",
+    "canavalia-rosea",
+    "dalbergia-ecastaphyllum",
+    "piper-arboreum",
+    "costus-spiralis",
+    "paubrasilia-echinata",
+    "cereus-fernambucensis",
+    "ipomoea-pes-caprae",
+    "syagrus-romanzoffiana",
+    "pleroma-granulosum",
+    "ceiba-speciosa"
+  ],
+  "method": "Redação original em português; atributos JBRJ brasileiros preservados em habitats; sem promover evidência estadual a municipal. Fotos e marcações anteriores preservadas. Novas imagens e sugestões de marcadores aguardam revisão humana.",
+  "municipalEvidence": [
+    {
+      "id": "scaevola-plumieri",
+      "sourceUrl": "https://revistas.ufrj.br/index.php/amn/article/download/47484/25590/133132",
+      "page": 236,
+      "basis": "Município do Rio de Janeiro citado explicitamente no tratamento de Machado & Konno (2010)."
+    }
+  ],
+  "verification": {
+    "originalEntriesPreserved": 153,
+    "originalPhotosPreserved": 216,
+    "addedPhotos": 61,
+    "entries": 162,
+    "representedSpecies": 235,
+    "families": 34,
+    "photos": 277,
+    "illustratedEntries": 123,
+    "photoGaps": [
+      "allagoptera-caudescens",
+      "attalea-humilis",
+      "bactris-vulgaris",
+      "geonoma-elegans",
+      "geonoma-pohliana",
+      "syagrus-picrophylla",
+      "syagrus-weddelliana",
+      "sparattosperma-leucanthum",
+      "aechmea-lingulata",
+      "alcantarea-regina",
+      "neoregelia-spectabilis",
+      "nidularium-fulgens",
+      "clusia-hilariana",
+      "copaifera-langsdorffii",
+      "dalbergia-nigra",
+      "nematanthus-brasiliensis",
+      "sinningia-speciosa",
+      "nectandra-membranacea",
+      "nectandra-oppositifolia",
+      "ocotea-odorifera",
+      "cariniana-ianeirensis",
+      "lecythis-lanceolata",
+      "lecythis-lurida",
+      "pavonia-alnifolia",
+      "miconia-cinnamomifolia",
+      "pleroma-trichopodum",
+      "ficus-cyclophylla",
+      "campomanesia-guaviroba",
+      "eugenia-copacabanensis",
+      "eugenia-excelsa",
+      "eugenia-sulcata",
+      "myrcia-guianensis",
+      "myrcia-multiflora",
+      "myrcia-spectabilis",
+      "cattleya-guttata",
+      "bathysa-australis",
+      "chrysophyllum-flexuosum",
+      "manilkara-subsericea",
+      "avicennia-schaueriana"
+    ],
+    "newPhotoBytes": 28061956
+  },
+  "approval": {
+    "approvedAt": "2026-10-17T20:21:19.247233+00:00",
+    "approvedBy": "User confirmation in this conversation",
+    "statement": "human review approved",
+    "scope": "Current catalog text and photos, including proposed markers for the 61 added photos. Existing photo markers preserved.",
+    "entries": 162,
+    "photos": 277,
+    "photoMarkerSelections": 61,
+    "catalogSha256Before": "1ea16b7cffc071048b005913e5c0c3c4ddd9aadd64825077606ed3b184ba8ac5",
+    "catalogSha256After": "789e1c180ebb81edf7fa184e14eb8ffbdfb4d573d000cef6e03745341a70e7fe"
+  }
+}

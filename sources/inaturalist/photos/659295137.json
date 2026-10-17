@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/361277610",
+  "photo": {
+    "id": 659295137,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1152,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659295137/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Adam Pitcher",
+  "observation": {
+    "id": 361277610,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 131244,
+      "name": "Dalbergia ecastaphyllum"
+    },
+    "observerLogin": "verdeloth8"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659295137/large.jpg",
+    "sha256": "9c5ddcc0c55db0c258186dd8d9b01dd3e1c7e8ccace330f900cb576c63860657",
+    "retrievedAt": "2026-10-17T19:41:18.126835Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/189944109",
+  "photo": {
+    "id": 332865961,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332865961/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Laurie Brooks",
+  "observation": {
+    "id": 189944109,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 131244,
+      "name": "Dalbergia ecastaphyllum"
+    },
+    "observerLogin": "laurie254"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332865961/large.jpg",
+    "sha256": "251e8434b1245827fed25e1b4164809e8744a631456d8992a1b7d68b8d70cdf9",
+    "retrievedAt": "2026-10-17T19:41:15.743098Z"
+  }
+}

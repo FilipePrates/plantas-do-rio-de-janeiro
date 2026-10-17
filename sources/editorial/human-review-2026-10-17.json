@@ -1,0 +1,11 @@
+{
+  "approvedAt": "2026-10-17T20:21:19.247233+00:00",
+  "approvedBy": "User confirmation in this conversation",
+  "statement": "human review approved",
+  "scope": "Current catalog text and photos, including proposed markers for the 61 added photos. Existing photo markers preserved.",
+  "entries": 162,
+  "photos": 277,
+  "photoMarkerSelections": 61,
+  "catalogSha256Before": "1ea16b7cffc071048b005913e5c0c3c4ddd9aadd64825077606ed3b184ba8ac5",
+  "catalogSha256After": "789e1c180ebb81edf7fa184e14eb8ffbdfb4d573d000cef6e03745341a70e7fe"
+}

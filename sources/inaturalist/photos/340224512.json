@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/193640489",
+  "photo": {
+    "id": 340224512,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340224512/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "peakaytea",
+  "observation": {
+    "id": 193640489,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 131242,
+      "name": "Canavalia rosea"
+    },
+    "observerLogin": "peakaytea"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340224512/large.jpeg",
+    "sha256": "6fbaadcf8b6fbe6af27758d7ea390570560d6d08cb2d064578fd8f1c603a043b",
+    "retrievedAt": "2026-10-17T19:40:44.364018Z"
+  }
+}
