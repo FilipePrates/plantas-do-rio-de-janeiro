@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/92420927",
+  "photo": {
+    "id": 153026047,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1914,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153026047/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "natalie",
+  "observation": {
+    "id": 92420927,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 52446,
+      "name": "Enterolobium contortisiliquum"
+    },
+    "observerLogin": "nat_t"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153026047/large.jpg",
+    "sha256": "15f836433032515667064dc9a2f1163254d280a0b05460cc5e140cc231f7b0bb",
+    "retrievedAt": "2026-10-16T22:15:17Z"
+  }
+}

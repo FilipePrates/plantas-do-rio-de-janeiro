@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/373252624",
+  "photo": {
+    "id": 682120614,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/682120614/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Frank Thomas Sautter",
+  "observation": {
+    "id": 373252624,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 51447,
+      "name": "Passiflora alata"
+    },
+    "observerLogin": "ftsautter"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/682120614/large.jpg",
+    "sha256": "8d8a2af914f72ff106c360278be3f717c5653cdff0901badaca70919cfd8bc14",
+    "retrievedAt": "2026-10-16T22:20:36Z"
+  }
+}

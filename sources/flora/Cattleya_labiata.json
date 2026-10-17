@@ -1,0 +1,1313 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cattleya_labiata",
+  "retrievedAt": "2026-10-16T22:04:51Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 11340,
+        "scientificname": "Cattleya labiata Lindl.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Lindl.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB11340>http://floradobrasil2015.jbrj.gov.br/FB11340</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB11340\">https://floradobrasil2020.jbrj.gov.br/FB11340</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya Lindl.",
+        "parentnameusageid": 11329,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB11340",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB11340>. Acesso em: 16 oct. 2026.",
+        "modified": "2021-10-30 23:16:25.962"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AL",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PB",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-CE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 66203,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Epidendrum labiatum var. pictum (Lindl.) Rchb.f."
+        },
+        {
+          "relatedresourceid": 66202,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Epidendrum labiatum var. pallidum (Lindl. & Paxton) Rchb.f."
+        },
+        {
+          "relatedresourceid": 66201,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Epidendrum labiatum var. lemonianum (Lindl.) Rchb.f."
+        },
+        {
+          "relatedresourceid": 65172,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. purpureostriata (Cogn.) L.C.Menezes"
+        },
+        {
+          "relatedresourceid": 65176,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. warocqueana (Linden) Rolfe"
+        },
+        {
+          "relatedresourceid": 65177,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. wilsoniana Rchb.f."
+        },
+        {
+          "relatedresourceid": 65161,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. atropurpurea L.C.Menezes"
+        },
+        {
+          "relatedresourceid": 65168,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. crocata Rchb.f."
+        },
+        {
+          "relatedresourceid": 65302,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya warocqueana Linden"
+        },
+        {
+          "relatedresourceid": 65230,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya pallida Lindl. & Paxton"
+        },
+        {
+          "relatedresourceid": 65252,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya rollissonii T.Moore"
+        },
+        {
+          "relatedresourceid": 66200,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Epidendrum labiatum (Lindl.) Rchb.f."
+        },
+        {
+          "relatedresourceid": 65162,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. beyrodtiana Schltr."
+        },
+        {
+          "relatedresourceid": 634426,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya forgetiana Rolfe"
+        },
+        {
+          "relatedresourceid": 65165,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. candida Lindl."
+        },
+        {
+          "relatedresourceid": 65167,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. concolor L.C.Menezes"
+        },
+        {
+          "relatedresourceid": 65170,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. picta Lindl."
+        },
+        {
+          "relatedresourceid": 65174,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. semialba L.C.Menezes"
+        },
+        {
+          "relatedresourceid": 65166,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. coerulea Rolfe"
+        },
+        {
+          "relatedresourceid": 65173,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. rochellensis Rchb.f."
+        },
+        {
+          "relatedresourceid": 65158,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. albo-oculata (Cogn.) L.C.Menezes"
+        },
+        {
+          "relatedresourceid": 65163,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. brennandiana L.C.Menezes"
+        },
+        {
+          "relatedresourceid": 65164,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. caerulea L.C.Menezes"
+        },
+        {
+          "relatedresourceid": 65157,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. alba Linden & Rodigas"
+        },
+        {
+          "relatedresourceid": 65070,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya bullieri Carrière"
+        },
+        {
+          "relatedresourceid": 65217,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya nalderiana Rchb.f."
+        },
+        {
+          "relatedresourceid": 65181,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya lemoniana Lindl."
+        },
+        {
+          "relatedresourceid": 65208,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya massangeana Rchb.f."
+        },
+        {
+          "relatedresourceid": 65233,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya peetersii André"
+        },
+        {
+          "relatedresourceid": 65159,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. amesiana L.C.Menezes"
+        },
+        {
+          "relatedresourceid": 65171,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. purpureolineata L.C.Menezes"
+        },
+        {
+          "relatedresourceid": 65160,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata var. amoena L.C.Menezes"
+        },
+        {
+          "relatedresourceid": 65180,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya leeana Sander"
+        },
+        {
+          "relatedresourceid": 65228,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya oweniana Anon."
+        },
+        {
+          "relatedresourceid": 65249,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya regalis Anon."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65157,
+        "scientificname": "Cattleya labiata var. alba Linden & Rodigas",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "alba",
+        "scientificnameauthorship": "Linden & Rodigas",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. alba Linden & Rodigas",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65157>http://floradobrasil2015.jbrj.gov.br/FB65157</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65157\">https://floradobrasil2020.jbrj.gov.br/FB65157</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65157",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65157>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:35:44.683411"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Lindenia,8: t. 370,1892"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65158,
+        "scientificname": "Cattleya labiata var. albo-oculata (Cogn.) L.C.Menezes",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "albo-oculata",
+        "scientificnameauthorship": "(Cogn.) L.C.Menezes",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. albo-oculata (Cogn.) L.C.Menezes",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65158>http://floradobrasil2015.jbrj.gov.br/FB65158</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65158\">https://floradobrasil2020.jbrj.gov.br/FB65158</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65158",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65158>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:35:28.427091"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Orchid Digest,51: 138,1987"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65159,
+        "scientificname": "Cattleya labiata var. amesiana L.C.Menezes",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "amesiana",
+        "scientificnameauthorship": "L.C.Menezes",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. amesiana L.C.Menezes",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65159>http://floradobrasil2015.jbrj.gov.br/FB65159</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65159\">https://floradobrasil2020.jbrj.gov.br/FB65159</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65159",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65159>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:35:11.837588"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Orquídeas/Orchids: Cattleya labiata autumnalis,: 83,2002"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65160,
+        "scientificname": "Cattleya labiata var. amoena L.C.Menezes",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "amoena",
+        "scientificnameauthorship": "L.C.Menezes",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. amoena L.C.Menezes",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65160>http://floradobrasil2015.jbrj.gov.br/FB65160</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65160\">https://floradobrasil2020.jbrj.gov.br/FB65160</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65160",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65160>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:34:52.756375"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Orquídeas/Orchids: Cattleya labiata autumnalis,: 85,2002"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65161,
+        "scientificname": "Cattleya labiata var. atropurpurea L.C.Menezes",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "atropurpurea",
+        "scientificnameauthorship": "L.C.Menezes",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. atropurpurea L.C.Menezes",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65161>http://floradobrasil2015.jbrj.gov.br/FB65161</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65161\">https://floradobrasil2020.jbrj.gov.br/FB65161</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65161",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65161>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:34:36.705786"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Orquídeas/Orchids: Cattleya labiata autumnalis,: 87,2002"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65162,
+        "scientificname": "Cattleya labiata var. beyrodtiana Schltr.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "beyrodtiana",
+        "scientificnameauthorship": "Schltr.",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. beyrodtiana Schltr.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65162>http://floradobrasil2015.jbrj.gov.br/FB65162</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65162\">https://floradobrasil2020.jbrj.gov.br/FB65162</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65162",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65162>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:34:18.368784"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Orchideen,: 221,1914"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65163,
+        "scientificname": "Cattleya labiata var. brennandiana L.C.Menezes",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "brennandiana",
+        "scientificnameauthorship": "L.C.Menezes",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. brennandiana L.C.Menezes",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65163>http://floradobrasil2015.jbrj.gov.br/FB65163</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65163\">https://floradobrasil2020.jbrj.gov.br/FB65163</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65163",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65163>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:34:04.442157"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Bol. CAOB,59: 71,2005"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65164,
+        "scientificname": "Cattleya labiata var. caerulea L.C.Menezes",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "caerulea",
+        "scientificnameauthorship": "L.C.Menezes",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. caerulea L.C.Menezes",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65164>http://floradobrasil2015.jbrj.gov.br/FB65164</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65164\">https://floradobrasil2020.jbrj.gov.br/FB65164</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65164",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65164>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:33:12.010197"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Orquídeas/Orchids: Cattleya labiata autumnalis,: 89,2002"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65165,
+        "scientificname": "Cattleya labiata var. candida Lindl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "candida",
+        "scientificnameauthorship": "Lindl.",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. candida Lindl.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65165>http://floradobrasil2015.jbrj.gov.br/FB65165</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65165\">https://floradobrasil2020.jbrj.gov.br/FB65165</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65165",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65165>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:33:30.489914"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Paxton's Fl. Gard.,1: t. 24,1850"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65166,
+        "scientificname": "Cattleya labiata var. coerulea Rolfe",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "coerulea",
+        "scientificnameauthorship": "Rolfe",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. coerulea Rolfe",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65166>http://floradobrasil2015.jbrj.gov.br/FB65166</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65166\">https://floradobrasil2020.jbrj.gov.br/FB65166</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65166",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65166>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:32:55.736677"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Orchid Rev.,3: 350,1895"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65167,
+        "scientificname": "Cattleya labiata var. concolor L.C.Menezes",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "concolor",
+        "scientificnameauthorship": "L.C.Menezes",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. concolor L.C.Menezes",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65167>http://floradobrasil2015.jbrj.gov.br/FB65167</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65167\">https://floradobrasil2020.jbrj.gov.br/FB65167</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65167",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65167>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:32:39.430266"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Orquídeas/Orchids: Cattleya labiata autumnalis,: 89,2002"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65168,
+        "scientificname": "Cattleya labiata var. crocata Rchb.f.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "crocata",
+        "scientificnameauthorship": "Rchb.f.",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. crocata Rchb.f.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65168>http://floradobrasil2015.jbrj.gov.br/FB65168</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65168\">https://floradobrasil2020.jbrj.gov.br/FB65168</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65168",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65168>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:32:11.076138"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Flora,65: 534,1882"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65169,
+        "scientificname": "Cattleya labiata var. eldorado (Linden) A.H.Kent in H.J.Veitch",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_NAO_VALIDAMENTE_PUBLICADO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "eldorado",
+        "scientificnameauthorship": "(Linden) A.H.Kent in H.J.Veitch",
+        "acceptednameusage": "Cattleya wallisii (Linden) Linden ex Rchb.f.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. eldorado (Linden) A.H.Kent in H.J.Veitch",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65169>http://floradobrasil2015.jbrj.gov.br/FB65169</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65169\">https://floradobrasil2020.jbrj.gov.br/FB65169</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65169",
+        "acceptednameusageid": 37384,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65169>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-12-13 10:39:25.705"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Veitch, H.J.,Man. Orchid. Pl. [H.J. Veitch],2: 17,1887"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 37384,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya wallisii (Linden) Linden ex Rchb.f."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65170,
+        "scientificname": "Cattleya labiata var. picta Lindl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "picta",
+        "scientificnameauthorship": "Lindl.",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. picta Lindl.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65170>http://floradobrasil2015.jbrj.gov.br/FB65170</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65170\">https://floradobrasil2020.jbrj.gov.br/FB65170</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65170",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65170>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:31:28.59324"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Paxton's Fl. Gard.,1: 117,1850"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65171,
+        "scientificname": "Cattleya labiata var. purpureolineata L.C.Menezes",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "purpureolineata",
+        "scientificnameauthorship": "L.C.Menezes",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. purpureolineata L.C.Menezes",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65171>http://floradobrasil2015.jbrj.gov.br/FB65171</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65171\">https://floradobrasil2020.jbrj.gov.br/FB65171</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65171",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65171>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:31:11.440525"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Orquídeas/Orchids: Cattleya labiata autumnalis,: 91,2002"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65172,
+        "scientificname": "Cattleya labiata var. purpureostriata (Cogn.) L.C.Menezes",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "purpureostriata",
+        "scientificnameauthorship": "(Cogn.) L.C.Menezes",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. purpureostriata (Cogn.) L.C.Menezes",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65172>http://floradobrasil2015.jbrj.gov.br/FB65172</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65172\">https://floradobrasil2020.jbrj.gov.br/FB65172</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65172",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65172>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:30:40.83894"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Orchid Digest,51: 138,1987"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65173,
+        "scientificname": "Cattleya labiata var. rochellensis Rchb.f.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "rochellensis",
+        "scientificnameauthorship": "Rchb.f.",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. rochellensis Rchb.f.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65173>http://floradobrasil2015.jbrj.gov.br/FB65173</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65173\">https://floradobrasil2020.jbrj.gov.br/FB65173</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65173",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65173>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:30:23.74943"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Gard. Chron. III, 4: 533,1888"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65174,
+        "scientificname": "Cattleya labiata var. semialba L.C.Menezes",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "semialba",
+        "scientificnameauthorship": "L.C.Menezes",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. semialba L.C.Menezes",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65174>http://floradobrasil2015.jbrj.gov.br/FB65174</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65174\">https://floradobrasil2020.jbrj.gov.br/FB65174</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65174",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65174>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:30:04.875466"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Orquídeas/Orchids: Cattleya labiata autumnalis,: 92,2002"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65175,
+        "scientificname": "Cattleya labiata var. warneri (T.Moore ex R.Warner) H.J.Veitch",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "warneri",
+        "scientificnameauthorship": "(T.Moore ex R.Warner) H.J.Veitch",
+        "acceptednameusage": "Cattleya warneri T.Moore",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. warneri (T.Moore ex R.Warner) H.J.Veitch",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65175>http://floradobrasil2015.jbrj.gov.br/FB65175</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65175\">https://floradobrasil2020.jbrj.gov.br/FB65175</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65175",
+        "acceptednameusageid": 11347,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65175>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:29:42.713244"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Man. Orchid. Pl. [H.J. Veitch],1(2): 27,1887"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11347,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya warneri T.Moore"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65176,
+        "scientificname": "Cattleya labiata var. warocqueana (Linden) Rolfe",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "warocqueana",
+        "scientificnameauthorship": "(Linden) Rolfe",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. warocqueana (Linden) Rolfe",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65176>http://floradobrasil2015.jbrj.gov.br/FB65176</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65176\">https://floradobrasil2020.jbrj.gov.br/FB65176</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65176",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65176>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:29:20.540108"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Gard. Chron. III, 7: 735,1890"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65177,
+        "scientificname": "Cattleya labiata var. wilsoniana Rchb.f.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "wilsoniana",
+        "scientificnameauthorship": "Rchb.f.",
+        "acceptednameusage": "Cattleya labiata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. wilsoniana Rchb.f.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65177>http://floradobrasil2015.jbrj.gov.br/FB65177</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65177\">https://floradobrasil2020.jbrj.gov.br/FB65177</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65177",
+        "acceptednameusageid": 11340,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65177>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:29:08.050093"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Gard. Chron. III, 2: 460,1887"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11340,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya labiata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 615763,
+        "scientificname": "Cattleya labiata var. gaskelliana N.E.Br.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "labiata",
+        "infraspecificepithet": "gaskelliana",
+        "scientificnameauthorship": "N.E.Br.",
+        "acceptednameusage": "Cattleya gaskelliana (N.E.Br.) B.S.Williams",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya labiata Lindl.;Cattleya labiata var. gaskelliana N.E.Br.",
+        "source": "van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB615763\">https://floradobrasil2020.jbrj.gov.br/FB615763</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya labiata Lindl.",
+        "parentnameusageid": 11340,
+        "originalnameusageid": "610543",
+        "namepublishedin": "Gard. Chron., n.s. 19: 310 1883",
+        "namepublishedinyear": "1883",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB615763",
+        "acceptednameusageid": 610543,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB615763>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-09-14 01:11:53.495"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Brown, N.E.,Gard. Chron., n.s.,19: 310,1883"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 610543,
+          "relationshipofresource": "É sinônimo BASIONIMO",
+          "scientificname": "Cattleya gaskelliana (N.E.Br.) B.S.Williams"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

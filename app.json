@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Plantas do Rio de Janeiro",
+    "slug": "plantas-do-rio-de-janeiro",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "br.com.avesdosbrasis.plantasdorio",
+      "buildNumber": "1",
+      "supportsTablet": false,
+      "infoPlist": { "ITSAppUsesNonExemptEncryption": false }
+    },
+    "android": {
+      "package": "br.com.avesdosbrasis.plantasdorio",
+      "versionCode": 1,
+      "allowBackup": false,
+      "blockedPermissions": ["android.permission.RECORD_AUDIO", "android.permission.READ_EXTERNAL_STORAGE", "android.permission.WRITE_EXTERNAL_STORAGE"]
+    }
+  }
+}

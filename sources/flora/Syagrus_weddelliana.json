@@ -1,0 +1,414 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Syagrus_weddelliana",
+  "retrievedAt": "2026-10-16T22:03:11Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 44834,
+        "scientificname": "Syagrus weddelliana (H.Wendl.) Becc.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Syagrus",
+        "specificepithet": "weddelliana",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(H.Wendl.) Becc.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Syagrus Mart.;Syagrus weddelliana (H.Wendl.) Becc.",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB44834>http://floradobrasil2015.jbrj.gov.br/FB44834</a>)<br><br>Soares, K.P. 2020. Syagrus in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB44834\">https://floradobrasil2020.jbrj.gov.br/FB44834</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Noblick, L.R.; Lorenzi, H. &lt;em&gt;Lytocaryum&lt;/em&gt;, including a new species from Bahia. &lt;strong&gt;Palms&lt;/strong&gt; 54(1): 5-17. 2010\r\nNoblick, L.R.; Meerow, A.W. The transfer of the genus Lytocaryum to Syagrus. Palms 59(2): 57-62. 2015",
+        "parentnameusage": "Syagrus Mart.",
+        "parentnameusageid": 15732,
+        "originalnameusageid": "44099",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB44834",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Soares, K.P. Syagrus in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB44834>. Acesso em: 16 oct. 2026.",
+        "modified": "2024-01-20 06:19:09.351"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Palmeira"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Beccari, O.,Agric. Colon.,10: 468,1916"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 44099,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Cocos weddelliana H.Wendl."
+        },
+        {
+          "relatedresourceid": 34066,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Lytocaryum weddellianum (H.Wendl.) Toledo"
+        },
+        {
+          "relatedresourceid": 43946,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Calappa elegantina Kuntze"
+        },
+        {
+          "relatedresourceid": 44836,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Syagrus weddelliana var. pinaertii (G. Nicholson & Mottet) Becc."
+        },
+        {
+          "relatedresourceid": 44428,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Glaziova martiana Glaz. ex Drude"
+        },
+        {
+          "relatedresourceid": 607956,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cocos elegantissima hort. ex H.Wendl."
+        },
+        {
+          "relatedresourceid": 44100,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cocos weddelliana var. pinaertii G.Nicholson & Mottet"
+        },
+        {
+          "relatedresourceid": 44622,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Microcoelum martianum (Glaz. ex Drude) Burret & Potztal"
+        },
+        {
+          "relatedresourceid": 44623,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Microcoelum weddellianum (H.Wendl.) H.E.Moore"
+        },
+        {
+          "relatedresourceid": 44835,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Syagrus weddelliana var. cinerea Becc."
+        },
+        {
+          "relatedresourceid": 608158,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Cocos weddellianum H.Wendl."
+        },
+        {
+          "relatedresourceid": 44087,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cocos pynaertii Anon."
+        },
+        {
+          "relatedresourceid": 596956,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Syagrus weddellianus (H.Wendl.) Becc."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA049728",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226839411",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA049728",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226839413",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA049728",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226839415",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00558635",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00558635",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "K",
+          "catalognumber": "K000462949",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000462949",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00631686",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00631686",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00631733",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00631733",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00558738",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00558738",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA049728",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ESA049728",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "K",
+          "catalognumber": "K000462951",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000462951",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "K",
+          "catalognumber": "K000462949",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227607559",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "K",
+          "catalognumber": "K000462951",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227607563",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00558635",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284432504",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00558635",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284432506",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00558738",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284432788",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00558738",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284432790",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00558738",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284432786",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00631686",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284572102",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00631686",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284572104",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00631733",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284572354",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00631733",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284572356",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gondim Jr., M.G.C. 2",
+          "collectioncode": "RB",
+          "catalognumber": "RB00631733",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284572352",
+          "locality": "SP",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 44835,
+        "scientificname": "Syagrus weddelliana var. cinerea Becc.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Syagrus",
+        "specificepithet": "weddelliana",
+        "infraspecificepithet": "cinerea",
+        "scientificnameauthorship": "Becc.",
+        "acceptednameusage": "Syagrus weddelliana (H.Wendl.) Becc.",
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Syagrus Mart.;Syagrus weddelliana (H.Wendl.) Becc.;Syagrus weddelliana var. cinerea Becc.",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB44835>http://floradobrasil2015.jbrj.gov.br/FB44835</a>)<br><br>Soares, K.P. 2020. Syagrus in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB44835\">https://floradobrasil2020.jbrj.gov.br/FB44835</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Syagrus weddelliana (H.Wendl.) Becc.",
+        "parentnameusageid": 44834,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB44835",
+        "acceptednameusageid": 44834,
+        "bibliographiccitation_how_to_cite": "Soares, K.P. Syagrus in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB44835>. Acesso em: 16 oct. 2026.",
+        "modified": "2019-05-16 23:30:01.284"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Beccari, O.,Agric. Colon.,10: 471,1916"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 44834,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Syagrus weddelliana (H.Wendl.) Becc."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 44836,
+        "scientificname": "Syagrus weddelliana var. pinaertii (G. Nicholson & Mottet) Becc.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Syagrus",
+        "specificepithet": "weddelliana",
+        "infraspecificepithet": "pinaertii",
+        "scientificnameauthorship": "(G. Nicholson & Mottet) Becc.",
+        "acceptednameusage": "Syagrus weddelliana (H.Wendl.) Becc.",
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Syagrus Mart.;Syagrus weddelliana (H.Wendl.) Becc.;Syagrus weddelliana var. pinaertii (G. Nicholson & Mottet) Becc.",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB44836>http://floradobrasil2015.jbrj.gov.br/FB44836</a>)<br><br>Soares, K.P. 2020. Syagrus in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB44836\">https://floradobrasil2020.jbrj.gov.br/FB44836</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Syagrus weddelliana (H.Wendl.) Becc.",
+        "parentnameusageid": 44834,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB44836",
+        "acceptednameusageid": 44834,
+        "bibliographiccitation_how_to_cite": "Soares, K.P. Syagrus in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB44836>. Acesso em: 16 oct. 2026.",
+        "modified": "2019-05-16 23:32:53.299"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Beccari, O.,Agric. Colon.,10: 468,1916"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 44834,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Syagrus weddelliana (H.Wendl.) Becc."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

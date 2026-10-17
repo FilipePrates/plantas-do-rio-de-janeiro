@@ -1,0 +1,170 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_parasiticum",
+  "retrievedAt": "2026-10-16T22:12:02Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 4963,
+        "scientificname": "Anthurium parasiticum (Vell.) Stellfeld",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "parasiticum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Vell.) Stellfeld",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium parasiticum (Vell.) Stellfeld",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB4963>http://floradobrasil2015.jbrj.gov.br/FB4963</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB4963\">https://floradobrasil2020.jbrj.gov.br/FB4963</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": "42997",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB4963",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2021-02-16 11:57:50.016"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Stellfeld, C.,Arq. Mus. Paraense,8: 175,1950"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42252,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium insculptum Engl."
+        },
+        {
+          "relatedresourceid": 42301,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium saxosum K.Krause"
+        },
+        {
+          "relatedresourceid": 42334,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium vellozianum Schott"
+        },
+        {
+          "relatedresourceid": 42270,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium oblongatum Schott ex Engl."
+        },
+        {
+          "relatedresourceid": 42272,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium olfersianum Kunth"
+        },
+        {
+          "relatedresourceid": 42997,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Pothos parasiticus Vell."
+        },
+        {
+          "relatedresourceid": 42189,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium alienigenum Schott ex Engl."
+        },
+        {
+          "relatedresourceid": 42274,
+          "relationshipofresource": null,
+          "scientificname": "Anthurium olfersianum var. aliengenum Engl."
+        },
+        {
+          "relatedresourceid": 42275,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium olfersianum var. kunthianum Engl."
+        },
+        {
+          "relatedresourceid": 42278,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium olfersianum var. vellozianum (Schott) Engl."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "A.M. Nadruz 1466",
+          "collectioncode": "RB",
+          "catalognumber": "RB00535275",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284390770",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.M. Nadruz 1466",
+          "collectioncode": "RB",
+          "catalognumber": "RB00535275",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00535275",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

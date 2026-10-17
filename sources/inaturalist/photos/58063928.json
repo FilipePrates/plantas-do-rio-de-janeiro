@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/36706433",
+  "photo": {
+    "id": 58063928,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1616
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58063928/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Kahio Tiberio Mazon",
+  "observation": {
+    "id": 36706433,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 560913,
+      "name": "Campomanesia xanthocarpa"
+    },
+    "observerLogin": "pajeu"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58063928/large.jpeg",
+    "sha256": "087da9663e4406dea51f4551aff4ee207774f02e9b5db46e75aa0af2f6b0429b",
+    "retrievedAt": "2026-10-16T22:18:56Z"
+  }
+}

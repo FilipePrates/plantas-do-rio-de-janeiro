@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/209795629",
+  "photo": {
+    "id": 371180116,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371180116/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Carlos Henrique Russi",
+  "observation": {
+    "id": 209795629,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 545104,
+      "name": "Vriesea carinata"
+    },
+    "observerLogin": "carloshrussi"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371180116/large.jpeg",
+    "sha256": "29c683afad1781f21e7244f18e36d593ea9bc59c0d35d57b8c60152eef4620fb",
+    "retrievedAt": "2026-10-16T22:13:38Z"
+  }
+}

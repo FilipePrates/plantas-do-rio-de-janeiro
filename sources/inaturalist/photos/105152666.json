@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/65343029",
+  "photo": {
+    "id": 105152666,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105152666/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Bruno Senterre",
+  "observation": {
+    "id": 65343029,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 69223,
+      "name": "Epipremnum aureum"
+    },
+    "observerLogin": "bsenterre"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105152666/large.jpeg",
+    "sha256": "63fe0872f9a61c58a064f12441d004351e48609a1daaaf893cf98a972dcdea05",
+    "retrievedAt": "2026-10-16T22:10:13Z"
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_guttiferum",
+  "retrievedAt": "2026-10-16T22:13:06Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 22031,
+        "scientificname": "Philodendron guttiferum Kunth",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "guttiferum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Kunth",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron guttiferum Kunth",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB22031>http://floradobrasil2015.jbrj.gov.br/FB22031</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB22031\">https://floradobrasil2020.jbrj.gov.br/FB22031</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Hokche, O., P.E. Berry &amp;amp; O. Huber 2008. Nuev. Cat. Fl. Vas. Venezuela 1&amp;ndash;860.\r\nFunk, V., T. Hollowell, P. Berry, C. Kelloff, and S.N. Alexander 2007. Checklist of the Plants of the Guiana Shield (Venezuela: Amazonas, Bolivar, Delta Amacuro; Guyana, Surinam, French Guiana). Contr. U.S. Natl. Herb. 55: 1&amp;ndash;584.",
+        "parentnameusage": "Philodendron Schott",
+        "parentnameusageid": 5015,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB22031",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-07-29 09:33:58.658"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-GO",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-DF",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RO",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Hemiepífita"
+        ],
+        "vegetationType": [
+          "Cerrado (lato sensu)",
+          "Floresta de Terra Firme"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42870,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron inaequilaterum subsp. anthoblastum G.S.Bunting"
+        },
+        {
+          "relatedresourceid": 42874,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron krukovii Gleason"
+        },
+        {
+          "relatedresourceid": 42483,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Caladium guttiferum Poepp. ex Kunth"
+        },
+        {
+          "relatedresourceid": 42934,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron tessmannii K.Krause"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "P.A. Rodriguez 14790",
+          "collectioncode": "RB",
+          "catalognumber": "RB00587211",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00587211",
+          "locality": "AC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G.T. Prance 10091",
+          "collectioncode": "INPA",
+          "catalognumber": "INPA0025958",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/INPA0025958",
+          "locality": "RR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "W.A. Rodrigues 3027",
+          "collectioncode": "INPA",
+          "catalognumber": "INPA0010391",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/INPA0010391",
+          "locality": "AP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "P.A. Rodriguez 14790",
+          "collectioncode": "RB",
+          "catalognumber": "RB00587211",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284485636",
+          "locality": "AC",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 42860,
+        "scientificname": "Philodendron guttiferum var. rudgeanum (Schott) A.M.E.Jonker & Jonker",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "guttiferum",
+        "infraspecificepithet": "rudgeanum",
+        "scientificnameauthorship": "(Schott) A.M.E.Jonker & Jonker",
+        "acceptednameusage": "Philodendron rudgeanum Schott",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron guttiferum Kunth;Philodendron guttiferum var. rudgeanum (Schott) A.M.E.Jonker & Jonker",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42860>http://floradobrasil2015.jbrj.gov.br/FB42860</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42860\">https://floradobrasil2020.jbrj.gov.br/FB42860</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Philodendron guttiferum Kunth",
+        "parentnameusageid": 22031,
+        "originalnameusageid": "5060",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42860",
+        "acceptednameusageid": 5060,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2010-04-09 10:49:44.359554"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Acta Bot. Neerl.,2: 359,1953"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5060,
+          "relationshipofresource": "É sinônimo BASIONIMO",
+          "scientificname": "Philodendron rudgeanum Schott"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 601721,
+        "scientificname": "Philodendron guttiferum var. martinii Kunth",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "guttiferum",
+        "infraspecificepithet": "martinii",
+        "scientificnameauthorship": "Kunth",
+        "acceptednameusage": "Philodendron martini Schott",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron guttiferum Kunth;Philodendron guttiferum var. martinii Kunth",
+        "source": "Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB601721\">https://floradobrasil2020.jbrj.gov.br/FB601721</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Philodendron guttiferum Kunth",
+        "parentnameusageid": 22031,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB601721",
+        "acceptednameusageid": 620648,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-18 20:34:00.789"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva",
+          "Liana/volúvel/trepadeira"
+        ],
+        "habitat": [
+          "Hemiepífita"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 620648,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Philodendron martini Schott"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 602048,
+        "scientificname": "Philodendron guttiferum var. placidum Kunth",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "guttiferum",
+        "infraspecificepithet": "placidum",
+        "scientificnameauthorship": "Kunth",
+        "acceptednameusage": "Philodendron placidum Schott",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron guttiferum Kunth;Philodendron guttiferum var. placidum Kunth",
+        "source": "Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB602048\">https://floradobrasil2020.jbrj.gov.br/FB602048</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Philodendron guttiferum Kunth",
+        "parentnameusageid": 22031,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB602048",
+        "acceptednameusageid": 80492,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-18 20:29:11.613"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva",
+          "Liana/volúvel/trepadeira"
+        ],
+        "habitat": [
+          "Hemiepífita"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 80492,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Philodendron placidum Schott"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_bromelicola",
+  "retrievedAt": "2026-10-16T22:11:11Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 4922,
+        "scientificname": "Anthurium bromelicola Mayo & L.P.Felix",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "bromelicola",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Mayo & L.P.Felix",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium bromelicola Mayo & L.P.Felix",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB4922>http://floradobrasil2015.jbrj.gov.br/FB4922</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB4922\">https://floradobrasil2020.jbrj.gov.br/FB4922</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Aroideana 23: 89 2000",
+        "namepublishedinyear": "2000",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB4922",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2024-10-03 15:32:53.449"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita"
+        ],
+        "vegetationType": [
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Mayo, S. & Felix, L.P.,Aroideana,23: 89,2000"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "J.G. Jardim 2234",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00082660",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CEPEC00082660",
+          "locality": "BA",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "J.G. Jardim 2234",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00082660",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226605341",
+          "locality": "BA",
+          "typestatus": "typus"
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 15620,
+        "scientificname": "Anthurium bromelicola subsp. bahiense Mayo et al.",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "bromelicola",
+        "infraspecificepithet": "bahiense",
+        "scientificnameauthorship": "Mayo et al.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium bromelicola Mayo & L.P.Felix;Anthurium bromelicola subsp. bahiense Mayo et al.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB15620>http://floradobrasil2015.jbrj.gov.br/FB15620</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB15620\">https://floradobrasil2020.jbrj.gov.br/FB15620</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium bromelicola Mayo & L.P.Felix",
+        "parentnameusageid": 4922,
+        "originalnameusageid": null,
+        "namepublishedin": "Aroideana 23: 95 2000",
+        "namepublishedinyear": "2000",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB15620",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2024-10-03 16:02:16.685"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita"
+        ],
+        "vegetationType": [
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Mayo, S. et al.,Aroideana,23: 95,2000"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 15621,
+        "scientificname": "Anthurium bromelicola Mayo & L.P.Felix subsp. bromelicola",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "bromelicola",
+        "infraspecificepithet": "bromelicola",
+        "scientificnameauthorship": "Mayo & L.P.Felix",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium bromelicola Mayo & L.P.Felix;Anthurium bromelicola Mayo & L.P.Felix subsp. bromelicola",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB15621>http://floradobrasil2015.jbrj.gov.br/FB15621</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB15621\">https://floradobrasil2020.jbrj.gov.br/FB15621</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium bromelicola Mayo & L.P.Felix",
+        "parentnameusageid": 4922,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB15621",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2024-10-03 15:17:34.076"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AL",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Desconhecido"
+        ],
+        "vegetationType": [
+          "Caatinga (stricto sensu)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Mayo, S. & Felix, L.P.,Aroideana,23: 89,2000"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

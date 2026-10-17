@@ -1,0 +1,436 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_hederaceum",
+  "retrievedAt": "2026-10-16T22:13:07Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5040,
+        "scientificname": "Philodendron hederaceum (Jacq.) Schott",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "hederaceum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Jacq.) Schott",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron hederaceum (Jacq.) Schott",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5040>http://floradobrasil2015.jbrj.gov.br/FB5040</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5040\">https://floradobrasil2020.jbrj.gov.br/FB5040</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Croat, T. B. 1997. A revision of Philodendron subgenus Philodendron (Araceae) for Mexico and Central America. Ann. Missouri Bot. Gard. 84(3): 311&amp;ndash;704",
+        "parentnameusage": "Philodendron Schott",
+        "parentnameusageid": 5015,
+        "originalnameusageid": "42365",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5040",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-27 09:19:33.036"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AL",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Liana/volúvel/trepadeira"
+        ],
+        "habitat": [
+          "Hemiepífita"
+        ],
+        "vegetationType": [
+          "Floresta Ciliar ou Galeria",
+          "Floresta de Terra Firme",
+          "Floresta de Várzea",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "maria-mole",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Bahia"
+        }
+      ],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 596567,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron oxycardium Schott"
+        },
+        {
+          "relatedresourceid": 42365,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Arum hederaceum Jacq."
+        },
+        {
+          "relatedresourceid": 42989,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Pothos hederaceus (Jacq.) Aubl."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Pereira J.O. 2192",
+          "collectioncode": "RB",
+          "catalognumber": "RB00474363",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284293004",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.M. Harley 18233",
+          "collectioncode": "RB",
+          "catalognumber": "RB00477741",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284301924",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Pereira J.O. 2192",
+          "collectioncode": "RB",
+          "catalognumber": "RB00474363",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00474363",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G.T. Prance 1974",
+          "collectioncode": "NY",
+          "catalognumber": "NY01073982",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY01073982",
+          "locality": "PA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.M. Harley 18233",
+          "collectioncode": "RB",
+          "catalognumber": "RB00477741",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00477741",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G.T. Prance 1974",
+          "collectioncode": "NY",
+          "catalognumber": "NY01073982",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228746925",
+          "locality": "PA",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 33875,
+        "scientificname": "Philodendron hederaceum (Jacq.) Schott var. hederaceum",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "hederaceum",
+        "infraspecificepithet": "hederaceum",
+        "scientificnameauthorship": "(Jacq.) Schott",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron hederaceum (Jacq.) Schott;Philodendron hederaceum (Jacq.) Schott var. hederaceum",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB33875>http://floradobrasil2015.jbrj.gov.br/FB33875</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB33875\">https://floradobrasil2020.jbrj.gov.br/FB33875</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Croat, T. B. 1997. A revision of Philodendron subgenus Philodendron (Araceae) for Mexico and Central America. Ann. Missouri Bot. Gard. 84(3): 311&amp;ndash;704",
+        "parentnameusage": "Philodendron hederaceum (Jacq.) Schott",
+        "parentnameusageid": 5040,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB33875",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-27 09:26:31.212"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Liana/volúvel/trepadeira"
+        ],
+        "habitat": [
+          "Epífita"
+        ],
+        "vegetationType": [
+          "Floresta Ciliar ou Galeria",
+          "Floresta de Terra Firme",
+          "Floresta de Várzea",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42922,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron scandens subsp. cubense (Engl.) I.Arias"
+        },
+        {
+          "relatedresourceid": 42888,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron micans var. microphyllum (K.Koch) Engl."
+        },
+        {
+          "relatedresourceid": 42887,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron micans var. brevipes Engl."
+        },
+        {
+          "relatedresourceid": 42923,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron scandens var. cuspidatum (K.Koch & C.D.Bouché) Engl."
+        },
+        {
+          "relatedresourceid": 42816,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron acrocardium Schott"
+        },
+        {
+          "relatedresourceid": 42890,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron miduhoi Matuda"
+        },
+        {
+          "relatedresourceid": 42924,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron scandens subsp. isertianum (Schott) G.S.Bunting"
+        },
+        {
+          "relatedresourceid": 42872,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron isertianum Schott"
+        },
+        {
+          "relatedresourceid": 42921,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron scandens var. cubense Engl."
+        },
+        {
+          "relatedresourceid": 42898,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron oxyprorum Schott"
+        },
+        {
+          "relatedresourceid": 42889,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron microphyllum K.Koch"
+        },
+        {
+          "relatedresourceid": 42933,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron subsessile Gleason"
+        },
+        {
+          "relatedresourceid": 42886,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron micans Klotzsch ex K.Koch"
+        },
+        {
+          "relatedresourceid": 42862,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron harlowii I.M.Johnst."
+        },
+        {
+          "relatedresourceid": 42906,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron pittieri Engl."
+        },
+        {
+          "relatedresourceid": 42912,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron prieurianum Schott"
+        },
+        {
+          "relatedresourceid": 42920,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron scandens K.Koch & Sello"
+        },
+        {
+          "relatedresourceid": 42925,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron scandens subsp. prieurianum (Schott) G.S.Bunting"
+        },
+        {
+          "relatedresourceid": 42918,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron scaberulum C.Wright"
+        },
+        {
+          "relatedresourceid": 42840,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron cuspidatum K.Koch & C.D.Bouché"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

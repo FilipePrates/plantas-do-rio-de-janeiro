@@ -1,0 +1,617 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cereus_fernambucensis",
+  "retrievedAt": "2026-10-16T22:05:16Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 6613,
+        "scientificname": "Cereus fernambucensis Lem.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Cereus",
+        "specificepithet": "fernambucensis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Lem.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Cereus Mill.;Cereus fernambucensis Lem.",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB6613>http://floradobrasil2015.jbrj.gov.br/FB6613</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB6613\">https://floradobrasil2020.jbrj.gov.br/FB6613</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Taylor &amp;amp; Zappi 2004. Cacti of Eastern Brazil. RBG, Kew.",
+        "parentnameusage": "Cereus Mill.",
+        "parentnameusageid": 1434,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB6613",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB6613>. Acesso em: 16 oct. 2026.",
+        "modified": "2025-03-15 10:04:48.548"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RN",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-CE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PB",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AL",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto",
+          "Subarbusto",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Restinga",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 1439,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Cereus fernambuscensis Lem."
+        },
+        {
+          "relatedresourceid": 595642,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cereus obtusus Haw."
+        },
+        {
+          "relatedresourceid": 16672,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Cereus fernambucensis Lem. subsp. fernambucensis"
+        },
+        {
+          "relatedresourceid": 600159,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cereus pitajaya Hook."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "D.C. Zappi 353",
+          "collectioncode": "UEC",
+          "catalognumber": "UEC041425",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/UEC041425",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 16672,
+        "scientificname": "Cereus fernambucensis Lem. subsp. fernambucensis",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Cereus",
+        "specificepithet": "fernambucensis",
+        "infraspecificepithet": "fernambucensis",
+        "scientificnameauthorship": "Lem.",
+        "acceptednameusage": "Cereus fernambucensis Lem.",
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Cereus Mill.;Cereus fernambucensis Lem.;Cereus fernambucensis Lem. subsp. fernambucensis",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB16672>http://floradobrasil2015.jbrj.gov.br/FB16672</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB16672\">https://floradobrasil2020.jbrj.gov.br/FB16672</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Taylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\nHunt, D., Taylor, N. &amp;amp; Graham, C. 2006. The New Cactus Lexicon, Text. dh books, Milborne Port.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n&amp;nbsp;\r\nZappi, D., Aona, L.Y.S. &amp;amp; Taylor, N. 2007. Cactaceae in Flora Fanerog&amp;acirc;mica do Estado de S&amp;atilde;o Paulo 5: 163-199",
+        "parentnameusage": "Cereus fernambucensis Lem.",
+        "parentnameusageid": 6613,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB16672",
+        "acceptednameusageid": 6613,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB16672>. Acesso em: 16 oct. 2026.",
+        "modified": "2024-09-09 16:55:50.763"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Subarbusto",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 6613,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Cereus fernambucensis Lem."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "J.N. Rose 20373",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645049",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228317069",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.N. Rose 19619",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645050",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228317071",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.N. Rose 20373",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645047",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228317065",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Scheinvar 6281",
+          "collectioncode": "RB",
+          "catalognumber": "RB00063442",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284578504",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Scheinvar 6281",
+          "collectioncode": "RB",
+          "catalognumber": "RB00063442",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284578506",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.F. Freitas 165",
+          "collectioncode": "RB",
+          "catalognumber": "RB00063388",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284578096",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Quintanilha 155",
+          "collectioncode": "RB",
+          "catalognumber": "RB00878307",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284903364",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.J. Castelo 257",
+          "collectioncode": "RB",
+          "catalognumber": "RB00761469",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284783528",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. Oliveira 1037",
+          "collectioncode": "RB",
+          "catalognumber": "RB00515677",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284353370",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.J. Castelo 231",
+          "collectioncode": "RB",
+          "catalognumber": "RB00761443",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284783494",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.J. Castelo 191",
+          "collectioncode": "RB",
+          "catalognumber": "RB00761403",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284783470",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "E.O. Moura 104",
+          "collectioncode": "UFRN",
+          "catalognumber": "UFRN00016120",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100437955",
+          "locality": "RN",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.N. Rose 20373",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645047",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00645047",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.N. Rose 19675",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645053",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00645053",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.N. Rose 19619",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645050",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00645050",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.N. Rose 20373",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645049",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00645049",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.J. Castelo 191",
+          "collectioncode": "RB",
+          "catalognumber": "RB00761403",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00761403",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Quintanilha 155",
+          "collectioncode": "RB",
+          "catalognumber": "RB00878307",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00878307",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "E.O. Moura 104",
+          "collectioncode": "UFRN",
+          "catalognumber": "UFRN00016120",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/UFRN00016120",
+          "locality": "RN",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.J. Castelo 257",
+          "collectioncode": "RB",
+          "catalognumber": "RB00761469",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00761469",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.N. Rose 20709",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645051",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00645051",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "S.A. Mori 9619",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645055",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00645055",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "D.C. Zappi 353",
+          "collectioncode": "UEC",
+          "catalognumber": "UEC041425",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/UEC041425",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "K. Lems s.n.",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645054",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00645054",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Scheinvar 6281",
+          "collectioncode": "RB",
+          "catalognumber": "RB00063442",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00063442",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.J. Castelo 231",
+          "collectioncode": "RB",
+          "catalognumber": "RB00761443",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00761443",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.F. Freitas 165",
+          "collectioncode": "RB",
+          "catalognumber": "RB00063388",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00063388",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. Oliveira 1037",
+          "collectioncode": "RB",
+          "catalognumber": "RB00515677",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00515677",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.N. Rose 20709",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645051",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228317073",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "S.A. Mori 9619",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645055",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228317085",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.N. Rose 19675",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645053",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228317081",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "K. Lems s.n.",
+          "collectioncode": "NY",
+          "catalognumber": "NY00645054",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228317083",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 114526,
+        "scientificname": "Cereus fernambucensis subsp. sericifer (F.Ritter) N.P.Taylor & Zappi",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Cereus",
+        "specificepithet": "fernambucensis",
+        "infraspecificepithet": "sericifer",
+        "scientificnameauthorship": "(F.Ritter) N.P.Taylor & Zappi",
+        "acceptednameusage": "Cereus sericifer (F.Ritter) P.J.Braun",
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Cereus Mill.;Cereus fernambucensis Lem.;Cereus fernambucensis subsp. sericifer (F.Ritter) N.P.Taylor & Zappi",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB114526>http://floradobrasil2015.jbrj.gov.br/FB114526</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB114526\">https://floradobrasil2020.jbrj.gov.br/FB114526</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Taylor &amp;amp; Zappi 2004. Cacti of Eastern Brazil. RBG, Kew.",
+        "parentnameusage": "Cereus fernambucensis Lem.",
+        "parentnameusageid": 6613,
+        "originalnameusageid": "633867",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB114526",
+        "acceptednameusageid": 633228,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB114526>. Acesso em: 16 oct. 2026.",
+        "modified": "2025-03-15 10:03:40.466"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 633867,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Piptanthocereus sericifer F.Ritter"
+        },
+        {
+          "relatedresourceid": 633228,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Cereus sericifer (F.Ritter) P.J.Braun"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "M.L. Dan ita012",
+          "collectioncode": "RB",
+          "catalognumber": "RB00588149",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00588149",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 2845",
+          "collectioncode": "RB",
+          "catalognumber": "RB00063359",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00063359",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "D.C. Zappi 416",
+          "collectioncode": "UEC",
+          "catalognumber": "UEC041434",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/UEC041434",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 2845",
+          "collectioncode": "RB",
+          "catalognumber": "RB00063359",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284577448",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.L. Dan ita012",
+          "collectioncode": "RB",
+          "catalognumber": "RB00588149",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284487878",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

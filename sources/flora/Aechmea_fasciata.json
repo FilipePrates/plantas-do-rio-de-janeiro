@@ -1,0 +1,356 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Aechmea_fasciata",
+  "retrievedAt": "2026-10-16T22:02:19Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5805,
+        "scientificname": "Aechmea fasciata (Lindl.) Baker",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "fasciata",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Lindl.) Baker",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea fasciata (Lindl.) Baker",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5805>http://floradobrasil2015.jbrj.gov.br/FB5805</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5805\">https://floradobrasil2020.jbrj.gov.br/FB5805</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea Ruiz & Pav.",
+        "parentnameusageid": 5753,
+        "originalnameusageid": "45884",
+        "namepublishedin": "J. Bot. 17: 231 1879",
+        "namepublishedinyear": "1879",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5805",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB5805>. Acesso em: 16 oct. 2026.",
+        "modified": "2024-10-08 15:27:08.416"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Baker, J.G.,J. Bot.,17: 231,1879"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 45548,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea fasciata var. flavivittata Reitz"
+        },
+        {
+          "relatedresourceid": 45549,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea fasciata var. pruinosa Reitz"
+        },
+        {
+          "relatedresourceid": 45550,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea fasciata var. purpurea (Guillon) Mez"
+        },
+        {
+          "relatedresourceid": 46771,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Platyaechmea fasciata var. pruinosa (Reitz) L.B.Sm. & W.J.Kress"
+        },
+        {
+          "relatedresourceid": 46770,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Platyaechmea fasciata var. flavivittata (Reitz) L.B.Sm. & W.J.Kress"
+        },
+        {
+          "relatedresourceid": 46772,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Platyaechmea fasciata var. purpurea (Guillon) L.B.Sm. & W.J.Kress"
+        },
+        {
+          "relatedresourceid": 45887,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia glazioviana Regel"
+        },
+        {
+          "relatedresourceid": 45946,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia rhodocyanea Lem."
+        },
+        {
+          "relatedresourceid": 45564,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea hamata Mez"
+        },
+        {
+          "relatedresourceid": 46337,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Hohenbergia fasciata (Lindl.) Schult. & Schult.f."
+        },
+        {
+          "relatedresourceid": 46367,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Hoplophytum fasciatum (Lindl.) Beer"
+        },
+        {
+          "relatedresourceid": 45645,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea rhodocyanea Wawra ex Mez"
+        },
+        {
+          "relatedresourceid": 601141,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Aechmea fasciata (Lindl.) Baker var. fasciata"
+        },
+        {
+          "relatedresourceid": 45947,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia rhodocyanea var. purpurea Guillon"
+        },
+        {
+          "relatedresourceid": 45582,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea leopoldii Baker"
+        },
+        {
+          "relatedresourceid": 46769,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Platyaechmea fasciata (Lindl.) L.B.Sm. & W.J.Kress"
+        },
+        {
+          "relatedresourceid": 45884,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Billbergia fasciata Lindl."
+        },
+        {
+          "relatedresourceid": 46969,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Tillandsia bracteata Vell."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "L.S. Sylvestre 1149",
+          "collectioncode": "RBR",
+          "catalognumber": "RBR00022021",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=230380411",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.S. Sylvestre 1149",
+          "collectioncode": "RBR",
+          "catalognumber": "RBR00022021",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RBR00022021",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 45548,
+        "scientificname": "Aechmea fasciata var. flavivittata Reitz",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "fasciata",
+        "infraspecificepithet": "flavivittata",
+        "scientificnameauthorship": "Reitz",
+        "acceptednameusage": "Aechmea fasciata (Lindl.) Baker",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea fasciata (Lindl.) Baker;Aechmea fasciata var. flavivittata Reitz",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45548>http://floradobrasil2015.jbrj.gov.br/FB45548</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45548\">https://floradobrasil2020.jbrj.gov.br/FB45548</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea fasciata (Lindl.) Baker",
+        "parentnameusageid": 5805,
+        "originalnameusageid": null,
+        "namepublishedin": "Sellowia 33: 55 1981",
+        "namepublishedinyear": "1981",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45548",
+        "acceptednameusageid": 5805,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45548>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-11-29 19:34:51.799"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Sellowia,33: 55,1981"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5805,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea fasciata (Lindl.) Baker"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 45549,
+        "scientificname": "Aechmea fasciata var. pruinosa Reitz",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "fasciata",
+        "infraspecificepithet": "pruinosa",
+        "scientificnameauthorship": "Reitz",
+        "acceptednameusage": "Aechmea fasciata (Lindl.) Baker",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea fasciata (Lindl.) Baker;Aechmea fasciata var. pruinosa Reitz",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45549>http://floradobrasil2015.jbrj.gov.br/FB45549</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45549\">https://floradobrasil2020.jbrj.gov.br/FB45549</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea fasciata (Lindl.) Baker",
+        "parentnameusageid": 5805,
+        "originalnameusageid": null,
+        "namepublishedin": "Sellowia 33: 55 1981",
+        "namepublishedinyear": "1981",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45549",
+        "acceptednameusageid": 5805,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45549>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-11-29 19:36:41.973"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Sellowia,33: 55,1981"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5805,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea fasciata (Lindl.) Baker"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 45550,
+        "scientificname": "Aechmea fasciata var. purpurea (Guillon) Mez",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "fasciata",
+        "infraspecificepithet": "purpurea",
+        "scientificnameauthorship": "(Guillon) Mez",
+        "acceptednameusage": "Aechmea fasciata (Lindl.) Baker",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea fasciata (Lindl.) Baker;Aechmea fasciata var. purpurea (Guillon) Mez",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45550>http://floradobrasil2015.jbrj.gov.br/FB45550</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45550\">https://floradobrasil2020.jbrj.gov.br/FB45550</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea fasciata (Lindl.) Baker",
+        "parentnameusageid": 5805,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45550",
+        "acceptednameusageid": 5805,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45550>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-11-29 19:37:16.39"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Mez, C.,Pflanzenr. (Engler) IV, 32: 152,1934"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5805,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea fasciata (Lindl.) Baker"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 601141,
+        "scientificname": "Aechmea fasciata (Lindl.) Baker var. fasciata",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "fasciata",
+        "infraspecificepithet": "fasciata",
+        "scientificnameauthorship": "(Lindl.) Baker",
+        "acceptednameusage": "Aechmea fasciata (Lindl.) Baker",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea fasciata (Lindl.) Baker;Aechmea fasciata (Lindl.) Baker var. fasciata",
+        "source": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB601141\">https://floradobrasil2020.jbrj.gov.br/FB601141</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea fasciata (Lindl.) Baker",
+        "parentnameusageid": 5805,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB601141",
+        "acceptednameusageid": 5805,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB601141>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-11-29 19:36:09.546"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5805,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Aechmea fasciata (Lindl.) Baker"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/329709203",
+  "photo": {
+    "id": 597711685,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597711685/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "jose_balderrama",
+  "observation": {
+    "id": 329709203,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 169769,
+      "name": "Tillandsia tenuifolia"
+    },
+    "observerLogin": "jose_balderrama"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597711685/large.jpg",
+    "sha256": "2279f5dff27e0ce1193b99dd7769bb7aae6a904c7c2c047ee36ff6369d30716c",
+    "retrievedAt": "2026-10-16T22:13:23Z"
+  }
+}

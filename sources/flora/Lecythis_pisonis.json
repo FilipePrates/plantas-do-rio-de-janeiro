@@ -1,0 +1,436 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Lecythis_pisonis",
+  "retrievedAt": "2026-10-16T22:03:29Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 8561,
+        "scientificname": "Lecythis pisonis Cambess.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Lecythidaceae",
+        "genus": "Lecythis",
+        "specificepithet": "pisonis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Cambess.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Lecythidaceae A.Rich.;Lecythis Loefl.;Lecythis pisonis Cambess.",
+        "source": "Smith, N.P.,Mori, S.A.,Prance, G.T. 2015. Lecythidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB8561>http://floradobrasil2015.jbrj.gov.br/FB8561</a>)<br><br>Smith, N.P. 2020. Lecythis in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB8561\">https://floradobrasil2020.jbrj.gov.br/FB8561</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Mori, S.A. &amp;amp; Prance, G.T. Fl. Neotrop. Monogr. 21(II): 295 (1990)",
+        "parentnameusage": "Lecythis Loefl.",
+        "parentnameusageid": 8558,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB8561",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Smith, N.P. Lecythis in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB8561>. Acesso em: 16 oct. 2026.",
+        "modified": "2025-10-24 19:47:13.952"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RO",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RN",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PB",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PI",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Área Antrópica",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "sapucaia",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": ""
+        },
+        {
+          "vernacularname": "castanheira-de-sapucaia",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": ""
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Saint-Hilaire, A.F.C.P.,Fl. bras. merid.,2: 377,1829"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 59995,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Couroupita lentula Miers"
+        },
+        {
+          "relatedresourceid": 60184,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis densa Miers"
+        },
+        {
+          "relatedresourceid": 60236,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis paraënsis Huber ex Ducke"
+        },
+        {
+          "relatedresourceid": 139109,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis ollaria Vell."
+        },
+        {
+          "relatedresourceid": 60244,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis pisonis subsp. usitata (Miers) S.A.Mori & Prance"
+        },
+        {
+          "relatedresourceid": 139112,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis ollaria Spruce"
+        },
+        {
+          "relatedresourceid": 60045,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eschweilera manaosensis R.Knuth"
+        },
+        {
+          "relatedresourceid": 600345,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis paraensis Huber ex Ducke"
+        },
+        {
+          "relatedresourceid": 60273,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis usitata var. tenuifolia R.Knuth"
+        },
+        {
+          "relatedresourceid": 60272,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis usitata var. paraensis (Huber ex Ducke) R.Knuth"
+        },
+        {
+          "relatedresourceid": 30225,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Lecythis pisonis Cambess. subsp. pisonis"
+        },
+        {
+          "relatedresourceid": 60163,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis amapaensis Ledoux"
+        },
+        {
+          "relatedresourceid": 60165,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis amazonum Mart. ex O.Berg"
+        },
+        {
+          "relatedresourceid": 60242,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis pilaris Miers"
+        },
+        {
+          "relatedresourceid": 60192,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis hoppiana R.Knuth"
+        },
+        {
+          "relatedresourceid": 60259,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis setifera Miers"
+        },
+        {
+          "relatedresourceid": 60271,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis usitata Miers"
+        },
+        {
+          "relatedresourceid": 60262,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis sphaeroides Miers"
+        },
+        {
+          "relatedresourceid": 60277,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis velloziana Miers"
+        },
+        {
+          "relatedresourceid": 60270,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis urnigera Mart."
+        },
+        {
+          "relatedresourceid": 59990,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Couroupita crenulata Miers"
+        },
+        {
+          "relatedresourceid": 60291,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Pachylecythis egleri Ledoux"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 30225,
+        "scientificname": "Lecythis pisonis Cambess. subsp. pisonis",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Lecythidaceae",
+        "genus": "Lecythis",
+        "specificepithet": "pisonis",
+        "infraspecificepithet": "pisonis",
+        "scientificnameauthorship": "Cambess.",
+        "acceptednameusage": "Lecythis pisonis Cambess.",
+        "higherclassification": "Flora e Funga;Angiospermas;Lecythidaceae A.Rich.;Lecythis Loefl.;Lecythis pisonis Cambess.;Lecythis pisonis Cambess. subsp. pisonis",
+        "source": "Smith, N.P.,Mori, S.A.,Prance, G.T. 2015. Lecythidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB30225>http://floradobrasil2015.jbrj.gov.br/FB30225</a>)<br><br>Smith, N.P. 2020. Lecythis in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB30225\">https://floradobrasil2020.jbrj.gov.br/FB30225</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Lecythis pisonis Cambess.",
+        "parentnameusageid": 8561,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB30225",
+        "acceptednameusageid": 8561,
+        "bibliographiccitation_how_to_cite": "Smith, N.P. Lecythis in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB30225>. Acesso em: 16 oct. 2026.",
+        "modified": "2025-10-24 19:06:36.054"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 8561,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Lecythis pisonis Cambess."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 60244,
+        "scientificname": "Lecythis pisonis subsp. usitata (Miers) S.A.Mori & Prance",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Lecythidaceae",
+        "genus": "Lecythis",
+        "specificepithet": "pisonis",
+        "infraspecificepithet": "usitata",
+        "scientificnameauthorship": "(Miers) S.A.Mori & Prance",
+        "acceptednameusage": "Lecythis pisonis Cambess.",
+        "higherclassification": "Flora e Funga;Angiospermas;Lecythidaceae A.Rich.;Lecythis Loefl.;Lecythis pisonis Cambess.;Lecythis pisonis subsp. usitata (Miers) S.A.Mori & Prance",
+        "source": "Smith, N.P.,Mori, S.A.,Prance, G.T. 2015. Lecythidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB60244>http://floradobrasil2015.jbrj.gov.br/FB60244</a>)<br><br>Smith, N.P. 2020. Lecythis in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB60244\">https://floradobrasil2020.jbrj.gov.br/FB60244</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Lecythis pisonis Cambess.",
+        "parentnameusageid": 8561,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB60244",
+        "acceptednameusageid": 8561,
+        "bibliographiccitation_how_to_cite": "Smith, N.P. Lecythis in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB60244>. Acesso em: 16 oct. 2026.",
+        "modified": "2025-10-24 19:07:23.729"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Brittonia,33: 80,1981"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 8561,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis pisonis Cambess."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

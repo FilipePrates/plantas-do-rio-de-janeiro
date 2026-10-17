@@ -1,0 +1,260 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_tripartitum",
+  "retrievedAt": "2026-10-16T22:13:59Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 33906,
+        "scientificname": "Philodendron tripartitum (Jacq.) Schott",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "tripartitum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Jacq.) Schott",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron tripartitum (Jacq.) Schott",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB33906>http://floradobrasil2015.jbrj.gov.br/FB33906</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB33906\">https://floradobrasil2020.jbrj.gov.br/FB33906</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Croat, T. B. 1997. A revision of Philodendron subgenus Philodendron (Araceae) for Mexico and Central America. Ann. Missouri Bot. Gard. 84(3): 311&amp;ndash;704.\r\nGrayum, M. H. 2003. Araceae. In: Manual de Plantas de Costa Rica, B.E. Hammel, M.H. Grayum, C. Herrera &amp;amp; N. Zamora (eds.). Monogr. Syst. Bot. Missouri Bot. Gard. 92: 59&amp;ndash;200.",
+        "parentnameusage": "Philodendron Schott",
+        "parentnameusageid": 5015,
+        "originalnameusageid": "42380",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB33906",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2018-01-25 20:26:54.254"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RO",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Hemiepífita"
+        ],
+        "vegetationType": [
+          "Campinarana"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42817,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron affine Hemsl."
+        },
+        {
+          "relatedresourceid": 42867,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron holtonianum Schott"
+        },
+        {
+          "relatedresourceid": 42936,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron trilobatum Regel"
+        },
+        {
+          "relatedresourceid": 42857,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron fenzlii Engl."
+        },
+        {
+          "relatedresourceid": 42574,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Caladium trifoliatum Desf."
+        },
+        {
+          "relatedresourceid": 42938,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron tripartitum var. tricuspidatum Engl."
+        },
+        {
+          "relatedresourceid": 42937,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron tripartitum var. holtonianum (Schott) Engl."
+        },
+        {
+          "relatedresourceid": 42380,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Arum tripartitum Jacq."
+        },
+        {
+          "relatedresourceid": 42575,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Caladium tripartitum (Jacq.) Willd."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "P.C. Hutchison 8677",
+          "collectioncode": "UEC",
+          "catalognumber": "UEC098805",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/UEC098805",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 6841",
+          "collectioncode": "RB",
+          "catalognumber": "RB00474292",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00474292",
+          "locality": "PA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 6841",
+          "collectioncode": "RB",
+          "catalognumber": "RB00474292",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284292794",
+          "locality": "PA",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 42937,
+        "scientificname": "Philodendron tripartitum var. holtonianum (Schott) Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "tripartitum",
+        "infraspecificepithet": "holtonianum",
+        "scientificnameauthorship": "(Schott) Engl.",
+        "acceptednameusage": "Philodendron tripartitum (Jacq.) Schott",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron tripartitum (Jacq.) Schott;Philodendron tripartitum var. holtonianum (Schott) Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42937>http://floradobrasil2015.jbrj.gov.br/FB42937</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42937\">https://floradobrasil2020.jbrj.gov.br/FB42937</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Philodendron tripartitum (Jacq.) Schott",
+        "parentnameusageid": 33906,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42937",
+        "acceptednameusageid": 33906,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2014-06-17 13:37:58.235"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Bot. Jahrb. Syst.,26: 546,1899"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 33906,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron tripartitum (Jacq.) Schott"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 42938,
+        "scientificname": "Philodendron tripartitum var. tricuspidatum Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "tripartitum",
+        "infraspecificepithet": "tricuspidatum",
+        "scientificnameauthorship": "Engl.",
+        "acceptednameusage": "Philodendron tripartitum (Jacq.) Schott",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron tripartitum (Jacq.) Schott;Philodendron tripartitum var. tricuspidatum Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42938>http://floradobrasil2015.jbrj.gov.br/FB42938</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42938\">https://floradobrasil2020.jbrj.gov.br/FB42938</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Philodendron tripartitum (Jacq.) Schott",
+        "parentnameusageid": 33906,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42938",
+        "acceptednameusageid": 33906,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2014-06-17 13:40:10.113"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "C.P.F. von Martius,Fl. Bras.,3(2): 144,1878"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 33906,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron tripartitum (Jacq.) Schott"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

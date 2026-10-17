@@ -1,0 +1,181 @@
+{
+  "generatedAt": "2026-10-17T17:06:00.092Z",
+  "entries": 153,
+  "representedSpecies": 226,
+  "families": 28,
+  "invasiveEntries": 5,
+  "groupedGenera": [
+    {
+      "genus": "Anthurium",
+      "nativeRioStateAtlanticForestSpecies": 46,
+      "terrestrialSpecies": 34
+    },
+    {
+      "genus": "Philodendron",
+      "nativeRioStateAtlanticForestSpecies": 29,
+      "terrestrialSpecies": 5
+    }
+  ],
+  "cc0Photos": 214,
+  "illustratedEntries": 114,
+  "missingPhotos": [
+    {
+      "id": "spondias-venulosa",
+      "scientificName": "Spondias venulosa"
+    },
+    {
+      "id": "allagoptera-caudescens",
+      "scientificName": "Allagoptera caudescens"
+    },
+    {
+      "id": "attalea-humilis",
+      "scientificName": "Attalea humilis"
+    },
+    {
+      "id": "bactris-vulgaris",
+      "scientificName": "Bactris vulgaris"
+    },
+    {
+      "id": "geonoma-elegans",
+      "scientificName": "Geonoma elegans"
+    },
+    {
+      "id": "geonoma-pohliana",
+      "scientificName": "Geonoma pohliana"
+    },
+    {
+      "id": "syagrus-picrophylla",
+      "scientificName": "Syagrus picrophylla"
+    },
+    {
+      "id": "syagrus-weddelliana",
+      "scientificName": "Syagrus weddelliana"
+    },
+    {
+      "id": "sparattosperma-leucanthum",
+      "scientificName": "Sparattosperma leucanthum"
+    },
+    {
+      "id": "aechmea-lingulata",
+      "scientificName": "Aechmea lingulata"
+    },
+    {
+      "id": "alcantarea-regina",
+      "scientificName": "Alcantarea regina"
+    },
+    {
+      "id": "neoregelia-spectabilis",
+      "scientificName": "Neoregelia spectabilis"
+    },
+    {
+      "id": "nidularium-fulgens",
+      "scientificName": "Nidularium fulgens"
+    },
+    {
+      "id": "clusia-hilariana",
+      "scientificName": "Clusia hilariana"
+    },
+    {
+      "id": "copaifera-langsdorffii",
+      "scientificName": "Copaifera langsdorffii"
+    },
+    {
+      "id": "dalbergia-nigra",
+      "scientificName": "Dalbergia nigra"
+    },
+    {
+      "id": "nematanthus-brasiliensis",
+      "scientificName": "Nematanthus brasiliensis"
+    },
+    {
+      "id": "sinningia-speciosa",
+      "scientificName": "Sinningia speciosa"
+    },
+    {
+      "id": "nectandra-membranacea",
+      "scientificName": "Nectandra membranacea"
+    },
+    {
+      "id": "nectandra-oppositifolia",
+      "scientificName": "Nectandra oppositifolia"
+    },
+    {
+      "id": "ocotea-odorifera",
+      "scientificName": "Ocotea odorifera"
+    },
+    {
+      "id": "cariniana-ianeirensis",
+      "scientificName": "Cariniana ianeirensis"
+    },
+    {
+      "id": "lecythis-lanceolata",
+      "scientificName": "Lecythis lanceolata"
+    },
+    {
+      "id": "lecythis-lurida",
+      "scientificName": "Lecythis lurida"
+    },
+    {
+      "id": "pavonia-alnifolia",
+      "scientificName": "Pavonia alnifolia"
+    },
+    {
+      "id": "miconia-cinnamomifolia",
+      "scientificName": "Miconia cinnamomifolia"
+    },
+    {
+      "id": "pleroma-trichopodum",
+      "scientificName": "Pleroma trichopodum"
+    },
+    {
+      "id": "ficus-cyclophylla",
+      "scientificName": "Ficus cyclophylla"
+    },
+    {
+      "id": "campomanesia-guaviroba",
+      "scientificName": "Campomanesia guaviroba"
+    },
+    {
+      "id": "eugenia-copacabanensis",
+      "scientificName": "Eugenia copacabanensis"
+    },
+    {
+      "id": "eugenia-excelsa",
+      "scientificName": "Eugenia excelsa"
+    },
+    {
+      "id": "eugenia-sulcata",
+      "scientificName": "Eugenia sulcata"
+    },
+    {
+      "id": "myrcia-guianensis",
+      "scientificName": "Myrcia guianensis"
+    },
+    {
+      "id": "myrcia-multiflora",
+      "scientificName": "Myrcia multiflora"
+    },
+    {
+      "id": "myrcia-spectabilis",
+      "scientificName": "Myrcia spectabilis"
+    },
+    {
+      "id": "cattleya-guttata",
+      "scientificName": "Cattleya guttata"
+    },
+    {
+      "id": "bathysa-australis",
+      "scientificName": "Bathysa australis"
+    },
+    {
+      "id": "chrysophyllum-flexuosum",
+      "scientificName": "Chrysophyllum flexuosum"
+    },
+    {
+      "id": "manilkara-subsericea",
+      "scientificName": "Manilkara subsericea"
+    }
+  ],
+  "draftEntries": 153,
+  "draftPhotos": 214
+}

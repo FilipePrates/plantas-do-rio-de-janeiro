@@ -1,0 +1,68 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_itacarense",
+  "retrievedAt": "2026-10-16T22:11:35Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 633150,
+        "scientificname": "Anthurium itacarense K.M.Pimenta & Mayo",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "itacarense",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "K.M.Pimenta & Mayo",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium itacarense K.M.Pimenta & Mayo",
+        "source": "",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB633150",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2024-08-26 14:49:19.163"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "KARENA M. PIMENTA, LUCAS C. MARINHO, ANDRÉ M. AMORIM & SIMON MAYO,Phytotaxa,641 (2): 138–148,2024"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

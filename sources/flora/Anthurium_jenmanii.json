@@ -1,0 +1,195 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_jenmanii",
+  "retrievedAt": "2026-10-16T22:11:36Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 33812,
+        "scientificname": "Anthurium jenmanii Engl.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "jenmanii",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Engl.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium jenmanii Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB33812>http://floradobrasil2015.jbrj.gov.br/FB33812</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB33812\">https://floradobrasil2020.jbrj.gov.br/FB33812</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Pflanzenr. (Engler) , IV, 23B: 72 1905",
+        "namepublishedinyear": "1905",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB33812",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-18 22:49:13.402"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Engler, H.G.A.,Pflanzenr. (Engler) IV, 23B: 72,1905"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42216,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium englerianum G.S.Bunting"
+        },
+        {
+          "relatedresourceid": 42326,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium trinitatis Engl."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "G. Martinelli 14609",
+          "collectioncode": "K",
+          "catalognumber": "K000434221",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000434221",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 14609",
+          "collectioncode": "RB",
+          "catalognumber": "RB00470219",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00470219",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 14609",
+          "collectioncode": "K",
+          "catalognumber": "K000434222",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000434222",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 14609",
+          "collectioncode": "K",
+          "catalognumber": "K000434223",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000434223",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 14609",
+          "collectioncode": "K",
+          "catalognumber": "K000434220",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000434220",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 14609",
+          "collectioncode": "K",
+          "catalognumber": "K000434220",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227497493",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 14609",
+          "collectioncode": "K",
+          "catalognumber": "K000434221",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227497495",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 14609",
+          "collectioncode": "K",
+          "catalognumber": "K000434222",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227497497",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 14609",
+          "collectioncode": "K",
+          "catalognumber": "K000434223",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227497499",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 14609",
+          "collectioncode": "RB",
+          "catalognumber": "RB00470219",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284286902",
+          "locality": "AM",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

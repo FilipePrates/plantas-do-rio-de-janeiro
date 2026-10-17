@@ -1,0 +1,274 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_inaequilaterum",
+  "retrievedAt": "2026-10-16T22:13:11Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 22034,
+        "scientificname": "Philodendron inaequilaterum Liebm.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "inaequilaterum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Liebm.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron inaequilaterum Liebm.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB22034>http://floradobrasil2015.jbrj.gov.br/FB22034</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB22034\">https://floradobrasil2020.jbrj.gov.br/FB22034</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Grayum, M. H. 2003. Araceae. In: Manual de Plantas de Costa Rica, B.E. Hammel, M.H. Grayum, C. Herrera &amp;amp; N. Zamora (eds.). Monogr. Syst. Bot. Missouri Bot. Gard. 92: 59&amp;ndash;200.\r\nGrayum, M. H. 1996. Revision of Philodendron subgenus Pteromischum (Araceae) for Pacific and Caribbean tropical America. Syst. Bot. Monogr. 47: 1&amp;ndash;233.",
+        "parentnameusage": "Philodendron Schott",
+        "parentnameusageid": 5015,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB22034",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2018-01-24 18:30:36.932"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MT",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RO",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-GO",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Liana/volúvel/trepadeira"
+        ],
+        "habitat": [
+          "Hemiepífita"
+        ],
+        "vegetationType": [
+          "Floresta de Terra Firme",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42871,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron inaequilaterum subsp. zulianum G.S.Bunting"
+        },
+        {
+          "relatedresourceid": 42827,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron belizense Standl."
+        },
+        {
+          "relatedresourceid": 42927,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron silvaticum Engl."
+        },
+        {
+          "relatedresourceid": 42859,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron guatemalense Engl."
+        },
+        {
+          "relatedresourceid": 42941,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron zulianum (G.S.Bunting) Croat & N.Lamb."
+        },
+        {
+          "relatedresourceid": 42837,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron coerulescens Engl."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "S.R. Lowrie 470",
+          "collectioncode": "NY",
+          "catalognumber": "NY00865981",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228746133",
+          "locality": "AC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "S.R. Lowrie 470",
+          "collectioncode": "NY",
+          "catalognumber": "NY00865981",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00865981",
+          "locality": "AC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G.T. Prance 10970",
+          "collectioncode": "INPA",
+          "catalognumber": "INPA0029372",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/INPA0029372",
+          "locality": "RR",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 42870,
+        "scientificname": "Philodendron inaequilaterum subsp. anthoblastum G.S.Bunting",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "inaequilaterum",
+        "infraspecificepithet": "anthoblastum",
+        "scientificnameauthorship": "G.S.Bunting",
+        "acceptednameusage": "Philodendron guttiferum Kunth",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron inaequilaterum Liebm.;Philodendron inaequilaterum subsp. anthoblastum G.S.Bunting",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42870>http://floradobrasil2015.jbrj.gov.br/FB42870</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42870\">https://floradobrasil2020.jbrj.gov.br/FB42870</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Philodendron inaequilaterum Liebm.",
+        "parentnameusageid": 22034,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42870",
+        "acceptednameusageid": 22031,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2014-06-17 13:30:50.61"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Bunting, G.S.,Phytologia,60: 319,1986"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 22031,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron guttiferum Kunth"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 42871,
+        "scientificname": "Philodendron inaequilaterum subsp. zulianum G.S.Bunting",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "inaequilaterum",
+        "infraspecificepithet": "zulianum",
+        "scientificnameauthorship": "G.S.Bunting",
+        "acceptednameusage": "Philodendron inaequilaterum Liebm.",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron inaequilaterum Liebm.;Philodendron inaequilaterum subsp. zulianum G.S.Bunting",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42871>http://floradobrasil2015.jbrj.gov.br/FB42871</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42871\">https://floradobrasil2020.jbrj.gov.br/FB42871</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Philodendron inaequilaterum Liebm.",
+        "parentnameusageid": 22034,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42871",
+        "acceptednameusageid": 22034,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2014-06-17 13:29:46.546"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Bunting, G.S.,Acta Bot. Venez.,10: 299,1975"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 22034,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron inaequilaterum Liebm."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

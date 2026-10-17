@@ -1,0 +1,68 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_marquetianum",
+  "retrievedAt": "2026-10-16T22:11:50Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 641113,
+        "scientificname": "Anthurium marquetianum Felipe & Nadruz",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "marquetianum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Felipe & Nadruz",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium marquetianum Felipe & Nadruz",
+        "source": "SILVA, T.F., COELHO, M.A.N., MATTOS, J.R. &amp;amp; LOPES, R.C. 2026. Two new species of Anthurium Schott (Araceae) from Southeastern Brazil. Phytotaxa 751 (2): 176&amp;ndash;184. https://doi.org/10.11646/phytotaxa.751.2.8",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 751 (2): 199 2026",
+        "namepublishedinyear": "2026",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB641113",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2026-05-29 11:41:10.307"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "SILVA, T.F. et al.,Phytotaxa,751 (2): 199,2026"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

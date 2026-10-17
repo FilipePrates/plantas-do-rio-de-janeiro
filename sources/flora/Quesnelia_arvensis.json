@@ -1,0 +1,182 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Quesnelia_arvensis",
+  "retrievedAt": "2026-10-16T22:03:01Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 6336,
+        "scientificname": "Quesnelia arvensis (Vell.) Mez",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Quesnelia",
+        "specificepithet": "arvensis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Vell.) Mez",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Quesnelia Gaudich.;Quesnelia arvensis (Vell.) Mez",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB6336>http://floradobrasil2015.jbrj.gov.br/FB6336</a>)<br><br>Oliveira, F.M.C., Tardivo, R.C. 2020. Quesnelia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB6336\">https://floradobrasil2020.jbrj.gov.br/FB6336</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Quesnelia Gaudich.",
+        "parentnameusageid": 6335,
+        "originalnameusageid": "45983",
+        "namepublishedin": "Fl. bras. 3(3): 381 1894",
+        "namepublishedinyear": "1894",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB6336",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2022-06-22 11:54:01.806"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Manguezal",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Mez, C.,Fl. bras.,3(3): 381,1894"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 46855,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Quesnelia arvensis var. sororocabae (Lindm.) Mez"
+        },
+        {
+          "relatedresourceid": 46867,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Quesnelia rufa var. sororocabae Lindm."
+        },
+        {
+          "relatedresourceid": 45983,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Bromelia arvensis Vell."
+        },
+        {
+          "relatedresourceid": 45694,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Ananas arvensis (Vell.) Steud."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Vieira, C.M. 984",
+          "collectioncode": "RB",
+          "catalognumber": "RB00261436",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283954580",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Mosen H. 3708",
+          "collectioncode": "P",
+          "catalognumber": "P00753431",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00753431",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Vieira, C.M. 984",
+          "collectioncode": "RB",
+          "catalognumber": "RB00261436",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00261436",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Mosen H. 3708",
+          "collectioncode": "P",
+          "catalognumber": "P00753431",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228076005",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 46855,
+        "scientificname": "Quesnelia arvensis var. sororocabae (Lindm.) Mez",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Quesnelia",
+        "specificepithet": "arvensis",
+        "infraspecificepithet": "sororocabae",
+        "scientificnameauthorship": "(Lindm.) Mez",
+        "acceptednameusage": "Quesnelia arvensis (Vell.) Mez",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Quesnelia Gaudich.;Quesnelia arvensis (Vell.) Mez;Quesnelia arvensis var. sororocabae (Lindm.) Mez",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB46855>http://floradobrasil2015.jbrj.gov.br/FB46855</a>)<br><br>Oliveira, F.M.C., Tardivo, R.C. 2020. Quesnelia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB46855\">https://floradobrasil2020.jbrj.gov.br/FB46855</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Quesnelia arvensis (Vell.) Mez",
+        "parentnameusageid": 6336,
+        "originalnameusageid": null,
+        "namepublishedin": "Pflanzenr. (Engler) IV, 32: 172 1935",
+        "namepublishedinyear": "1935",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB46855",
+        "acceptednameusageid": 6336,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2016-12-10 19:51:00.394"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Mez, C.,Pflanzenr. (Engler),IV, 32: 172,1935"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 6336,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Quesnelia arvensis (Vell.) Mez"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

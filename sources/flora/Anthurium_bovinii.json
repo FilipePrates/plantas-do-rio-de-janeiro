@@ -1,0 +1,68 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_bovinii",
+  "retrievedAt": "2026-10-16T22:11:07Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 632860,
+        "scientificname": "Anthurium bovinii Camelo & Nadruz",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "bovinii",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Camelo & Nadruz",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium bovinii Camelo & Nadruz",
+        "source": "CAMELO, M.C. &amp;amp; COELHO, M.A.N. 2022. A New species of Anthurium from Amazon Domain. v.47:3(846-852).&amp;nbsp;DOI: https://doi.org/10.1600/036364422X16573019348373",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Systematic Botany 47:3, p. 646-852 2022",
+        "namepublishedinyear": "2022",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB632860",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2024-06-26 19:20:07.832"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita"
+        ],
+        "vegetationType": [
+          "Floresta de Terra Firme"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Camelo, M.C. & Coelho, M.A.N.,Systematic Botany,47:3, p. 646-852,2022"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

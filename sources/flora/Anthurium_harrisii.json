@@ -1,0 +1,514 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_harrisii",
+  "retrievedAt": "2026-10-16T22:11:32Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 4934,
+        "scientificname": "Anthurium harrisii (Graham) G.Don",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "harrisii",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Graham) G.Don",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium harrisii (Graham) G.Don",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB4934>http://floradobrasil2015.jbrj.gov.br/FB4934</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB4934\">https://floradobrasil2020.jbrj.gov.br/FB4934</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": "42988",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB4934",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-21 20:25:55.512"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Sweet, R.,Hort. Brit. ed. 3: 633,1839"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42289,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium pulchrum N.E.Br."
+        },
+        {
+          "relatedresourceid": 42240,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium harrisii var. pulchrum N.E.Br."
+        },
+        {
+          "relatedresourceid": 42328,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium undulatum K.Koch & C.D.Bouché"
+        },
+        {
+          "relatedresourceid": 42237,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium harrisii var. grahamianum Engl."
+        },
+        {
+          "relatedresourceid": 42233,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium harrisii var. assimile (Schott) Engl."
+        },
+        {
+          "relatedresourceid": 42191,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium assimile Schott"
+        },
+        {
+          "relatedresourceid": 42205,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium consanguineum Kunth ex Schott"
+        },
+        {
+          "relatedresourceid": 42312,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium scolopendroides Engl."
+        },
+        {
+          "relatedresourceid": 42972,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Podospadix harrisii (Graham) Raf."
+        },
+        {
+          "relatedresourceid": 42988,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Pothos harrisii Graham"
+        },
+        {
+          "relatedresourceid": 42235,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium harrisii var. consanguineum (Kunth) Engl."
+        },
+        {
+          "relatedresourceid": 43000,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Pothos rubricaulis Kunth"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "G. Martinelli 12189",
+          "collectioncode": "RB",
+          "catalognumber": "RB00470074",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00470074",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 12189",
+          "collectioncode": "RB",
+          "catalognumber": "RB00470074",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284283790",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 42233,
+        "scientificname": "Anthurium harrisii var. assimile (Schott) Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "harrisii",
+        "infraspecificepithet": "assimile",
+        "scientificnameauthorship": "(Schott) Engl.",
+        "acceptednameusage": "Anthurium harrisii (Graham) G.Don",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium harrisii (Graham) G.Don;Anthurium harrisii var. assimile (Schott) Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42233>http://floradobrasil2015.jbrj.gov.br/FB42233</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42233\">https://floradobrasil2020.jbrj.gov.br/FB42233</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium harrisii (Graham) G.Don",
+        "parentnameusageid": 4934,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42233",
+        "acceptednameusageid": 4934,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2015-02-05 18:07:15.926"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Martius, C.F.P. von & auct. suc. (eds.),Fl. bras.,3(2): 89,1878"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 4934,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium harrisii (Graham) G.Don"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 42234,
+        "scientificname": "Anthurium harrisii var. beyrichianum (Kunth) Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "harrisii",
+        "infraspecificepithet": "beyrichianum",
+        "scientificnameauthorship": "(Kunth) Engl.",
+        "acceptednameusage": "Anthurium intermedium Kunth",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium harrisii (Graham) G.Don;Anthurium harrisii var. beyrichianum (Kunth) Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42234>http://floradobrasil2015.jbrj.gov.br/FB42234</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42234\">https://floradobrasil2020.jbrj.gov.br/FB42234</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium harrisii (Graham) G.Don",
+        "parentnameusageid": 4934,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42234",
+        "acceptednameusageid": 4938,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2015-02-05 18:13:58.023"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Martius, C.F.P. von & auct. suc. (eds.),Fl. bras.,3(2): 89,1878"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 4938,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium intermedium Kunth"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 42235,
+        "scientificname": "Anthurium harrisii var. consanguineum (Kunth) Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "harrisii",
+        "infraspecificepithet": "consanguineum",
+        "scientificnameauthorship": "(Kunth) Engl.",
+        "acceptednameusage": "Anthurium harrisii (Graham) G.Don",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium harrisii (Graham) G.Don;Anthurium harrisii var. consanguineum (Kunth) Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42235>http://floradobrasil2015.jbrj.gov.br/FB42235</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42235\">https://floradobrasil2020.jbrj.gov.br/FB42235</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium harrisii (Graham) G.Don",
+        "parentnameusageid": 4934,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42235",
+        "acceptednameusageid": 4934,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2009-08-27 10:45:20.256919"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Martius, C.F.P. von & auct. suc. (eds.),Fl. bras.,3(2): 88,1878"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 4934,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium harrisii (Graham) G.Don"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 42236,
+        "scientificname": "Anthurium harrisii var. erythropodum (Miq.) Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "harrisii",
+        "infraspecificepithet": "erythropodum",
+        "scientificnameauthorship": "(Miq.) Engl.",
+        "acceptednameusage": "Anthurium intermedium Kunth",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium harrisii (Graham) G.Don;Anthurium harrisii var. erythropodum (Miq.) Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42236>http://floradobrasil2015.jbrj.gov.br/FB42236</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42236\">https://floradobrasil2020.jbrj.gov.br/FB42236</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium harrisii (Graham) G.Don",
+        "parentnameusageid": 4934,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42236",
+        "acceptednameusageid": 4938,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2015-02-05 18:20:28.388"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Bot. Jahrb. Syst.,25: 411,1898"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 4938,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium intermedium Kunth"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 42237,
+        "scientificname": "Anthurium harrisii var. grahamianum Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "harrisii",
+        "infraspecificepithet": "grahamianum",
+        "scientificnameauthorship": "Engl.",
+        "acceptednameusage": "Anthurium harrisii (Graham) G.Don",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium harrisii (Graham) G.Don;Anthurium harrisii var. grahamianum Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42237>http://floradobrasil2015.jbrj.gov.br/FB42237</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42237\">https://floradobrasil2020.jbrj.gov.br/FB42237</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium harrisii (Graham) G.Don",
+        "parentnameusageid": 4934,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42237",
+        "acceptednameusageid": 4934,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2009-08-27 10:47:15.182601"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Martius, C.F.P. von & auct. suc. (eds.),Fl. bras.,3(2): 88,1878"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 4934,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium harrisii (Graham) G.Don"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 42238,
+        "scientificname": "Anthurium harrisii var. ianthinopodum Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "harrisii",
+        "infraspecificepithet": "ianthinopodum",
+        "scientificnameauthorship": "Engl.",
+        "acceptednameusage": "Anthurium ianthinopodum (Schott ex Engl.) Nadruz & Mayo",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium harrisii (Graham) G.Don;Anthurium harrisii var. ianthinopodum Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42238>http://floradobrasil2015.jbrj.gov.br/FB42238</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42238\">https://floradobrasil2020.jbrj.gov.br/FB42238</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium harrisii (Graham) G.Don",
+        "parentnameusageid": 4934,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42238",
+        "acceptednameusageid": 25171,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2009-08-27 10:48:24.359046"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Martius, C.F.P. von & auct. suc. (eds.),Fl. bras.,3(2): 88,1878"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 25171,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium ianthinopodum (Schott ex Engl.) Nadruz & Mayo"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 42239,
+        "scientificname": "Anthurium harrisii var. intermedium (Kunth) Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "harrisii",
+        "infraspecificepithet": "intermedium",
+        "scientificnameauthorship": "(Kunth) Engl.",
+        "acceptednameusage": "Anthurium intermedium Kunth",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium harrisii (Graham) G.Don;Anthurium harrisii var. intermedium (Kunth) Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42239>http://floradobrasil2015.jbrj.gov.br/FB42239</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42239\">https://floradobrasil2020.jbrj.gov.br/FB42239</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium harrisii (Graham) G.Don",
+        "parentnameusageid": 4934,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42239",
+        "acceptednameusageid": 4938,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2015-02-05 18:22:40.477"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Martius, C.F.P. von & auct. suc. (eds.),Fl. bras.,3(2): 88,1878"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 4938,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium intermedium Kunth"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 42240,
+        "scientificname": "Anthurium harrisii var. pulchrum N.E.Br.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "harrisii",
+        "infraspecificepithet": "pulchrum",
+        "scientificnameauthorship": "N.E.Br.",
+        "acceptednameusage": "Anthurium harrisii (Graham) G.Don",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium harrisii (Graham) G.Don;Anthurium harrisii var. pulchrum N.E.Br.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42240>http://floradobrasil2015.jbrj.gov.br/FB42240</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42240\">https://floradobrasil2020.jbrj.gov.br/FB42240</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium harrisii (Graham) G.Don",
+        "parentnameusageid": 4934,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42240",
+        "acceptednameusageid": 4934,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2009-08-27 10:49:36.526648"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Gard. Chron. n.s., 14: 358,1880"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 4934,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium harrisii (Graham) G.Don"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

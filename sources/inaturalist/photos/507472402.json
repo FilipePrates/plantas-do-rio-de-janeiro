@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/282467266",
+  "photo": {
+    "id": 507472402,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507472402/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Paula Romano",
+  "observation": {
+    "id": 282467266,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 141005,
+      "name": "Heliconia farinosa"
+    },
+    "observerLogin": "paularomano"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507472402/large.jpg",
+    "sha256": "6c869ed41f6b11356c6fcfa1b78b57a3d2e4cbc53c1b247beba4762961e6324f",
+    "retrievedAt": "2026-10-16T22:16:31Z"
+  }
+}

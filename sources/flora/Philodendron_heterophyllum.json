@@ -1,0 +1,146 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_heterophyllum",
+  "retrievedAt": "2026-10-16T22:13:09Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 22032,
+        "scientificname": "Philodendron heterophyllum Poepp.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "heterophyllum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Poepp.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron heterophyllum Poepp.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB22032>http://floradobrasil2015.jbrj.gov.br/FB22032</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB22032\">https://floradobrasil2020.jbrj.gov.br/FB22032</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).J&amp;oslash;rgensen, P. M. &amp;amp; S. Le&amp;oacute;n-Y&amp;aacute;nez (eds.) 1999. Catalogue of the vascular plants of Ecuador. Monogr. Syst. Bot. Missouri Bot. Gard. 75: i&amp;ndash;viii, 1&amp;ndash;1182.",
+        "parentnameusage": "Philodendron Schott",
+        "parentnameusageid": 5015,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB22032",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2017-12-03 09:15:48.383"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RO",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Hemiepífita"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "C. Ferreira 9591",
+          "collectioncode": "NY",
+          "catalognumber": "NY00471906",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228746011",
+          "locality": "AC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "C. Ferreira 9591",
+          "collectioncode": "NY",
+          "catalognumber": "NY00471906",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00471906",
+          "locality": "AC",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 42865,
+        "scientificname": "Philodendron heterophyllum var. elaphoglossoides (Schott) Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "heterophyllum",
+        "infraspecificepithet": "elaphoglossoides",
+        "scientificnameauthorship": "(Schott) Engl.",
+        "acceptednameusage": "Philodendron elaphoglossoides Schott",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron heterophyllum Poepp.;Philodendron heterophyllum var. elaphoglossoides (Schott) Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42865>http://floradobrasil2015.jbrj.gov.br/FB42865</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42865\">https://floradobrasil2020.jbrj.gov.br/FB42865</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Philodendron heterophyllum Poepp.",
+        "parentnameusageid": 22032,
+        "originalnameusageid": "22026",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42865",
+        "acceptednameusageid": 22026,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2014-06-17 13:27:08.139"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "C.P.F. von Martius,Fl. Bras.,3(2): 152,1878"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 22026,
+          "relationshipofresource": "É sinônimo BASIONIMO",
+          "scientificname": "Philodendron elaphoglossoides Schott"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

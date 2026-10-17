@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/106024166",
+  "photo": {
+    "id": 178025499,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178025499/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Carlos Henrique Russi",
+  "observation": {
+    "id": 106024166,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 783900,
+      "name": "Jacaranda puberula"
+    },
+    "observerLogin": "carloshrussi"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178025499/large.jpeg",
+    "sha256": "342ba85398ac264cf8d4aea47759f0d3721bcb3d26b8d3d0d6c72c23526307a8",
+    "retrievedAt": "2026-10-16T22:11:34Z"
+  }
+}

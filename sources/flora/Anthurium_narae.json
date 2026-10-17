@@ -1,0 +1,74 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_narae",
+  "retrievedAt": "2026-10-16T22:11:57Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 605557,
+        "scientificname": "Anthurium narae Nadruz, Camelo & Temponi",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "narae",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Nadruz, Camelo & Temponi",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium narae Nadruz, Camelo & Temponi",
+        "source": "Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB605557\">https://floradobrasil2020.jbrj.gov.br/FB605557</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).&amp;nbsp;\r\nTerrestrial, sciophytic; stem erect, red internally, internodes 0.5 cm long; cataphylls and prophylls red, entire at\r\nthe apex to slightly decomposed at the base of the stem; sheath 2.6&amp;minus;6.1 cm long.; petiole greenish to vinaceous at the\r\nbase, erect, convex to flattened abaxially and flattened, fairing adaxially, 50&amp;minus;60 cm long., 0.6 cm diam.; geniculum\r\n0.7&amp;minus;1 cm long., 0.4&amp;minus;4.5 cm diam.; leaf blade erect, entire, chartaceous, greenish, distinctly paler abaxially when fresh,\r\nyellowish to greenish when dry, lacking glandular punctuations, elliptic to ovate, 33.5&amp;minus;60.0 &amp;times; 15.0&amp;minus;17.5 cm, apex\r\nacute to acuminate, base acute, obtuse to cordate, when cordate posterior lobes 0.5&amp;minus;1.5 cm long.; midrib adaxially\r\nprominent and obtuse up to the median region and acute towards the apex, abaxially obtuse and strongly prominent in\r\nthe basal region; primary lateral veins 8&amp;minus;12 on both sides, departing midrib at angle 40o&amp;minus;55o, clearly visible strongly\r\nimpressed adaxially and prominent abaxially when fresh; secondary veins clearly visible strongly impressed adaxially\r\nand prominent abaxially; basal vein 0(&amp;ndash;1); collective vein 0.9&amp;minus;1.1 cm from margin. Inflorescence only seen at\r\npostanthesis,&amp;nbsp;peduncle vinaceous, erect, terete, 0.8&amp;minus;1.1 times as long as petiole, 48&amp;minus;60 cm long., 0.5 cm diam.; spathe\r\nbrown-spotted in post-anthesis and greenish in early fruit, reflexed, persistent, narrowly ovate, forming an acute angle\r\nwith peduncle, 5&amp;minus;8 cm long., 0.6&amp;minus;0.7 cm diam.; spadix brown at post-anthesis, tapered, 8&amp;ndash;15 cm long., 0.5 cm diam.,\r\nshortly stipitate, stipe c. 0.3 cm long; principal spiral with 4 flowers; alternate spiral with 5 flowers; lateral tepals\r\n1.5&amp;minus;1.8 &amp;times; 0.5&amp;minus;0.6 mm; anterior/posterior tepals 1.5&amp;minus;1.8 &amp;times; 1.9&amp;minus;2.1 mm; filaments flattened, 0.12&amp;minus;1.9 &amp;times; 0.7&amp;minus;1.1 mm;\r\nanthers dorsifixed, 0.3&amp;minus;0.4 mm long; pistils whitish, cylindrical; stigma sessile, lacking unicellular secretory trichomes;\r\novary bilocular, c. 1.4 &amp;times; 1.5&amp;minus;2.0 mm; ovule one per locule, placentation axial-apical, funicle glabrous. Berries greenish\r\nwith whitish punctuations at apex, whitish at base. Seeds 2 per berry, ovoid, verrucose, 4.0&amp;minus;3.5 &amp;times; 2.5&amp;minus;3.0 mm.\r\nPhenology:&amp;mdash;The species was in early fruit from January to April.",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 351 2018",
+        "namepublishedinyear": "2018",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB605557",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2022-03-31 20:26:56.121"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "antúrios-da-nara",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Rio de Janeiro"
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Camelo, M.C., Coelho, M.A.N. & Temponi L.G.,Phytotaxa,351,2018"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

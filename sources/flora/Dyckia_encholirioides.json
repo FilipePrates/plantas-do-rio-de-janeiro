@@ -1,0 +1,791 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Dyckia_encholirioides",
+  "retrievedAt": "2026-10-16T22:03:06Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 6061,
+        "scientificname": "Dyckia encholirioides (Gaudich.) Mez",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Dyckia",
+        "specificepithet": "encholirioides",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Gaudich.) Mez",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Dyckia Schult. & Schult.f.;Dyckia encholirioides (Gaudich.) Mez",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB6061>http://floradobrasil2015.jbrj.gov.br/FB6061</a>)<br><br>Büneker, H.M., Guarçoni, E.A.E., Santos-Silva, F., Forzza, R.C. 2020. Dyckia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB6061\">https://floradobrasil2020.jbrj.gov.br/FB6061</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Forzza, R.C. 2007. Dyckia. In Wanderley, M.G.L. et al. Flora Fanerog&amp;acirc;mica do Estado de S&amp;atilde;o Paulo. Vol. 5. Pp. 81-84.",
+        "parentnameusage": "Dyckia Schult. & Schult.f.",
+        "parentnameusageid": 6046,
+        "originalnameusageid": "46246",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB6061",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Guarçoni, E.A.E., Santos-Silva, F., Forzza, R.C. Dyckia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB6061>. Acesso em: 16 oct. 2026.",
+        "modified": "2021-10-30 13:14:27.833"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Restinga",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Mez, C.,Monogr. Phan. [A.DC. & C.DC.],9: 507,1896"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 46168,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Dyckia catharinensis var. dentata Wittm."
+        },
+        {
+          "relatedresourceid": 34312,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Dyckia encholirioides var. rubra (Wittm.) Reitz"
+        },
+        {
+          "relatedresourceid": 46246,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Garrelia encholirioides Gaudich."
+        },
+        {
+          "relatedresourceid": 34311,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Dyckia encholirioides (Gaudich.) Mez var. encholirioides"
+        },
+        {
+          "relatedresourceid": 46167,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Dyckia catharinensis K.Koch"
+        },
+        {
+          "relatedresourceid": 46207,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Dyckia rubra Wittm."
+        },
+        {
+          "relatedresourceid": 46227,
+          "relationshipofresource": null,
+          "scientificname": "Encholirium garrelii Beer"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "A. Loefgren CGG2649",
+          "collectioncode": "SP",
+          "catalognumber": "SP008952",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SP008952",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 19657",
+          "collectioncode": "US",
+          "catalognumber": "US01935333",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/US01935333",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 19657",
+          "collectioncode": "US",
+          "catalognumber": "US01935335",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/US01935335",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "C. Gaudichaud 130",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0186500",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/B 10 0186500",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "C. Gaudichaud 130",
+          "collectioncode": "P",
+          "catalognumber": "P00713127",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00713127",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "C. Gaudichaud 130",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0186501",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/B 10 0186501",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "R. Kummrow 754",
+          "collectioncode": "US",
+          "catalognumber": "US01935336",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/US01935336",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "RB",
+          "catalognumber": "RB00639844",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00639844",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "N. Imaguire 154",
+          "collectioncode": "US",
+          "catalognumber": "US01935329",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/US01935329",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C.H. Mamede 270",
+          "collectioncode": "RB",
+          "catalognumber": "RB00639850",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00639850",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 15886",
+          "collectioncode": "RB",
+          "catalognumber": "RB00141196",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00141196",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.A. Funez 972",
+          "collectioncode": "FURB",
+          "catalognumber": "FURB19508",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/FURB19508",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.B. Smith 5970",
+          "collectioncode": "US",
+          "catalognumber": "US01935340",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/US01935340",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 12750",
+          "collectioncode": "K",
+          "catalognumber": "K000976002",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000976002",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "ICN",
+          "catalognumber": "ICN00029979",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ICN00029979",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 12750",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM000039",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM000039",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "ICN",
+          "catalognumber": "ICN00029978",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ICN00029978",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 19657",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM007459",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM007459",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "C. Stellfeld 2006",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM180497",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM180497",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Schwacke 13373",
+          "collectioncode": "P",
+          "catalognumber": "P02177646",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P02177646",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 6666",
+          "collectioncode": "US",
+          "catalognumber": "US01935334",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/US01935334",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.C. Sacco 2077",
+          "collectioncode": "PEL",
+          "catalognumber": "PEL0001525",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/PEL0001525",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "MBM",
+          "catalognumber": "MBM113418",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM113418",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.R. Reitz 4030",
+          "collectioncode": "US",
+          "catalognumber": "US01935330",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/US01935330",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "MBM",
+          "catalognumber": "MBM004779",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM004779",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "C. Gaudichaud 130",
+          "collectioncode": "P",
+          "catalognumber": "P00713125",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00713125",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "C. Gaudichaud 130",
+          "collectioncode": "P",
+          "catalognumber": "P00713126",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00713126",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "R.M. Britez 1048",
+          "collectioncode": "UPCB",
+          "catalognumber": "UPCB0033311",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/UPCB0033311",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M. Fonseca 493",
+          "collectioncode": "RB",
+          "catalognumber": "RB00288691",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00288691",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Kummrow 754",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM033316",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM033316",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 71834",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM259948",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM259948",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Tessmann 2576",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM270243",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM270243",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "MBM",
+          "catalognumber": "MBM075228",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM075228",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 12750",
+          "collectioncode": "K",
+          "catalognumber": "K000976002",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227387439",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 12750",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM000039",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229307842",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.M. Britez 1048",
+          "collectioncode": "UPCB",
+          "catalognumber": "UPCB0033311",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100542405",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Tessmann 2576",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM270243",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=230029179",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C.H. Mamede 270",
+          "collectioncode": "RB",
+          "catalognumber": "RB00639850",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284593160",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "C. Stellfeld 2006",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM180497",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229511699",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.R. Reitz 4030",
+          "collectioncode": "US",
+          "catalognumber": "US01935330",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100260095",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Kummrow 754",
+          "collectioncode": "US",
+          "catalognumber": "US01935336",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100260107",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "C. Gaudichaud 130",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0186500",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=225977052",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "C. Gaudichaud 130",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0186501",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=225977054",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "RB",
+          "catalognumber": "RB00639844",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284593142",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "MBM",
+          "catalognumber": "MBM113418",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229476045",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "ICN",
+          "catalognumber": "ICN00029979",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229097585",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "ICN",
+          "catalognumber": "ICN00029979",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229097587",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.C. Sacco 2077",
+          "collectioncode": "PEL",
+          "catalognumber": "PEL0001525",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=174398093",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 19657",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM007459",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229460699",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 19657",
+          "collectioncode": "US",
+          "catalognumber": "US01935333",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100260101",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 19657",
+          "collectioncode": "US",
+          "catalognumber": "US01935335",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100260105",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 6666",
+          "collectioncode": "US",
+          "catalognumber": "US01935334",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100260103",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.A. Funez 972",
+          "collectioncode": "FURB",
+          "catalognumber": "FURB19508",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226979005",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.A. Funez 972",
+          "collectioncode": "FURB",
+          "catalognumber": "FURB19508",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226979001",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.A. Funez 972",
+          "collectioncode": "FURB",
+          "catalognumber": "FURB19508",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226979003",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Kummrow 754",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM033316",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229571831",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "C. Gaudichaud 130",
+          "collectioncode": "P",
+          "catalognumber": "P00713125",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228068077",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "C. Gaudichaud 130",
+          "collectioncode": "P",
+          "catalognumber": "P00713126",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228068079",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "C. Gaudichaud 130",
+          "collectioncode": "P",
+          "catalognumber": "P00713127",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228068081",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "G. Hatschbach 71834",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM259948",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229540701",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 15886",
+          "collectioncode": "RB",
+          "catalognumber": "RB00141196",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283789100",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 15886",
+          "collectioncode": "RB",
+          "catalognumber": "RB00141196",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283789102",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 15886",
+          "collectioncode": "RB",
+          "catalognumber": "RB00141196",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283789098",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M. Fonseca 493",
+          "collectioncode": "RB",
+          "catalognumber": "RB00288691",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283991180",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.B. Smith 5970",
+          "collectioncode": "US",
+          "catalognumber": "US01935340",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100260115",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "MBM",
+          "catalognumber": "MBM075228",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229616947",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "ICN",
+          "catalognumber": "ICN00029978",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229097581",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "ICN",
+          "catalognumber": "ICN00029978",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229097583",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "MBM",
+          "catalognumber": "MBM004779",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229450425",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Schwacke 13373",
+          "collectioncode": "P",
+          "catalognumber": "P02177646",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227930133",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "N. Imaguire 154",
+          "collectioncode": "US",
+          "catalognumber": "US01935329",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100260093",
+          "locality": "PR",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 34311,
+        "scientificname": "Dyckia encholirioides (Gaudich.) Mez var. encholirioides",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Dyckia",
+        "specificepithet": "encholirioides",
+        "infraspecificepithet": "encholirioides",
+        "scientificnameauthorship": "(Gaudich.) Mez",
+        "acceptednameusage": "Dyckia encholirioides (Gaudich.) Mez",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Dyckia Schult. & Schult.f.;Dyckia encholirioides (Gaudich.) Mez;Dyckia encholirioides (Gaudich.) Mez var. encholirioides",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB34311>http://floradobrasil2015.jbrj.gov.br/FB34311</a>)<br><br>Büneker, H.M., Guarçoni, E.A.E., Santos-Silva, F., Forzza, R.C. 2020. Dyckia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB34311\">https://floradobrasil2020.jbrj.gov.br/FB34311</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Dyckia encholirioides (Gaudich.) Mez",
+        "parentnameusageid": 6061,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB34311",
+        "acceptednameusageid": 6061,
+        "bibliographiccitation_how_to_cite": "Guarçoni, E.A.E., Santos-Silva, F., Forzza, R.C. Dyckia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB34311>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-02-11 18:44:18.594116"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 6061,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Dyckia encholirioides (Gaudich.) Mez"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 34312,
+        "scientificname": "Dyckia encholirioides var. rubra (Wittm.) Reitz",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Dyckia",
+        "specificepithet": "encholirioides",
+        "infraspecificepithet": "rubra",
+        "scientificnameauthorship": "(Wittm.) Reitz",
+        "acceptednameusage": "Dyckia encholirioides (Gaudich.) Mez",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Dyckia Schult. & Schult.f.;Dyckia encholirioides (Gaudich.) Mez;Dyckia encholirioides var. rubra (Wittm.) Reitz",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB34312>http://floradobrasil2015.jbrj.gov.br/FB34312</a>)<br><br>Büneker, H.M., Guarçoni, E.A.E., Santos-Silva, F., Forzza, R.C. 2020. Dyckia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB34312\">https://floradobrasil2020.jbrj.gov.br/FB34312</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Dyckia encholirioides (Gaudich.) Mez",
+        "parentnameusageid": 6061,
+        "originalnameusageid": "46207",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB34312",
+        "acceptednameusageid": 6061,
+        "bibliographiccitation_how_to_cite": "Guarçoni, E.A.E., Santos-Silva, F., Forzza, R.C. Dyckia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB34312>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-12-10 19:01:35.441"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Anais Bot. Herb. \"Barbosa Rodrigues\",3: 108,1951"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 6061,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Dyckia encholirioides (Gaudich.) Mez"
+        },
+        {
+          "relatedresourceid": 46207,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Dyckia rubra Wittm."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

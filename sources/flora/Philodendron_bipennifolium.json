@@ -1,0 +1,198 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_bipennifolium",
+  "retrievedAt": "2026-10-16T22:12:42Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5022,
+        "scientificname": "Philodendron bipennifolium Schott",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "bipennifolium",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Schott",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron bipennifolium Schott",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5022>http://floradobrasil2015.jbrj.gov.br/FB5022</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5022\">https://floradobrasil2020.jbrj.gov.br/FB5022</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Pontes, T.A.; Andrade, I.M.; Alves, M. 2010.&amp;nbsp;Flora da Usina S&amp;atilde;o Jos&amp;eacute;, Igarassu, Pernambuco: Araceae. Rodrigu&amp;eacute;sia 61(4):&amp;nbsp;689-704.",
+        "parentnameusage": "Philodendron Schott",
+        "parentnameusageid": 5015,
+        "originalnameusageid": null,
+        "namepublishedin": "Oesterr. Bot. Wochenbl. 5: 289 1855",
+        "namepublishedinyear": "1855",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5022",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2021-09-19 14:17:16.17"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-CE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva",
+          "Liana/volúvel/trepadeira"
+        ],
+        "habitat": [
+          "Hemiepífita"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Schott, H.W.,Oesterr. Bot. Wochenbl.,5: 289,1855"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42939,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron wayombense A.M.E.Jonker & Jonker"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "T.A. Pontes 106",
+          "collectioncode": "RB",
+          "catalognumber": "RB00641763",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284595876",
+          "locality": "PE",
+          "typestatus": null
+        },
+        {
+          "recordedby": "H.C. Lima 4638",
+          "collectioncode": "RB",
+          "catalognumber": "RB00472540",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284287882",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "H.C. Lima 4638",
+          "collectioncode": "RB",
+          "catalognumber": "RB00472540",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284287884",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "T.A. Pontes 106",
+          "collectioncode": "RB",
+          "catalognumber": "RB00641763",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00641763",
+          "locality": "PE",
+          "typestatus": null
+        },
+        {
+          "recordedby": "H.C. Lima 4638",
+          "collectioncode": "RB",
+          "catalognumber": "RB00472540",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00472540",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M. Nadruz 1333",
+          "collectioncode": "RB",
+          "catalognumber": "RB00472543",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00472543",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "N.G. Antas 184",
+          "collectioncode": "RB",
+          "catalognumber": "RB00840367",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00840367",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M. Nadruz 1333",
+          "collectioncode": "RB",
+          "catalognumber": "RB00472543",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284287890",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "N.G. Antas 184",
+          "collectioncode": "RB",
+          "catalognumber": "RB00840367",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284872360",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

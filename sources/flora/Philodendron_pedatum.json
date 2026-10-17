@@ -1,0 +1,488 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_pedatum",
+  "retrievedAt": "2026-10-16T22:13:34Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5054,
+        "scientificname": "Philodendron pedatum (Hook.) Kunth",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "pedatum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Hook.) Kunth",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron pedatum (Hook.) Kunth",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5054>http://floradobrasil2015.jbrj.gov.br/FB5054</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5054\">https://floradobrasil2020.jbrj.gov.br/FB5054</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Hokche, O., P.E. Berry &amp;amp; O. Huber 2008. Nuev. Cat. Fl. Vas. Venezuela 1&amp;ndash;860.\r\nFunk, V., T. Hollowell, P. Berry, C. Kelloff, and S.N. Alexander 2007. Checklist of the Plants of the Guiana Shield (Venezuela: Amazonas, Bolivar, Delta Amacuro; Guyana, Surinam, French Guiana). Contr. U.S. Natl. Herb. 55: 1&amp;ndash;584.\r\nSteyermark, J. et al. 1995. Flora of the Venezuelan Guayana Project.",
+        "parentnameusage": "Philodendron Schott",
+        "parentnameusageid": 5015,
+        "originalnameusageid": "42520",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5054",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-02-07 14:57:26.351"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RO",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AL",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-DF",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-CE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MT",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Hemiepífita"
+        ],
+        "vegetationType": [
+          "Campinarana",
+          "Floresta Ciliar ou Galeria",
+          "Floresta de Terra Firme",
+          "Floresta de Várzea",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 26519,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron laciniatum (Vell.) Engl."
+        },
+        {
+          "relatedresourceid": 42899,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron pedatum var. weddelianum Engl."
+        },
+        {
+          "relatedresourceid": 26520,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron laciniatum var. weddellianum Engl."
+        },
+        {
+          "relatedresourceid": 42658,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Dracontium laciniatum Vell."
+        },
+        {
+          "relatedresourceid": 42520,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Caladium pedatum Hook."
+        },
+        {
+          "relatedresourceid": 120680,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron laciniatum (Vell.) Engl. var. laciniatum"
+        },
+        {
+          "relatedresourceid": 42910,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron polypodioides A.M.E.Jonker & Jonker"
+        },
+        {
+          "relatedresourceid": 42875,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron laciniatum var. palmatisectum Engl."
+        },
+        {
+          "relatedresourceid": 42818,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron amazonicum Engl."
+        },
+        {
+          "relatedresourceid": 42914,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron quercifolium Engl."
+        },
+        {
+          "relatedresourceid": 42877,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron laciniosum Schott"
+        },
+        {
+          "relatedresourceid": 42850,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron duisbergii Epple ex G.S.Bunting"
+        },
+        {
+          "relatedresourceid": 42940,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron weddellianum Engl."
+        },
+        {
+          "relatedresourceid": 42876,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron laciniatum subsp. weddellianum Engl."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "M.C.F. Santos 169",
+          "collectioncode": "RB",
+          "catalognumber": "RB00473938",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284291696",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "S.J. Mayo 779",
+          "collectioncode": "RB",
+          "catalognumber": "RB00474239",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284292590",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "S.J. Mayo 779",
+          "collectioncode": "RB",
+          "catalognumber": "RB00474239",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00474239",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Balée, W.L. 2023",
+          "collectioncode": "NY",
+          "catalognumber": "NY00194362",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00194362",
+          "locality": "MA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Lowrie, S.R. 417",
+          "collectioncode": "INPA",
+          "catalognumber": "NY00498113",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00498113",
+          "locality": "AC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C.F. Santos 169",
+          "collectioncode": "RB",
+          "catalognumber": "RB00473938",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00473938",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Kollmann 11231",
+          "collectioncode": "RB",
+          "catalognumber": "RB00543936",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00543936",
+          "locality": "ES",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "L. Kollmann 11231",
+          "collectioncode": "RB",
+          "catalognumber": "RB00543936",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284406260",
+          "locality": "ES",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "L. Kollmann 11231",
+          "collectioncode": "RB",
+          "catalognumber": "RB00543936",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284406262",
+          "locality": "ES",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Balée, W.L. 2023",
+          "collectioncode": "NY",
+          "catalognumber": "NY00194362",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228745987",
+          "locality": "MA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Lowrie, S.R. 417",
+          "collectioncode": "INPA",
+          "catalognumber": "NY00498113",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228746037",
+          "locality": "AC",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 42899,
+        "scientificname": "Philodendron pedatum var. weddelianum Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "pedatum",
+        "infraspecificepithet": "weddelianum",
+        "scientificnameauthorship": "Engl.",
+        "acceptednameusage": "Philodendron pedatum (Hook.) Kunth",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron pedatum (Hook.) Kunth;Philodendron pedatum var. weddelianum Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42899>http://floradobrasil2015.jbrj.gov.br/FB42899</a>)<br><br>Sakuragui, C.M., Calazans, L.S.B., Soares, M.L., Mayo, S.J., Ferreira, J.B. 2020. Philodendron in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42899\">https://floradobrasil2020.jbrj.gov.br/FB42899</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Philodendron pedatum (Hook.) Kunth",
+        "parentnameusageid": 5054,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42899",
+        "acceptednameusageid": 5054,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2014-06-17 13:33:27.511"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Engler, A.,Bot. Jahrb. Syst.,1: 485,1881"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5054,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Philodendron pedatum (Hook.) Kunth"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

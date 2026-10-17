@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/259647596",
+  "photo": {
+    "id": 466135770,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466135770/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "filipeprates",
+  "observation": {
+    "id": 259647596,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 364270,
+      "name": "Astrocaryum aculeatissimum"
+    },
+    "observerLogin": "filipeprates"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466135770/large.jpeg",
+    "sha256": "12d55ee1e0259112da21091d1c387c3a7033f87e3ab6c87cae377d63d8e36c26",
+    "retrievedAt": "2026-10-16T22:10:33Z"
+  }
+}

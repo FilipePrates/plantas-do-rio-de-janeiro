@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/317150816",
+  "photo": {
+    "id": 573061108,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1542
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573061108/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Damien Wallace",
+  "observation": {
+    "id": 317150816,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 278242,
+      "name": "Psidium cattleyanum"
+    },
+    "observerLogin": "damienxw"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573061108/large.jpg",
+    "sha256": "e619abc1ae7a2206b6dba31ee24ea9d2d8a52ab7a98969399bfc416e3adb3a21",
+    "retrievedAt": "2026-10-16T22:20:03Z"
+  }
+}

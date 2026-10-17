@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/159307740",
+  "photo": {
+    "id": 275234169,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 900,
+      "height": 1600
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/275234169/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Luis Capeletti",
+  "observation": {
+    "id": 159307740,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 154537,
+      "name": "Psidium guineense"
+    },
+    "observerLogin": "luiscapeletti"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/275234169/large.jpeg",
+    "sha256": "69f8438e9f9fa4cdf428681d38172875fdf6d31ffac0d87ba69eea100758810f",
+    "retrievedAt": "2026-10-16T22:20:07Z"
+  }
+}

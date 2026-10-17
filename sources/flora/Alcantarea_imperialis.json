@@ -1,0 +1,177 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Alcantarea_imperialis",
+  "retrievedAt": "2026-10-16T22:02:15Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5899,
+        "scientificname": "Alcantarea imperialis (Carrière) Harms",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Alcantarea",
+        "specificepithet": "imperialis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Carrière) Harms",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Alcantarea (É.Morren ex Mez) Harms;Alcantarea imperialis (Carrière) Harms",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5899>http://floradobrasil2015.jbrj.gov.br/FB5899</a>)<br><br>Versieux, L.M. 2020. Alcantarea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5899\">https://floradobrasil2020.jbrj.gov.br/FB5899</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).VERSIEUX, L.M. 2009. Sistem&amp;aacute;tica, filogenia e morfologia de Alcantarea (Bromeliaceae).&amp;nbsp; Ph.D. Thesis, Instituto de Bioci&amp;ecirc;ncias, Universidade de S&amp;atilde;o Paulo.",
+        "parentnameusage": "Alcantarea (É.Morren ex Mez) Harms",
+        "parentnameusageid": 5888,
+        "originalnameusageid": "34521",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5899",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Versieux, L.M. Alcantarea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB5899>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-12-22 17:12:39.818"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Campo de Altitude",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Harms, H.,Nat. Pflanzenfam. [Engler & Prantl] 15a: 126,1930"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 46967,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Tillandsia blokii Hemsl."
+        },
+        {
+          "relatedresourceid": 47247,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Vriesea blokii (Hemsl.) Mez"
+        },
+        {
+          "relatedresourceid": 34521,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Vriesea imperialis Carrière"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Schwacke 11911",
+          "collectioncode": "RB",
+          "catalognumber": "RB00184279",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283860292",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Schwacke 11911",
+          "collectioncode": "RB",
+          "catalognumber": "RB00184279",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283860294",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Schwacke 11911",
+          "collectioncode": "RB",
+          "catalognumber": "RB00184279",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283860288",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Schwacke 11911",
+          "collectioncode": "RB",
+          "catalognumber": "RB00184279",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283860290",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000322037",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227599865",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000322037",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227599863",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000322037",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227599867",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000322037",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227599869",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000322037",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000322037",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Schwacke 11911",
+          "collectioncode": "RB",
+          "catalognumber": "RB00184279",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00184279",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

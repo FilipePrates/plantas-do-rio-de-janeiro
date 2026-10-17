@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/387572846",
+  "photo": {
+    "id": 709722339,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1638
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/709722339/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Dixie Sommers",
+  "observation": {
+    "id": 387572846,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 344856,
+      "name": "Tabebuia roseoalba"
+    },
+    "observerLogin": "dixiesommers"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/709722339/large.jpg",
+    "sha256": "563de119c0f6f9dcaf2351fe609d0205710a10c5b82bbd8268142d7649121c9a",
+    "retrievedAt": "2026-10-16T22:11:39Z"
+  }
+}

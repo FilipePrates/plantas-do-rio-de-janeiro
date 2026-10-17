@@ -1,0 +1,68 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_guaratinguense",
+  "retrievedAt": "2026-10-16T22:11:29Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 641110,
+        "scientificname": "Anthurium guaratinguense Theófilo & Magno",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "guaratinguense",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Theófilo & Magno",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium guaratinguense Theófilo & Magno",
+        "source": "VALADARES, R.T., MAGNO, A. &amp;amp; MEDEIROS, J.P.S. 2026. Anthurium guaratinguense (Araceae), a new species with cordate leaves from Bahia Atlantic Forest, Brazil. Phytotaxa 748 (2): 221&amp;ndash;229. https://doi.org/10.11646/phytotaxa.748.2.6",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 748 (2): 222-223 2026",
+        "namepublishedinyear": "2026",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB641110",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2026-05-29 11:24:05.284"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Valadares, R.T. et al.,Phytotaxa,748 (2): 222-223,2026"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

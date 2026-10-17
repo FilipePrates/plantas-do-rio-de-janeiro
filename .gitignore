@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+dist/
+android/
+ios/
+.env*
+.secrets/
+*.pyc
+__pycache__/
+sources/inaturalist/raw/
+*.log
+backups/

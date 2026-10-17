@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/321120557",
+  "photo": {
+    "id": 580699844,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1542
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580699844/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "natalie",
+  "observation": {
+    "id": 321120557,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1064938,
+      "name": "Megathyrsus maximus"
+    },
+    "observerLogin": "nat_t"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580699844/large.jpg",
+    "sha256": "b0652ec86c77f429aeae9cdda55c0555b28a5a7a148fbe0f827e43dec82f0ce4",
+    "retrievedAt": "2026-10-16T22:21:00Z"
+  }
+}

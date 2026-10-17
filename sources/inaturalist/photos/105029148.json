@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/65274088",
+  "photo": {
+    "id": 105029148,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105029148/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Jean-Paul Boerekamps",
+  "observation": {
+    "id": 65274088,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 365290,
+      "name": "Geonoma schottiana"
+    },
+    "observerLogin": "jeanpaulboerekamps"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105029148/large.jpg",
+    "sha256": "5d984c8d0643cbffd0d54b754218518eb42938833d488c28f0c371adc7e8958e",
+    "retrievedAt": "2026-10-16T22:11:05Z"
+  }
+}

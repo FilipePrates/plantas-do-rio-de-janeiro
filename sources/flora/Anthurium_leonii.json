@@ -1,0 +1,200 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_leonii",
+  "retrievedAt": "2026-10-16T22:11:41Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 4944,
+        "scientificname": "Anthurium leonii E.G.Gonç.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "leonii",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "E.G.Gonç.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium leonii E.G.Gonç.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB4944>http://floradobrasil2015.jbrj.gov.br/FB4944</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB4944\">https://floradobrasil2020.jbrj.gov.br/FB4944</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Gon&amp;ccedil;alves, E. G. 2005. A new &lt;em&gt;Anthurium&lt;/em&gt; sect. &lt;em&gt;Pachyneurium&lt;/em&gt; (Araceae) from Minas Gerais state, Brazil. Novon. 15: 133-135.\r\n&amp;nbsp;",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Novon 15: 133 2005",
+        "namepublishedinyear": "2005",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB4944",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-23 14:39:14.903"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Gonçalves, E.G.,Novon,15: 133,2005"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "M.C. Camelo 29",
+          "collectioncode": "RB",
+          "catalognumber": "RB01377961",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=285126226",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C. Camelo 45",
+          "collectioncode": "RB",
+          "catalognumber": "RB01400444",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=285169076",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C. Camelo 26",
+          "collectioncode": "RB",
+          "catalognumber": "RB01377958",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=285126216",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C. Camelo 26",
+          "collectioncode": "RB",
+          "catalognumber": "RB01377958",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=285126214",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Krieger 23378",
+          "collectioncode": "K",
+          "catalognumber": "K001186565",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K001186565",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 4270",
+          "collectioncode": "RB",
+          "catalognumber": "RB00552018",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00552018",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C. Camelo 29",
+          "collectioncode": "RB",
+          "catalognumber": "RB01377961",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB01377961",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Krieger 23378",
+          "collectioncode": "K",
+          "catalognumber": "K001186566",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K001186566",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C. Camelo 26",
+          "collectioncode": "RB",
+          "catalognumber": "RB01377958",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB01377958",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C. Camelo 45",
+          "collectioncode": "RB",
+          "catalognumber": "RB01400444",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB01400444",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Krieger 23378",
+          "collectioncode": "K",
+          "catalognumber": "K001186565",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227278058",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Krieger 23378",
+          "collectioncode": "K",
+          "catalognumber": "K001186566",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227278060",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 4270",
+          "collectioncode": "RB",
+          "catalognumber": "RB00552018",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284421150",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 4270",
+          "collectioncode": "RB",
+          "catalognumber": "RB00552018",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284421152",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 4270",
+          "collectioncode": "RB",
+          "catalognumber": "RB00552018",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284421146",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 4270",
+          "collectioncode": "RB",
+          "catalognumber": "RB00552018",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284421148",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

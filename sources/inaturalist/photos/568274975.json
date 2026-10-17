@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/314626234",
+  "photo": {
+    "id": 568274975,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568274975/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Thea Skaff",
+  "observation": {
+    "id": 314626234,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 244459,
+      "name": "Acrocomia aculeata"
+    },
+    "observerLogin": "theabobea"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568274975/large.jpg",
+    "sha256": "88059f4ade13b26cd8a421685763adc6a0f7baf17f3c2df78525267c5cb59358",
+    "retrievedAt": "2026-10-16T22:10:21Z"
+  }
+}

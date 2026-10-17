@@ -1,0 +1,178 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Neoregelia_cruenta",
+  "retrievedAt": "2026-10-16T22:02:39Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 6156,
+        "scientificname": "Neoregelia cruenta (R.Graham) L.B.Sm.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Neoregelia",
+        "specificepithet": "cruenta",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(R.Graham) L.B.Sm.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Neoregelia L.B.Sm.;Neoregelia cruenta (R.Graham) L.B.Sm.",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB6156>http://floradobrasil2015.jbrj.gov.br/FB6156</a>)<br><br>Kessous, I.M., Almeida, M.M. 2020. Neoregelia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB6156\">https://floradobrasil2020.jbrj.gov.br/FB6156</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).&amp;nbsp;\r\n&lt;div class=&quot;grammarly-disable-indicator&quot;&gt;&amp;nbsp;&lt;/div&gt;",
+        "parentnameusage": "Neoregelia L.B.Sm.",
+        "parentnameusageid": 6131,
+        "originalnameusageid": "45992",
+        "namepublishedin": "Contr. Gray Herb. 124: 9 1939",
+        "namepublishedinyear": "1939",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB6156",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Kessous, I.M., Almeida, M.M. Neoregelia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB6156>. Acesso em: 16 oct. 2026.",
+        "modified": "2021-10-29 16:53:01.913"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Manguezal",
+          "Restinga",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "L.B. Sm.,Contr. Gray Herb.,124: 9,1939"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 45992,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Bromelia cruenta R.Graham"
+        },
+        {
+          "relatedresourceid": 46399,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Karatas cruenta (R.Graham) G.Nicholson"
+        },
+        {
+          "relatedresourceid": 46884,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Regelia cruenta (Graham) Lindm."
+        },
+        {
+          "relatedresourceid": 45832,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aregelia rubrospinosa Mez"
+        },
+        {
+          "relatedresourceid": 46543,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Nidularium cruentum (Graham) Regel"
+        },
+        {
+          "relatedresourceid": 45809,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Aregelia cruenta (Graham) Mez"
+        },
+        {
+          "relatedresourceid": 46571,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Nidularium longibracteatum Mez"
+        },
+        {
+          "relatedresourceid": 46518,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Neoregelia rubrospinosa (Mez) L.B.Sm."
+        },
+        {
+          "relatedresourceid": 45869,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Billbergia cruenta (Graham) Hook."
+        },
+        {
+          "relatedresourceid": 45820,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aregelia longibracteata (Mez) Mez"
+        },
+        {
+          "relatedresourceid": 46514,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Neoregelia longibracteata (Mez) L.B.Sm."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Harris s n",
+          "collectioncode": "K",
+          "catalognumber": "K000322084",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000322084",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Harris s n",
+          "collectioncode": "K",
+          "catalognumber": "K000322084",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227599939",
+          "locality": null,
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

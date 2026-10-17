@@ -1,0 +1,68 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_elsieae",
+  "retrievedAt": "2026-10-16T22:11:20Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 641108,
+        "scientificname": "Anthurium elsieae L.A.Pereira, Carv.-Silva & Camelo",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "elsieae",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "L.A.Pereira, Carv.-Silva & Camelo",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium elsieae L.A.Pereira, Carv.-Silva & Camelo",
+        "source": "Camelo, M.C., Pereira, L.A. &amp;amp; Carvalho-Silva, M. 2026. Anthurium elsieae (Araceae), a new species from the Eastern Amazon Domain. Taxonomy 6 (28). https://doi.org/10.3390/taxonomy6020028",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Taxonomy 6 (28): 3-4/9 2026",
+        "namepublishedinyear": "2026",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB641108",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2026-05-29 11:06:53.526"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Amazônia"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Hemiepífita"
+        ],
+        "vegetationType": [
+          "Floresta de Terra Firme"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Camelo, M.C. et al.,Taxonomy,6 (28): 3-4/9,2026"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

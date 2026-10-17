@@ -1,0 +1,167 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Allagoptera_arenaria",
+  "retrievedAt": "2026-10-16T22:03:24Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 15666,
+        "scientificname": "Allagoptera arenaria (Gomes) Kuntze",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Allagoptera",
+        "specificepithet": "arenaria",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Gomes) Kuntze",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Allagoptera Nees;Allagoptera arenaria (Gomes) Kuntze",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB15666>http://floradobrasil2015.jbrj.gov.br/FB15666</a>)<br><br>Moraes R., M., Martins, R.C. 2020. Allagoptera in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB15666\">https://floradobrasil2020.jbrj.gov.br/FB15666</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A., Galeano, G. &amp;amp; Bernal, R. 1995. Filed guide to the palms of the Americas. Princeton University Press, Princeton, New Jersey, 351p., pls. 1-64.\r\n&amp;nbsp;Moraes R., M. 1996. Allagoptera (Palmae). Fl. Neotrop. 73: 1-34.",
+        "parentnameusage": "Allagoptera Nees",
+        "parentnameusageid": 15665,
+        "originalnameusageid": "44027",
+        "namepublishedin": "Revis. Gen. Pl. 2: 726 1891",
+        "namepublishedinyear": "1891",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB15666",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Moraes R., M., Martins, R.C., Sant'Anna-Santos, B.F. Allagoptera in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB15666>. Acesso em: 16 oct. 2026.",
+        "modified": "2025-05-15 09:22:16.731"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Palmeira"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Restinga",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "caxandó",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        },
+        {
+          "vernacularname": "côco-da-praia",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Kuntze, C.E.O.,Revis. Gen. Pl.,2: 726,1891"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 44027,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Cocos arenaria Gomes"
+        },
+        {
+          "relatedresourceid": 44195,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Diplothemium arenarium (Gomes) Vasc. & Franco"
+        },
+        {
+          "relatedresourceid": 44204,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Diplothemium littorale Mart."
+        },
+        {
+          "relatedresourceid": 43488,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Allagoptera pumila Nees"
+        },
+        {
+          "relatedresourceid": 44205,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Diplothemium maritimum Mart."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Gomes, J.M.L. 2782",
+          "collectioncode": "VIES",
+          "catalognumber": "VIES011431",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/VIES011431",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gomes, J.M.L. 2782",
+          "collectioncode": "VIES",
+          "catalognumber": "VIES011431",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100596949",
+          "locality": "ES",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

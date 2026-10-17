@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/39246801",
+  "photo": {
+    "id": 62240842,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1672,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62240842/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Kahio Tiberio Mazon",
+  "observation": {
+    "id": 39246801,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 207501,
+      "name": "Dicksonia sellowiana"
+    },
+    "observerLogin": "pajeu"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62240842/large.jpeg",
+    "sha256": "9d6c23321139da9b2abbd0bd664c9443cb7e6254aca252ec4df186e845f0a8e9",
+    "retrievedAt": "2026-10-16T22:14:59Z"
+  }
+}

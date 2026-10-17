@@ -1,0 +1,196 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_solitarium",
+  "retrievedAt": "2026-10-16T22:12:20Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 4975,
+        "scientificname": "Anthurium solitarium Schott",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "solitarium",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Schott",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium solitarium Schott",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB4975>http://floradobrasil2015.jbrj.gov.br/FB4975</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB4975\">https://floradobrasil2020.jbrj.gov.br/FB4975</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Prodr. Syst. Aroid. : 478 1860",
+        "namepublishedinyear": "1860",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB4975",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-21 15:19:06.123"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Schott, H.,Prodr. Syst. Aroid.,: 478,1860"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42269,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium nobile Engl."
+        },
+        {
+          "relatedresourceid": 43006,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Pothos solitarius (Schott) Vell."
+        },
+        {
+          "relatedresourceid": 42226,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium glaziovii Hook.f."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "M.C. Camelo 125",
+          "collectioncode": "RB",
+          "catalognumber": "RB01416707",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=285190298",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C. Camelo 125",
+          "collectioncode": "RB",
+          "catalognumber": "RB01416707",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=285190294",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C. Camelo 125",
+          "collectioncode": "RB",
+          "catalognumber": "RB01416707",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=285190296",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 9039",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0242945",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=225978278",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C. Camelo 124",
+          "collectioncode": "RB",
+          "catalognumber": "RB01416706",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB01416706",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C. Camelo 125",
+          "collectioncode": "RB",
+          "catalognumber": "RB01416707",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB01416707",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 9039",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0242945",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/B 10 0242945",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C. Camelo 124",
+          "collectioncode": "RB",
+          "catalognumber": "RB01416706",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=285190270",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

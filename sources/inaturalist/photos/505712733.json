@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/281554977",
+  "photo": {
+    "id": 505712733,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1197,
+      "height": 1600
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505712733/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "NINA WENÓLI",
+  "observation": {
+    "id": 281554977,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1113011,
+      "name": "Pleroma mutabile"
+    },
+    "observerLogin": "ninawenoli"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505712733/large.jpg",
+    "sha256": "98160030355a33b0b9acf2ce619e20cf58b03a0466208fc56aed872fd2b160dd",
+    "retrievedAt": "2026-10-16T22:18:12Z"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Chrysophyllum_flexuosum",
+  "retrievedAt": "2026-10-16T22:04:32Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 14456,
+        "scientificname": "Chrysophyllum flexuosum Mart.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Sapotaceae",
+        "genus": "Chrysophyllum",
+        "specificepithet": "flexuosum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Mart.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Sapotaceae Juss.;Chrysophyllum L.;Chrysophyllum flexuosum Mart.",
+        "source": "Carneiro, C.E.,Alves-Araujo, A.,Almeida Jr., E.B.,Terra-Araujo, M.H. 2015. Sapotaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB14456>http://floradobrasil2015.jbrj.gov.br/FB14456</a>)<br><br>Alves-Araújo, A., Carneiro, C.E., Faria, A.D. 2020. Chrysophyllum in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB14456\">https://floradobrasil2020.jbrj.gov.br/FB14456</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Pennington, T.D. 1990. Sapotaceae. Fl. Neotrop. 52: 574.",
+        "parentnameusage": "Chrysophyllum L.",
+        "parentnameusageid": 14455,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB14456",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2025-08-01 16:11:15.912"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Flora,20(Beibl. 2): 98,1837"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 601033,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Chrysophyllum flexuosum var. cuspidata Mart."
+        },
+        {
+          "relatedresourceid": 76310,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Villocuspis elegans (Raunk. ex Warm.) Aubrév. & Pellegr."
+        },
+        {
+          "relatedresourceid": 75509,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Chrysophyllum flexuosum var. majus Miq."
+        },
+        {
+          "relatedresourceid": 76311,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Villocuspis flexuosa (Mart.) Aubrév. & Pellegr."
+        },
+        {
+          "relatedresourceid": 75508,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Chrysophyllum flexuosum var. cuspidatum Miq."
+        },
+        {
+          "relatedresourceid": 75525,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Chrysophyllum lanceolatum Casar."
+        },
+        {
+          "relatedresourceid": 75507,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Chrysophyllum elegans Raunk. ex Warm."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "C.F.P. Martius 102",
+          "collectioncode": "K",
+          "catalognumber": "K000653006",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000653006",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "C.F.P. Martius 102",
+          "collectioncode": "K",
+          "catalognumber": "K000653006",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227597247",
+          "locality": "RJ",
+          "typestatus": "typus"
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 75508,
+        "scientificname": "Chrysophyllum flexuosum var. cuspidatum Miq.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Sapotaceae",
+        "genus": "Chrysophyllum",
+        "specificepithet": "flexuosum",
+        "infraspecificepithet": "cuspidatum",
+        "scientificnameauthorship": "Miq.",
+        "acceptednameusage": "Chrysophyllum flexuosum Mart.",
+        "higherclassification": "Flora e Funga;Angiospermas;Sapotaceae Juss.;Chrysophyllum L.;Chrysophyllum flexuosum Mart.;Chrysophyllum flexuosum var. cuspidatum Miq.",
+        "source": "Carneiro, C.E.,Alves-Araujo, A.,Almeida Jr., E.B.,Terra-Araujo, M.H. 2015. Sapotaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB75508>http://floradobrasil2015.jbrj.gov.br/FB75508</a>)<br><br>Alves-Araújo, A., Carneiro, C.E., Faria, A.D. 2020. Chrysophyllum in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB75508\">https://floradobrasil2020.jbrj.gov.br/FB75508</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Chrysophyllum flexuosum Mart.",
+        "parentnameusageid": 14456,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB75508",
+        "acceptednameusageid": 14456,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2014-05-28 11:47:17.164"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Martius, C.F.P. von & auct. suc. (eds.),Fl. bras.,7: 91,1863"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 14456,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Chrysophyllum flexuosum Mart."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 75509,
+        "scientificname": "Chrysophyllum flexuosum var. majus Miq.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Sapotaceae",
+        "genus": "Chrysophyllum",
+        "specificepithet": "flexuosum",
+        "infraspecificepithet": "majus",
+        "scientificnameauthorship": "Miq.",
+        "acceptednameusage": "Chrysophyllum flexuosum Mart.",
+        "higherclassification": "Flora e Funga;Angiospermas;Sapotaceae Juss.;Chrysophyllum L.;Chrysophyllum flexuosum Mart.;Chrysophyllum flexuosum var. majus Miq.",
+        "source": "Carneiro, C.E.,Alves-Araujo, A.,Almeida Jr., E.B.,Terra-Araujo, M.H. 2015. Sapotaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB75509>http://floradobrasil2015.jbrj.gov.br/FB75509</a>)<br><br>Alves-Araújo, A., Carneiro, C.E., Faria, A.D. 2020. Chrysophyllum in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB75509\">https://floradobrasil2020.jbrj.gov.br/FB75509</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Chrysophyllum flexuosum Mart.",
+        "parentnameusageid": 14456,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB75509",
+        "acceptednameusageid": 14456,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2014-05-28 11:47:43.405"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Martius, C.F.P. von & auct. suc. (eds.),Fl. bras.,7: 91,1863"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 14456,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Chrysophyllum flexuosum Mart."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 601033,
+        "scientificname": "Chrysophyllum flexuosum var. cuspidata Mart.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Sapotaceae",
+        "genus": "Chrysophyllum",
+        "specificepithet": "flexuosum",
+        "infraspecificepithet": "cuspidata",
+        "scientificnameauthorship": "Mart.",
+        "acceptednameusage": "Chrysophyllum flexuosum Mart.",
+        "higherclassification": "Flora e Funga;Angiospermas;Sapotaceae Juss.;Chrysophyllum L.;Chrysophyllum flexuosum Mart.;Chrysophyllum flexuosum var. cuspidata Mart.",
+        "source": "Alves-Araújo, A., Carneiro, C.E., Faria, A.D. 2020. Chrysophyllum in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB601033\">https://floradobrasil2020.jbrj.gov.br/FB601033</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Chrysophyllum flexuosum Mart.",
+        "parentnameusageid": 14456,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB601033",
+        "acceptednameusageid": 14456,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2019-07-23 15:22:08.874"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 14456,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Chrysophyllum flexuosum Mart."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

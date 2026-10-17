@@ -1,0 +1,283 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_clavigerum",
+  "retrievedAt": "2026-10-16T22:11:14Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 21972,
+        "scientificname": "Anthurium clavigerum Poepp.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "clavigerum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Poepp.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium clavigerum Poepp.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB21972>http://floradobrasil2015.jbrj.gov.br/FB21972</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB21972\">https://floradobrasil2020.jbrj.gov.br/FB21972</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB21972",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-15 16:44:12.095"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-GO",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MT",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RO",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Cerrado"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Hemiepífita"
+        ],
+        "vegetationType": [
+          "Campo de Várzea",
+          "Cerrado (lato sensu)",
+          "Floresta de Terra Firme",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Poeppig, E.F. & Endlicher, S.F.L.,Nov. Gen. Sp. Pl.,3: 84,1845"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42204,
+          "relationshipofresource": null,
+          "scientificname": "Anthurium clavigerum var. subpedatipartitum Engl."
+        },
+        {
+          "relatedresourceid": 42283,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium panduratum var. burchellianum Engl."
+        },
+        {
+          "relatedresourceid": 42244,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium holtonianum Schott"
+        },
+        {
+          "relatedresourceid": 42245,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium holtonianum var. cohaerens Engl."
+        },
+        {
+          "relatedresourceid": 21973,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium wendlandii Schott"
+        },
+        {
+          "relatedresourceid": 42253,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium kalbreyeri Mast."
+        },
+        {
+          "relatedresourceid": 42201,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium burchellianum (Engl.) J.F.Macbr."
+        },
+        {
+          "relatedresourceid": 42271,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium obovatum Gleason"
+        },
+        {
+          "relatedresourceid": 42292,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium repandum Schott"
+        },
+        {
+          "relatedresourceid": 42267,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium monsterioides Steyerm."
+        },
+        {
+          "relatedresourceid": 42282,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Anthurium panduratum Mart. ex Schott"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "A. Quinet 966",
+          "collectioncode": "RB",
+          "catalognumber": "RB00470036",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00470036",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. Quinet 966",
+          "collectioncode": "RB",
+          "catalognumber": "RB00470036",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284283612",
+          "locality": "AM",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. Quinet 966",
+          "collectioncode": "RB",
+          "catalognumber": "RB00470036",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284283614",
+          "locality": "AM",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 42204,
+        "scientificname": "Anthurium clavigerum var. subpedatipartitum Engl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "clavigerum",
+        "infraspecificepithet": "subpedatipartitum",
+        "scientificnameauthorship": "Engl.",
+        "acceptednameusage": "Anthurium clavigerum Poepp.",
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium clavigerum Poepp.;Anthurium clavigerum var. subpedatipartitum Engl.",
+        "source": "Coelho, M.A.N.,Soares, M.L.,Calazans, L.S.B.,Gonçalves, E.G.,Andrade, I.M. de,Pontes, T.A.,Sakuragui, C.M.,Temponi, L.G.,Buturi, C.,Mayo, S. 2015. Araceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB42204>http://floradobrasil2015.jbrj.gov.br/FB42204</a>)<br><br>Coelho, M.A.N., Temponi, L.G., Camelo, M.C., Mayo, S.J., Pimenta, K.M., Pontes, T.A., Andrade, I.M. 2020. Anthurium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB42204\">https://floradobrasil2020.jbrj.gov.br/FB42204</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Anthurium clavigerum Poepp.",
+        "parentnameusageid": 21972,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB42204",
+        "acceptednameusageid": 21972,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-25 16:39:39.794"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Pflanzenr. (Engler) IV, 23B: 280,1905"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 21972,
+          "relationshipofresource": null,
+          "scientificname": "Anthurium clavigerum Poepp."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "plantas-do-rio-de-janeiro",
+  "version": "0.1.0",
+  "private": true,
+  "engines": { "node": "^20.19.4 || ^22.0.0 || ^24.0.0" },
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "web": "expo start --web",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "android:prebuild": "expo prebuild --platform android --no-install",
+    "ios:prebuild": "expo prebuild --platform ios --no-install",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test tests/*.test.mjs",
+    "catalog:check": "node scripts/catalog.mjs check",
+    "catalog:release-check": "node scripts/catalog.mjs release-check",
+    "catalog:generate": "node scripts/catalog.mjs generate",
+    "catalog:import": "node scripts/catalog.mjs import",
+    "editor:sync": "node scripts/catalog.mjs editor-sync",
+    "flora:fetch": "python3 scripts/fetch_flora.py",
+    "photos:fetch": "python3 scripts/fetch_inat_photos.py",
+    "check": "npm run typecheck && npm test && npm run catalog:check"
+  },
+  "dependencies": {
+    "expo": "~55.0.31",
+    "expo-asset": "~55.0.20",
+    "expo-file-system": "~55.0.26",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-native": "0.83.10",
+    "react-native-safe-area-context": "~5.6.2",
+    "react-native-svg": "15.15.3",
+    "react-native-web": "~0.21.0"
+  },
+  "devDependencies": { "@types/react": "~19.2.2", "typescript": "~5.9.2" }
+}

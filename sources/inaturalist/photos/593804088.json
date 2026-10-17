@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/327747116",
+  "photo": {
+    "id": 593804088,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1638,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593804088/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "filipeprates",
+  "observation": {
+    "id": 327747116,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1406508,
+      "name": "Neomitranthes obscura"
+    },
+    "observerLogin": "filipeprates"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593804088/large.jpg",
+    "sha256": "2eaba1e3d34807ae43e3144b1b3b2aea691e2b37d03aec00727089eaa94283b1",
+    "retrievedAt": "2026-10-16T22:19:52Z"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_giuliettiae",
+  "retrievedAt": "2026-10-16T22:11:27Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 641109,
+        "scientificname": "Anthurium giuliettiae Camelo & Nadruz",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "giuliettiae",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Camelo & Nadruz",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium giuliettiae Camelo & Nadruz",
+        "source": "Camelo, M.C., Pappas Jr., G., Coelho, M.A.N., Carvalho Silva, M. &amp;amp; Carlsen, M.M. 2026. Phylogenomics and morphology reveal a new species of Anthurium (Araceae) endemic to the Caatinga Domain in Brazil. TAXON 75 (2): e70134. DOI https://doi.org/10.1002/tax.70134",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Taxon 75 (2): 6/12 2026",
+        "namepublishedinyear": "2026",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB641109",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2026-05-29 11:17:23.27"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Caatinga (stricto sensu)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Camelo, M.C. et al.,Taxon,75 (2): 6/12,2026"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

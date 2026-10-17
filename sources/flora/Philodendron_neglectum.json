@@ -1,0 +1,69 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_neglectum",
+  "retrievedAt": "2026-10-16T22:13:30Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 641120,
+        "scientificname": "Philodendron neglectum Magno & Calazans",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "specificepithet": "neglectum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Magno & Calazans",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Philodendron Schott;Philodendron neglectum Magno & Calazans",
+        "source": "MAGNO, A. &amp;amp; CALAZANS, L.S.B. 2025. Unveiling an iconic Philodendron (Araceae) species from the Atlantic Forest of Esp&amp;iacute;rito Santo State, Brazil. Phytotaxa 689 (2): 223&amp;ndash;232. https://doi.org/10.11646/phytotaxa.689.2.5",
+        "parentnameusage": "Philodendron Schott",
+        "parentnameusageid": 5015,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 689 (2): 224 2025",
+        "namepublishedinyear": "2025",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB641120",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2026-05-29 15:48:39.436"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "MAGNO, A. & CALAZANS, L.S.B.,Phytotaxa,689 (2): 224,2025"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/337181365",
+  "photo": {
+    "id": 612891819,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1152,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612891819/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "prodewald",
+  "observation": {
+    "id": 337181365,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 60879,
+      "name": "Ipomoea pes-caprae"
+    },
+    "observerLogin": "prodewald"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612891819/large.jpg",
+    "sha256": "f47eafb64ad38967ff45fb692a77e7ffed6673162e39f793dd5da31de8374d3d",
+    "retrievedAt": "2026-10-16T22:14:42Z"
+  }
+}

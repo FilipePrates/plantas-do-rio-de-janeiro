@@ -1,0 +1,244 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Heliconia_spathocircinata",
+  "retrievedAt": "2026-10-16T22:05:04Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 7964,
+        "scientificname": "Heliconia spathocircinata Aristeg.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Zingiberales",
+        "family": "Heliconiaceae",
+        "genus": "Heliconia",
+        "specificepithet": "spathocircinata",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Aristeg.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Heliconiaceae Nakai;Heliconia L.;Heliconia spathocircinata Aristeg.",
+        "source": "Braga, J.M.A. 2015. Heliconiaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB7964>http://floradobrasil2015.jbrj.gov.br/FB7964</a>)<br><br>Braga, J.M.A. Heliconiaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB7964\">https://floradobrasil2020.jbrj.gov.br/FB7964</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Braga, J.M.A. 2008. Revis&amp;atilde;o Taxon&amp;ocirc;mica de Heliconiaceae do Brasil. Tese de Doutorado. Universidade Federal do Rio de Janeiro, Rio de Janeiro.",
+        "parentnameusage": "Heliconia L.",
+        "parentnameusageid": 7954,
+        "originalnameusageid": null,
+        "namepublishedin": "Bol. Soc. Ven. Cienc.  Nat. 22: 18 1961",
+        "namepublishedinyear": "1961",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB7964",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2025-06-22 06:19:43.817"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-CE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AL",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MT",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Caatinga",
+              "Mata Atlântica",
+              "Pantanal"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Área Antrópica",
+          "Floresta de Igapó",
+          "Floresta de Terra Firme",
+          "Floresta de Várzea",
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Aristeguieta, L.,Bol. Soc. Ven. Cienc.  Nat.,22: 18,1961"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

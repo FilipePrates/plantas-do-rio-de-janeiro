@@ -1,0 +1,579 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cattleya_intermedia",
+  "retrievedAt": "2026-10-16T22:04:57Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 11338,
+        "scientificname": "Cattleya intermedia Graham ex Hook.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "intermedia",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Graham ex Hook.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya intermedia Graham ex Hook.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB11338>http://floradobrasil2015.jbrj.gov.br/FB11338</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB11338\">https://floradobrasil2020.jbrj.gov.br/FB11338</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya Lindl.",
+        "parentnameusageid": 11329,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB11338",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB11338>. Acesso em: 16 oct. 2026.",
+        "modified": "2025-05-26 18:32:31.072"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RS",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 65151,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia var. variegata Hook."
+        },
+        {
+          "relatedresourceid": 65050,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya aquinii Barb.Rodr."
+        },
+        {
+          "relatedresourceid": 65043,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya amabilis Lindl. ex Buyss."
+        },
+        {
+          "relatedresourceid": 65190,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya lindleyana Rchb.f."
+        },
+        {
+          "relatedresourceid": 65207,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya maritima Lindl."
+        },
+        {
+          "relatedresourceid": 65227,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya ovata Lindl."
+        },
+        {
+          "relatedresourceid": 67254,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Laelia lindleyana (Rchb.f.) G.Nichols."
+        },
+        {
+          "relatedresourceid": 65044,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya amethystina C.Morren"
+        },
+        {
+          "relatedresourceid": 65147,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia var. macrochila Barb.Rodr."
+        },
+        {
+          "relatedresourceid": 65149,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia var. parthenia Rchb.f."
+        },
+        {
+          "relatedresourceid": 65148,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia var. pallida Lindl."
+        },
+        {
+          "relatedresourceid": 65150,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia var. punctatissima Sander"
+        },
+        {
+          "relatedresourceid": 65146,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia var. gibeziae (L.Linden & Rodigas) L.Linden & Rodigas"
+        },
+        {
+          "relatedresourceid": 65145,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia var. angustifolia Hook."
+        },
+        {
+          "relatedresourceid": 65192,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya loddigesii var. amethystina C.Morren ex Lem."
+        },
+        {
+          "relatedresourceid": 66044,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Epidendrum canaliculatum Vell."
+        },
+        {
+          "relatedresourceid": 66192,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Epidendrum intermedium (Graham ex Hook.) Rchb.f."
+        },
+        {
+          "relatedresourceid": 65144,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia var. amethystina (C.Morren ex Lem.) Fowlie"
+        },
+        {
+          "relatedresourceid": 65113,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya gibeziae L.Linden & Rodigas"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65144,
+        "scientificname": "Cattleya intermedia var. amethystina (C.Morren ex Lem.) Fowlie",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "intermedia",
+        "infraspecificepithet": "amethystina",
+        "scientificnameauthorship": "(C.Morren ex Lem.) Fowlie",
+        "acceptednameusage": "Cattleya intermedia Graham ex Hook.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya intermedia Graham ex Hook.;Cattleya intermedia var. amethystina (C.Morren ex Lem.) Fowlie",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65144>http://floradobrasil2015.jbrj.gov.br/FB65144</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65144\">https://floradobrasil2020.jbrj.gov.br/FB65144</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya intermedia Graham ex Hook.",
+        "parentnameusageid": 11338,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65144",
+        "acceptednameusageid": 11338,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65144>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:25:00.539729"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Braz. Bifol. Cattleyas,: 112,1977"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11338,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia Graham ex Hook."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65145,
+        "scientificname": "Cattleya intermedia var. angustifolia Hook.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "intermedia",
+        "infraspecificepithet": "angustifolia",
+        "scientificnameauthorship": "Hook.",
+        "acceptednameusage": "Cattleya intermedia Graham ex Hook.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya intermedia Graham ex Hook.;Cattleya intermedia var. angustifolia Hook.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65145>http://floradobrasil2015.jbrj.gov.br/FB65145</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65145\">https://floradobrasil2020.jbrj.gov.br/FB65145</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya intermedia Graham ex Hook.",
+        "parentnameusageid": 11338,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65145",
+        "acceptednameusageid": 11338,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65145>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:24:44.999893"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Bot. Mag.,66: t. 3711,1839"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11338,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia Graham ex Hook."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65146,
+        "scientificname": "Cattleya intermedia var. gibeziae (L.Linden & Rodigas) L.Linden & Rodigas",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "intermedia",
+        "infraspecificepithet": "gibeziae",
+        "scientificnameauthorship": "(L.Linden & Rodigas) L.Linden & Rodigas",
+        "acceptednameusage": "Cattleya intermedia Graham ex Hook.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya intermedia Graham ex Hook.;Cattleya intermedia var. gibeziae (L.Linden & Rodigas) L.Linden & Rodigas",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65146>http://floradobrasil2015.jbrj.gov.br/FB65146</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65146\">https://floradobrasil2020.jbrj.gov.br/FB65146</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya intermedia Graham ex Hook.",
+        "parentnameusageid": 11338,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65146",
+        "acceptednameusageid": 11338,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65146>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:24:28.645342"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Lindenia,3: 77,1887"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11338,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia Graham ex Hook."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65147,
+        "scientificname": "Cattleya intermedia var. macrochila Barb.Rodr.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "intermedia",
+        "infraspecificepithet": "macrochila",
+        "scientificnameauthorship": "Barb.Rodr.",
+        "acceptednameusage": "Cattleya intermedia Graham ex Hook.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya intermedia Graham ex Hook.;Cattleya intermedia var. macrochila Barb.Rodr.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65147>http://floradobrasil2015.jbrj.gov.br/FB65147</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65147\">https://floradobrasil2020.jbrj.gov.br/FB65147</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya intermedia Graham ex Hook.",
+        "parentnameusageid": 11338,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65147",
+        "acceptednameusageid": 11338,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65147>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:24:06.716818"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Gen. Sp. Orchid.,1: 71,1877"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11338,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia Graham ex Hook."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65148,
+        "scientificname": "Cattleya intermedia var. pallida Lindl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "intermedia",
+        "infraspecificepithet": "pallida",
+        "scientificnameauthorship": "Lindl.",
+        "acceptednameusage": "Cattleya intermedia Graham ex Hook.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya intermedia Graham ex Hook.;Cattleya intermedia var. pallida Lindl.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65148>http://floradobrasil2015.jbrj.gov.br/FB65148</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65148\">https://floradobrasil2020.jbrj.gov.br/FB65148</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya intermedia Graham ex Hook.",
+        "parentnameusageid": 11338,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65148",
+        "acceptednameusageid": 11338,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65148>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:23:52.484231"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Edwards's Bot. Reg.,22: t. 1919,1836"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11338,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia Graham ex Hook."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65149,
+        "scientificname": "Cattleya intermedia var. parthenia Rchb.f.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "intermedia",
+        "infraspecificepithet": "parthenia",
+        "scientificnameauthorship": "Rchb.f.",
+        "acceptednameusage": "Cattleya intermedia Graham ex Hook.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya intermedia Graham ex Hook.;Cattleya intermedia var. parthenia Rchb.f.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65149>http://floradobrasil2015.jbrj.gov.br/FB65149</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65149\">https://floradobrasil2020.jbrj.gov.br/FB65149</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya intermedia Graham ex Hook.",
+        "parentnameusageid": 11338,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65149",
+        "acceptednameusageid": 11338,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65149>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:23:37.957015"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Gard. Chron. III, 4: 178,1888"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11338,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia Graham ex Hook."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65150,
+        "scientificname": "Cattleya intermedia var. punctatissima Sander",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "intermedia",
+        "infraspecificepithet": "punctatissima",
+        "scientificnameauthorship": "Sander",
+        "acceptednameusage": "Cattleya intermedia Graham ex Hook.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya intermedia Graham ex Hook.;Cattleya intermedia var. punctatissima Sander",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65150>http://floradobrasil2015.jbrj.gov.br/FB65150</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65150\">https://floradobrasil2020.jbrj.gov.br/FB65150</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya intermedia Graham ex Hook.",
+        "parentnameusageid": 11338,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65150",
+        "acceptednameusageid": 11338,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65150>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:23:24.286366"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Reichenbachiana,1(2): 51,1892"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11338,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia Graham ex Hook."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65151,
+        "scientificname": "Cattleya intermedia var. variegata Hook.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "intermedia",
+        "infraspecificepithet": "variegata",
+        "scientificnameauthorship": "Hook.",
+        "acceptednameusage": "Cattleya intermedia Graham ex Hook.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya intermedia Graham ex Hook.;Cattleya intermedia var. variegata Hook.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65151>http://floradobrasil2015.jbrj.gov.br/FB65151</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65151\">https://floradobrasil2020.jbrj.gov.br/FB65151</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya intermedia Graham ex Hook.",
+        "parentnameusageid": 11338,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65151",
+        "acceptednameusageid": 11338,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65151>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:23:10.958038"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Bot. Mag.,70: t. 4085,1844"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11338,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya intermedia Graham ex Hook."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

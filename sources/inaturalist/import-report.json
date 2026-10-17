@@ -1,0 +1,615 @@
+[
+  {
+    "id": "anthurium-spp",
+    "photos": 2,
+    "cc0ObservationCount": 11
+  },
+  {
+    "id": "schinus-terebinthifolia",
+    "photos": 2
+  },
+  {
+    "id": "spondias-venulosa",
+    "photos": 0
+  },
+  {
+    "id": "tapirira-guianensis",
+    "photos": 2
+  },
+  {
+    "id": "allamanda-cathartica",
+    "photos": 2
+  },
+  {
+    "id": "epipremnum-aureum",
+    "photos": 2
+  },
+  {
+    "id": "philodendron-spp",
+    "photos": 2
+  },
+  {
+    "id": "acrocomia-aculeata",
+    "photos": 2
+  },
+  {
+    "id": "allagoptera-arenaria",
+    "photos": 2
+  },
+  {
+    "id": "allagoptera-caudescens",
+    "photos": 0
+  },
+  {
+    "id": "astrocaryum-aculeatissimum",
+    "photos": 2
+  },
+  {
+    "id": "attalea-dubia",
+    "photos": 1
+  },
+  {
+    "id": "attalea-humilis",
+    "photos": 0
+  },
+  {
+    "id": "bactris-setosa",
+    "photos": 2
+  },
+  {
+    "id": "bactris-vulgaris",
+    "photos": 0
+  },
+  {
+    "id": "euterpe-edulis",
+    "photos": 2
+  },
+  {
+    "id": "geonoma-elegans",
+    "photos": 0
+  },
+  {
+    "id": "geonoma-pohliana",
+    "photos": 0
+  },
+  {
+    "id": "geonoma-schottiana",
+    "photos": 2
+  },
+  {
+    "id": "syagrus-picrophylla",
+    "photos": 0
+  },
+  {
+    "id": "syagrus-romanzoffiana",
+    "photos": 2
+  },
+  {
+    "id": "syagrus-weddelliana",
+    "photos": 0
+  },
+  {
+    "id": "handroanthus-chrysotrichus",
+    "photos": 2
+  },
+  {
+    "id": "handroanthus-heptaphyllus",
+    "photos": 2
+  },
+  {
+    "id": "handroanthus-serratifolius",
+    "photos": 2
+  },
+  {
+    "id": "jacaranda-puberula",
+    "photos": 2
+  },
+  {
+    "id": "sparattosperma-leucanthum",
+    "photos": 0
+  },
+  {
+    "id": "tabebuia-roseoalba",
+    "photos": 1
+  },
+  {
+    "id": "aechmea-distichantha",
+    "photos": 2
+  },
+  {
+    "id": "aechmea-fasciata",
+    "photos": 2
+  },
+  {
+    "id": "aechmea-lingulata",
+    "photos": 0
+  },
+  {
+    "id": "aechmea-nudicaulis",
+    "photos": 2
+  },
+  {
+    "id": "alcantarea-geniculata",
+    "photos": 2
+  },
+  {
+    "id": "alcantarea-glaziouana",
+    "photos": 2
+  },
+  {
+    "id": "alcantarea-imperialis",
+    "photos": 2
+  },
+  {
+    "id": "alcantarea-regina",
+    "photos": 0
+  },
+  {
+    "id": "billbergia-amoena",
+    "photos": 2
+  },
+  {
+    "id": "billbergia-pyramidalis",
+    "photos": 2
+  },
+  {
+    "id": "bromelia-antiacantha",
+    "photos": 2
+  },
+  {
+    "id": "neoregelia-carolinae",
+    "photos": 2
+  },
+  {
+    "id": "neoregelia-cruenta",
+    "photos": 2
+  },
+  {
+    "id": "neoregelia-spectabilis",
+    "photos": 0
+  },
+  {
+    "id": "nidularium-fulgens",
+    "photos": 0
+  },
+  {
+    "id": "pitcairnia-flammea",
+    "photos": 2
+  },
+  {
+    "id": "quesnelia-arvensis",
+    "photos": 2
+  },
+  {
+    "id": "quesnelia-quesneliana",
+    "photos": 2
+  },
+  {
+    "id": "tillandsia-gardneri",
+    "photos": 2
+  },
+  {
+    "id": "tillandsia-stricta",
+    "photos": 2
+  },
+  {
+    "id": "tillandsia-tenuifolia",
+    "photos": 2
+  },
+  {
+    "id": "tillandsia-usneoides",
+    "photos": 2
+  },
+  {
+    "id": "vriesea-bituminosa",
+    "photos": 2
+  },
+  {
+    "id": "vriesea-carinata",
+    "photos": 2
+  },
+  {
+    "id": "vriesea-gigantea",
+    "photos": 2
+  },
+  {
+    "id": "cereus-fernambucensis",
+    "photos": 2
+  },
+  {
+    "id": "epiphyllum-phyllanthus",
+    "photos": 2
+  },
+  {
+    "id": "rhipsalis-teres",
+    "photos": 2
+  },
+  {
+    "id": "clusia-fluminensis",
+    "photos": 2
+  },
+  {
+    "id": "clusia-hilariana",
+    "photos": 0
+  },
+  {
+    "id": "clusia-lanceolata",
+    "photos": 2
+  },
+  {
+    "id": "tradescantia-zebrina",
+    "photos": 2
+  },
+  {
+    "id": "ipomoea-imperati",
+    "photos": 2
+  },
+  {
+    "id": "ipomoea-pes-caprae",
+    "photos": 2
+  },
+  {
+    "id": "cyathea-corcovadensis",
+    "photos": 1
+  },
+  {
+    "id": "cyathea-delgadii",
+    "photos": 2
+  },
+  {
+    "id": "dicksonia-sellowiana",
+    "photos": 2
+  },
+  {
+    "id": "andira-fraxinifolia",
+    "photos": 1
+  },
+  {
+    "id": "cenostigma-pluviosum",
+    "photos": 2
+  },
+  {
+    "id": "copaifera-langsdorffii",
+    "photos": 0
+  },
+  {
+    "id": "dalbergia-nigra",
+    "photos": 0
+  },
+  {
+    "id": "enterolobium-contortisiliquum",
+    "photos": 2
+  },
+  {
+    "id": "erythrina-falcata",
+    "photos": 2
+  },
+  {
+    "id": "erythrina-speciosa",
+    "photos": 2
+  },
+  {
+    "id": "inga-edulis",
+    "photos": 2
+  },
+  {
+    "id": "inga-laurina",
+    "photos": 2
+  },
+  {
+    "id": "inga-marginata",
+    "photos": 2
+  },
+  {
+    "id": "inga-vera",
+    "photos": 2
+  },
+  {
+    "id": "leucaena-leucocephala",
+    "photos": 2
+  },
+  {
+    "id": "paubrasilia-echinata",
+    "photos": 2
+  },
+  {
+    "id": "piptadenia-gonoacantha",
+    "photos": 2
+  },
+  {
+    "id": "nematanthus-brasiliensis",
+    "photos": 0
+  },
+  {
+    "id": "sinningia-bulbosa",
+    "photos": 2
+  },
+  {
+    "id": "sinningia-speciosa",
+    "photos": 0
+  },
+  {
+    "id": "heliconia-farinosa",
+    "photos": 2
+  },
+  {
+    "id": "heliconia-spathocircinata",
+    "photos": 2
+  },
+  {
+    "id": "nectandra-membranacea",
+    "photos": 0
+  },
+  {
+    "id": "nectandra-oppositifolia",
+    "photos": 0
+  },
+  {
+    "id": "ocotea-odorifera",
+    "photos": 0
+  },
+  {
+    "id": "ocotea-puberula",
+    "photos": 2
+  },
+  {
+    "id": "cariniana-estrellensis",
+    "photos": 1
+  },
+  {
+    "id": "cariniana-ianeirensis",
+    "photos": 0
+  },
+  {
+    "id": "cariniana-legalis",
+    "photos": 1
+  },
+  {
+    "id": "lecythis-lanceolata",
+    "photos": 0
+  },
+  {
+    "id": "lecythis-lurida",
+    "photos": 0
+  },
+  {
+    "id": "lecythis-pisonis",
+    "photos": 2
+  },
+  {
+    "id": "ceiba-speciosa",
+    "photos": 2
+  },
+  {
+    "id": "luehea-divaricata",
+    "photos": 2
+  },
+  {
+    "id": "pavonia-alnifolia",
+    "photos": 0
+  },
+  {
+    "id": "pseudobombax-grandiflorum",
+    "photos": 2
+  },
+  {
+    "id": "goeppertia-zebrina",
+    "photos": 2
+  },
+  {
+    "id": "maranta-divaricata",
+    "photos": 1
+  },
+  {
+    "id": "miconia-albicans",
+    "photos": 2
+  },
+  {
+    "id": "miconia-calvescens",
+    "photos": 2
+  },
+  {
+    "id": "miconia-cinnamomifolia",
+    "photos": 0
+  },
+  {
+    "id": "miconia-prasina",
+    "photos": 2
+  },
+  {
+    "id": "pleroma-granulosum",
+    "photos": 2
+  },
+  {
+    "id": "pleroma-mutabile",
+    "photos": 2
+  },
+  {
+    "id": "pleroma-trichopodum",
+    "photos": 0
+  },
+  {
+    "id": "artocarpus-heterophyllus",
+    "photos": 2
+  },
+  {
+    "id": "ficus-cyclophylla",
+    "photos": 0
+  },
+  {
+    "id": "ficus-enormis",
+    "photos": 1
+  },
+  {
+    "id": "ficus-gomelleira",
+    "photos": 1
+  },
+  {
+    "id": "sorocea-bonplandii",
+    "photos": 2
+  },
+  {
+    "id": "blepharocalyx-salicifolius",
+    "photos": 2
+  },
+  {
+    "id": "campomanesia-guaviroba",
+    "photos": 0
+  },
+  {
+    "id": "campomanesia-phaea",
+    "photos": 2
+  },
+  {
+    "id": "campomanesia-xanthocarpa",
+    "photos": 2
+  },
+  {
+    "id": "eugenia-astringens",
+    "photos": 1
+  },
+  {
+    "id": "eugenia-brasiliensis",
+    "photos": 2
+  },
+  {
+    "id": "eugenia-copacabanensis",
+    "photos": 0
+  },
+  {
+    "id": "eugenia-excelsa",
+    "photos": 0
+  },
+  {
+    "id": "eugenia-involucrata",
+    "photos": 2
+  },
+  {
+    "id": "eugenia-punicifolia",
+    "photos": 2
+  },
+  {
+    "id": "eugenia-selloi",
+    "photos": 1
+  },
+  {
+    "id": "eugenia-sulcata",
+    "photos": 0
+  },
+  {
+    "id": "eugenia-uniflora",
+    "photos": 2
+  },
+  {
+    "id": "myrcia-guianensis",
+    "photos": 0
+  },
+  {
+    "id": "myrcia-multiflora",
+    "photos": 0
+  },
+  {
+    "id": "myrcia-selloi",
+    "photos": 2
+  },
+  {
+    "id": "myrcia-spectabilis",
+    "photos": 0
+  },
+  {
+    "id": "myrcia-splendens",
+    "photos": 2
+  },
+  {
+    "id": "neomitranthes-obscura",
+    "photos": 1
+  },
+  {
+    "id": "plinia-edulis",
+    "photos": 1
+  },
+  {
+    "id": "psidium-cattleyanum",
+    "photos": 2
+  },
+  {
+    "id": "psidium-guineense",
+    "photos": 2
+  },
+  {
+    "id": "cattleya-guttata",
+    "photos": 0
+  },
+  {
+    "id": "cattleya-intermedia",
+    "photos": 2
+  },
+  {
+    "id": "epidendrum-denticulatum",
+    "photos": 2
+  },
+  {
+    "id": "epidendrum-secundum",
+    "photos": 2
+  },
+  {
+    "id": "passiflora-alata",
+    "photos": 2
+  },
+  {
+    "id": "passiflora-edulis",
+    "photos": 2
+  },
+  {
+    "id": "passiflora-mucronata",
+    "photos": 2
+  },
+  {
+    "id": "megathyrsus-maximus",
+    "photos": 2
+  },
+  {
+    "id": "bathysa-australis",
+    "photos": 0
+  },
+  {
+    "id": "genipa-americana",
+    "photos": 2
+  },
+  {
+    "id": "palicourea-marcgravii",
+    "photos": 2
+  },
+  {
+    "id": "psychotria-nuda",
+    "photos": 2
+  },
+  {
+    "id": "chrysophyllum-flexuosum",
+    "photos": 0
+  },
+  {
+    "id": "manilkara-subsericea",
+    "photos": 0
+  },
+  {
+    "id": "pouteria-caimito",
+    "photos": 2
+  },
+  {
+    "id": "cecropia-glaziovii",
+    "photos": 2
+  },
+  {
+    "id": "cecropia-hololeuca",
+    "photos": 2
+  },
+  {
+    "id": "cecropia-pachystachya",
+    "photos": 2
+  },
+  {
+    "id": "urera-baccifera",
+    "photos": 2
+  }
+]

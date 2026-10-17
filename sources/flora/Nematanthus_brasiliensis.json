@@ -1,0 +1,119 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Nematanthus_brasiliensis",
+  "retrievedAt": "2026-10-16T22:05:10Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 7845,
+        "scientificname": "Nematanthus brasiliensis (Vell.) Chautems",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Lamiales",
+        "family": "Gesneriaceae",
+        "genus": "Nematanthus",
+        "specificepithet": "brasiliensis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Vell.) Chautems",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Gesneriaceae Rich. & Juss. ex DC.;Nematanthus Schrad.;Nematanthus brasiliensis (Vell.) Chautems",
+        "source": "Araujo, A.O.,Chautems, A. 2015. Nematanthus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB7845>http://floradobrasil2015.jbrj.gov.br/FB7845</a>)<br><br>Araujo, A.O., Chautems, A., Rossini, J. 2020. Nematanthus in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB7845\">https://floradobrasil2020.jbrj.gov.br/FB7845</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Nematanthus Schrad.",
+        "parentnameusageid": 7841,
+        "originalnameusageid": "131323",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB7845",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Araujo, A.O., Chautems, A., Rossini, J. Nematanthus in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB7845>. Acesso em: 16 oct. 2026.",
+        "modified": "2025-06-13 18:48:08.012"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Subarbusto"
+        ],
+        "habitat": [
+          "Epífita"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 131324,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Nematanthus calycinus C.Presl"
+        },
+        {
+          "relatedresourceid": 131323,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Orobanche brasiliensis Vell."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Manhães, V.C. 642",
+          "collectioncode": "R",
+          "catalognumber": "R010084911",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/R010084911",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. P. Chautems & G. Martinelli 122",
+          "collectioncode": "US",
+          "catalognumber": "US00313404",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/US00313404",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Manhães, V.C. 642",
+          "collectioncode": "R",
+          "catalognumber": "R010084911",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=308315073",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Manhães, V.C. 642",
+          "collectioncode": "R",
+          "catalognumber": "R010084911",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=308315074",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/284023039",
+  "photo": {
+    "id": 510366925,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1500,
+      "height": 1200
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510366925/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Paula Romano",
+  "observation": {
+    "id": 284023039,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 702403,
+      "name": "Billbergia amoena"
+    },
+    "observerLogin": "paularomano"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510366925/large.jpg",
+    "sha256": "b9dfb67e29fd5505d524df7cc386b493f1ee9c3c01a613274551085f86c35027",
+    "retrievedAt": "2026-10-16T22:12:20Z"
+  }
+}

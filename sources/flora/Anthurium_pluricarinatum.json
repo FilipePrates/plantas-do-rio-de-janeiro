@@ -1,0 +1,68 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_pluricarinatum",
+  "retrievedAt": "2026-10-16T22:12:07Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 632861,
+        "scientificname": "Anthurium pluricarinatum Camelo, Temponi, Baumgratz & Nadruz",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "pluricarinatum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Camelo, Temponi, Baumgratz & Nadruz",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium pluricarinatum Camelo, Temponi, Baumgratz & Nadruz",
+        "source": "CAMELO, M.C., COELHO, M.A.N, TEMPONI, L.G. &amp;amp; BAUMGRATZ, J.F.A. 2023. Taxonomic updates in Anthurium sect. Pachyneurium (Araceae) from the Brazilian Atlantic Forest.&amp;nbsp;Phytotaxa 599(2):109-125",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 599(2):109-125 2023",
+        "namepublishedinyear": "2023",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB632861",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2024-12-23 20:14:26.939"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RN",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Camelo, M.C., Coelho, M.A.N., Temponi, L.G. & Baumgratz, J.F.A.,Phytotaxa,599(2):109-125,2023"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

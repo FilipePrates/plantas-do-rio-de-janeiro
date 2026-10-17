@@ -1,0 +1,115 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Myrcia_richardiana",
+  "retrievedAt": "2026-10-16T22:02:08Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 10749,
+        "scientificname": "Myrcia richardiana (O.Berg) Kiaersk.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrcia",
+        "specificepithet": "richardiana",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(O.Berg) Kiaersk.",
+        "acceptednameusage": "Myrcia aethusa (O.Berg) N.Silveira",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrcia DC.;Myrcia richardiana (O.Berg) Kiaersk.",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB10749>http://floradobrasil2015.jbrj.gov.br/FB10749</a>)<br><br>Santos, M.F., Amorim, B.S., Burton, G.P., Fernandes, T., Gaem, P.H., Lourenço, A.R.L., Lima, D.F., Rosa, P.O., Santos, L.L.D., Staggemeier, V.G., Vasconcelos, T.N.C., Lucas, E.J. 2020. Myrcia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB10749\">https://floradobrasil2020.jbrj.gov.br/FB10749</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Kiaerskou, H. 1893. Enumeratio myrtacearum brasiliensium quas collegiunt Glaziou, Lund, Mendon&amp;ccedil;a, Raben, Reinhardt, Schenck, Warming alique. In: Warming, E. (Ed.) Symbolarum ad floram Brasiliae Centralis cognoscendam 39: 1&amp;ndash;199.",
+        "parentnameusage": "Myrcia DC.",
+        "parentnameusageid": 10660,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB10749",
+        "acceptednameusageid": 37035,
+        "bibliographiccitation_how_to_cite": "Santos, M.F., Amorim, B.S., Burton, G.P., Fernandes, T., Gaem, P.H., Lourenço, A.R.L., Lima, D.F., Rosa, P.O., Santos, L.L.D., Staggemeier, V.G., Vasconcelos, T.N.C., Lucas, E.J. Myrcia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB10749>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-02-07 13:14:54.105"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Sobral, M.,Fam. Myrtac. Rio Grande do Sul,127,2003"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 37035,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Myrcia aethusa (O.Berg) N.Silveira"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": null,
+          "collectioncode": "P",
+          "catalognumber": "P00161115",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00161115",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "P",
+          "catalognumber": "P00161115",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228047445",
+          "locality": "RJ",
+          "typestatus": "typus"
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 601143,
+        "scientificname": "Myrcia richardiana var. fenzliana (O. Berg) D. Legrand",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrcia",
+        "specificepithet": "richardiana",
+        "infraspecificepithet": "fenzliana",
+        "scientificnameauthorship": "(O. Berg) D. Legrand",
+        "acceptednameusage": "Myrcia aethusa (O.Berg) N.Silveira",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrcia DC.;Myrcia richardiana (O.Berg) Kiaersk.;Myrcia richardiana var. fenzliana (O. Berg) D. Legrand",
+        "source": "Santos, M.F., Amorim, B.S., Burton, G.P., Fernandes, T., Gaem, P.H., Lourenço, A.R.L., Lima, D.F., Rosa, P.O., Santos, L.L.D., Staggemeier, V.G., Vasconcelos, T.N.C., Lucas, E.J. 2020. Myrcia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB601143\">https://floradobrasil2020.jbrj.gov.br/FB601143</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Berg, O. 1857&amp;ndash;1859. Myrtaceae. In: Martius, K. (Ed.) Flora Brasiliensis enumeratio plantarum in Brasilia hactenus detectarum quas suis aliorumque botanicorum studiis descriptas et methodo naturali digestas partim icone illustratas. R. Oldenbourg, Monachii et Lipsiae 14: 1&amp;ndash;656.",
+        "parentnameusage": "Myrcia richardiana (O.Berg) Kiaersk.",
+        "parentnameusageid": 10749,
+        "originalnameusageid": null,
+        "namepublishedin": "Fl. bras. 14(1): 112 1857",
+        "namepublishedinyear": "1857",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB601143",
+        "acceptednameusageid": 37035,
+        "bibliographiccitation_how_to_cite": "Santos, M.F., Amorim, B.S., Burton, G.P., Fernandes, T., Gaem, P.H., Lourenço, A.R.L., Lima, D.F., Rosa, P.O., Santos, L.L.D., Staggemeier, V.G., Vasconcelos, T.N.C., Lucas, E.J. Myrcia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB601143>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-02-07 13:15:58.794"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "O. Berg,Fl. bras.,14(1): 112,1857"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 37035,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Myrcia aethusa (O.Berg) N.Silveira"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

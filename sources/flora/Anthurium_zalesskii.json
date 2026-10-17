@@ -1,0 +1,68 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_zalesskii",
+  "retrievedAt": "2026-10-16T22:12:31Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 637604,
+        "scientificname": "Anthurium zalesskii Popovkin & Nadruz",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "zalesskii",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Popovkin & Nadruz",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium zalesskii Popovkin & Nadruz",
+        "source": "POPOVKIN, A.V. &amp;amp; COELHO, M.A.N. 2025. A new species of the palmatisect Anthurium sect. Dactylophyllium (Araceae) from the Atlantic Forest of northern littoral of Bahia, Brazil. Phytotaxa 701 (3): 279&amp;ndash;286.&amp;nbsp;",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 701 (3): 280–281 2025",
+        "namepublishedinyear": "2025",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB637604",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2026-05-29 10:43:04.574"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Hemiepífita"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Popovkin & Nadruz,Phytotaxa,701 (3): 280–281,2025"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

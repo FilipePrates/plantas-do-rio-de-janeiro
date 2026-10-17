@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/346642767",
+  "photo": {
+    "id": 631907816,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631907816/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Gabriel Cardoso Fialho",
+  "observation": {
+    "id": 346642767,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 278156,
+      "name": "Miconia prasina"
+    },
+    "observerLogin": "gabrielfialho"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631907816/large.jpg",
+    "sha256": "9f07d2745a21bb8c1026949332cac3370de20ff77d90d60894989c35b31214f5",
+    "retrievedAt": "2026-10-16T22:18:01Z"
+  }
+}

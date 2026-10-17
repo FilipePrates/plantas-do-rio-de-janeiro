@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/195041476",
+  "photo": {
+    "id": 343018255,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343018255/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Stari Plativky",
+  "observation": {
+    "id": 195041476,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 130193,
+      "name": "Ipomoea imperati"
+    },
+    "observerLogin": "stariplativky"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343018255/large.jpg",
+    "sha256": "b14459f5e8b2543a18be51e79b62ee92828f68a60948cc4fdf7cd5f6e1e60ed6",
+    "retrievedAt": "2026-10-16T22:14:32Z"
+  }
+}

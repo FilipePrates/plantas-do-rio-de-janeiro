@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/202096986",
+  "photo": {
+    "id": 356855505,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356855505/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Nico",
+  "observation": {
+    "id": 202096986,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 209926,
+      "name": "Inga edulis"
+    },
+    "observerLogin": "oecophylla"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356855505/large.jpeg",
+    "sha256": "240ecf09ad93d7f7855531a34f061e76cff99957e43b90a3acdfedc858569045",
+    "retrievedAt": "2026-10-16T22:15:40Z"
+  }
+}

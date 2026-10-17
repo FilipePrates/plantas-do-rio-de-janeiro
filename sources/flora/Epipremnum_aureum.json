@@ -1,0 +1,220 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Epipremnum_aureum",
+  "retrievedAt": "2026-10-16T22:10:39Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 609326,
+        "scientificname": "Epipremnum aureum (Linden & André) G.S.Bunting",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Epipremnum",
+        "specificepithet": "aureum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Linden & André) G.S.Bunting",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Epipremnum Schott;Epipremnum aureum (Linden & André) G.S.Bunting",
+        "source": "",
+        "parentnameusage": "Epipremnum Schott",
+        "parentnameusageid": 609325,
+        "originalnameusageid": "42978",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB609326",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2024-11-27 18:26:44.605"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AC",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MA",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MT",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-TO",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-GO",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AM",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-DF",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PB",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SC",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MS",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PA",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Exótica",
+          "occurrenceremarks": {
+            "endemism": "Não endemica"
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Hemiepífita"
+        ],
+        "vegetationType": [
+          "Área Antrópica"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "jiboia-verde",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        }
+      ],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42978,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Pothos aureus Linden & André"
+        },
+        {
+          "relatedresourceid": 43013,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Rhaphidophora aurea (Linden & André) Birdsey"
+        },
+        {
+          "relatedresourceid": 43029,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Scindapsus aureus (Linden & André) Engl."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

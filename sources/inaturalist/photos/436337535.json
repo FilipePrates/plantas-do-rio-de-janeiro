@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/244588258",
+  "photo": {
+    "id": 436337535,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436337535/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Alex Fernando",
+  "observation": {
+    "id": 244588258,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1113011,
+      "name": "Pleroma mutabile"
+    },
+    "observerLogin": "alex43916"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436337535/large.jpeg",
+    "sha256": "b5b9f3ca0a1a5c177559c660f034a2e0a5bb42e3ab02f8227d07d3cd9117d047",
+    "retrievedAt": "2026-10-16T22:18:14Z"
+  }
+}

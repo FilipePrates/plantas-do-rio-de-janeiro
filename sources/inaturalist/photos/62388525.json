@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/39333959",
+  "photo": {
+    "id": 62388525,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62388525/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Peter de Lange",
+  "observation": {
+    "id": 39333959,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 47447,
+      "name": "Leucaena leucocephala"
+    },
+    "observerLogin": "pjd1"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62388525/large.jpg",
+    "sha256": "4198b8effc205a6a10d547d5bbb841795b838a672a79dcc1705e14f87f1a3ed3",
+    "retrievedAt": "2026-10-17T17:19:47.016Z"
+  }
+}

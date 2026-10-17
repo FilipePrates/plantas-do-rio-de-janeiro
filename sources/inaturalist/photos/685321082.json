@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/374912518",
+  "photo": {
+    "id": 685321082,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1542,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685321082/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Lucas Rodrigues",
+  "observation": {
+    "id": 374912518,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 364198,
+      "name": "Allagoptera arenaria"
+    },
+    "observerLogin": "siguisira"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685321082/large.jpg",
+    "sha256": "98eeec10839e4a77351244da9ce6aa95a000042a0fa1d34737aeb203bc6ea383",
+    "retrievedAt": "2026-10-16T22:10:26Z"
+  }
+}

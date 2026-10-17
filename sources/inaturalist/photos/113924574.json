@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/70117237",
+  "photo": {
+    "id": 113924574,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113924574/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Carlos Henrique Russi",
+  "observation": {
+    "id": 70117237,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 365290,
+      "name": "Geonoma schottiana"
+    },
+    "observerLogin": "carloshrussi"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113924574/large.jpeg",
+    "sha256": "78c6a0646627e5f4cffd7e6e7303e78563b9d2caa6ec273718c6bbfbc05ecc69",
+    "retrievedAt": "2026-10-16T22:11:03Z"
+  }
+}

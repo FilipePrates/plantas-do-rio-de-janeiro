@@ -1,0 +1,74 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_maxakali",
+  "retrievedAt": "2026-10-16T22:11:51Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 641118,
+        "scientificname": "Anthurium maxakali Theófilo, Sakur. & Mayo",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Anthurium",
+        "specificepithet": "maxakali",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Theófilo, Sakur. & Mayo",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araceae Juss.;Anthurium Schott;Anthurium maxakali Theófilo, Sakur. & Mayo",
+        "source": "Valadares, R.T., Sakuragui, C.M. &amp;amp; Mayo, S.J. 2020. Elucidating the Mystery of Anthurium willdenowii var. pohlii (Araceae). Novon 28: 271&amp;ndash;274. doi: 10.3417/2020607",
+        "parentnameusage": "Anthurium Schott",
+        "parentnameusageid": 4912,
+        "originalnameusageid": null,
+        "namepublishedin": "Novon 28: 271-273 2020",
+        "namepublishedinyear": "2020",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB641118",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2026-05-29 14:37:35.345"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ciliar ou Galeria"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Valadares, R.T. et al.,Novon,28: 271-273,2020"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 42340,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Anthurium willdenowii var. pohlii Engl."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

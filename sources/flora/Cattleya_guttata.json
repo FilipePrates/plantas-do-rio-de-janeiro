@@ -1,0 +1,757 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cattleya_guttata",
+  "retrievedAt": "2026-10-16T22:04:54Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 11336,
+        "scientificname": "Cattleya guttata Lindl.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Lindl.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB11336>http://floradobrasil2015.jbrj.gov.br/FB11336</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB11336\">https://floradobrasil2020.jbrj.gov.br/FB11336</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).&lt;p class=&quot;western&quot; style=&quot;line-height: 0.37cm;&quot;&gt;&amp;nbsp;\r\n&lt;p class=&quot;western&quot; style=&quot;line-height: 0.37cm;&quot;&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;Fowlie, J.A. (1977). The Brazilian bifoliate Cattleyas and their color varieties. Azul Quinta Press, Pomona. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;\r\n&lt;p class=&quot;western&quot; style=&quot;line-height: 0.37cm;&quot;&gt;&amp;nbsp;\r\n&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0cm; line-height: 0.37cm;&quot;&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;van den Berg, C. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1996&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Estudo dos padr&amp;otilde;es de variabilidade&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;intra e interespec&amp;iacute;fica em esp&amp;eacute;cies brasileiras de&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Cattleya&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;. Lindley (Orchicaceae-Laeliinae). Disserta&amp;ccedil;&amp;atilde;o de Mestrado, Universidade Estadual de Campinas.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;\r\n&lt;p class=&quot;western&quot; style=&quot;line-height: 0.37cm;&quot;&gt;&amp;nbsp;\r\n&lt;p class=&quot;western&quot; style=&quot;line-height: 0.37cm;&quot;&gt;&lt;span style=&quot;font-variant: normal;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-family: Arial,serif;&quot;&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;Withner, C.L. (1986) The Cattleyas and their relatives Vol. 1. The Cattleyas. Timber Press, Portland.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;\r\n&lt;p class=&quot;western&quot; style=&quot;line-height: 0.37cm;&quot;&gt;&amp;nbsp;",
+        "parentnameusage": "Cattleya Lindl.",
+        "parentnameusageid": 11329,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB11336",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB11336>. Acesso em: 16 oct. 2026.",
+        "modified": "2021-10-30 22:57:23.283"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 65131,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya guttata var. munda Rchb.f."
+        },
+        {
+          "relatedresourceid": 65132,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya guttata var. pernambucensis Rodigas"
+        },
+        {
+          "relatedresourceid": 65126,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya guttata var. elatior (Lindl.) Fowlie"
+        },
+        {
+          "relatedresourceid": 65264,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya sphenophora C.Morren"
+        },
+        {
+          "relatedresourceid": 66000,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Epidendrum amethystoglossum Rchb.f."
+        },
+        {
+          "relatedresourceid": 66104,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Epidendrum elatius (Lindl.) Rchb.f."
+        },
+        {
+          "relatedresourceid": 65124,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya guttata var. caerulea L.C.Menezes"
+        },
+        {
+          "relatedresourceid": 65091,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya elatior Lindl."
+        },
+        {
+          "relatedresourceid": 65186,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya leopoldii subsp. pernambucensis Brieger"
+        },
+        {
+          "relatedresourceid": 581872,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya guttata var. russelliana Hook."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65124,
+        "scientificname": "Cattleya guttata var. caerulea L.C.Menezes",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "caerulea",
+        "scientificnameauthorship": "L.C.Menezes",
+        "acceptednameusage": "Cattleya guttata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. caerulea L.C.Menezes",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65124>http://floradobrasil2015.jbrj.gov.br/FB65124</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65124\">https://floradobrasil2020.jbrj.gov.br/FB65124</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65124",
+        "acceptednameusageid": 11336,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65124>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:18:11.376512"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Bol. CAOB,5(1): 22,1993"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11336,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya guttata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65126,
+        "scientificname": "Cattleya guttata var. elatior (Lindl.) Fowlie",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "elatior",
+        "scientificnameauthorship": "(Lindl.) Fowlie",
+        "acceptednameusage": "Cattleya guttata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. elatior (Lindl.) Fowlie",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65126>http://floradobrasil2015.jbrj.gov.br/FB65126</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65126\">https://floradobrasil2020.jbrj.gov.br/FB65126</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65126",
+        "acceptednameusageid": 11336,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65126>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:16:42.181673"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Braz. Bifol. Cattleyas,: 105,1977"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11336,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya guttata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65127,
+        "scientificname": "Cattleya guttata var. keteleerii Houllet",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "keteleerii",
+        "scientificnameauthorship": "Houllet",
+        "acceptednameusage": "Cattleya amethystoglossa Linden & Rchb.f.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. keteleerii Houllet",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65127>http://floradobrasil2015.jbrj.gov.br/FB65127</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65127\">https://floradobrasil2020.jbrj.gov.br/FB65127</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65127",
+        "acceptednameusageid": 11331,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65127>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:16:21.348675"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Rev. Hort. [Paris]. ,46: 350,1874"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11331,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya amethystoglossa Linden & Rchb.f."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65128,
+        "scientificname": "Cattleya guttata var. leopardina L.Linden & Rodigas",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "leopardina",
+        "scientificnameauthorship": "L.Linden & Rodigas",
+        "acceptednameusage": "Cattleya tigrina A.Rich.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. leopardina L.Linden & Rodigas",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65128>http://floradobrasil2015.jbrj.gov.br/FB65128</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65128\">https://floradobrasil2020.jbrj.gov.br/FB65128</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65128",
+        "acceptednameusageid": 11345,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65128>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:16:06.415593"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Lindenia,1: t. 19,1885"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11345,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya tigrina A.Rich."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65129,
+        "scientificname": "Cattleya guttata var. leopoldii (Verschaff. ex Lem.) Linden & Rchb.f.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "leopoldii",
+        "scientificnameauthorship": "(Verschaff. ex Lem.) Linden & Rchb.f.",
+        "acceptednameusage": "Cattleya tigrina A.Rich.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. leopoldii (Verschaff. ex Lem.) Linden & Rchb.f.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65129>http://floradobrasil2015.jbrj.gov.br/FB65129</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65129\">https://floradobrasil2020.jbrj.gov.br/FB65129</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65129",
+        "acceptednameusageid": 11345,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65129>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:15:48.465735"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Pescatorea,1: t. 43,1860"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11345,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya tigrina A.Rich."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65130,
+        "scientificname": "Cattleya guttata var. lilacina Rchb.f.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "lilacina",
+        "scientificnameauthorship": "Rchb.f.",
+        "acceptednameusage": "Cattleya amethystoglossa Linden & Rchb.f.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. lilacina Rchb.f.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65130>http://floradobrasil2015.jbrj.gov.br/FB65130</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65130\">https://floradobrasil2020.jbrj.gov.br/FB65130</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65130",
+        "acceptednameusageid": 11331,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65130>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:15:35.189122"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Gard. Chron. n.s., 16: 38,1881"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11331,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya amethystoglossa Linden & Rchb.f."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65131,
+        "scientificname": "Cattleya guttata var. munda Rchb.f.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "munda",
+        "scientificnameauthorship": "Rchb.f.",
+        "acceptednameusage": "Cattleya guttata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. munda Rchb.f.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65131>http://floradobrasil2015.jbrj.gov.br/FB65131</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65131\">https://floradobrasil2020.jbrj.gov.br/FB65131</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65131",
+        "acceptednameusageid": 11336,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65131>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:15:21.823314"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Gard. Chron. III, 4: 378,1898"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11336,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya guttata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65132,
+        "scientificname": "Cattleya guttata var. pernambucensis Rodigas",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "pernambucensis",
+        "scientificnameauthorship": "Rodigas",
+        "acceptednameusage": "Cattleya guttata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. pernambucensis Rodigas",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65132>http://floradobrasil2015.jbrj.gov.br/FB65132</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65132\">https://floradobrasil2020.jbrj.gov.br/FB65132</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65132",
+        "acceptednameusageid": 11336,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65132>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:15:07.610394"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Ill. Hort.,40: 91,1893"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11336,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya guttata Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65133,
+        "scientificname": "Cattleya guttata var. prinzii Rchb.f.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "prinzii",
+        "scientificnameauthorship": "Rchb.f.",
+        "acceptednameusage": "Cattleya amethystoglossa Linden & Rchb.f.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. prinzii Rchb.f.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65133>http://floradobrasil2015.jbrj.gov.br/FB65133</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65133\">https://floradobrasil2020.jbrj.gov.br/FB65133</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65133",
+        "acceptednameusageid": 11331,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65133>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:14:52.911786"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Bonplandia,4: 327,1856"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11331,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya amethystoglossa Linden & Rchb.f."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65134,
+        "scientificname": "Cattleya guttata var. purpurea Cogn.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "purpurea",
+        "scientificnameauthorship": "Cogn.",
+        "acceptednameusage": "Cattleya tigrina A.Rich.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. purpurea Cogn.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65134>http://floradobrasil2015.jbrj.gov.br/FB65134</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65134\">https://floradobrasil2020.jbrj.gov.br/FB65134</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65134",
+        "acceptednameusageid": 11345,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65134>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:14:36.969484"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Dict. Icon. Orchid. Cattleya: t. 15 A,1900"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11345,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya tigrina A.Rich."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 65136,
+        "scientificname": "Cattleya guttata var. williamsiana Rchb.f.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "williamsiana",
+        "scientificnameauthorship": "Rchb.f.",
+        "acceptednameusage": "Cattleya tigrina A.Rich.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. williamsiana Rchb.f.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB65136>http://floradobrasil2015.jbrj.gov.br/FB65136</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB65136\">https://floradobrasil2020.jbrj.gov.br/FB65136</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB65136",
+        "acceptednameusageid": 11345,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB65136>. Acesso em: 16 oct. 2026.",
+        "modified": "2010-01-17 00:12:39.440384"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Gard. Chron.,22(2): 70,1884"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11345,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya tigrina A.Rich."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 581872,
+        "scientificname": "Cattleya guttata var. russelliana Hook.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "specificepithet": "guttata",
+        "infraspecificepithet": "russelliana",
+        "scientificnameauthorship": "Hook.",
+        "acceptednameusage": "Cattleya guttata Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Orchidaceae A.Juss.;Cattleya Lindl.;Cattleya guttata Lindl.;Cattleya guttata var. russelliana Hook.",
+        "source": "Barros, F. de,Vinhos, F.,Rodrigues, V.T.,Barberena, F.F.V.A.,Fraga, C.N.,Pessoa, E.M.,Forster, W.,Menini Neto, L.,Furtado, S.G.,Nardy, C.,Azevedo, C.O.,Guimarães, L.R.S. 2015. Orchidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB581872>http://floradobrasil2015.jbrj.gov.br/FB581872</a>)<br><br>van den Berg, C. 2020. Cattleya in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB581872\">https://floradobrasil2020.jbrj.gov.br/FB581872</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Cattleya guttata Lindl.",
+        "parentnameusageid": 11336,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB581872",
+        "acceptednameusageid": 11336,
+        "bibliographiccitation_how_to_cite": "van den Berg, C. Cattleya in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB581872>. Acesso em: 16 oct. 2026.",
+        "modified": "2015-01-30 17:21:37.361"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 11336,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Cattleya guttata Lindl."
+        },
+        {
+          "relatedresourceid": 66107,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Epidendrum elatius var. russellianum (Hook.) Rchb.f."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

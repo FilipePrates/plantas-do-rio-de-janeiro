@@ -1,0 +1,1138 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Geonoma_pohliana",
+  "retrievedAt": "2026-10-16T22:03:22Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 15720,
+        "scientificname": "Geonoma pohliana Mart.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Mart.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB15720>http://floradobrasil2015.jbrj.gov.br/FB15720</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB15720\">https://floradobrasil2020.jbrj.gov.br/FB15720</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Geonoma Willd.",
+        "parentnameusageid": 15714,
+        "originalnameusageid": null,
+        "namepublishedin": "Hist. Nat. Palm. 2: 142 1826",
+        "namepublishedinyear": "1826",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB15720",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB15720>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-12-18 07:25:08.026"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AL",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-CE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Palmeira"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "C.P.F. von Martius,Hist. Nat. Palm.,2: 142,1826"
+        },
+        {
+          "reference": "Drude, O.,Fl. bras.,3(2):487-488,"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 44271,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Geonoma barbosiana Burret"
+        },
+        {
+          "relatedresourceid": 44332,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Geonoma luetzelburgii Burret"
+        },
+        {
+          "relatedresourceid": 130381,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Geonoma bondariana Lorenzi"
+        },
+        {
+          "relatedresourceid": 138091,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Geonoma telesana Lorenzi"
+        },
+        {
+          "relatedresourceid": 44333,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Geonoma macroclona Drude & H.Wendl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 127016,
+        "scientificname": "Geonoma pohliana Mart. subsp. pohliana",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": "pohliana",
+        "scientificnameauthorship": "Mart.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.;Geonoma pohliana Mart. subsp. pohliana",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB127016>http://floradobrasil2015.jbrj.gov.br/FB127016</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB127016\">https://floradobrasil2020.jbrj.gov.br/FB127016</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A. 2011. A revision of Geonoma (Arecaceae). Phytotaxa 17:1-271.",
+        "parentnameusage": "Geonoma pohliana Mart.",
+        "parentnameusageid": 15720,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB127016",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB127016>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-12-18 07:25:38.261"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Palmeira"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 44382,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Geonoma rodeiensis Barb.Rodr."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00067493",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00067493",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00055476",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00055476",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00055476",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228516909",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00055476",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228516905",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00055476",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228516903",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00055476",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228516901",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00055476",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228516899",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00055476",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228516895",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00055476",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228516907",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00055476",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228516897",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00055476",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228516893",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00067493",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228274927",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. A. Kallunki 669",
+          "collectioncode": "NY",
+          "catalognumber": "NY00067493",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228739807",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 127223,
+        "scientificname": "Geonoma pohliana subsp. fiscellaria (Mart. ex Drude & Wendland) Henderson",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": "fiscellaria",
+        "scientificnameauthorship": "(Mart. ex Drude & Wendland) Henderson",
+        "acceptednameusage": "Geonoma fiscellaria Mart. ex Drude",
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.;Geonoma pohliana subsp. fiscellaria (Mart. ex Drude & Wendland) Henderson",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB127223>http://floradobrasil2015.jbrj.gov.br/FB127223</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB127223\">https://floradobrasil2020.jbrj.gov.br/FB127223</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A. 2011. A revision of Geonoma (Arecaceae). Phytotaxa 17:1-271.",
+        "parentnameusage": "Geonoma pohliana Mart.",
+        "parentnameusageid": 15720,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 17:1-271 2011",
+        "namepublishedinyear": "2011",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB127223",
+        "acceptednameusageid": 44308,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB127223>. Acesso em: 16 oct. 2026.",
+        "modified": "2018-03-28 14:58:22.631"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Henderson, A.,Phytotaxa,17:1-271,2011"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 44308,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Geonoma fiscellaria Mart. ex Drude"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "A.F.M. Glaziou 1180",
+          "collectioncode": "P",
+          "catalognumber": "P00725356",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00725356",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 1180",
+          "collectioncode": "P",
+          "catalognumber": "P00725357",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00725357",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "A. Fonseca Vaz 281",
+          "collectioncode": "RB",
+          "catalognumber": "RB00631159",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00631159",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 1180",
+          "collectioncode": "P",
+          "catalognumber": "P00725356",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228070755",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 1180",
+          "collectioncode": "P",
+          "catalognumber": "P00725357",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228070757",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "A. Fonseca Vaz 281",
+          "collectioncode": "RB",
+          "catalognumber": "RB00631159",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284569382",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. Fonseca Vaz 281",
+          "collectioncode": "RB",
+          "catalognumber": "RB00631159",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284569384",
+          "locality": "SP",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 127224,
+        "scientificname": "Geonoma pohliana subsp. gastoniana (Glaz. ex Drude) Henderson",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": "gastoniana",
+        "scientificnameauthorship": "(Glaz. ex Drude) Henderson",
+        "acceptednameusage": "Geonoma gastoniana Glaz. ex Drude",
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.;Geonoma pohliana subsp. gastoniana (Glaz. ex Drude) Henderson",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB127224>http://floradobrasil2015.jbrj.gov.br/FB127224</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB127224\">https://floradobrasil2020.jbrj.gov.br/FB127224</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A. 2011. A revision of Geonoma (Arecaceae). Phytotaxa 17:1-271.",
+        "parentnameusage": "Geonoma pohliana Mart.",
+        "parentnameusageid": 15720,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 17:1-271 2011",
+        "namepublishedinyear": "2011",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB127224",
+        "acceptednameusageid": 44313,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB127224>. Acesso em: 16 oct. 2026.",
+        "modified": "2017-08-08 17:08:19.391"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Henderson, A.,Phytotaxa,17:1-271,2011"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 44313,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Geonoma gastoniana Glaz. ex Drude"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 127225,
+        "scientificname": "Geonoma pohliana subsp. kuhlmannii (Burret) Henderson",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": "kuhlmannii",
+        "scientificnameauthorship": "(Burret) Henderson",
+        "acceptednameusage": "Geonoma kuhlmannii Burret",
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.;Geonoma pohliana subsp. kuhlmannii (Burret) Henderson",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB127225>http://floradobrasil2015.jbrj.gov.br/FB127225</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB127225\">https://floradobrasil2020.jbrj.gov.br/FB127225</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A. 2011. A revision of Geonoma (Arecaceae). Phytotaxa 17:1-271",
+        "parentnameusage": "Geonoma pohliana Mart.",
+        "parentnameusageid": 15720,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 17:1-271 2011",
+        "namepublishedinyear": "2011",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB127225",
+        "acceptednameusageid": 44321,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB127225>. Acesso em: 16 oct. 2026.",
+        "modified": "2017-08-08 17:03:30.58"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Henderson, A.,Phytotaxa,17:1-271,2011"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 44321,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Geonoma kuhlmannii Burret"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "J. Kulhmann 141",
+          "collectioncode": "RB",
+          "catalognumber": "RB00542749",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284403364",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "J. Kulhmann 141",
+          "collectioncode": "RB",
+          "catalognumber": "RB00569010",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284451780",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "J. Kulhmann 141",
+          "collectioncode": "RB",
+          "catalognumber": "RB00542749",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00542749",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "J. Kulhmann 141",
+          "collectioncode": "RB",
+          "catalognumber": "RB00569010",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00569010",
+          "locality": "RJ",
+          "typestatus": "typus"
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 127226,
+        "scientificname": "Geonoma pohliana subsp. linharensis Henderson",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": "linharensis",
+        "scientificnameauthorship": "Henderson",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.;Geonoma pohliana subsp. linharensis Henderson",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB127226>http://floradobrasil2015.jbrj.gov.br/FB127226</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB127226\">https://floradobrasil2020.jbrj.gov.br/FB127226</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A. 2011. A revision of Geonoma (Arecaceae). Phytotaxa 17:1-271",
+        "parentnameusage": "Geonoma pohliana Mart.",
+        "parentnameusageid": 15720,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 17:1-271 2011",
+        "namepublishedinyear": "2011",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB127226",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB127226>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-12-18 07:25:52.114"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Palmeira"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Henderson, A.,Phytotaxa,17:1-271,2011"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 127228,
+        "scientificname": "Geonoma pohliana subsp. rodriguesii Henderson",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": "rodriguesii",
+        "scientificnameauthorship": "Henderson",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.;Geonoma pohliana subsp. rodriguesii Henderson",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB127228>http://floradobrasil2015.jbrj.gov.br/FB127228</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB127228\">https://floradobrasil2020.jbrj.gov.br/FB127228</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A. 2011. A revision of Geonoma (Arecaceae). Phytotaxa 17:1-271",
+        "parentnameusage": "Geonoma pohliana Mart.",
+        "parentnameusageid": 15720,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 17:1-271 2011",
+        "namepublishedinyear": "2011",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB127228",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB127228>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-12-18 07:25:57.67"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Palmeira"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Henderson, A.,Phytotaxa,17:1-271,2011"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "Eiten, G 7815",
+          "collectioncode": "UB",
+          "catalognumber": "UB0003340",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100354079",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Eiten, G 7815",
+          "collectioncode": "UB",
+          "catalognumber": "UB0003340",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/UB0003340",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 127231,
+        "scientificname": "Geonoma pohliana subsp. rubescens (Wendland ex Drude) Henderson",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": "rubescens",
+        "scientificnameauthorship": "(Wendland ex Drude) Henderson",
+        "acceptednameusage": "Geonoma rubescens H.Wendl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.;Geonoma pohliana subsp. rubescens (Wendland ex Drude) Henderson",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB127231>http://floradobrasil2015.jbrj.gov.br/FB127231</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB127231\">https://floradobrasil2020.jbrj.gov.br/FB127231</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A. 2011. A revision of Geonoma (Arecaceae). Phytotaxa 17:1-271",
+        "parentnameusage": "Geonoma pohliana Mart.",
+        "parentnameusageid": 15720,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 17:1-271 2011",
+        "namepublishedinyear": "2011",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB127231",
+        "acceptednameusageid": 15721,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB127231>. Acesso em: 16 oct. 2026.",
+        "modified": "2017-08-08 17:16:09.69"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Henderson, A.,Phytotaxa,17:1-271,2011"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 15721,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Geonoma rubescens H.Wendl."
+        },
+        {
+          "relatedresourceid": 44368,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Geonoma platycaula Drude & Trail"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 127232,
+        "scientificname": "Geonoma pohliana subsp. trinervis (Drude & Wendland) Henderson",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": "trinervis",
+        "scientificnameauthorship": "(Drude & Wendland) Henderson",
+        "acceptednameusage": "Geonoma trinervis Drude & H.Wendl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.;Geonoma pohliana subsp. trinervis (Drude & Wendland) Henderson",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB127232>http://floradobrasil2015.jbrj.gov.br/FB127232</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB127232\">https://floradobrasil2020.jbrj.gov.br/FB127232</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A. 2011. A revision of Geonoma (Arecaceae). Phytotaxa 17:1-271",
+        "parentnameusage": "Geonoma pohliana Mart.",
+        "parentnameusageid": 15720,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 17:1-271 2011",
+        "namepublishedinyear": "2011",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB127232",
+        "acceptednameusageid": 44412,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB127232>. Acesso em: 16 oct. 2026.",
+        "modified": "2017-08-03 18:27:05.408"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Henderson, A.,Phytotaxa,17:1-271,2011"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 44412,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Geonoma trinervis Drude & H.Wendl."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "L. Riedel 734",
+          "collectioncode": "P",
+          "catalognumber": "P00725488",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00725488",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "L. Riedel 734",
+          "collectioncode": "P",
+          "catalognumber": "P00725487",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00725487",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "L. Riedel 734",
+          "collectioncode": "P",
+          "catalognumber": "P00725487",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228070927",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "L. Riedel 734",
+          "collectioncode": "P",
+          "catalognumber": "P00725488",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228070929",
+          "locality": "RJ",
+          "typestatus": "typus"
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 127246,
+        "scientificname": "Geonoma pohliana subsp. unaensis Henderson",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": "unaensis",
+        "scientificnameauthorship": "Henderson",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.;Geonoma pohliana subsp. unaensis Henderson",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB127246>http://floradobrasil2015.jbrj.gov.br/FB127246</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB127246\">https://floradobrasil2020.jbrj.gov.br/FB127246</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A. 2011. A revision of Geonoma (Arecaceae). Phytotaxa 17:1-271",
+        "parentnameusage": "Geonoma pohliana Mart.",
+        "parentnameusageid": 15720,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 17:1-271 2011",
+        "namepublishedinyear": "2011",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB127246",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB127246>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-12-18 07:26:02.26"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Palmeira"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Henderson, A.,Phytotaxa,17:1-271,2011"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 127247,
+        "scientificname": "Geonoma pohliana subsp. weddelliana (Wendland ex Drude) Henderson",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": "weddelliana",
+        "scientificnameauthorship": "(Wendland ex Drude) Henderson",
+        "acceptednameusage": "Geonoma brevispatha Barb.Rodr.",
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.;Geonoma pohliana subsp. weddelliana (Wendland ex Drude) Henderson",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB127247>http://floradobrasil2015.jbrj.gov.br/FB127247</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB127247\">https://floradobrasil2020.jbrj.gov.br/FB127247</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A. 2011. A revision of Geonoma (Arecaceae). Phytotaxa 17:1-271",
+        "parentnameusage": "Geonoma pohliana Mart.",
+        "parentnameusageid": 15720,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 17:1-271 2011",
+        "namepublishedinyear": "2011",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB127247",
+        "acceptednameusageid": 15716,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB127247>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-12-18 07:07:58.06"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ciliar ou Galeria"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Henderson, A.,Phytotaxa,17:1-271,2011"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 15716,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Geonoma brevispatha Barb.Rodr."
+        },
+        {
+          "relatedresourceid": 44419,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Geonoma weddelliana H.Wendl. ex Drude"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 127248,
+        "scientificname": "Geonoma pohliana subsp. wittigiana (Glaz. ex Drude) Henderson",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Geonoma",
+        "specificepithet": "pohliana",
+        "infraspecificepithet": "wittigiana",
+        "scientificnameauthorship": "(Glaz. ex Drude) Henderson",
+        "acceptednameusage": "Geonoma wittigiana Glaz. ex Drude",
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Geonoma Willd.;Geonoma pohliana Mart.;Geonoma pohliana subsp. wittigiana (Glaz. ex Drude) Henderson",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB127248>http://floradobrasil2015.jbrj.gov.br/FB127248</a>)<br><br>Soares, K.P., Leitman, P.M. 2020. Geonoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB127248\">https://floradobrasil2020.jbrj.gov.br/FB127248</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Henderson, A. 2011. A revision of Geonoma (Arecaceae). Phytotaxa 17:1-271",
+        "parentnameusage": "Geonoma pohliana Mart.",
+        "parentnameusageid": 15720,
+        "originalnameusageid": null,
+        "namepublishedin": "Phytotaxa 17:1-271 2011",
+        "namepublishedinyear": "2011",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB127248",
+        "acceptednameusageid": 44422,
+        "bibliographiccitation_how_to_cite": "Soares, K.P., Leitman, P.M. Geonoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB127248>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-12-18 00:15:27.669"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Henderson, A.,Phytotaxa,17:1-271,2011"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 44422,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Geonoma wittigiana Glaz. ex Drude"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

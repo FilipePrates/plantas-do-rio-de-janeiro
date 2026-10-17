@@ -1,0 +1,233 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Neomitranthes_obscura",
+  "retrievedAt": "2026-10-16T22:02:12Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 10816,
+        "scientificname": "Neomitranthes obscura (DC.) N.Silveira",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Neomitranthes",
+        "specificepithet": "obscura",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(DC.) N.Silveira",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Neomitranthes Kausel ex D.Legrand;Neomitranthes obscura (DC.) N.Silveira",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB10816>http://floradobrasil2015.jbrj.gov.br/FB10816</a>)<br><br>Souza, M.C., Proença, C.E.B. 2020. Neomitranthes in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB10816\">https://floradobrasil2020.jbrj.gov.br/FB10816</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Neomitranthes Kausel ex D.Legrand",
+        "parentnameusageid": 10805,
+        "originalnameusageid": "61522",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB10816",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Souza, M.C., Proença, C.E.B. Neomitranthes in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB10816>. Acesso em: 16 oct. 2026.",
+        "modified": "2021-10-19 10:10:02.39"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RN",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PB",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Silveira, N.,Roessléria,4: 123,1981"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 63437,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrciaria tolypantha var. pubescens O.Berg"
+        },
+        {
+          "relatedresourceid": 36845,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Calyptranthes axillaris O.Berg"
+        },
+        {
+          "relatedresourceid": 61512,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Calyptranthes maschalantha O.Berg"
+        },
+        {
+          "relatedresourceid": 61522,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Calyptranthes obscura DC."
+        },
+        {
+          "relatedresourceid": 61719,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Chytraculia cephalantha (O.Berg) Kuntze"
+        },
+        {
+          "relatedresourceid": 61765,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Chytraculia tuberculata (O.Berg) Kuntze"
+        },
+        {
+          "relatedresourceid": 63403,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrciaria perforata O.Berg"
+        },
+        {
+          "relatedresourceid": 10815,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Neomitranthes nitida Mattos"
+        },
+        {
+          "relatedresourceid": 61539,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Calyptranthes tuberculata O.Berg"
+        },
+        {
+          "relatedresourceid": 10821,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Neomitranthes wilsoniana Mattos"
+        },
+        {
+          "relatedresourceid": 61513,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Calyptranthes maschalantha var. rotundifolia O.Berg"
+        },
+        {
+          "relatedresourceid": 61523,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Calyptranthes obscura var. fluminensis O.Berg"
+        },
+        {
+          "relatedresourceid": 61711,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Chytraculia axillaris (O.Berg) Kuntze"
+        },
+        {
+          "relatedresourceid": 61744,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Chytraculia obscura (DC.) Kuntze"
+        },
+        {
+          "relatedresourceid": 61739,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Chytraculia maschalantha (O.Berg) Kuntze"
+        },
+        {
+          "relatedresourceid": 62824,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Mitranthes obscura (DC.) D.Legrand"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Hoehne, W. 5934",
+          "collectioncode": "SP",
+          "catalognumber": "SP022822",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SP022822",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Hoehne, W. 5977",
+          "collectioncode": "SP",
+          "catalognumber": "SP001379",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SP001379",
+          "locality": "RJ",
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

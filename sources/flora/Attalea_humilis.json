@@ -1,0 +1,361 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Attalea_humilis",
+  "retrievedAt": "2026-10-16T22:03:12Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 15681,
+        "scientificname": "Attalea humilis Mart.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Attalea",
+        "specificepithet": "humilis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Mart.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Arecaceae Bercht. & J.Presl.;Attalea Kunth;Attalea humilis Mart.",
+        "source": "Leitman, P.,Soares, K.,Henderson, A.,Noblick, L.,Martins, R.C. 2015. Arecaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB15681>http://floradobrasil2015.jbrj.gov.br/FB15681</a>)<br><br>Soares, K.P. 2020. Attalea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB15681\">https://floradobrasil2020.jbrj.gov.br/FB15681</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Attalea Kunth",
+        "parentnameusageid": 15675,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB15681",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Soares, K.P. Attalea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB15681>. Acesso em: 16 oct. 2026.",
+        "modified": "2021-10-28 22:58:17.231"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Palmeira"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Área Antrópica",
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "catolé",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        },
+        {
+          "vernacularname": "pindoba",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        }
+      ],
+      "reference": [
+        {
+          "reference": "C.P.F. von Martius,Syst. Veg.,2: 624,1825"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 43611,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Attalea borgesiana Bondar ex Dahlgren"
+        },
+        {
+          "relatedresourceid": 44035,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cocos butyrosa L. ex Arruda"
+        },
+        {
+          "relatedresourceid": 43613,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Attalea butyrosa Lodd. ex H.Wendl."
+        },
+        {
+          "relatedresourceid": 43616,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Attalea compta var. acaulis Mart."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "ALCB",
+          "catalognumber": "ALCB055556",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=146241773",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "ALCB",
+          "catalognumber": "ALCB055556",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=146241775",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "ALCB",
+          "catalognumber": "ALCB055556",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=146241777",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "ALCB",
+          "catalognumber": "ALCB055556",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=146241779",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "ALCB",
+          "catalognumber": "ALCB055556",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=146241781",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "ALCB",
+          "catalognumber": "ALCB055556",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=146241783",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "ALCB",
+          "catalognumber": "ALCB055556",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=146241785",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "ALCB",
+          "catalognumber": "ALCB055556",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=146241771",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0347306",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=225983362",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0347307",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=225983364",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0347308",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=225983366",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEN",
+          "catalognumber": "CEN00013670",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226191213",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEN",
+          "catalognumber": "CEN00013670",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226191203",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEN",
+          "catalognumber": "CEN00013670",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226191205",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEN",
+          "catalognumber": "CEN00013670",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226191207",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEN",
+          "catalognumber": "CEN00013670",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226191209",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEN",
+          "catalognumber": "CEN00013670",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226191211",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEN",
+          "catalognumber": "CEN00013682",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226191313",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00020215",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226421549",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00020215",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226421551",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00020215",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226421553",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0347307",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/B 10 0347307",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0347306",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/B 10 0347306",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "ALCB",
+          "catalognumber": "ALCB055556",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ALCB055556",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEN",
+          "catalognumber": "CEN00013682",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CEN00013682",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00020215",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CEPEC00020215",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "CEN",
+          "catalognumber": "CEN00013670",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CEN00013670",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Guedes, ML 30715",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0347308",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/B 10 0347308",
+          "locality": "BA",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

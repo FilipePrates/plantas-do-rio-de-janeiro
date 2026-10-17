@@ -1,0 +1,841 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Billbergia_pyramidalis",
+  "retrievedAt": "2026-10-16T22:02:37Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5947,
+        "scientificname": "Billbergia pyramidalis (Sims) Lindl.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Billbergia",
+        "specificepithet": "pyramidalis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Sims) Lindl.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Billbergia Thunb.;Billbergia pyramidalis (Sims) Lindl.",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5947>http://floradobrasil2015.jbrj.gov.br/FB5947</a>)<br><br>Jacques, S.S.A., Neves, B. 2020. Billbergia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5947\">https://floradobrasil2020.jbrj.gov.br/FB5947</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Billbergia Thunb.",
+        "parentnameusageid": 5920,
+        "originalnameusageid": "46022",
+        "namepublishedin": "Bot. Reg. 13: t. 1068 1827",
+        "namepublishedinyear": "1827",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5947",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Jacques, S.S.A., Neves, B. Billbergia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB5947>. Acesso em: 16 oct. 2026.",
+        "modified": "2020-12-30 19:50:45.182"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Bot. Reg.,13: t. 1068,1827"
+        },
+        {
+          "reference": "Hort. Woburn.,: 64,1833"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 45963,
+          "relationshipofresource": null,
+          "scientificname": "Billbergia thyrsoidea var. zonata de Vriese"
+        },
+        {
+          "relatedresourceid": 45957,
+          "relationshipofresource": null,
+          "scientificname": "Billbergia splendida Lem."
+        },
+        {
+          "relatedresourceid": 45959,
+          "relationshipofresource": null,
+          "scientificname": "Billbergia thyrsoidea Mart. ex Schult. & Schult.f."
+        },
+        {
+          "relatedresourceid": 45954,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia setosa Baker"
+        },
+        {
+          "relatedresourceid": 45953,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia schultesiana Baker"
+        },
+        {
+          "relatedresourceid": 45928,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia paxtonii Beer"
+        },
+        {
+          "relatedresourceid": 46386,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Jonghea splendida Lem."
+        },
+        {
+          "relatedresourceid": 47029,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Tillandsia farinosa Hort. ex Schult.f."
+        },
+        {
+          "relatedresourceid": 128005,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Billbergia pyramidalis (Sims) Lindl. var. pyramidalis"
+        },
+        {
+          "relatedresourceid": 45940,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis var. zonata (de Vriese) É.Morren"
+        },
+        {
+          "relatedresourceid": 45933,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis var. bicolor Lindl."
+        },
+        {
+          "relatedresourceid": 45937,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis var. lutea Leme & W.Weber"
+        },
+        {
+          "relatedresourceid": 45853,
+          "relationshipofresource": null,
+          "scientificname": "Billbergia bicolor Lodd."
+        },
+        {
+          "relatedresourceid": 45868,
+          "relationshipofresource": null,
+          "scientificname": "Billbergia croyana De Jonghe ex Lem."
+        },
+        {
+          "relatedresourceid": 45848,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia atrorosea Drapiez"
+        },
+        {
+          "relatedresourceid": 45885,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia fastuosa (C.Morren) Beer"
+        },
+        {
+          "relatedresourceid": 45911,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia miniatorosea Lem."
+        },
+        {
+          "relatedresourceid": 45901,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia loddigesii Steud."
+        },
+        {
+          "relatedresourceid": 45931,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia punicea Beer"
+        },
+        {
+          "relatedresourceid": 46022,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Bromelia pyramidalis Sims"
+        },
+        {
+          "relatedresourceid": 45846,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia andegavensis André"
+        },
+        {
+          "relatedresourceid": 45902,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia longifolia K.Koch & C.D.Bouché"
+        },
+        {
+          "relatedresourceid": 45896,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia lemoinei André"
+        },
+        {
+          "relatedresourceid": 45939,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis var. vernicosa E.Pereira"
+        },
+        {
+          "relatedresourceid": 45934,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis var. concolor L.B.Sm."
+        },
+        {
+          "relatedresourceid": 46718,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Pitcairnia fastuosa C.Morren"
+        },
+        {
+          "relatedresourceid": 45935,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis var. croyana É.Morren"
+        },
+        {
+          "relatedresourceid": 45960,
+          "relationshipofresource": null,
+          "scientificname": "Billbergia thyrsoidea var. fastuosa É.Morren"
+        },
+        {
+          "relatedresourceid": 45936,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis var. farinosa É.Morren"
+        },
+        {
+          "relatedresourceid": 45962,
+          "relationshipofresource": null,
+          "scientificname": "Billbergia thyrsoidea var. splendida (Lem.) É.Morren"
+        },
+        {
+          "relatedresourceid": 45961,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia thyrsoidea var. miniatorosea (Lem.) É.Morren"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "R. Marquete 1464",
+          "collectioncode": "RB",
+          "catalognumber": "RB00161955",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00161955",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.Costa 390",
+          "collectioncode": "RB",
+          "catalognumber": "RB00147672",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00147672",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.Costa 390",
+          "collectioncode": "RB",
+          "catalognumber": "RB00147672",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283802866",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.Costa 390",
+          "collectioncode": "RB",
+          "catalognumber": "RB00147672",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283802868",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Marquete 1464",
+          "collectioncode": "RB",
+          "catalognumber": "RB00161955",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283813570",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Marquete 1464",
+          "collectioncode": "RB",
+          "catalognumber": "RB00161955",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283813572",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Marquete 1464",
+          "collectioncode": "RB",
+          "catalognumber": "RB00161955",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283813568",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 45933,
+        "scientificname": "Billbergia pyramidalis var. bicolor Lindl.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Billbergia",
+        "specificepithet": "pyramidalis",
+        "infraspecificepithet": "bicolor",
+        "scientificnameauthorship": "Lindl.",
+        "acceptednameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Billbergia Thunb.;Billbergia pyramidalis (Sims) Lindl.;Billbergia pyramidalis var. bicolor Lindl.",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45933>http://floradobrasil2015.jbrj.gov.br/FB45933</a>)<br><br>Jacques, S.S.A., Neves, B. 2020. Billbergia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45933\">https://floradobrasil2020.jbrj.gov.br/FB45933</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "parentnameusageid": 5947,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45933",
+        "acceptednameusageid": 5947,
+        "bibliographiccitation_how_to_cite": "Jacques, S.S.A., Neves, B. Billbergia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45933>. Acesso em: 16 oct. 2026.",
+        "modified": "2014-03-04 12:03:09.387"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Bot. Reg.,14: t. 1181,1828"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5947,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis (Sims) Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 45934,
+        "scientificname": "Billbergia pyramidalis var. concolor L.B.Sm.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Billbergia",
+        "specificepithet": "pyramidalis",
+        "infraspecificepithet": "concolor",
+        "scientificnameauthorship": "L.B.Sm.",
+        "acceptednameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Billbergia Thunb.;Billbergia pyramidalis (Sims) Lindl.;Billbergia pyramidalis var. concolor L.B.Sm.",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45934>http://floradobrasil2015.jbrj.gov.br/FB45934</a>)<br><br>Jacques, S.S.A., Neves, B. 2020. Billbergia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45934\">https://floradobrasil2020.jbrj.gov.br/FB45934</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "parentnameusageid": 5947,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45934",
+        "acceptednameusageid": 5947,
+        "bibliographiccitation_how_to_cite": "Jacques, S.S.A., Neves, B. Billbergia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45934>. Acesso em: 16 oct. 2026.",
+        "modified": "2014-03-04 12:09:31.79"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "J. Bromeliad Soc.,4: 6,1954"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5947,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis (Sims) Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 45935,
+        "scientificname": "Billbergia pyramidalis var. croyana É.Morren",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Billbergia",
+        "specificepithet": "pyramidalis",
+        "infraspecificepithet": "croyana",
+        "scientificnameauthorship": "É.Morren",
+        "acceptednameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Billbergia Thunb.;Billbergia pyramidalis (Sims) Lindl.;Billbergia pyramidalis var. croyana É.Morren",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45935>http://floradobrasil2015.jbrj.gov.br/FB45935</a>)<br><br>Jacques, S.S.A., Neves, B. 2020. Billbergia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45935\">https://floradobrasil2020.jbrj.gov.br/FB45935</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "parentnameusageid": 5947,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45935",
+        "acceptednameusageid": 5947,
+        "bibliographiccitation_how_to_cite": "Jacques, S.S.A., Neves, B. Billbergia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45935>. Acesso em: 16 oct. 2026.",
+        "modified": "2014-03-04 12:04:42.975"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Belgique Hort.,23: 294,1873"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5947,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis (Sims) Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 45936,
+        "scientificname": "Billbergia pyramidalis var. farinosa É.Morren",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Billbergia",
+        "specificepithet": "pyramidalis",
+        "infraspecificepithet": "farinosa",
+        "scientificnameauthorship": "É.Morren",
+        "acceptednameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Billbergia Thunb.;Billbergia pyramidalis (Sims) Lindl.;Billbergia pyramidalis var. farinosa É.Morren",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45936>http://floradobrasil2015.jbrj.gov.br/FB45936</a>)<br><br>Jacques, S.S.A., Neves, B. 2020. Billbergia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45936\">https://floradobrasil2020.jbrj.gov.br/FB45936</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "parentnameusageid": 5947,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45936",
+        "acceptednameusageid": 5947,
+        "bibliographiccitation_how_to_cite": "Jacques, S.S.A., Neves, B. Billbergia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45936>. Acesso em: 16 oct. 2026.",
+        "modified": "2014-03-04 12:05:34.386"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Belgique Hort.,23: 294,1873"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5947,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis (Sims) Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 45937,
+        "scientificname": "Billbergia pyramidalis var. lutea Leme & W.Weber",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Billbergia",
+        "specificepithet": "pyramidalis",
+        "infraspecificepithet": "lutea",
+        "scientificnameauthorship": "Leme & W.Weber",
+        "acceptednameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Billbergia Thunb.;Billbergia pyramidalis (Sims) Lindl.;Billbergia pyramidalis var. lutea Leme & W.Weber",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45937>http://floradobrasil2015.jbrj.gov.br/FB45937</a>)<br><br>Jacques, S.S.A., Neves, B. 2020. Billbergia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45937\">https://floradobrasil2020.jbrj.gov.br/FB45937</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "parentnameusageid": 5947,
+        "originalnameusageid": null,
+        "namepublishedin": "J. Bromeliad Soc. 34: 79 1984",
+        "namepublishedinyear": "1984",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45937",
+        "acceptednameusageid": 5947,
+        "bibliographiccitation_how_to_cite": "Jacques, S.S.A., Neves, B. Billbergia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45937>. Acesso em: 16 oct. 2026.",
+        "modified": "2014-10-02 23:47:52.123"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "J. Bromeliad Soc.,34: 79,1984"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5947,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis (Sims) Lindl."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "E.M.C. Leme 118c",
+          "collectioncode": "RB",
+          "catalognumber": "RB00167464",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00167464",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "E.M.C. Leme 118c",
+          "collectioncode": "RB",
+          "catalognumber": "RB00167464",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283826316",
+          "locality": null,
+          "typestatus": "typus"
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 45938,
+        "scientificname": "Billbergia pyramidalis var. minor Antoine & Beer",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Billbergia",
+        "specificepithet": "pyramidalis",
+        "infraspecificepithet": "minor",
+        "scientificnameauthorship": "Antoine & Beer",
+        "acceptednameusage": "Billbergia amoena var. minor (Antoine & Beer ex Beer) L.B.Sm.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Billbergia Thunb.;Billbergia pyramidalis (Sims) Lindl.;Billbergia pyramidalis var. minor Antoine & Beer",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45938>http://floradobrasil2015.jbrj.gov.br/FB45938</a>)<br><br>Jacques, S.S.A., Neves, B. 2020. Billbergia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45938\">https://floradobrasil2020.jbrj.gov.br/FB45938</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "parentnameusageid": 5947,
+        "originalnameusageid": "27609",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45938",
+        "acceptednameusageid": 27609,
+        "bibliographiccitation_how_to_cite": "Jacques, S.S.A., Neves, B. Billbergia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45938>. Acesso em: 16 oct. 2026.",
+        "modified": "2014-03-04 12:08:39.67"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Fam. Brom.,: 108,1856"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 27609,
+          "relationshipofresource": "É sinônimo BASIONIMO",
+          "scientificname": "Billbergia amoena var. minor (Antoine & Beer ex Beer) L.B.Sm."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 45939,
+        "scientificname": "Billbergia pyramidalis var. vernicosa E.Pereira",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Billbergia",
+        "specificepithet": "pyramidalis",
+        "infraspecificepithet": "vernicosa",
+        "scientificnameauthorship": "E.Pereira",
+        "acceptednameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Billbergia Thunb.;Billbergia pyramidalis (Sims) Lindl.;Billbergia pyramidalis var. vernicosa E.Pereira",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45939>http://floradobrasil2015.jbrj.gov.br/FB45939</a>)<br><br>Jacques, S.S.A., Neves, B. 2020. Billbergia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45939\">https://floradobrasil2020.jbrj.gov.br/FB45939</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "parentnameusageid": 5947,
+        "originalnameusageid": null,
+        "namepublishedin": "Bradea 2: 308 1979",
+        "namepublishedinyear": "1979",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45939",
+        "acceptednameusageid": 5947,
+        "bibliographiccitation_how_to_cite": "Jacques, S.S.A., Neves, B. Billbergia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45939>. Acesso em: 16 oct. 2026.",
+        "modified": "2014-03-04 12:06:19.166"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Bradea,2: 308,1979"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5947,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis (Sims) Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 45940,
+        "scientificname": "Billbergia pyramidalis var. zonata (de Vriese) É.Morren",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Billbergia",
+        "specificepithet": "pyramidalis",
+        "infraspecificepithet": "zonata",
+        "scientificnameauthorship": "(de Vriese) É.Morren",
+        "acceptednameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Billbergia Thunb.;Billbergia pyramidalis (Sims) Lindl.;Billbergia pyramidalis var. zonata (de Vriese) É.Morren",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45940>http://floradobrasil2015.jbrj.gov.br/FB45940</a>)<br><br>Jacques, S.S.A., Neves, B. 2020. Billbergia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45940\">https://floradobrasil2020.jbrj.gov.br/FB45940</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "parentnameusageid": 5947,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45940",
+        "acceptednameusageid": 5947,
+        "bibliographiccitation_how_to_cite": "Jacques, S.S.A., Neves, B. Billbergia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45940>. Acesso em: 16 oct. 2026.",
+        "modified": "2014-03-04 12:03:55.892"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Belgique Hort.,23: 294,1873"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5947,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia pyramidalis (Sims) Lindl."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 128005,
+        "scientificname": "Billbergia pyramidalis (Sims) Lindl. var. pyramidalis",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Billbergia",
+        "specificepithet": "pyramidalis",
+        "infraspecificepithet": "pyramidalis",
+        "scientificnameauthorship": "(Sims) Lindl.",
+        "acceptednameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Billbergia Thunb.;Billbergia pyramidalis (Sims) Lindl.;Billbergia pyramidalis (Sims) Lindl. var. pyramidalis",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB128005>http://floradobrasil2015.jbrj.gov.br/FB128005</a>)<br><br>Jacques, S.S.A., Neves, B. 2020. Billbergia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB128005\">https://floradobrasil2020.jbrj.gov.br/FB128005</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Billbergia pyramidalis (Sims) Lindl.",
+        "parentnameusageid": 5947,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB128005",
+        "acceptednameusageid": 5947,
+        "bibliographiccitation_how_to_cite": "Jacques, S.S.A., Neves, B. Billbergia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB128005>. Acesso em: 16 oct. 2026.",
+        "modified": "2017-12-11 17:07:20.809"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 45853,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia bicolor Lodd."
+        },
+        {
+          "relatedresourceid": 45868,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia croyana De Jonghe ex Lem."
+        },
+        {
+          "relatedresourceid": 45960,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia thyrsoidea var. fastuosa É.Morren"
+        },
+        {
+          "relatedresourceid": 5947,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Billbergia pyramidalis (Sims) Lindl."
+        },
+        {
+          "relatedresourceid": 45963,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia thyrsoidea var. zonata de Vriese"
+        },
+        {
+          "relatedresourceid": 45957,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia splendida Lem."
+        },
+        {
+          "relatedresourceid": 45959,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia thyrsoidea Mart. ex Schult. & Schult.f."
+        },
+        {
+          "relatedresourceid": 45962,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia thyrsoidea var. splendida (Lem.) É.Morren"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "D. Sucre 9125",
+          "collectioncode": "RB",
+          "catalognumber": "RB00145034",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00145034",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "D. Sucre 9125",
+          "collectioncode": "RB",
+          "catalognumber": "RB00145034",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283797166",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "D. Sucre 9125",
+          "collectioncode": "RB",
+          "catalognumber": "RB00145034",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283797168",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}
