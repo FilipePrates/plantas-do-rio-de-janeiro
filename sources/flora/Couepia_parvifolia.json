@@ -1,0 +1,179 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Couepia_parvifolia",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 34656,
+        "scientificname": "Couepia parvifolia Prance",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Malpighiales",
+        "family": "Chrysobalanaceae",
+        "genus": "Couepia",
+        "specificepithet": "parvifolia",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Prance",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Chrysobalanaceae R.Br.;Couepia Aubl.;Couepia parvifolia Prance",
+        "source": "Sothers, C.,Alves, F.M.,Prance, G.T. 2015. Chrysobalanaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB34656>http://floradobrasil2015.jbrj.gov.br/FB34656</a>)<br><br>Sothers, C.A., Prance, G.T. 2020. Couepia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB34656\">https://floradobrasil2020.jbrj.gov.br/FB34656</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Prance, G.T. 1972. Chrysobalanaceae. Flora Neotropica 9: 1-409.\r\nPrance, G.T. &amp;amp; Sothers, C. A. (2003). Chrysobalanaceae 2, Acioa to Magnistipula. In: A. E. Orchard &amp;amp; A. J. G. Wilson (eds), Species Plantarum: Flora of the World 10. Australian Biological Resources Study, Canberra.",
+        "parentnameusage": "Couepia Aubl.",
+        "parentnameusageid": 16761,
+        "originalnameusageid": null,
+        "namepublishedin": "Flora Neotropica 9: 258 1972",
+        "namepublishedinyear": "1972",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB34656",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Sothers, C.A., Prance, G.T. Couepia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB34656>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-12-30 23:29:46.372"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "milho-cozido",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": ""
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Prance, G.T.,Flora Neotropica,9: 258,1972"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "Duarte, A.P. 1508",
+          "collectioncode": "NY",
+          "catalognumber": "NY01085712",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228131707",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Oliveira, C.A.L. 1713",
+          "collectioncode": "K",
+          "catalognumber": "K001242060",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227318696",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Oliveira, C.A.L. 1713",
+          "collectioncode": "K",
+          "catalognumber": "K001242061",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227318698",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Oliveira, C.A.L. 1713",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00148796",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=135674168",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Duarte, A.P. 1508",
+          "collectioncode": "RB",
+          "catalognumber": "RB00537022",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284392968",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Duarte, A.P. 1508",
+          "collectioncode": "RB",
+          "catalognumber": "RB00537146",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284393194",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Oliveira, C.A.L. 1713",
+          "collectioncode": "K",
+          "catalognumber": "K001242060",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K001242060",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Duarte, A.P. 1508",
+          "collectioncode": "RB",
+          "catalognumber": "RB00537022",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00537022",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Duarte, A.P. 1508",
+          "collectioncode": "RB",
+          "catalognumber": "RB00537146",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00537146",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Duarte, A.P. 1508",
+          "collectioncode": "NY",
+          "catalognumber": "NY01085712",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY01085712",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Duarte, A.P. 1508",
+          "collectioncode": "SP",
+          "catalognumber": "SP001520",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SP001520",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Oliveira, C.A.L. 1713",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00148796",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SPF00148796",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Oliveira, C.A.L. 1713",
+          "collectioncode": "K",
+          "catalognumber": "K001242061",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K001242061",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

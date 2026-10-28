@@ -1,0 +1,104 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Couratari_pyramidata",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 8548,
+        "scientificname": "Couratari pyramidata (Vell.) Kunth",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Lecythidaceae",
+        "genus": "Couratari",
+        "specificepithet": "pyramidata",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Vell.) Kunth",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Lecythidaceae A.Rich.;Couratari Aubl.;Couratari pyramidata (Vell.) Kunth",
+        "source": "Smith, N.P.,Mori, S.A.,Prance, G.T. 2015. Lecythidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB8548>http://floradobrasil2015.jbrj.gov.br/FB8548</a>)<br><br>Ribeiro, M., Catenacci, F.S., Smith, N.P., Cabello, N. B. 2020. Couratari in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB8548\">https://floradobrasil2020.jbrj.gov.br/FB8548</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Mori, S.A. &amp;amp; Prance, G.T. Fl. Neotrop. Monogr. 21(II): 124 (1990)",
+        "parentnameusage": "Couratari Aubl.",
+        "parentnameusageid": 8544,
+        "originalnameusageid": "60249",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB8548",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Ribeiro, M., Catenacci, F.S., Smith, N.P., Cabello, N. B. Couratari in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB8548>. Acesso em: 24 oct. 2026.",
+        "modified": "2025-11-01 13:04:31.902"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Engler, H.G.A. (ed.),Pflanzenr. (Engler) IV, 219a: 129,1939"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 60172,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis brasiliensis Spreng."
+        },
+        {
+          "relatedresourceid": 59972,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Couratari lecythopsis Mart."
+        },
+        {
+          "relatedresourceid": 60286,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythopsis rufescens (Cambess.) O.Berg"
+        },
+        {
+          "relatedresourceid": 60257,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis rufescens (Cambess.) O.Berg"
+        },
+        {
+          "relatedresourceid": 59983,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Couratari rufescens Cambess."
+        },
+        {
+          "relatedresourceid": 59967,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Couratari fumatoria Schrank ex Eyma"
+        },
+        {
+          "relatedresourceid": 60249,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Lecythis pyramidata Vell."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

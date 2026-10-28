@@ -1,0 +1,120 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Pouteria_coelomatica",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 14500,
+        "scientificname": "Pouteria coelomatica Rizzini",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Sapotaceae",
+        "genus": "Pouteria",
+        "specificepithet": "coelomatica",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Rizzini",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Sapotaceae Juss.;Pouteria Aubl.;Pouteria coelomatica Rizzini",
+        "source": "Alves-Araujo, A. 2015. Pouteria in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB14500>http://floradobrasil2015.jbrj.gov.br/FB14500</a>)<br><br>Alves-Araújo, A. 2020. Pouteria in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB14500\">https://floradobrasil2020.jbrj.gov.br/FB14500</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0cm 0cm 0.0001pt 18pt; text-align: justify; text-indent: -18pt;&quot;&gt;Alves-Ara&amp;uacute;jo, A., Swenson, U. &amp;amp; M.Alves. 2014. &lt;span lang=&quot;EN-US&quot;&gt;A Taxonomic Survey of &lt;em&gt;Pouteria&lt;/em&gt; (Sapotaceae) from the Northern Portion of the Atlantic Rainforest of Brazil. &lt;/span&gt;&lt;em&gt;Systematic Botany&lt;/em&gt; 39 (3): 915&amp;ndash;938.",
+        "parentnameusage": "Pouteria Aubl.",
+        "parentnameusageid": 14492,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB14500",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Alves-Araújo, A., Nichio-Amaral, R. Pouteria in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB14500>. Acesso em: 24 oct. 2026.",
+        "modified": "2025-08-01 15:21:29.824"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "bapeba-branca",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Bahia"
+        },
+        {
+          "vernacularname": "guapeba",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "RJ"
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Rodriguésia,28(41): 174,1976"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "Monteiro, M.T. 23500",
+          "collectioncode": "RB",
+          "catalognumber": "RB00544049",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00544049",
+          "locality": "BA",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Monteiro, M.T. 23500",
+          "collectioncode": "RB",
+          "catalognumber": "RB00544049",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284406520",
+          "locality": "BA",
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

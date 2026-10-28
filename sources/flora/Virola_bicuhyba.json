@@ -1,0 +1,227 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Virola_bicuhyba",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 10198,
+        "scientificname": "Virola bicuhyba (Schott ex Spreng.) Warb.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Magnoliales",
+        "family": "Myristicaceae",
+        "genus": "Virola",
+        "specificepithet": "bicuhyba",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Schott ex Spreng.) Warb.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Myristicaceae R.Br.;Virola Aubl.;Virola bicuhyba (Schott ex Spreng.) Warb.",
+        "source": "Rodrigues, W. 2015. Myristicaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB10198>http://floradobrasil2015.jbrj.gov.br/FB10198</a>)<br><br>Oliveira, S.M. 2020. Virola in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB10198\">https://floradobrasil2020.jbrj.gov.br/FB10198</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Rodrigues, W. A. Acta Bot. Brasil. 12(3): 249-252. 1998.\r\nRodrigues, W. A. Flora de S&amp;atilde;o Paulo. v.2: 210-211. 2002\r\nWarburg, O. Act. Nat. Cur. 68: 194lxviii. 194\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n&amp;nbsp;",
+        "parentnameusage": "Virola Aubl.",
+        "parentnameusageid": 10197,
+        "originalnameusageid": "595361",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB10198",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Oliveira, S.M. Virola in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB10198>. Acesso em: 24 oct. 2026.",
+        "modified": "2021-02-22 10:13:48.732"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RS",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ciliar ou Galeria",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "bicuíba",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Sul"
+        },
+        {
+          "vernacularname": "bicuíba-branca",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Sudeste"
+        },
+        {
+          "vernacularname": "bicuuba",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Nordeste"
+        },
+        {
+          "vernacularname": "ocuíba",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Nordeste"
+        }
+      ],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 118247,
+          "relationshipofresource": null,
+          "scientificname": "Virola oleifera (Schott) A.C.Sm."
+        },
+        {
+          "relatedresourceid": 595361,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Myristica bicuhyba Schott ex Spreng."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": null,
+          "collectioncode": "CRI",
+          "catalognumber": "CRI014615",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=261146191",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "CRI",
+          "catalognumber": "CRI014615",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CRI014615",
+          "locality": "SC",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 602224,
+        "scientificname": "Virola bicuhyba var. schenckii Warb.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_APLICACAO_INCERTA",
+        "taxonomicstatus": "",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Magnoliales",
+        "family": "Myristicaceae",
+        "genus": "Virola",
+        "specificepithet": "bicuhyba",
+        "infraspecificepithet": "schenckii",
+        "scientificnameauthorship": "Warb.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Myristicaceae R.Br.;Virola Aubl.;Virola bicuhyba (Schott ex Spreng.) Warb.;Virola bicuhyba var. schenckii Warb.",
+        "source": "Oliveira, S.M. 2020. Virola in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB602224\">https://floradobrasil2020.jbrj.gov.br/FB602224</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Virola bicuhyba (Schott ex Spreng.) Warb.",
+        "parentnameusageid": 10198,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB602224",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Oliveira, S.M. Virola in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB602224>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-11-29 21:48:49.132"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

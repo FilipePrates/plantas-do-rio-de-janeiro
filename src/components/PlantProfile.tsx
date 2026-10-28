@@ -19,6 +19,7 @@ import { palette } from "../theme";
 import { LeafIcon } from "./icons";
 import { PlantPhotoMarkers } from "./PlantPhotoMarkers";
 import { RegionalRecords } from "./RegionalRecords";
+import { PhotoViewer } from "./PhotoViewer";
 
 function openUrl(url: string) {
   void Linking.openURL(url).catch(() => undefined);
@@ -26,21 +27,29 @@ function openUrl(url: string) {
 export function PlantProfile({
   plant,
   principalName,
+  relatedPlants = [],
+  onOpenPlant,
 }: {
   plant: Plant;
   principalName: PrincipalName;
+  relatedPlants?: Plant[];
+  onOpenPlant?: (plant: Plant) => void;
 }) {
   const { width } = useWindowDimensions();
   const [size, setSize] = useState(Math.min(width, 640));
   const [activeIndex, setActiveIndex] = useState(0);
   const [showSources, setShowSources] = useState(false);
   const [showMembers, setShowMembers] = useState(false);
+  const [showMunicipal, setShowMunicipal] = useState(false);
+  const [viewerIndex, setViewerIndex] = useState<number | null>(null);
   const gallery = useRef<FlatList<PlantPhoto>>(null);
   const activePhoto = plant.photos[activeIndex] ?? plant.photos[0];
   useEffect(() => {
     setActiveIndex(0);
     setShowSources(false);
     setShowMembers(false);
+    setShowMunicipal(false);
+    setViewerIndex(null);
   }, [plant.id]);
   useEffect(() => {
     setActiveIndex(0);
@@ -93,8 +102,8 @@ export function PlantProfile({
                 )
               }
               scrollEventThrottle={32}
-              renderItem={({ item }) => (
-                <PhotoFrame photo={item} name={plant.commonName} size={size} />
+              renderItem={({ item, index }) => (
+                <PhotoFrame photo={item} name={plant.commonName} size={size} onOpen={() => setViewerIndex(index)} />
               )}
             />
             {activePhoto && (plant.rank === "genus" || activePhoto.caption) && (
@@ -172,12 +181,12 @@ export function PlantProfile({
               </View>
             )}
           </>
-        ) : (
+        ) : plant.presentation !== "checklist" ? (
           <View style={[styles.emptyPhoto, { height: size }]}>
             <LeafIcon size={74} color={palette.pine} />
             <Text style={styles.muted}>Foto em preparação</Text>
           </View>
-        )}
+        ) : null}
         <View style={styles.identity}>
           <Text
             style={[
@@ -214,6 +223,8 @@ export function PlantProfile({
               </View>
             )}
           </View>
+          {plant.reviewStatus === "draft" && <Text style={styles.review}>Conteúdo em revisão</Text>}
+          {plant.presentation === "checklist" && <Text style={styles.muted}>Lista de referência · identificação ilustrada em preparação</Text>}
         </View>
         <Section title="Descrição">
           <Text style={styles.body}>{plant.description}</Text>
@@ -229,7 +240,36 @@ export function PlantProfile({
           </Section>
         )}
         <RegionalRecords key={plant.id} plant={plant} />
-        <Section title="Outros nomes">
+        {!!plant.municipalEvidence?.length && (
+          <View style={styles.section}>
+            <Pressable accessibilityRole="button" accessibilityState={{ expanded: showMunicipal }}
+              onPress={() => setShowMunicipal((value) => !value)}>
+              <Text style={styles.sectionTitle}>Registros no município {showMunicipal ? "−" : "+"}</Text>
+            </Pressable>
+            <Text style={styles.muted}>Ocorrências publicadas e datadas; não garantem presença atual. Nos grupos, cada registro vale apenas para a espécie indicada.</Text>
+            {showMunicipal && plant.municipalEvidence.map((e, index) => (
+              <Pressable key={`${e.scientificName}:${index}`} style={styles.municipalRecord}
+                accessibilityRole="link" onPress={() => openUrl(e.source.url)}>
+                <Text style={[styles.body, styles.scientific]}>{e.scientificName}</Text>
+                <Text style={styles.body}>{e.locality}</Text>
+                <Text style={styles.muted}>{e.publicationYear} · {e.sourceLocator}</Text>
+                <Text style={styles.small}>{e.source.title}</Text>
+              </Pressable>
+            ))}
+          </View>
+        )}
+        {relatedPlants.some((p) => p.id !== plant.id) && onOpenPlant && (
+          <Section title={`Conheça ${plant.genus}`}>
+            <Text style={styles.muted}>Fichas deste gênero. As espécies com ficha própria não se repetem entre os membros do grupo.</Text>
+            {relatedPlants.filter((p) => p.id !== plant.id).map((p) => (
+              <Pressable key={p.id} style={styles.relatedLink} accessibilityRole="button"
+                accessibilityLabel={`Abrir ${p.scientificName}`} onPress={() => onOpenPlant(p)}>
+                <Text style={styles.body}>{p.commonName} · {p.scientificName} ›</Text>
+              </Pressable>
+            ))}
+          </Section>
+        )}
+        <Section title={plant.rank === "genus" ? "Nomes registrados entre os membros" : "Outros nomes"}>
           <Text style={styles.body}>
             {plant.alternateNames.length
               ? plant.alternateNames.join(", ")
@@ -244,15 +284,15 @@ export function PlantProfile({
               onPress={() => setShowMembers((v) => !v)}
             >
               <Text style={styles.sectionTitle}>
-                {plant.regionalSpecies.length} espécies nativas registradas no
-                estado {showMembers ? "−" : "+"}
+                {plant.regionalSpecies.length} espécies neste grupo {showMembers ? "−" : "+"}
               </Text>
             </Pressable>
             {showMembers && (
               <>
                 <Text style={styles.muted}>
-                  Recorte estadual da fonte consultada; não representa uma
-                  contagem municipal.
+                  Seleção de espécies nativas com registro estadual; não representa
+                  uma contagem municipal nem o total do gênero. A data e o recorte
+                  da seleção estão na descrição.
                 </Text>
                 {plant.regionalSpecies.map((member) => (
                   <Text key={member.floraId} style={styles.member}>
@@ -306,6 +346,15 @@ export function PlantProfile({
           )}
         </View>
       </View>
+      {viewerIndex !== null && (
+        <PhotoViewer
+          key={plant.id}
+          photos={plant.photos}
+          initialIndex={viewerIndex}
+          name={plant.commonName}
+          onClose={() => setViewerIndex(null)}
+        />
+      )}
     </ScrollView>
   );
 }
@@ -313,22 +362,35 @@ function PhotoFrame({
   photo,
   name,
   size,
+  onOpen,
 }: {
   photo: PlantPhoto;
   name: string;
   size: number;
+  onOpen: () => void;
 }) {
   const [failed, setFailed] = useState(false);
   return (
     <View style={[styles.photo, { width: size, height: size }]}>
       {!failed && plantImages[photo.fileName] ? (
-        <Image
-          source={plantImages[photo.fileName]}
-          accessibilityLabel={`${name}: ${photo.caption || "foto iNaturalist"}`}
+        <Pressable
+          accessibilityRole="button"
+          accessibilityLabel={`Ampliar foto de ${name}`}
+          accessibilityHint="Abre a foto em tela cheia. Use dois dedos ou dois toques para ampliar."
+          onPress={onOpen}
           style={styles.photoImage}
-          resizeMode="contain"
-          onError={() => setFailed(true)}
-        />
+        >
+          <Image
+            source={plantImages[photo.fileName]}
+            accessibilityLabel={`${name}: ${photo.caption || "foto iNaturalist"}`}
+            style={styles.photoImage}
+            resizeMode="contain"
+            onError={() => setFailed(true)}
+          />
+          <View pointerEvents="none" style={styles.zoomHint}>
+            <Text style={styles.zoomHintText}>⤢ Ampliar</Text>
+          </View>
+        </Pressable>
       ) : (
         <View style={styles.photoFallback}>
           <LeafIcon size={64} color={palette.pine} />
@@ -364,11 +426,23 @@ function Section({
   );
 }
 const styles = StyleSheet.create({
+  relatedLink: { paddingVertical: 12, borderBottomWidth: 1, borderBottomColor: palette.border },
+  municipalRecord: { paddingVertical: 12, gap: 4, borderBottomWidth: 1, borderBottomColor: palette.border },
   screen: { flex: 1, backgroundColor: palette.paper },
   content: { paddingBottom: 20 },
   profile: { width: "100%", maxWidth: 640, alignSelf: "center" },
   photo: { backgroundColor: palette.moss, position: "relative" },
   photoImage: { width: "100%", height: "100%" },
+  zoomHint: {
+    position: "absolute",
+    top: 8,
+    right: 8,
+    paddingHorizontal: 9,
+    paddingVertical: 6,
+    borderRadius: 5,
+    backgroundColor: "rgba(36,49,39,0.72)",
+  },
+  zoomHintText: { color: palette.paper, fontSize: 12 },
   photoFallback: {
     flex: 1,
     alignItems: "center",

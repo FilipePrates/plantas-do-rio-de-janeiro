@@ -1,0 +1,147 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Annona_parviflora",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 110258,
+        "scientificname": "Annona parviflora (A.St.-Hil.) H.Rainer",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Magnoliales",
+        "family": "Annonaceae",
+        "genus": "Annona",
+        "specificepithet": "parviflora",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(A.St.-Hil.) H.Rainer",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Annonaceae Juss.;Annona L.;Annona parviflora (A.St.-Hil.) H.Rainer",
+        "source": "Maas, P.,Lobão, A.,Rainer, H. 2015. Annonaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB110258>http://floradobrasil2015.jbrj.gov.br/FB110258</a>)<br><br>Mendes-Silva, I., Lopes, J.C., Silva, L.V., Oliveira, M.L.B. 2020. Annona in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB110258\">https://floradobrasil2020.jbrj.gov.br/FB110258</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Maas, P.J.M., Westra, L.Y.T., Brown, Jr., K.S., ter Welle, B. J. H., Webber, A. C. , Le Thomas, A.,&amp;nbsp; Waha, M.&amp;nbsp; van der Heijden, E., Bouman, F., Cav&amp;eacute;, A., Leboeuf, M., Lapr&amp;eacute;vote, O., Koek-Noorman, J., Morawetz, W., Hemmer, W. 1992. Flora Neotropica, Vol. 57, &lt;em&gt;Rollinia&lt;/em&gt;. pp. 1-188.",
+        "parentnameusage": "Annona L.",
+        "parentnameusageid": 110235,
+        "originalnameusageid": "110830",
+        "namepublishedin": "Flora Brasiliae Meridionalis 1(1): 30 1825",
+        "namepublishedinyear": "1825",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB110258",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Mendes-Silva, I., Lopes, J.C., Silva, L.V., Bazante, M.L., Lobão, A.Q. Annona in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB110258>. Acesso em: 24 oct. 2026.",
+        "modified": "2021-10-31 02:05:57.309"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto",
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "vaovír",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": ""
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Rainer, H.,Ann. Naturhist. Mus. Wien, B,108: 197,2007"
+        },
+        {
+          "reference": "Saint Hilaire, A.,Flora Brasiliae Meridionalis,1(1): 30,1825"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 110836,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Rolliniopsis parviflora var. latifolia (Mart.) R.E.Fr."
+        },
+        {
+          "relatedresourceid": 110831,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Rollinia parviflora var. angustifolia Mart."
+        },
+        {
+          "relatedresourceid": 110833,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Rolliniopsis parviflora var. angustifolia (Mart.) R.E.Fr."
+        },
+        {
+          "relatedresourceid": 110832,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Rolliniopsis parviflora (A.St.-Hil.) Saff."
+        },
+        {
+          "relatedresourceid": 110835,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Rollinia parviflora var. latifolia Mart."
+        },
+        {
+          "relatedresourceid": 110830,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Rollinia parviflora A.St.-Hil."
+        },
+        {
+          "relatedresourceid": 110834,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Guatteria apodocarpa Mart."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "P.J.M. Maas 7089",
+          "collectioncode": "NY",
+          "catalognumber": "NY00395934",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228756609",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 4471",
+          "collectioncode": "RB",
+          "catalognumber": "RB00488970",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284328756",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 4471",
+          "collectioncode": "RB",
+          "catalognumber": "RB00488970",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00488970",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "P.J.M. Maas 7089",
+          "collectioncode": "NY",
+          "catalognumber": "NY00395934",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00395934",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

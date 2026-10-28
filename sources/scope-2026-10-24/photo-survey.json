@@ -1,0 +1,4671 @@
+{
+  "Abutilon anodoides": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Abutilon+anodoides&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Agarista organensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Agarista+organensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Agarista uleana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Agarista+uleana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Allophylus heterophyllus": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Allophylus+heterophyllus&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Alseis involuta": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Alseis+involuta&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Annona ferruginea": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Annona+ferruginea&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Annona parviflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Annona+parviflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Anthurium augustinum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+augustinum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Anthurium binotii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+binotii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 383993339,
+        "taxonName": "Anthurium binotii",
+        "photo": {
+          "id": 702852649,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1638,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/702852649/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 356348029,
+        "taxonName": "Anthurium binotii",
+        "photo": {
+          "id": 649834911,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1639
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649834911/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "361c4c7f90ebc49d94e288fa3c41c87edde0837f5e483a49f8a678ce18c2b481",
+    "totalObservations": 2
+  },
+  "Anthurium harrisii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+harrisii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 345939471,
+        "taxonName": "Anthurium harrisii",
+        "photo": {
+          "id": 630520913,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1152,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630520913/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 345939471,
+        "taxonName": "Anthurium harrisii",
+        "photo": {
+          "id": 630651920,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1152,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630651920/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "9b319cbede19a31197c80e51ef54f973f5e0786c019be6bab0fa6f60fffc5cab",
+    "totalObservations": 1
+  },
+  "Anthurium intermedium": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+intermedium&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 260665238,
+        "taxonName": "Anthurium intermedium",
+        "photo": {
+          "id": 468149430,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468149430/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 260665238,
+        "taxonName": "Anthurium intermedium",
+        "photo": {
+          "id": 468149444,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468149444/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 260665238,
+        "taxonName": "Anthurium intermedium",
+        "photo": {
+          "id": 468149476,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468149476/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 260665238,
+        "taxonName": "Anthurium intermedium",
+        "photo": {
+          "id": 468149491,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468149491/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 260665244,
+        "taxonName": "Anthurium intermedium",
+        "photo": {
+          "id": 468149762,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468149762/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 258684578,
+        "taxonName": "Anthurium intermedium",
+        "photo": {
+          "id": 464182961,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1369,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464182961/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "a1529f995a5f00612ab9b5ec26a98bb6785074b0601567d40cc1ebf12c8ee11e",
+    "totalObservations": 3
+  },
+  "Anthurium laucheanum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+laucheanum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Anthurium lhotzkyanum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+lhotzkyanum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Anthurium lucidum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+lucidum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Anthurium luschnathianum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+luschnathianum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Anthurium maricense": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+maricense&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 322337157,
+        "taxonName": "Anthurium maricense",
+        "photo": {
+          "id": 583084166,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1638,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583084166/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 322337158,
+        "taxonName": "Anthurium maricense",
+        "photo": {
+          "id": 583084170,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1639,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583084170/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 322337156,
+        "taxonName": "Anthurium maricense",
+        "photo": {
+          "id": 583084138,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1638,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583084138/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "70a5be1d6a20d4a4aac5b65c7345e1662d4a5c372c0789d2bdf052372e3820c5",
+    "totalObservations": 3
+  },
+  "Anthurium parvum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+parvum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Apuleia leiocarpa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Apuleia+leiocarpa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 148197691,
+        "taxonName": "Apuleia leiocarpa",
+        "photo": {
+          "id": 255156924,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255156924/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "8d73304230276c011f072d4f8f712101a6a3b68077155d883eb89fcc70a6ee86",
+    "totalObservations": 1
+  },
+  "Aspidosperma parvifolium": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Aspidosperma+parvifolium&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Austrocritonia taunayana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Austrocritonia+taunayana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Bauhinia albicans": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Bauhinia+albicans&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Beilschmiedia angustifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Beilschmiedia+angustifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Besleria macahensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Besleria+macahensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Besleria melancholica": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Besleria+melancholica&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 320959881,
+        "taxonName": "Besleria melancholica",
+        "photo": {
+          "id": 580385698,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 946,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580385698/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 253949822,
+        "taxonName": "Besleria melancholica",
+        "photo": {
+          "id": 454772982,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454772982/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "b867cd7beb4753451e179995cf228ba56d4cc019947ae65b6268485f4607fd1d",
+    "totalObservations": 2
+  },
+  "Byrsonima microphylla": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Byrsonima+microphylla&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Callianthe sellowiana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Callianthe+sellowiana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Callisthene dryadum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Callisthene+dryadum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Campomanesia guaviroba": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Campomanesia+guaviroba&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Campomanesia guazumifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Campomanesia+guazumifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 126427234,
+        "taxonName": "Campomanesia guazumifolia",
+        "photo": {
+          "id": 214511985,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214511985/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 126427234,
+        "taxonName": "Campomanesia guazumifolia",
+        "photo": {
+          "id": 214512011,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214512011/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 37747296,
+        "taxonName": "Campomanesia guazumifolia",
+        "photo": {
+          "id": 59900818,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59900818/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 37747296,
+        "taxonName": "Campomanesia guazumifolia",
+        "photo": {
+          "id": 59900811,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59900811/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "750b480812c16e409291e82c7881947699882013334153f15401fc3aee718630",
+    "totalObservations": 2
+  },
+  "Campomanesia laurifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Campomanesia+laurifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Campomanesia schlechtendaliana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Campomanesia+schlechtendaliana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Cariniana ianeirensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Cariniana+ianeirensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Cattleya guttata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Cattleya+guttata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "needs-inspection",
+    "photos": [],
+    "responseSha256": "88f5b0a2fbf9d28b3de60d60c1c2a4d51123c0d72ec2eb3c40392f05413067a6",
+    "totalObservations": 2
+  },
+  "Cedrela fissilis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Cedrela+fissilis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 105926878,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 177845975,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 968,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177845975/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 105926878,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 177845986,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 968,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177845986/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 105926878,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 177846003,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 968,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177846003/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 105926878,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 177846021,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 968,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177846021/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 105926878,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 177846038,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 968,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177846038/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 105926878,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 177846052,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 968,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177846052/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 386880720,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 708454488,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1534,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/708454488/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 386880720,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 708454588,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/708454588/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 386880720,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 708454621,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1711,
+            "height": 1826
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/708454621/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 117024131,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 197586893,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197586893/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 117024131,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 197586990,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197586990/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 117024131,
+        "taxonName": "Cedrela fissilis",
+        "photo": {
+          "id": 197614741,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197614741/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "91a2f5ef8dab6d6854cd62e90a76be66c61f48d2c20d097ea2e8fe4178aacfad",
+    "totalObservations": 9
+  },
+  "Cedrela odorata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Cedrela+odorata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 269123761,
+        "taxonName": "Cedrela odorata",
+        "photo": {
+          "id": 483844308,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483844308/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 269123761,
+        "taxonName": "Cedrela odorata",
+        "photo": {
+          "id": 483844329,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483844329/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 269123761,
+        "taxonName": "Cedrela odorata",
+        "photo": {
+          "id": 483844364,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483844364/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 177398525,
+        "taxonName": "Cedrela odorata",
+        "photo": {
+          "id": 308529823,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1532,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308529823/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 177398525,
+        "taxonName": "Cedrela odorata",
+        "photo": {
+          "id": 308529971,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1532,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308529971/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 177398525,
+        "taxonName": "Cedrela odorata",
+        "photo": {
+          "id": 308530077,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1532,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308530077/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 177398525,
+        "taxonName": "Cedrela odorata",
+        "photo": {
+          "id": 308530123,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1532
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308530123/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 116024740,
+        "taxonName": "Cedrela odorata",
+        "photo": {
+          "id": 195823711,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/195823711/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "7466d1027ccc218afcb3f013871a297ce82c4467adb01896fb96060aa19ce8e3",
+    "totalObservations": 14
+  },
+  "Chamaecrista ensiformis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Chamaecrista+ensiformis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Coccoloba rigida": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Coccoloba+rigida&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Cololobus rupestris": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Cololobus+rupestris&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Conchocarpus grandiflorus": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Conchocarpus+grandiflorus&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Conchocarpus ovatus": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Conchocarpus+ovatus&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Conchocarpus sordidus": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Conchocarpus+sordidus&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Connarus marginatus": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Connarus+marginatus&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Couepia parvifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Couepia+parvifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Couepia schottii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Couepia+schottii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Couratari pyramidata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Couratari+pyramidata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 267125745,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 480006372,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480006372/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 267125745,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 480006368,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480006368/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 267125745,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 480006377,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480006377/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 267125745,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 480006359,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480006359/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 285377972,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 512946835,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512946835/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 285377972,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 512946853,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512946853/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 285377972,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 512946899,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512946899/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 285377972,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 512946893,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512946893/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 285377972,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 512946914,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512946914/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 285377972,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 512946945,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512946945/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 285377972,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 512946981,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512946981/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 254919347,
+        "taxonName": "Couratari pyramidata",
+        "photo": {
+          "id": 456717797,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456717797/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "911f4eed9b694991ed15a70a29b0eb0092989e5910555f97ab7be2c165977ab8",
+    "totalObservations": 3
+  },
+  "Coussapoa curranii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Coussapoa+curranii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Coussarea coffeoides": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Coussarea+coffeoides&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Coussarea friburgensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Coussarea+friburgensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Coussarea viridis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Coussarea+viridis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Cupania fluminensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Cupania+fluminensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Cupania schizoneura": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Cupania+schizoneura&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Dahlstedtia glaziovii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Dahlstedtia+glaziovii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Dalbergia nigra": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Dalbergia+nigra&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Dendropanax heterophyllus": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Dendropanax+heterophyllus&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Dendropanax langsdorfii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Dendropanax+langsdorfii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Dendropanax trilobus": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Dendropanax+trilobus&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Dimorphandra exaltata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Dimorphandra+exaltata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Duguetia microphylla": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Duguetia+microphylla&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Duguetia pohliana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Duguetia+pohliana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Erythroxylum cincinnatum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Erythroxylum+cincinnatum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Erythroxylum magnoliifolium": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Erythroxylum+magnoliifolium&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Erythroxylum occultum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Erythroxylum+occultum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Erythroxylum ovalifolium": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Erythroxylum+ovalifolium&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eschweilera compressa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eschweilera+compressa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia augustana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+augustana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia bahiensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+bahiensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia botequimensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+botequimensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia bunchosiifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+bunchosiifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia candolleana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+candolleana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 202651643,
+        "taxonName": "Eugenia candolleana",
+        "photo": {
+          "id": 357936088,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357936088/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 202651643,
+        "taxonName": "Eugenia candolleana",
+        "photo": {
+          "id": 357936149,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357936149/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 202651643,
+        "taxonName": "Eugenia candolleana",
+        "photo": {
+          "id": 357936210,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357936210/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 202651643,
+        "taxonName": "Eugenia candolleana",
+        "photo": {
+          "id": 357936270,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357936270/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "048a353be96f206ad72947075236161d4a4e0c9d7ed5612fe1b08fe502cab7e7",
+    "totalObservations": 1
+  },
+  "Eugenia cinerascens": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+cinerascens&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia copacabanensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+copacabanensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia corcovadensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+corcovadensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia disperma": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+disperma&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia excelsa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+excelsa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia expansa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+expansa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia francavilleana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+francavilleana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia itaguahiensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+itaguahiensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia laruotteana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+laruotteana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia macrantha": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+macrantha&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia macrosperma": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+macrosperma&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia magnifica": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+magnifica&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia mandioccensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+mandioccensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia marambaiensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+marambaiensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia monosperma": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+monosperma&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia neolaurifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+neolaurifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia nutans": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+nutans&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia pisiformis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+pisiformis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia plicata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+plicata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia pluriflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+pluriflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia prasina": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+prasina&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia pruinosa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+pruinosa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia pruniformis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+pruniformis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia puberula": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+puberula&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia pulcherrima": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+pulcherrima&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia repanda": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+repanda&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 197097765,
+        "taxonName": "Eugenia repanda",
+        "photo": {
+          "id": 347054200,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347054200/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 197097765,
+        "taxonName": "Eugenia repanda",
+        "photo": {
+          "id": 347054219,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347054219/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 197097765,
+        "taxonName": "Eugenia repanda",
+        "photo": {
+          "id": 347054242,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347054242/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 201359299,
+        "taxonName": "Eugenia repanda",
+        "photo": {
+          "id": 355438967,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1516,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355438967/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 201359299,
+        "taxonName": "Eugenia repanda",
+        "photo": {
+          "id": 355438977,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 946
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355438977/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 201359299,
+        "taxonName": "Eugenia repanda",
+        "photo": {
+          "id": 355438989,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 945,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355438989/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 201359299,
+        "taxonName": "Eugenia repanda",
+        "photo": {
+          "id": 355439003,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 945,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355439003/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 201359299,
+        "taxonName": "Eugenia repanda",
+        "photo": {
+          "id": 355439017,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 945,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355439017/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 201359299,
+        "taxonName": "Eugenia repanda",
+        "photo": {
+          "id": 355439649,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 946
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355439649/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "ddfbf4f802ff94e151b0384a474bca8937f6f21e4ebaf8b25f1a7fe4ae7b0d09",
+    "totalObservations": 2
+  },
+  "Eugenia speciosa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+speciosa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia sulcata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+sulcata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia supraaxillaris": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+supraaxillaris&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia vattimoana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+vattimoana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia verticillata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+verticillata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Eugenia xanthoxyloides": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eugenia+xanthoxyloides&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Faramea calyciflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Faramea+calyciflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Faramea campanularis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Faramea+campanularis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Faramea leucocalyx": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Faramea+leucocalyx&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Faramea paratiensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Faramea+paratiensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Ficus pulchella": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Ficus+pulchella&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Funifera brasiliensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Funifera+brasiliensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Funifera insulae": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Funifera+insulae&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Graphistylis cuneifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Graphistylis+cuneifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Grazielodendron rio-docensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Grazielodendron+rio-docensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Homalolepis insignis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Homalolepis+insignis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Hornschuchia alba": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Hornschuchia+alba&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Ilex schwackeana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Ilex+schwackeana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Inga globularis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Inga+globularis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Inga maritima": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Inga+maritima&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Kielmeyera excelsa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Kielmeyera+excelsa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Kielmeyera insignis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Kielmeyera+insignis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Kielmeyera rizziniana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Kielmeyera+rizziniana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Leandra atroviridis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Leandra+atroviridis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Leandra breviflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Leandra+breviflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Leandra mollis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Leandra+mollis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Lepidaploa obtusifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Lepidaploa+obtusifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Lepidaploa persicifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Lepidaploa+persicifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Luetzelburgia trialata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Luetzelburgia+trialata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Luxemburgia glazioviana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Luxemburgia+glazioviana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Machaerium firmum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Machaerium+firmum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Machaerium legale": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Machaerium+legale&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Macropeplus friburgensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Macropeplus+friburgensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Mandevilla crassinoda": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Mandevilla+crassinoda&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 314838999,
+        "taxonName": "Mandevilla crassinoda",
+        "photo": {
+          "id": 568679407,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1639,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568679407/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 314838994,
+        "taxonName": "Mandevilla crassinoda",
+        "photo": {
+          "id": 568679502,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1152,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568679502/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 314838994,
+        "taxonName": "Mandevilla crassinoda",
+        "photo": {
+          "id": 568679468,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1638,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568679468/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 314838994,
+        "taxonName": "Mandevilla crassinoda",
+        "photo": {
+          "id": 568679498,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1638,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568679498/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 314838994,
+        "taxonName": "Mandevilla crassinoda",
+        "photo": {
+          "id": 568679525,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1638,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568679525/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "adf0194852ba06cb21aeef78b43caa4e4dd8a2b0790cecda1a98ab63a1af3bf3",
+    "totalObservations": 2
+  },
+  "Melanopsidium nigrum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Melanopsidium+nigrum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Meriania glabra": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Meriania+glabra&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Mezia araujoi": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Mezia+araujoi&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Miconia subvernicosa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Miconia+subvernicosa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Moldenhawera polysperma": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Moldenhawera+polysperma&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Mollinedia acutissima": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Mollinedia+acutissima&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Mollinedia engleriana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Mollinedia+engleriana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Muellera filipes": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Muellera+filipes&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrceugenia acutiflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+acutiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrceugenia bracteosa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+bracteosa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrceugenia cucullata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+cucullata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrceugenia miersiana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+miersiana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrceugenia myrcioides": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+myrcioides&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrceugenia pilotantha": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+pilotantha&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia aethusa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+aethusa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia amazonica": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+amazonica&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia anacardiifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+anacardiifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia bicolor": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+bicolor&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia brasiliensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+brasiliensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 356348243,
+        "taxonName": "Myrcia brasiliensis",
+        "photo": {
+          "id": 649835789,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1638,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649835789/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 356348243,
+        "taxonName": "Myrcia brasiliensis",
+        "photo": {
+          "id": 649835788,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1639
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649835788/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "0742d5e0edae86add328b8a531764f783a0b28028aad2e30e42dc617531bc0e8",
+    "totalObservations": 1
+  },
+  "Myrcia colpodes": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+colpodes&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia crocea": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+crocea&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia dichrophylla": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+dichrophylla&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia eugenioides": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+eugenioides&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia gestasiana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+gestasiana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia guianensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+guianensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia hartwegiana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+hartwegiana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia insigniflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+insigniflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia insularis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+insularis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia laxiflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+laxiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia macrocarpa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+macrocarpa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia morroqueimadensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+morroqueimadensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia multiflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+multiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia ovata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+ovata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia palustris": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+palustris&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 72882306,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 118912917,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1537,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118912917/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 72882306,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 118913028,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1537,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118913028/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 72882306,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 118913266,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1537,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118913266/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 127389601,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 216264905,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 899,
+            "height": 1600
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216264905/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 127389601,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 216264931,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 899,
+            "height": 1600
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216264931/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 127389601,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 216264943,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 899,
+            "height": 1600
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216264943/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 127389601,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 216264963,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 899,
+            "height": 1600
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216264963/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 127389601,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 216264986,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 899,
+            "height": 1600
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216264986/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 127389601,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 216265009,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 899,
+            "height": 1600
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216265009/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 127389601,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 216265029,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 899,
+            "height": 1600
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216265029/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307778809,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307778809/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307778875,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307778875/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307778944,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307778944/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779005,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779005/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779081,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779081/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779143,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779143/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779207,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779207/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779296,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779296/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779348,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779348/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779420,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779420/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779486,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779486/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779558,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779558/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779618,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779618/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779709,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779709/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176994619,
+        "taxonName": "Myrcia palustris",
+        "photo": {
+          "id": 307779799,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307779799/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "07ea47a40b147b44611d1f09b37d4433f49f6fbca9163f63ca74ee2eb26d5a2b",
+    "totalObservations": 7
+  },
+  "Myrcia pubescens": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+pubescens&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia pubiflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+pubiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia pubipetala": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+pubipetala&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia racemosa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+racemosa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia spectabilis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+spectabilis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia strigipes": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+strigipes&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia subsericea": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+subsericea&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia tenuivenosa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+tenuivenosa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia tomentosa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+tomentosa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia velutiflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+velutiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrcia vittoriana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrcia+vittoriana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Myrciaria floribunda": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrciaria+floribunda&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 284853634,
+        "taxonName": "Myrciaria floribunda",
+        "photo": {
+          "id": 511970272,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511970272/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 284853634,
+        "taxonName": "Myrciaria floribunda",
+        "photo": {
+          "id": 511970321,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511970321/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 284853634,
+        "taxonName": "Myrciaria floribunda",
+        "photo": {
+          "id": 511970364,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511970364/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 284853634,
+        "taxonName": "Myrciaria floribunda",
+        "photo": {
+          "id": 511970408,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511970408/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 284853634,
+        "taxonName": "Myrciaria floribunda",
+        "photo": {
+          "id": 511970442,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511970442/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 122664178,
+        "taxonName": "Myrciaria floribunda",
+        "photo": {
+          "id": 207705159,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1362
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207705159/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 149199349,
+        "taxonName": "Myrciaria floribunda",
+        "photo": {
+          "id": 257057483,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257057483/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 149199349,
+        "taxonName": "Myrciaria floribunda",
+        "photo": {
+          "id": 257057547,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257057547/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 149199349,
+        "taxonName": "Myrciaria floribunda",
+        "photo": {
+          "id": 257057614,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257057614/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 149199349,
+        "taxonName": "Myrciaria floribunda",
+        "photo": {
+          "id": 257057725,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257057725/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "070612d0654e82227a7571ec0e6396169ef8d28bd6a869dd1564a15c9ebbd2f7",
+    "totalObservations": 3
+  },
+  "Myrciaria glazioviana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrciaria+glazioviana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 340071725,
+        "taxonName": "Myrciaria glazioviana",
+        "photo": {
+          "id": 618778177,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618778177/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 340071725,
+        "taxonName": "Myrciaria glazioviana",
+        "photo": {
+          "id": 618778223,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618778223/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 335215098,
+        "taxonName": "Myrciaria glazioviana",
+        "photo": {
+          "id": 608922607,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608922607/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 335215098,
+        "taxonName": "Myrciaria glazioviana",
+        "photo": {
+          "id": 608922637,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608922637/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 400546918,
+        "taxonName": "Myrciaria glazioviana",
+        "photo": {
+          "id": 735053800,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1534,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/735053800/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 400546918,
+        "taxonName": "Myrciaria glazioviana",
+        "photo": {
+          "id": 735053871,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/735053871/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 400546918,
+        "taxonName": "Myrciaria glazioviana",
+        "photo": {
+          "id": 735055071,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/735055071/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "445e6ef40b40901d6978dce925b7c3752af00d35e2bdf28535a2dc723f240c94",
+    "totalObservations": 4
+  },
+  "Myrciaria tenella": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrciaria+tenella&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 259809646,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 466460873,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466460873/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 259809646,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 466460896,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466460896/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 259809646,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 466460917,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466460917/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 259809646,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 466460964,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466460964/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 268100751,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 481871403,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481871403/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 268100751,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 481871806,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481871806/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 268100751,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 481871868,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481871868/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 268100751,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 481871935,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481871935/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 268100751,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 481872001,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481872001/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 268100751,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 481872072,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481872072/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 268100751,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 481872133,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481872133/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 268100751,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 481872175,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481872175/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 268100751,
+        "taxonName": "Myrciaria tenella",
+        "photo": {
+          "id": 481872238,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481872238/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "29b8c4dc6f5ab82315c17767dd47ab65147266aecc3c15b2794d3e1a8def6255",
+    "totalObservations": 2
+  },
+  "Myrrhinium atropurpureum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrrhinium+atropurpureum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 89409557,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 147642855,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147642855/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 89409557,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 147642909,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147642909/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 98377056,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 163776758,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1970,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163776758/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 98377056,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 163777240,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1782,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163777240/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 98377056,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 163777283,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1882
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163777283/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 136914939,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 233812400,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233812400/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 136914939,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 233812531,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233812531/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 136914939,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 233812693,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233812693/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 136914939,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 233812853,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233812853/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 136914939,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 233812970,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233812970/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 136914939,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 233813086,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233813086/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 136914939,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 233813163,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233813163/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 136914939,
+        "taxonName": "Myrrhinium atropurpureum",
+        "photo": {
+          "id": 233813284,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233813284/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "189512d6dbc0eac05aa3ff766972cdba0834c42ffe26a73bdac3d90f056b4f25",
+    "totalObservations": 14
+  },
+  "Myrsine villosissima": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Myrsine+villosissima&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Neomitranthes warmingiana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Neomitranthes+warmingiana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Ocotea odorifera": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Ocotea+odorifera&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Ocotea schwackeana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Ocotea+schwackeana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Ophthalmoblapton macrophyllum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Ophthalmoblapton+macrophyllum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Ouratea miersii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Ouratea+miersii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Panopsis multiflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Panopsis+multiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Paratecoma peroba": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Paratecoma+peroba&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Peltogyne mattosiana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Peltogyne+mattosiana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Philodendron alternans": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Philodendron+alternans&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Philodendron crassinervium": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Philodendron+crassinervium&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 269260023,
+        "taxonName": "Philodendron crassinervium",
+        "photo": {
+          "id": 484110342,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1387,
+            "height": 1044
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484110342/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 258081623,
+        "taxonName": "Philodendron crassinervium",
+        "photo": {
+          "id": 462972050,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1370
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462972050/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 258081623,
+        "taxonName": "Philodendron crassinervium",
+        "photo": {
+          "id": 462972057,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1370
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462972057/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 316147237,
+        "taxonName": "Philodendron crassinervium",
+        "photo": {
+          "id": 571156052,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1890
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/571156052/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 316147237,
+        "taxonName": "Philodendron crassinervium",
+        "photo": {
+          "id": 571155983,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1639,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/571155983/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "52e3ae8e9218bbfe1f2164a177c77b6528b41969612bbd6bf366c3d8bb94a464",
+    "totalObservations": 5
+  },
+  "Philodendron curvilobum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Philodendron+curvilobum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 196322022,
+        "taxonName": "Philodendron curvilobum",
+        "photo": {
+          "id": 345605868,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1537
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345605868/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 196322022,
+        "taxonName": "Philodendron curvilobum",
+        "photo": {
+          "id": 345605875,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1538,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345605875/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 196321849,
+        "taxonName": "Philodendron curvilobum",
+        "photo": {
+          "id": 345605447,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1537,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345605447/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 196321849,
+        "taxonName": "Philodendron curvilobum",
+        "photo": {
+          "id": 345605461,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1537,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345605461/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "52d35289a57df7e7410df5e84c74e68895171f0b8ad5f2e3b38da2de174caa95",
+    "totalObservations": 2
+  },
+  "Philodendron nadruzianum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Philodendron+nadruzianum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 260428783,
+        "taxonName": "Philodendron nadruzianum",
+        "photo": {
+          "id": 467684682,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467684682/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 260428783,
+        "taxonName": "Philodendron nadruzianum",
+        "photo": {
+          "id": 467684684,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467684684/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 260428805,
+        "taxonName": "Philodendron nadruzianum",
+        "photo": {
+          "id": 467686207,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467686207/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 260428805,
+        "taxonName": "Philodendron nadruzianum",
+        "photo": {
+          "id": 467686204,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467686204/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 260428805,
+        "taxonName": "Philodendron nadruzianum",
+        "photo": {
+          "id": 467686253,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1369
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467686253/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "205b5d0e90bfdc89d3c5494603548caccf4bf8f72a87fa8b1243f0772013e508",
+    "totalObservations": 2
+  },
+  "Picramnia grandifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Picramnia+grandifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Pimenta pseudocaryophyllus": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pimenta+pseudocaryophyllus&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Piper anostachyum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Piper+anostachyum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Piper juliflorum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Piper+juliflorum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Piper morisonianum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Piper+morisonianum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Piper translucens": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Piper+translucens&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Piper trigonodrupum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Piper+trigonodrupum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Piptocarpha verticillata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Piptocarpha+verticillata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Pleroma benthamianum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pleroma+benthamianum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Pleroma elegans": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pleroma+elegans&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Plinia peruviana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Plinia+peruviana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "needs-inspection",
+    "photos": [],
+    "responseSha256": "79cc967dc1fa38f4ea90564f12a71a6a28348430c4f10cb7146024a8088b81a9",
+    "totalObservations": 7
+  },
+  "Plinia rivularis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Plinia+rivularis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Podocarpus sellowii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Podocarpus+sellowii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Posoqueria palustris": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Posoqueria+palustris&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Pouteria bullata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pouteria+bullata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Pouteria coelomatica": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pouteria+coelomatica&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Pouteria macahensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pouteria+macahensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Pradosia kuhlmannii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pradosia+kuhlmannii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Psychotria clavipes": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Psychotria+clavipes&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Psychotria subspathacea": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Psychotria+subspathacea&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Psychotria tenuinervis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Psychotria+tenuinervis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Rhamnidium glabrum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Rhamnidium+glabrum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Rinorea laevigata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Rinorea+laevigata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Roupala gracilis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Roupala+gracilis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Rudgea erythrocarpa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Rudgea+erythrocarpa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Rudgea nobilis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Rudgea+nobilis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Rustia simpsonii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Rustia+simpsonii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Scutia arenicola": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Scutia+arenicola&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Sebastiania pteroclada": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Sebastiania+pteroclada&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Senegalia mikanii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Senegalia+mikanii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Siphoneugena densiflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Siphoneugena+densiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Sloanea obtusifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Sloanea+obtusifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Solanum arenarium": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Solanum+arenarium&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "needs-inspection",
+    "photos": [],
+    "responseSha256": "bd7d829924b00e8d230a62347ce04f536cdcbadb65b8c3fe46bda921fe62922e",
+    "totalObservations": 41
+  },
+  "Solanum paralum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Solanum+paralum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Solanum sycocarpum": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Solanum+sycocarpum&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Staurogyne itatiaiae": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Staurogyne+itatiaiae&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Stephanopodium sessile": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Stephanopodium+sessile&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Stylogyne leptantha": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Stylogyne+leptantha&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Stylogyne sordida": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Stylogyne+sordida&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Syagrus picrophylla": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Syagrus+picrophylla&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Tabebuia cassinoides": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Tabebuia+cassinoides&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Tachigali denudata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Tachigali+denudata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Terminalia acuminata": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Terminalia+acuminata&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Trichogoniopsis podocarpa": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Trichogoniopsis+podocarpa&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Trigynaea axilliflora": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Trigynaea+axilliflora&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Trigynaea oblongifolia": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Trigynaea+oblongifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Unonopsis riedeliana": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Unonopsis+riedeliana&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Urbanodendron bahiense": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Urbanodendron+bahiense&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Vanhouttea gardneri": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Vanhouttea+gardneri&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Virola bicuhyba": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Virola+bicuhyba&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Xylopia brasiliensis": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Xylopia+brasiliensis&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "candidates-found",
+    "photos": [
+      {
+        "observationId": 320959775,
+        "taxonName": "Xylopia brasiliensis",
+        "photo": {
+          "id": 580384653,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 946,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580384653/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 266435462,
+        "taxonName": "Xylopia brasiliensis",
+        "photo": {
+          "id": 478712253,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478712253/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 332356645,
+        "taxonName": "Xylopia brasiliensis",
+        "photo": {
+          "id": 603143758,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1152,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603143758/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 332356645,
+        "taxonName": "Xylopia brasiliensis",
+        "photo": {
+          "id": 603143799,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1152,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603143799/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "responseSha256": "502e727470c591a25da8fa4a63313e5f5bde911bd122896647465b6f2a99e3b5",
+    "totalObservations": 4
+  },
+  "Xylosma glaberrima": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Xylosma+glaberrima&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Zollernia glabra": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Zollernia+glabra&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  },
+  "Zollernia glaziovii": {
+    "url": "https://api.inaturalist.org/v1/observations?taxon_name=Zollernia+glaziovii&photo_license=cc0&quality_grade=research&captive=false&per_page=3&order_by=votes",
+    "retrievedAt": "2026-10-24",
+    "status": "none-in-search",
+    "photos": [],
+    "responseSha256": "39c0ece36d66a62f5a54194a18814df69280a47a95c60da940be473e77bc448b",
+    "totalObservations": 0
+  }
+}

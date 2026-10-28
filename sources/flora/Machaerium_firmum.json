@@ -1,0 +1,88 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Machaerium_firmum",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 101140,
+        "scientificname": "Machaerium firmum (Vell.) Benth.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Fabales",
+        "family": "Fabaceae",
+        "genus": "Machaerium",
+        "specificepithet": "firmum",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Vell.) Benth.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Fabaceae Lindl.;Machaerium Pers.;Machaerium firmum (Vell.) Benth.",
+        "source": "Filardi, F.L.R. 2015. Machaerium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB101140>http://floradobrasil2015.jbrj.gov.br/FB101140</a>)<br><br>Filardi, F.L.R., Cardoso, D.B.O.S., Lima, H.C. 2020. Machaerium in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB101140\">https://floradobrasil2020.jbrj.gov.br/FB101140</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Filardi, F.L.R. 2011.&amp;nbsp;&lt;em&gt;Avan&amp;ccedil;os na sistem&amp;aacute;tica de&amp;nbsp;&lt;/em&gt;Machaerium&lt;em&gt;&amp;nbsp;Pers. (Leguminosae Papilionoideae Dalbergieae): filogenia e revis&amp;atilde;o taxon&amp;ocirc;mica das esp&amp;eacute;cies do Dom&amp;iacute;nio Atl&amp;acirc;ntico.&amp;nbsp;&lt;/em&gt;Ph.D. thesis. Rio de Janeiro: Escola Nacional de Bot&amp;acirc;nica Tropical, Instituto de Pesquisas Jardim Bot&amp;acirc;nico do Rio de Janeiro.",
+        "parentnameusage": "Machaerium Pers.",
+        "parentnameusageid": 23055,
+        "originalnameusageid": "122017",
+        "namepublishedin": "Comm. Legum. Gen. 37 1837",
+        "namepublishedinyear": "1837",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB101140",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Filardi, F.L.R., Jordão, V.M.M., Cardoso, D.B.O.S., Lima, H.C. Machaerium in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB101140>. Acesso em: 24 oct. 2026.",
+        "modified": "2024-03-27 15:32:45.607"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "jacarandá-piranga",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": ""
+        },
+        {
+          "vernacularname": "jacarandá-rosa",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": ""
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Bentham, G.,Comm. Legum. Gen.,37,1837"
+        },
+        {
+          "reference": "Bentham, G.,Fl. bras.,15 (1): 243, tab.80,1862"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 122017,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Nissolia firma Vell."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

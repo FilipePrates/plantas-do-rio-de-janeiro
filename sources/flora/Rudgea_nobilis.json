@@ -1,0 +1,123 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Rudgea_nobilis",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 14260,
+        "scientificname": "Rudgea nobilis Müll.Arg.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Gentianales",
+        "family": "Rubiaceae",
+        "genus": "Rudgea",
+        "specificepithet": "nobilis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Müll.Arg.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Rubiaceae Juss.;Rudgea Salisb.;Rudgea nobilis Müll.Arg.",
+        "source": "Bruniera, C.P.,Zappi, D. 2015. Rudgea in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB14260>http://floradobrasil2015.jbrj.gov.br/FB14260</a>)<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: justify; text-indent: -1.0cm; line-height: normal; tab-stops: 96.75pt 370.5pt right 425.2pt; margin: 0cm 0cm .0001pt 1.0cm;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.0pt; font-family: Calibri; mso-ansi-language: EN-US;&quot;&gt;Zappi, D.C. &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.0pt; font-family: Calibri; mso-ansi-language: EN-US;&quot;&gt;2003. Revision of &lt;em style=&quot;mso-bidi-font-style: normal;&quot;&gt;Rudgea &lt;/em&gt;(Rubiaceae) in Southeastern and Southern Brazil. &lt;em style=&quot;mso-bidi-font-style: normal;&quot;&gt;Kew&lt;/em&gt;&lt;/span&gt;\r\n&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: justify; text-indent: -1.0cm; line-height: normal; tab-stops: 96.75pt 370.5pt right 425.2pt; margin: 0cm 0cm .0001pt 1.0cm;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.0pt; font-family: Calibri; mso-ansi-language: EN-US;&quot;&gt;&lt;em style=&quot;mso-bidi-font-style: normal;&quot;&gt;Bulletin&lt;/em&gt; 58(3): 513-596.&lt;/span&gt;",
+        "parentnameusage": "Rudgea Salisb.",
+        "parentnameusageid": 14246,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB14260",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2016-07-31 16:23:37.985"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Martius, C.F.P. von & auct. suc. (eds.),Fl. bras.,6(5): 172,1881"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 74395,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Rudgea organensis Standl."
+        },
+        {
+          "relatedresourceid": 75120,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Uragoga nobilis (Müll.Arg.) Kuntze"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "A.F.M. Glaziou 6040",
+          "collectioncode": "P",
+          "catalognumber": "P00582128",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228055223",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 6040",
+          "collectioncode": "P",
+          "catalognumber": "P00582129",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228055225",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 6040",
+          "collectioncode": "P",
+          "catalognumber": "P00582128",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00582128",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 6040",
+          "collectioncode": "P",
+          "catalognumber": "P00582129",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00582129",
+          "locality": null,
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Terminalia_acuminata",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 6914,
+        "scientificname": "Terminalia acuminata (Allemão) Eichler",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Combretaceae",
+        "genus": "Terminalia",
+        "specificepithet": "acuminata",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Allemão) Eichler",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Combretaceae R.Br.;Terminalia L.;Terminalia acuminata (Allemão) Eichler",
+        "source": "Marquete, N.,Loiola, M.I.B. 2015. Combretaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB6914>http://floradobrasil2015.jbrj.gov.br/FB6914</a>)<br><br>Ribeiro, R.T.M., Marquet, N., Loiola, M.I.B. Combretaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB6914\">https://floradobrasil2020.jbrj.gov.br/FB6914</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 10pt;&quot;&gt;Marquete, N. F. S. Combretaceae do Estado do Rio de Janeiro. Subtribo Terminaliinae, &lt;strong&gt;Rodrigu&amp;eacute;sia&lt;/strong&gt;, 36: 81-104, 1984.&lt;/span&gt;\r\n&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 10pt;&quot;&gt;Marquete, N. F. S.; Teixeira, J.; Valente, M. C. &lt;em&gt;Terminalia&lt;/em&gt; L. (Combretaceae) na regi&amp;atilde;o Sudeste do Brasil. &lt;strong&gt;Bradea&lt;/strong&gt;,&amp;nbsp;16: 99-123, 2003.&lt;/span&gt;\r\n&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: black;&quot;&gt;Stace, C. A. Combretaceae. Flora Neotropica 107. &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;color: black; mso-ansi-language: EN-US;&quot;&gt;New York, &lt;strong&gt;The New York Botanical Garden Press&lt;/strong&gt;. 2010. Pp. 179-180.&lt;/span&gt;&lt;/span&gt;",
+        "parentnameusage": "Terminalia L.",
+        "parentnameusageid": 6913,
+        "originalnameusageid": "133186",
+        "namepublishedin": "Flora Brasilensis 14(2):92 1867",
+        "namepublishedinyear": "1867",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB6914",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Ribeiro, R.T.M., Marquet, N., Loiola, M.I.B. Combretaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB6914>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-11-16 11:04:11.064"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "guarajuba",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Rio de Janeiro (Sudeste)"
+        },
+        {
+          "vernacularname": "merindiba",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Rio de Janeiro (Sudeste)"
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Marquete, N.F. da S. et al.,Bradea,9(16): 99-123,2003"
+        },
+        {
+          "reference": "Eichler, A.G.,Flora Brasilensis,14(2):92,1867"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 133186,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Vicentia acuminata Allemão"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Fernández, E.P. 216",
+          "collectioncode": "EAC",
+          "catalognumber": "EAC0063744",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/EAC0063744",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Occhioni, P. s.n.",
+          "collectioncode": "EAC",
+          "catalognumber": "EAC0063745",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/EAC0063745",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Fernández, E.P. 216",
+          "collectioncode": "EAC",
+          "catalognumber": "EAC0063744",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=257601781",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Occhioni, P. s.n.",
+          "collectioncode": "EAC",
+          "catalognumber": "EAC0063745",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=257601783",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

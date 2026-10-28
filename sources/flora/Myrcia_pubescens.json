@@ -1,0 +1,212 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Myrcia_pubescens",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 10741,
+        "scientificname": "Myrcia pubescens DC.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrcia",
+        "specificepithet": "pubescens",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "DC.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrcia DC.;Myrcia pubescens DC.",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB10741>http://floradobrasil2015.jbrj.gov.br/FB10741</a>)<br><br>Santos, M.F., Amorim, B.S., Burton, G.P., Fernandes, T., Gaem, P.H., Lourenço, A.R.L., Lima, D.F., Rosa, P.O., Santos, L.L.D., Staggemeier, V.G., Vasconcelos, T.N.C., Lucas, E.J. 2020. Myrcia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB10741\">https://floradobrasil2020.jbrj.gov.br/FB10741</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Amorim, B. S. 2017. Filogenia e taxonomia do clado&amp;nbsp;&lt;em&gt;Gomidesia&lt;/em&gt;&amp;nbsp;(&lt;em&gt;Myrcia&lt;/em&gt;&amp;nbsp;s.l., Myrtaceae) na Floresta Atl&amp;acirc;ntica do Brasil. Ph.D. thesis. Universidade Federal de Pernambuco, 190pp.",
+        "parentnameusage": "Myrcia DC.",
+        "parentnameusageid": 10660,
+        "originalnameusageid": null,
+        "namepublishedin": "Prodromus 3: 247. 1828",
+        "namepublishedinyear": "1828",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB10741",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Santos, M.F., Amorim, B.S., Burton, G.P., Fernandes, T., Gaem, P.H., Lourenço, A.R.L., Lima, D.F., Rosa, P.O., Santos, L.L.D., Staggemeier, V.G., Vasconcelos, T.N.C., Lucas, E.J. Myrcia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB10741>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-12-15 16:31:11.269"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MT",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-GO",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Campo rupestre",
+          "Cerrado (lato sensu)",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "de Candolle, A.P.,Prodromus,3: 247.,1828"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 62526,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Gomidesia mikaniana O.Berg"
+        },
+        {
+          "relatedresourceid": 62537,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Gomidesia raddiana O.Berg"
+        },
+        {
+          "relatedresourceid": 63154,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrcia minensis var. subcordata Kiaersk."
+        },
+        {
+          "relatedresourceid": 62535,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Gomidesia pubescens var. casaretteana (O.Berg) D.Legrand"
+        },
+        {
+          "relatedresourceid": 62536,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Gomidesia pubescens var. widgreniana (O.Berg) D.Legrand"
+        },
+        {
+          "relatedresourceid": 25852,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Gomidesia pubescens (DC.) D.Legrand"
+        },
+        {
+          "relatedresourceid": 62501,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Gomidesia casaretteana O.Berg"
+        },
+        {
+          "relatedresourceid": 62493,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Gomidesia aubletiana O.Berg"
+        },
+        {
+          "relatedresourceid": 63153,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrcia minensis Kiaersk."
+        },
+        {
+          "relatedresourceid": 63250,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrcia schenckiana Kiaersk."
+        },
+        {
+          "relatedresourceid": 31527,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Gomidesia widgreniana O.Berg"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "V.C.  Souza 28479",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA077977",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226797585",
+          "locality": "MG",
+          "typestatus": null
+        },
+        {
+          "recordedby": "V.C.  Souza 21107",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA041288",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ESA041288",
+          "locality": "MG",
+          "typestatus": null
+        },
+        {
+          "recordedby": "V.C.  Souza 28479",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA077977",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ESA077977",
+          "locality": "MG",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Pessoa, S.V.A. 1008",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA107369",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ESA107369",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "V.C.  Souza 21107",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA041288",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226767131",
+          "locality": "MG",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Pessoa, S.V.A. 1008",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA107369",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226823433",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

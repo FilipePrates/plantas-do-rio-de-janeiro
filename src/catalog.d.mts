@@ -85,6 +85,17 @@ export interface Plant {
   sources: Source[];
   photos: PlantPhoto[];
   curationNotes: string;
+  /** Lightweight reference entries are searchable without a photo gallery. */
+  presentation?: "profile" | "checklist";
+  /** Old profile IDs now represented by this group; used for saved lists. */
+  previousIds?: string[];
+  municipalEvidence?: {
+    scientificName: string;
+    source: Source;
+    publicationYear: number;
+    sourceLocator: string;
+    locality: string;
+  }[];
 }
 export interface Catalog {
   schemaVersion: 1;
@@ -105,3 +116,15 @@ export const originLabels: Record<Plant["origin"], string>;
 export const markerPaths: Record<Exclude<PhotoMarker, "unknown">, string>;
 
 export function photoMatchesPlant(plant: Plant, taxonName: string): boolean;
+export function isProfile(plant: Plant): boolean;
+export interface ChecklistRow {
+  scientificName: string;
+  commonName: string;
+  family: string;
+  plant: Plant;
+  geography: Plant["geography"];
+}
+export function checklistRows(catalog: Catalog): ChecklistRow[];
+export function matchesChecklistRow(row: ChecklistRow, query: string): boolean;
+export function hasMunicipalEvidence(plant: Plant): boolean;
+export function resolveSavedIds(ids: string[], plants: Plant[]): string[];

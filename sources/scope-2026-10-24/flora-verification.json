@@ -1,0 +1,1362 @@
+{
+  "Aechmea fasciata": {
+    "status": "verified",
+    "cache": "sources/flora/Aechmea_fasciata.json",
+    "retrievedAt": "2026-10-16T22:02:19Z"
+  },
+  "Abutilon anodoides": {
+    "status": "verified",
+    "cache": "sources/flora/Abutilon_anodoides.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Alcantarea geniculata": {
+    "status": "verified",
+    "cache": "sources/flora/Alcantarea_geniculata.json",
+    "retrievedAt": "2026-10-16T22:02:17Z"
+  },
+  "Alcantarea glaziouana": {
+    "status": "verified",
+    "cache": "sources/flora/Alcantarea_glaziouana.json",
+    "retrievedAt": "2026-10-16T22:02:14Z"
+  },
+  "Alcantarea imperialis": {
+    "status": "verified",
+    "cache": "sources/flora/Alcantarea_imperialis.json",
+    "retrievedAt": "2026-10-16T22:02:15Z"
+  },
+  "Agarista organensis": {
+    "status": "verified",
+    "cache": "sources/flora/Agarista_organensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Agarista uleana": {
+    "status": "verified",
+    "cache": "sources/flora/Agarista_uleana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Allophylus heterophyllus": {
+    "status": "verified",
+    "cache": "sources/flora/Allophylus_heterophyllus.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Alseis involuta": {
+    "status": "verified",
+    "cache": "sources/flora/Alseis_involuta.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Anthurium augustinum": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_augustinum.json",
+    "retrievedAt": "2026-10-16T22:10:43Z"
+  },
+  "Anthurium binotii": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_binotii.json",
+    "retrievedAt": "2026-10-16T22:10:46Z"
+  },
+  "Anthurium coriaceum": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_coriaceum.json",
+    "retrievedAt": "2026-10-16T22:11:15Z"
+  },
+  "Anthurium harrisii": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_harrisii.json",
+    "retrievedAt": "2026-10-16T22:11:32Z"
+  },
+  "Anthurium intermedium": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_intermedium.json",
+    "retrievedAt": "2026-10-16T22:11:35Z"
+  },
+  "Anthurium laucheanum": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_laucheanum.json",
+    "retrievedAt": "2026-10-16T22:11:40Z"
+  },
+  "Anthurium lhotzkyanum": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_lhotzkyanum.json",
+    "retrievedAt": "2026-10-16T22:11:41Z"
+  },
+  "Anthurium lucidum": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_lucidum.json",
+    "retrievedAt": "2026-10-16T22:11:46Z"
+  },
+  "Anthurium luschnathianum": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_luschnathianum.json",
+    "retrievedAt": "2026-10-16T22:11:47Z"
+  },
+  "Anthurium maricense": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_maricense.json",
+    "retrievedAt": "2026-10-16T22:11:49Z"
+  },
+  "Anthurium parvum": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_parvum.json",
+    "retrievedAt": "2026-10-16T22:12:03Z"
+  },
+  "Anthurium pentaphyllum": {
+    "status": "verified",
+    "cache": "sources/flora/Anthurium_pentaphyllum.json",
+    "retrievedAt": "2026-10-16T22:12:04Z"
+  },
+  "Annona ferruginea": {
+    "status": "verified",
+    "cache": "sources/flora/Annona_ferruginea.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Annona parviflora": {
+    "status": "verified",
+    "cache": "sources/flora/Annona_parviflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Apuleia leiocarpa": {
+    "status": "verified",
+    "cache": "sources/flora/Apuleia_leiocarpa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Aspidosperma parvifolium": {
+    "status": "verified",
+    "cache": "sources/flora/Aspidosperma_parvifolium.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Austrocritonia taunayana": {
+    "status": "verified",
+    "cache": "sources/flora/Austrocritonia_taunayana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Bauhinia albicans": {
+    "status": "verified",
+    "cache": "sources/flora/Bauhinia_albicans.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Beilschmiedia angustifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Beilschmiedia_angustifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Blepharocalyx salicifolius": {
+    "status": "verified",
+    "cache": "sources/flora/Blepharocalyx_salicifolius.json",
+    "retrievedAt": "2026-10-16T22:02:14Z"
+  },
+  "Besleria macahensis": {
+    "status": "verified",
+    "cache": "sources/flora/Besleria_macahensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Besleria melancholica": {
+    "status": "verified",
+    "cache": "sources/flora/Besleria_melancholica.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Byrsonima microphylla": {
+    "status": "verified",
+    "cache": "sources/flora/Byrsonima_microphylla.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Campomanesia guaviroba": {
+    "status": "verified",
+    "cache": "sources/flora/Campomanesia_guaviroba.json",
+    "retrievedAt": "2026-10-16T22:02:02Z"
+  },
+  "Callianthe sellowiana": {
+    "status": "verified",
+    "cache": "sources/flora/Callianthe_sellowiana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Callisthene dryadum": {
+    "status": "verified",
+    "cache": "sources/flora/Callisthene_dryadum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Campomanesia phaea": {
+    "status": "verified",
+    "cache": "sources/flora/Campomanesia_phaea.json",
+    "retrievedAt": "2026-10-16T22:01:59Z"
+  },
+  "Campomanesia guazumifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Campomanesia_guazumifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Cariniana ianeirensis": {
+    "status": "verified",
+    "cache": "sources/flora/Cariniana_ianeirensis.json",
+    "retrievedAt": "2026-10-16T22:03:28Z"
+  },
+  "Cariniana legalis": {
+    "status": "verified",
+    "cache": "sources/flora/Cariniana_legalis.json",
+    "retrievedAt": "2026-10-16T22:03:26Z"
+  },
+  "Cattleya guttata": {
+    "status": "verified",
+    "cache": "sources/flora/Cattleya_guttata.json",
+    "retrievedAt": "2026-10-16T22:04:54Z"
+  },
+  "Cattleya intermedia": {
+    "status": "verified",
+    "cache": "sources/flora/Cattleya_intermedia.json",
+    "retrievedAt": "2026-10-16T22:04:57Z"
+  },
+  "Campomanesia laurifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Campomanesia_laurifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Campomanesia schlechtendaliana": {
+    "status": "verified",
+    "cache": "sources/flora/Campomanesia_schlechtendaliana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Cedrela fissilis": {
+    "status": "verified",
+    "cache": "sources/flora/Cedrela_fissilis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Cedrela odorata": {
+    "status": "verified",
+    "cache": "sources/flora/Cedrela_odorata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Coccoloba rigida": {
+    "status": "verified",
+    "cache": "sources/flora/Coccoloba_rigida.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Chamaecrista ensiformis": {
+    "status": "needs-taxonomic-review",
+    "cache": "sources/flora/Chamaecrista_ensiformis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Cololobus rupestris": {
+    "status": "verified",
+    "cache": "sources/flora/Cololobus_rupestris.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Conchocarpus grandiflorus": {
+    "status": "verified",
+    "cache": "sources/flora/Conchocarpus_grandiflorus.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Conchocarpus ovatus": {
+    "status": "verified",
+    "cache": "sources/flora/Conchocarpus_ovatus.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Conchocarpus sordidus": {
+    "status": "verified",
+    "cache": "sources/flora/Conchocarpus_sordidus.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Connarus marginatus": {
+    "status": "verified",
+    "cache": "sources/flora/Connarus_marginatus.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Couepia parvifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Couepia_parvifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Couepia schottii": {
+    "status": "verified",
+    "cache": "sources/flora/Couepia_schottii.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Couratari pyramidata": {
+    "status": "verified",
+    "cache": "sources/flora/Couratari_pyramidata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Coussapoa curranii": {
+    "status": "verified",
+    "cache": "sources/flora/Coussapoa_curranii.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Coussarea coffeoides": {
+    "status": "verified",
+    "cache": "sources/flora/Coussarea_coffeoides.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Coussarea friburgensis": {
+    "status": "verified",
+    "cache": "sources/flora/Coussarea_friburgensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Coussarea viridis": {
+    "status": "verified",
+    "cache": "sources/flora/Coussarea_viridis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Cupania fluminensis": {
+    "status": "verified",
+    "cache": "sources/flora/Cupania_fluminensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Dalbergia nigra": {
+    "status": "verified",
+    "cache": "sources/flora/Dalbergia_nigra.json",
+    "retrievedAt": "2026-10-16T22:03:54Z"
+  },
+  "Cupania schizoneura": {
+    "status": "verified",
+    "cache": "sources/flora/Cupania_schizoneura.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Dahlstedtia glaziovii": {
+    "status": "verified",
+    "cache": "sources/flora/Dahlstedtia_glaziovii.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Dendropanax heterophyllus": {
+    "status": "verified",
+    "cache": "sources/flora/Dendropanax_heterophyllus.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Dicksonia sellowiana": {
+    "status": "verified",
+    "cache": "sources/flora/Dicksonia_sellowiana.json",
+    "retrievedAt": "2026-10-16T22:05:29Z"
+  },
+  "Dendropanax langsdorfii": {
+    "status": "verified",
+    "cache": "sources/flora/Dendropanax_langsdorfii.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Dendropanax trilobus": {
+    "status": "verified",
+    "cache": "sources/flora/Dendropanax_trilobus.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Dimorphandra exaltata": {
+    "status": "verified",
+    "cache": "sources/flora/Dimorphandra_exaltata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Duguetia microphylla": {
+    "status": "verified",
+    "cache": "sources/flora/Duguetia_microphylla.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Duguetia pohliana": {
+    "status": "verified",
+    "cache": "sources/flora/Duguetia_pohliana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Erythroxylum cincinnatum": {
+    "status": "verified",
+    "cache": "sources/flora/Erythroxylum_cincinnatum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Erythroxylum magnoliifolium": {
+    "status": "verified",
+    "cache": "sources/flora/Erythroxylum_magnoliifolium.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Erythroxylum occultum": {
+    "status": "verified",
+    "cache": "sources/flora/Erythroxylum_occultum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia astringens": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_astringens.json",
+    "retrievedAt": "2026-10-16T22:01:53Z"
+  },
+  "Erythroxylum ovalifolium": {
+    "status": "verified",
+    "cache": "sources/flora/Erythroxylum_ovalifolium.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eschweilera compressa": {
+    "status": "verified",
+    "cache": "sources/flora/Eschweilera_compressa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia augustana": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_augustana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia brasiliensis": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_brasiliensis.json",
+    "retrievedAt": "2026-10-16T22:01:43Z"
+  },
+  "Eugenia bahiensis": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_bahiensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia botequimensis": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_botequimensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia bunchosiifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_bunchosiifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia copacabanensis": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_copacabanensis.json",
+    "retrievedAt": "2026-10-16T22:01:51Z"
+  },
+  "Eugenia candolleana": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_candolleana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia cinerascens": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_cinerascens.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia excelsa": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_excelsa.json",
+    "retrievedAt": "2026-10-16T22:01:54Z"
+  },
+  "Eugenia corcovadensis": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_corcovadensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia disperma": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_disperma.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia involucrata": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_involucrata.json",
+    "retrievedAt": "2026-10-16T22:01:44Z"
+  },
+  "Eugenia expansa": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_expansa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia francavilleana": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_francavilleana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia itaguahiensis": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_itaguahiensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia laruotteana": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_laruotteana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia macrantha": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_macrantha.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia macrosperma": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_macrosperma.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia magnifica": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_magnifica.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia mandioccensis": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_mandioccensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia marambaiensis": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_marambaiensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia monosperma": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_monosperma.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia neolaurifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_neolaurifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia nutans": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_nutans.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia pisiformis": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_pisiformis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia plicata": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_plicata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia pluriflora": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_pluriflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia prasina": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_prasina.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia pruinosa": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_pruinosa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia pruniformis": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_pruniformis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia punicifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_punicifolia.json",
+    "retrievedAt": "2026-10-16T22:01:47Z"
+  },
+  "Eugenia puberula": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_puberula.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia selloi": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_selloi.json",
+    "retrievedAt": "2026-10-16T22:01:52Z"
+  },
+  "Eugenia pulcherrima": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_pulcherrima.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia sulcata": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_sulcata.json",
+    "retrievedAt": "2026-10-16T22:01:46Z"
+  },
+  "Eugenia repanda": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_repanda.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia uniflora": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_uniflora.json",
+    "retrievedAt": "2026-10-16T22:01:42Z"
+  },
+  "Eugenia speciosa": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_speciosa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia supraaxillaris": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_supraaxillaris.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia vattimoana": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_vattimoana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Euterpe edulis": {
+    "status": "verified",
+    "cache": "sources/flora/Euterpe_edulis.json",
+    "retrievedAt": "2026-10-16T22:03:07Z"
+  },
+  "Eugenia verticillata": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_verticillata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Eugenia xanthoxyloides": {
+    "status": "verified",
+    "cache": "sources/flora/Eugenia_xanthoxyloides.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Faramea calyciflora": {
+    "status": "verified",
+    "cache": "sources/flora/Faramea_calyciflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Faramea campanularis": {
+    "status": "verified",
+    "cache": "sources/flora/Faramea_campanularis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Faramea leucocalyx": {
+    "status": "verified",
+    "cache": "sources/flora/Faramea_leucocalyx.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Faramea paratiensis": {
+    "status": "verified",
+    "cache": "sources/flora/Faramea_paratiensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Ficus pulchella": {
+    "status": "verified",
+    "cache": "sources/flora/Ficus_pulchella.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Funifera brasiliensis": {
+    "status": "verified",
+    "cache": "sources/flora/Funifera_brasiliensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Funifera insulae": {
+    "status": "verified",
+    "cache": "sources/flora/Funifera_insulae.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Graphistylis cuneifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Graphistylis_cuneifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Grazielodendron rio-docensis": {
+    "status": "verified",
+    "cache": "sources/flora/Grazielodendron_rio-docensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Homalolepis insignis": {
+    "status": "verified",
+    "cache": "sources/flora/Homalolepis_insignis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Hornschuchia alba": {
+    "status": "verified",
+    "cache": "sources/flora/Hornschuchia_alba.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Ilex schwackeana": {
+    "status": "verified",
+    "cache": "sources/flora/Ilex_schwackeana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Inga globularis": {
+    "status": "verified",
+    "cache": "sources/flora/Inga_globularis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Inga maritima": {
+    "status": "verified",
+    "cache": "sources/flora/Inga_maritima.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Kielmeyera excelsa": {
+    "status": "verified",
+    "cache": "sources/flora/Kielmeyera_excelsa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Kielmeyera insignis": {
+    "status": "verified",
+    "cache": "sources/flora/Kielmeyera_insignis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Kielmeyera rizziniana": {
+    "status": "verified",
+    "cache": "sources/flora/Kielmeyera_rizziniana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Leandra atroviridis": {
+    "status": "verified",
+    "cache": "sources/flora/Leandra_atroviridis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Leandra breviflora": {
+    "status": "verified",
+    "cache": "sources/flora/Leandra_breviflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Leandra mollis": {
+    "status": "verified",
+    "cache": "sources/flora/Leandra_mollis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Lepidaploa obtusifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Lepidaploa_obtusifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Lepidaploa persicifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Lepidaploa_persicifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Luetzelburgia trialata": {
+    "status": "verified",
+    "cache": "sources/flora/Luetzelburgia_trialata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Luxemburgia glazioviana": {
+    "status": "verified",
+    "cache": "sources/flora/Luxemburgia_glazioviana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Machaerium firmum": {
+    "status": "verified",
+    "cache": "sources/flora/Machaerium_firmum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Machaerium legale": {
+    "status": "verified",
+    "cache": "sources/flora/Machaerium_legale.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Macropeplus friburgensis": {
+    "status": "verified",
+    "cache": "sources/flora/Macropeplus_friburgensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Mandevilla crassinoda": {
+    "status": "verified",
+    "cache": "sources/flora/Mandevilla_crassinoda.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Melanopsidium nigrum": {
+    "status": "verified",
+    "cache": "sources/flora/Melanopsidium_nigrum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Meriania glabra": {
+    "status": "verified",
+    "cache": "sources/flora/Meriania_glabra.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Mezia araujoi": {
+    "status": "verified",
+    "cache": "sources/flora/Mezia_araujoi.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Miconia subvernicosa": {
+    "status": "verified",
+    "cache": "sources/flora/Miconia_subvernicosa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Moldenhawera polysperma": {
+    "status": "verified",
+    "cache": "sources/flora/Moldenhawera_polysperma.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Mollinedia acutissima": {
+    "status": "verified",
+    "cache": "sources/flora/Mollinedia_acutissima.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Mollinedia engleriana": {
+    "status": "verified",
+    "cache": "sources/flora/Mollinedia_engleriana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Muellera filipes": {
+    "status": "verified",
+    "cache": "sources/flora/Muellera_filipes.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrceugenia acutiflora": {
+    "status": "verified",
+    "cache": "sources/flora/Myrceugenia_acutiflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrceugenia cucullata": {
+    "status": "verified",
+    "cache": "sources/flora/Myrceugenia_cucullata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrceugenia miersiana": {
+    "status": "verified",
+    "cache": "sources/flora/Myrceugenia_miersiana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrceugenia bracteosa": {
+    "status": "verified",
+    "cache": "sources/flora/Myrceugenia_bracteosa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrceugenia pilotantha": {
+    "status": "verified",
+    "cache": "sources/flora/Myrceugenia_pilotantha.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrceugenia myrcioides": {
+    "status": "verified",
+    "cache": "sources/flora/Myrceugenia_myrcioides.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia aethusa": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_aethusa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia amazonica": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_amazonica.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia anacardiifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_anacardiifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia bicolor": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_bicolor.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia brasiliensis": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_brasiliensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia colpodes": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_colpodes.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia crocea": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_crocea.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia dichrophylla": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_dichrophylla.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia guianensis": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_guianensis.json",
+    "retrievedAt": "2026-10-16T22:02:06Z"
+  },
+  "Myrcia eugenioides": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_eugenioides.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia gestasiana": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_gestasiana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia hartwegiana": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_hartwegiana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia insigniflora": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_insigniflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia insularis": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_insularis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia laxiflora": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_laxiflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia multiflora": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_multiflora.json",
+    "retrievedAt": "2026-10-16T22:02:04Z"
+  },
+  "Myrcia macrocarpa": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_macrocarpa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia morroqueimadensis": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_morroqueimadensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia ovata": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_ovata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia pubescens": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_pubescens.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia palustris": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_palustris.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia pubiflora": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_pubiflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia selloi": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_selloi.json",
+    "retrievedAt": "2026-10-16T22:02:09Z"
+  },
+  "Myrcia spectabilis": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_spectabilis.json",
+    "retrievedAt": "2026-10-16T22:02:05Z"
+  },
+  "Myrcia splendens": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_splendens.json",
+    "retrievedAt": "2026-10-16T22:02:03Z"
+  },
+  "Myrcia pubipetala": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_pubipetala.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia racemosa": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_racemosa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia strigipes": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_strigipes.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia subsericea": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_subsericea.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia tenuivenosa": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_tenuivenosa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia tomentosa": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_tomentosa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia velutiflora": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_velutiflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrcia vittoriana": {
+    "status": "verified",
+    "cache": "sources/flora/Myrcia_vittoriana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrciaria floribunda": {
+    "status": "verified",
+    "cache": "sources/flora/Myrciaria_floribunda.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrciaria glazioviana": {
+    "status": "verified",
+    "cache": "sources/flora/Myrciaria_glazioviana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Myrciaria tenella": {
+    "status": "verified",
+    "cache": "sources/flora/Myrciaria_tenella.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Neomitranthes obscura": {
+    "status": "verified",
+    "cache": "sources/flora/Neomitranthes_obscura.json",
+    "retrievedAt": "2026-10-16T22:02:12Z"
+  },
+  "Myrrhinium atropurpureum": {
+    "status": "verified",
+    "cache": "sources/flora/Myrrhinium_atropurpureum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Ocotea odorifera": {
+    "status": "verified",
+    "cache": "sources/flora/Ocotea_odorifera.json",
+    "retrievedAt": "2026-10-16T22:04:20Z"
+  },
+  "Myrsine villosissima": {
+    "status": "verified",
+    "cache": "sources/flora/Myrsine_villosissima.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Neomitranthes warmingiana": {
+    "status": "verified",
+    "cache": "sources/flora/Neomitranthes_warmingiana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Ocotea schwackeana": {
+    "status": "verified",
+    "cache": "sources/flora/Ocotea_schwackeana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Ophthalmoblapton macrophyllum": {
+    "status": "verified",
+    "cache": "sources/flora/Ophthalmoblapton_macrophyllum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Ouratea miersii": {
+    "status": "verified",
+    "cache": "sources/flora/Ouratea_miersii.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Paubrasilia echinata": {
+    "status": "verified",
+    "cache": "sources/flora/Paubrasilia_echinata.json",
+    "retrievedAt": "2026-10-16T22:03:33Z"
+  },
+  "Panopsis multiflora": {
+    "status": "verified",
+    "cache": "sources/flora/Panopsis_multiflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Philodendron alternans": {
+    "status": "verified",
+    "cache": "sources/flora/Philodendron_alternans.json",
+    "retrievedAt": "2026-10-16T22:12:34Z"
+  },
+  "Philodendron bipennifolium": {
+    "status": "verified",
+    "cache": "sources/flora/Philodendron_bipennifolium.json",
+    "retrievedAt": "2026-10-16T22:12:42Z"
+  },
+  "Philodendron cordatum": {
+    "status": "verified",
+    "cache": "sources/flora/Philodendron_cordatum.json",
+    "retrievedAt": "2026-10-16T22:12:51Z"
+  },
+  "Philodendron crassinervium": {
+    "status": "verified",
+    "cache": "sources/flora/Philodendron_crassinervium.json",
+    "retrievedAt": "2026-10-16T22:12:51Z"
+  },
+  "Philodendron curvilobum": {
+    "status": "verified",
+    "cache": "sources/flora/Philodendron_curvilobum.json",
+    "retrievedAt": "2026-10-16T22:12:52Z"
+  },
+  "Philodendron nadruzianum": {
+    "status": "verified",
+    "cache": "sources/flora/Philodendron_nadruzianum.json",
+    "retrievedAt": "2026-10-16T22:13:29Z"
+  },
+  "Paratecoma peroba": {
+    "status": "verified",
+    "cache": "sources/flora/Paratecoma_peroba.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Peltogyne mattosiana": {
+    "status": "verified",
+    "cache": "sources/flora/Peltogyne_mattosiana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Picramnia grandifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Picramnia_grandifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Piper anostachyum": {
+    "status": "verified",
+    "cache": "sources/flora/Piper_anostachyum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Pimenta pseudocaryophyllus": {
+    "status": "verified",
+    "cache": "sources/flora/Pimenta_pseudocaryophyllus.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Piper juliflorum": {
+    "status": "verified",
+    "cache": "sources/flora/Piper_juliflorum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Piper morisonianum": {
+    "status": "verified",
+    "cache": "sources/flora/Piper_morisonianum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Piper translucens": {
+    "status": "verified",
+    "cache": "sources/flora/Piper_translucens.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Piper trigonodrupum": {
+    "status": "verified",
+    "cache": "sources/flora/Piper_trigonodrupum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Piptocarpha verticillata": {
+    "status": "verified",
+    "cache": "sources/flora/Piptocarpha_verticillata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Plinia edulis": {
+    "status": "verified",
+    "cache": "sources/flora/Plinia_edulis.json",
+    "retrievedAt": "2026-10-16T22:01:56Z"
+  },
+  "Pleroma benthamianum": {
+    "status": "verified",
+    "cache": "sources/flora/Pleroma_benthamianum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Pleroma elegans": {
+    "status": "verified",
+    "cache": "sources/flora/Pleroma_elegans.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Plinia peruviana": {
+    "status": "verified",
+    "cache": "sources/flora/Plinia_peruviana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Plinia rivularis": {
+    "status": "verified",
+    "cache": "sources/flora/Plinia_rivularis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Podocarpus sellowii": {
+    "status": "verified",
+    "cache": "sources/flora/Podocarpus_sellowii.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Posoqueria palustris": {
+    "status": "verified",
+    "cache": "sources/flora/Posoqueria_palustris.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Pouteria bullata": {
+    "status": "verified",
+    "cache": "sources/flora/Pouteria_bullata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Pouteria coelomatica": {
+    "status": "verified",
+    "cache": "sources/flora/Pouteria_coelomatica.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Psidium guineense": {
+    "status": "verified",
+    "cache": "sources/flora/Psidium_guineense.json",
+    "retrievedAt": "2026-10-16T22:02:11Z"
+  },
+  "Pouteria macahensis": {
+    "status": "verified",
+    "cache": "sources/flora/Pouteria_macahensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Pradosia kuhlmannii": {
+    "status": "verified",
+    "cache": "sources/flora/Pradosia_kuhlmannii.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Psychotria clavipes": {
+    "status": "verified",
+    "cache": "sources/flora/Psychotria_clavipes.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Psychotria subspathacea": {
+    "status": "verified",
+    "cache": "sources/flora/Psychotria_subspathacea.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Psychotria tenuinervis": {
+    "status": "verified",
+    "cache": "sources/flora/Psychotria_tenuinervis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Rhamnidium glabrum": {
+    "status": "verified",
+    "cache": "sources/flora/Rhamnidium_glabrum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Rinorea laevigata": {
+    "status": "verified",
+    "cache": "sources/flora/Rinorea_laevigata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Roupala gracilis": {
+    "status": "verified",
+    "cache": "sources/flora/Roupala_gracilis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Rudgea erythrocarpa": {
+    "status": "verified",
+    "cache": "sources/flora/Rudgea_erythrocarpa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Rudgea nobilis": {
+    "status": "verified",
+    "cache": "sources/flora/Rudgea_nobilis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Rustia simpsonii": {
+    "status": "verified",
+    "cache": "sources/flora/Rustia_simpsonii.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Scutia arenicola": {
+    "status": "verified",
+    "cache": "sources/flora/Scutia_arenicola.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Sinningia bulbosa": {
+    "status": "verified",
+    "cache": "sources/flora/Sinningia_bulbosa.json",
+    "retrievedAt": "2026-10-16T22:05:09Z"
+  },
+  "Sebastiania pteroclada": {
+    "status": "verified",
+    "cache": "sources/flora/Sebastiania_pteroclada.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Senegalia mikanii": {
+    "status": "verified",
+    "cache": "sources/flora/Senegalia_mikanii.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Siphoneugena densiflora": {
+    "status": "verified",
+    "cache": "sources/flora/Siphoneugena_densiflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Sloanea obtusifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Sloanea_obtusifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Solanum arenarium": {
+    "status": "verified",
+    "cache": "sources/flora/Solanum_arenarium.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Solanum paralum": {
+    "status": "verified",
+    "cache": "sources/flora/Solanum_paralum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Solanum sycocarpum": {
+    "status": "verified",
+    "cache": "sources/flora/Solanum_sycocarpum.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Staurogyne itatiaiae": {
+    "status": "verified",
+    "cache": "sources/flora/Staurogyne_itatiaiae.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Stephanopodium sessile": {
+    "status": "verified",
+    "cache": "sources/flora/Stephanopodium_sessile.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Syagrus picrophylla": {
+    "status": "verified",
+    "cache": "sources/flora/Syagrus_picrophylla.json",
+    "retrievedAt": "2026-10-16T22:03:09Z"
+  },
+  "Stylogyne leptantha": {
+    "status": "verified",
+    "cache": "sources/flora/Stylogyne_leptantha.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Stylogyne sordida": {
+    "status": "verified",
+    "cache": "sources/flora/Stylogyne_sordida.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Tabebuia cassinoides": {
+    "status": "verified",
+    "cache": "sources/flora/Tabebuia_cassinoides.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Tachigali denudata": {
+    "status": "verified",
+    "cache": "sources/flora/Tachigali_denudata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Terminalia acuminata": {
+    "status": "verified",
+    "cache": "sources/flora/Terminalia_acuminata.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Trichogoniopsis podocarpa": {
+    "status": "verified",
+    "cache": "sources/flora/Trichogoniopsis_podocarpa.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Trigynaea axilliflora": {
+    "status": "verified",
+    "cache": "sources/flora/Trigynaea_axilliflora.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Trigynaea oblongifolia": {
+    "status": "verified",
+    "cache": "sources/flora/Trigynaea_oblongifolia.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Unonopsis riedeliana": {
+    "status": "verified",
+    "cache": "sources/flora/Unonopsis_riedeliana.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Urbanodendron bahiense": {
+    "status": "verified",
+    "cache": "sources/flora/Urbanodendron_bahiense.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Vanhouttea gardneri": {
+    "status": "verified",
+    "cache": "sources/flora/Vanhouttea_gardneri.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Virola bicuhyba": {
+    "status": "verified",
+    "cache": "sources/flora/Virola_bicuhyba.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Xylopia brasiliensis": {
+    "status": "verified",
+    "cache": "sources/flora/Xylopia_brasiliensis.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Xylosma glaberrima": {
+    "status": "verified",
+    "cache": "sources/flora/Xylosma_glaberrima.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Zollernia glabra": {
+    "status": "needs-taxonomic-review",
+    "cache": "sources/flora/Zollernia_glabra.json",
+    "retrievedAt": "2026-10-24"
+  },
+  "Zollernia glaziovii": {
+    "status": "verified",
+    "cache": "sources/flora/Zollernia_glaziovii.json",
+    "retrievedAt": "2026-10-24"
+  }
+}

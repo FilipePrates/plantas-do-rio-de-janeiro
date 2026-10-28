@@ -1,0 +1,153 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Couepia_schottii",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 16782,
+        "scientificname": "Couepia schottii Fritsch",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Malpighiales",
+        "family": "Chrysobalanaceae",
+        "genus": "Couepia",
+        "specificepithet": "schottii",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Fritsch",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Chrysobalanaceae R.Br.;Couepia Aubl.;Couepia schottii Fritsch",
+        "source": "Sothers, C.,Alves, F.M.,Prance, G.T. 2015. Chrysobalanaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB16782>http://floradobrasil2015.jbrj.gov.br/FB16782</a>)<br><br>Sothers, C.A., Prance, G.T. 2020. Couepia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB16782\">https://floradobrasil2020.jbrj.gov.br/FB16782</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Prance, G.T. 1972. Chrysobalanaceae. Flora Neotropica 9: 1-409.&amp;nbsp;\r\nPrance, G.T. &amp;amp; Sothers, C. A. (2003). Chrysobalanaceae 2, Acioa to Magnistipula. In: A. E. Orchard &amp;amp; A. J. G. Wilson (eds), Species Plantarum: Flora of the World 10. Australian Biological Resources Study, Canberra.\r\n&amp;nbsp;",
+        "parentnameusage": "Couepia Aubl.",
+        "parentnameusageid": 16761,
+        "originalnameusageid": "47964",
+        "namepublishedin": "Ann. K. K. Naturhist. Hofmus. 5: 13 1890",
+        "namepublishedinyear": "1890",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB16782",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Sothers, C.A., Prance, G.T. Couepia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB16782>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-12-30 22:25:51.032"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "oiti-da-praia",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        },
+        {
+          "vernacularname": "oiti-boi",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": ""
+        },
+        {
+          "vernacularname": "milho-torrado-da-folha-larga",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": ""
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Fritsch, K.,Ann. K. K. Naturhist. Hofmus.,5: 13,1890"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 47964,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Chrysobalanus macrophyllus Schott"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Spada, J.S. 148",
+          "collectioncode": "RB",
+          "catalognumber": "RB00068656",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284682458",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Spada, J.S. 148",
+          "collectioncode": "INPA",
+          "catalognumber": "INPA0039610",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/INPA0039610",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C.Souza 635",
+          "collectioncode": "RB",
+          "catalognumber": "RB00522750",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00522750",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Spada, J.S. 148",
+          "collectioncode": "RB",
+          "catalognumber": "RB00068656",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00068656",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.C.Souza 635",
+          "collectioncode": "RB",
+          "catalognumber": "RB00522750",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284364866",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

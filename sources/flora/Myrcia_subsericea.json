@@ -1,0 +1,176 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Myrcia_subsericea",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 10766,
+        "scientificname": "Myrcia subsericea A.Gray",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrcia",
+        "specificepithet": "subsericea",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "A.Gray",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrcia DC.;Myrcia subsericea A.Gray",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB10766>http://floradobrasil2015.jbrj.gov.br/FB10766</a>)<br><br>Santos, M.F., Amorim, B.S., Burton, G.P., Fernandes, T., Gaem, P.H., Lourenço, A.R.L., Lima, D.F., Rosa, P.O., Santos, L.L.D., Staggemeier, V.G., Vasconcelos, T.N.C., Lucas, E.J. 2020. Myrcia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB10766\">https://floradobrasil2020.jbrj.gov.br/FB10766</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Amorim, B. S., 2017. Filogenia e taxonomia do clado Gomidesia (Myrcia s.l., Myrtaceae)&lt;br /&gt;na Floresta Atl&amp;acirc;ntica do Brasil. Ph.D. dissertation. Universidade Federal de&lt;br /&gt;Pernambuco, 190pp.\r\n&amp;nbsp;",
+        "parentnameusage": "Myrcia DC.",
+        "parentnameusageid": 10660,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB10766",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Santos, M.F., Amorim, B.S., Burton, G.P., Fernandes, T., Gaem, P.H., Lourenço, A.R.L., Lima, D.F., Rosa, P.O., Santos, L.L.D., Staggemeier, V.G., Vasconcelos, T.N.C., Lucas, E.J. Myrcia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB10766>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-12-24 15:19:17.429"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Gray, A.,U.S. Expl. Exped., Phan.,1: 533,1854"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 63559,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrtus nitida Vell."
+        },
+        {
+          "relatedresourceid": 127493,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrcia neonitida Mattos"
+        },
+        {
+          "relatedresourceid": 19853,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Gomidesia nitida (Vell.) Nied."
+        },
+        {
+          "relatedresourceid": 62502,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Gomidesia chamissoeana O.Berg"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "A. Quinet 64",
+          "collectioncode": "RB",
+          "catalognumber": "RB00310129",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284015514",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. Luna Peixoto 483",
+          "collectioncode": "RB",
+          "catalognumber": "RB00520440",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284367756",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. Quinet 64",
+          "collectioncode": "RB",
+          "catalognumber": "RB00310129",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00310129",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. Luna Peixoto 483",
+          "collectioncode": "RB",
+          "catalognumber": "RB00520440",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00520440",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. Quinet 64",
+          "collectioncode": "RB",
+          "catalognumber": "RB00310129",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00310129",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.C. Brade 19763",
+          "collectioncode": "RB",
+          "catalognumber": "RB00520291",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00520291",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.C. Brade 19763",
+          "collectioncode": "RB",
+          "catalognumber": "RB00520291",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284365246",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. Quinet 64",
+          "collectioncode": "RB",
+          "catalognumber": "RB00310129",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284015514",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

@@ -31,6 +31,9 @@ import {
   markerLabels,
   parseCatalog,
   representedSpeciesCount,
+  isProfile,
+  hasMunicipalEvidence,
+  checklistRows,
 } from "./src/catalog.mjs";
 import type { Plant, PlantPhoto } from "./src/catalog.mjs";
 import catalogJson from "./src/data/plants.json";
@@ -40,28 +43,39 @@ import { defaultState, loadState, saveState } from "./src/storage";
 import { palette } from "./src/theme";
 import { PlantProfile } from "./src/components/PlantProfile";
 import { PlantPhotoMarker } from "./src/components/PlantPhotoMarkers";
+import { SpeciesChecklist } from "./src/components/SpeciesChecklist";
 import { formatPlantNameForWrap, getPlantName } from "./src/presentation.mjs";
 
 const catalog = parseCatalog(catalogJson);
 const allIds = new Set(catalog.plants.map((p) => p.id));
-const byName = [...catalog.plants].sort((a, b) =>
+const profiles = catalog.plants.filter(isProfile);
+const byName = [...profiles].sort((a, b) =>
   a.commonName.localeCompare(b.commonName, "pt-BR"),
 );
-const byFamily = [...catalog.plants].sort(
+const byFamily = [...profiles].sort(
   (a, b) =>
     a.family.localeCompare(b.family) ||
     a.scientificName.localeCompare(b.scientificName),
 );
-const byScientificName = [...catalog.plants].sort((a, b) =>
+const byScientificName = [...profiles].sort((a, b) =>
   a.scientificName.localeCompare(b.scientificName, "pt-BR"),
 );
+const photographedPlants = profiles.filter((plant) => plant.photos.length > 0);
+const speciesRows = checklistRows(catalog);
 const familyEntries = [...new Set(catalog.plants.map((plant) => plant.family))]
   .sort((a, b) => a.localeCompare(b, "pt-BR"))
   .map((name) => ({
     name,
-    count: catalog.plants.filter((plant) => plant.family === name).length,
+    count: profiles.filter((plant) => plant.family === name).length,
+    speciesCount: speciesRows.filter((row) => row.family === name).length,
   }));
 const allFamilies = new Set(familyEntries.map((family) => family.name));
+const photoFamilyEntries = familyEntries
+  .map((family) => ({
+    ...family,
+    count: photographedPlants.filter((plant) => plant.family === family.name).length,
+  }))
+  .filter((family) => family.count > 0);
 const photoMarkerKinds = [
   "flower",
   "fruit",
@@ -84,6 +98,9 @@ export default function App() {
 function Guide() {
   const [tab, setTab] = useState<Tab>("guide");
   const [detailId, setDetailId] = useState<string | null>(null);
+  const [detailHistory, setDetailHistory] = useState<string[]>([]);
+  const [checklist, setChecklist] = useState(false);
+  const [cityOnly, setCityOnly] = useState(false);
   const [settings, setSettings] = useState(false);
   const [query, setQuery] = useState("");
   const [habitat, setHabitat] = useState("");
@@ -98,7 +115,7 @@ function Guide() {
   const detail = catalog.plants.find((p) => p.id === detailId);
   useEffect(() => {
     let mounted = true;
-    loadState(allIds, allFamilies)
+    loadState(allIds, allFamilies, catalog.plants)
       .then((value) => {
         if (mounted) setSaved(value);
       })
@@ -131,7 +148,8 @@ function Guide() {
   useEffect(() => {
     const handler = BackHandler.addEventListener("hardwareBackPress", () => {
       if (detailId) {
-        setDetailId(null);
+        setDetailId(detailHistory.at(-1) || null);
+        setDetailHistory((history) => history.slice(0, -1));
         return true;
       }
       if (settings) {
@@ -145,7 +163,7 @@ function Guide() {
       return false;
     });
     return () => handler.remove();
-  }, [detailId, settings, tab]);
+  }, [detailId, detailHistory, settings, tab]);
   const visible = useMemo(
     () =>
       (saved.alphabetical
@@ -156,6 +174,8 @@ function Guide() {
       ).filter(
         (plant) =>
           matchesPlant(plant, query) &&
+          (!cityOnly || hasMunicipalEvidence(plant)) &&
+          (!saved.photosOnly || plant.photos.length > 0) &&
           (!saved.familyFilter || plant.family === saved.familyFilter) &&
           (!habitat || plant.habitats.some((h) => h.includes(habitat))),
       ),
@@ -163,8 +183,10 @@ function Guide() {
       saved.alphabetical,
       saved.principalName,
       saved.familyFilter,
+      saved.photosOnly,
       query,
       habitat,
+      cityOnly,
     ],
   );
   const sections = useMemo(() => {
@@ -180,6 +202,7 @@ function Guide() {
     return [...groups].map(([title, data]) => ({ title, data }));
   }, [visible, saved.alphabetical, saved.principalName]);
   function openPlant(plant: Plant) {
+    setDetailHistory([]);
     setDetailId(plant.id);
   }
   function selectFamily(family: string | null) {
@@ -187,9 +210,13 @@ function Guide() {
     setQuery("");
     setHabitat("");
     setTab("guide");
+    if (family && !profiles.some((plant) => plant.family === family)) setChecklist(true);
   }
   function goBack() {
-    if (detail) setDetailId(null);
+    if (detail) {
+      setDetailId(detailHistory.at(-1) || null);
+      setDetailHistory((history) => history.slice(0, -1));
+    }
     else if (settings) setSettings(false);
   }
   const isSubscreen = Boolean(detail || settings);
@@ -227,6 +254,7 @@ function Guide() {
               icon={SettingsIcon}
               onPress={() => {
                 setDetailId(null);
+                setDetailHistory([]);
                 setSettings(true);
               }}
               light
@@ -279,6 +307,13 @@ function Guide() {
                 setSaved((v) => ({ ...v, alphabetical }))
               }
             />
+            <Setting
+              label="Mostrar apenas plantas com fotos"
+              value={saved.photosOnly}
+              onChange={(photosOnly) =>
+                setSaved((v) => ({ ...v, photosOnly }))
+              }
+            />
           </Card>
           <Card title="Ícones das fotos">
             {photoMarkerKinds.map((marker) => (
@@ -291,9 +326,10 @@ function Guide() {
           <Card title="Sobre o guia">
             <Text style={styles.body}>
               Flora nativa da Mata Atlântica do Rio de Janeiro, com invasoras
-              selecionadas para reconhecimento. {catalog.plants.length} fichas
-              representam {representedSpeciesCount(catalog)} espécies neste
-              rascunho.
+              selecionadas para reconhecimento. {profiles.length} fichas ilustradas
+              e {catalog.plants.length - profiles.length} entradas de referência
+              representam {representedSpeciesCount(catalog)} espécies neste rascunho,
+              incluindo os membros dos grupos, sem duplicação.
             </Text>
             <Text style={styles.body}>
               O catálogo e as fotos incluídas funcionam sem internet. Os links
@@ -352,10 +388,11 @@ function Guide() {
             />
           </View>
           <FlatList
-            data={familyEntries.filter((family) =>
-              family.name
-                .toLocaleLowerCase("pt-BR")
-                .includes(familyQuery.trim().toLocaleLowerCase("pt-BR")),
+            data={(saved.photosOnly ? photoFamilyEntries : familyEntries).filter(
+              (family) =>
+                family.name
+                  .toLocaleLowerCase("pt-BR")
+                  .includes(familyQuery.trim().toLocaleLowerCase("pt-BR")),
             )}
             keyExtractor={(family) => family.name}
             extraData={saved.familyFilter}
@@ -374,7 +411,12 @@ function Guide() {
                 <Text style={[styles.name, styles.flex]}>
                   Todas as famílias
                 </Text>
-                <Text style={styles.muted}>{catalog.plants.length} fichas</Text>
+                <Text style={styles.muted}>
+                  {saved.photosOnly
+                    ? photographedPlants.length
+                    : profiles.length}{" "}
+                  fichas
+                </Text>
                 <Text style={styles.familyIndexIndicator}>
                   {!saved.familyFilter ? "✓" : "›"}
                 </Text>
@@ -396,7 +438,7 @@ function Guide() {
               >
                 <Text style={[styles.name, styles.flex]}>{item.name}</Text>
                 <Text style={styles.muted}>
-                  {item.count} {item.count === 1 ? "ficha" : "fichas"}
+                  {item.count ? `${item.count} fichas` : `${item.speciesCount} espécies · lista`}
                 </Text>
                 <Text style={styles.familyIndexIndicator}>
                   {saved.familyFilter === item.name ? "✓" : "›"}
@@ -458,7 +500,13 @@ function Guide() {
               )}
             </View>
           </View>
-          {!!habitat && (
+          <View style={styles.catalogControls}>
+            <Chip text="Guia ilustrado" selected={!checklist} onPress={() => setChecklist(false)} />
+            <Chip text="Lista de espécies" selected={checklist} onPress={() => setChecklist(true)} />
+            <Chip text="Registro municipal" selected={cityOnly} onPress={() => setCityOnly((value) => !value)} />
+          </View>
+          {cityOnly && !checklist && <Text style={styles.scopeHint}>Nos grupos, o registro municipal vale apenas para os membros documentados.</Text>}
+          {!checklist && !!habitat && (
             <View style={styles.activeHabitat}>
               <Chip
                 text="Floresta ombrófila ×"
@@ -466,7 +514,10 @@ function Guide() {
               />
             </View>
           )}
-          {saved.advanced ? (
+          {checklist ? (
+            <SpeciesChecklist catalog={catalog} query={query} family={saved.familyFilter}
+              cityOnly={cityOnly} onOpen={openPlant} />
+          ) : saved.advanced ? (
             <SectionList
               sections={sections}
               keyExtractor={(p) => p.id}
@@ -569,6 +620,11 @@ function Guide() {
             key={detail.id}
             plant={detail}
             principalName={saved.principalName}
+            relatedPlants={catalog.plants.filter((p) => p.genus === detail.genus && isProfile(p))}
+            onOpenPlant={(plant) => {
+              setDetailHistory((history) => [...history, detail.id]);
+              setDetailId(plant.id);
+            }}
           />
         </View>
       )}
@@ -590,6 +646,7 @@ function Guide() {
               style={styles.navItem}
               onPress={() => {
                 setDetailId(null);
+                setDetailHistory([]);
                 setSettings(false);
                 setTab(item.id);
               }}
@@ -763,6 +820,8 @@ function openUrl(url: string) {
 }
 
 const styles = StyleSheet.create({
+  scopeHint: { color: palette.muted, fontSize: 12, lineHeight: 17, paddingHorizontal: 12, paddingBottom: 8 },
+  catalogControls: { flexDirection: "row", flexWrap: "wrap", gap: 6, paddingHorizontal: 10, paddingBottom: 8 },
   safe: { flex: 1, backgroundColor: palette.sand },
   statusBarSafe: { backgroundColor: "#000000" },
   flex: { flex: 1 },

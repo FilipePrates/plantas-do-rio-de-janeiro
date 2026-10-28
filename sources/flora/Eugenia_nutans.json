@@ -1,0 +1,260 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Eugenia_nutans",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 10478,
+        "scientificname": "Eugenia nutans O.Berg",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Eugenia",
+        "specificepithet": "nutans",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "O.Berg",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Eugenia L.;Eugenia nutans O.Berg",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB10478>http://floradobrasil2015.jbrj.gov.br/FB10478</a>)<br><br>Mazine, F.F., Bünger, M., Faria, J.E.Q., Fernandes, T., Giaretta, A., Valdemarin, K.S., Santana, K.C., Souza, M.A.D., Sobral, M. 2020. Eugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB10478\">https://floradobrasil2020.jbrj.gov.br/FB10478</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Eugenia L.",
+        "parentnameusageid": 10338,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB10478",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-26 13:21:05.238"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Floresta Ombrófila Mista"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Berg, O.,Fl. bras.,14(1): 299,1857"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 62184,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eugenia nutans var. pellucida O.Berg"
+        },
+        {
+          "relatedresourceid": 36978,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eugenia schadrackiana D.Legrand"
+        },
+        {
+          "relatedresourceid": 61979,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eugenia eurysepala Kiaersk."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "C.F.P. Martius 1228",
+          "collectioncode": "NY",
+          "catalognumber": "NY00404970",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228098919",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Dreveck, S. 1087",
+          "collectioncode": "FURB",
+          "catalognumber": "FURB02461",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226942327",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Dreveck, S. 1087",
+          "collectioncode": "FURB",
+          "catalognumber": "FURB02461",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226942325",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Dreveck, S. 1087",
+          "collectioncode": "FURB",
+          "catalognumber": "FURB02461",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/FURB02461",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 12001",
+          "collectioncode": "NY",
+          "catalognumber": "NY00404914",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00404914",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "C.F.P. Martius 1228",
+          "collectioncode": "NY",
+          "catalognumber": "NY00404970",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00404970",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "L. Krieger 9745",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA068729",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ESA068729",
+          "locality": "MG",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 12001",
+          "collectioncode": "NY",
+          "catalognumber": "NY00404914",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228098863",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Krieger 9745",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA068729",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226788915",
+          "locality": "MG",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 62184,
+        "scientificname": "Eugenia nutans var. pellucida O.Berg",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Eugenia",
+        "specificepithet": "nutans",
+        "infraspecificepithet": "pellucida",
+        "scientificnameauthorship": "O.Berg",
+        "acceptednameusage": "Eugenia nutans O.Berg",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Eugenia L.;Eugenia nutans O.Berg;Eugenia nutans var. pellucida O.Berg",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB62184>http://floradobrasil2015.jbrj.gov.br/FB62184</a>)<br><br>Mazine, F.F., Bünger, M., Faria, J.E.Q., Fernandes, T., Giaretta, A., Valdemarin, K.S., Santana, K.C., Souza, M.A.D., Sobral, M. 2020. Eugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB62184\">https://floradobrasil2020.jbrj.gov.br/FB62184</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Eugenia nutans O.Berg",
+        "parentnameusageid": 10478,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB62184",
+        "acceptednameusageid": 10478,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-07 16:29:30.497"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Martius, C.F.P. von & auct. suc. (eds.),Fl. bras.,14(1): 583,1859"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 10478,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Eugenia nutans O.Berg"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

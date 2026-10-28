@@ -1,0 +1,96 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Allophylus_heterophyllus",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 111584,
+        "scientificname": "Allophylus heterophyllus (Cambess.) Radlk.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Sapindales",
+        "family": "Sapindaceae",
+        "genus": "Allophylus",
+        "specificepithet": "heterophyllus",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Cambess.) Radlk.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Sapindaceae Juss.;Allophylus L.;Allophylus heterophyllus (Cambess.) Radlk.",
+        "source": "Somner, G.V.,Ferrucci, M.S.,Acevedo-Rodríguez, P.,Coelho, R.L.G. 2015. Allophylus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB111584>http://floradobrasil2015.jbrj.gov.br/FB111584</a>)<br><br>Coelho, R.L.G. 2020. Allophylus in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB111584\">https://floradobrasil2020.jbrj.gov.br/FB111584</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).&lt;div class=&quot;page&quot; title=&quot;Page 214&quot;&gt;\r\n&lt;div class=&quot;layoutArea&quot;&gt;\r\n&lt;div class=&quot;column&quot;&gt;\r\n&lt;span style=&quot;font-family: &#39;times new roman&#39;, times, serif; font-size: 10pt;&quot;&gt;St.-Hilaire, A. 1825. Flora Brasiliae meridionalis. 383. t. 82. 1825.&lt;/span&gt;\r\n&lt;/div&gt;\r\n&lt;/div&gt;\r\n&lt;/div&gt;\r\n&lt;span style=&quot;font-family: &#39;times new roman&#39;, times, serif; font-size: 10pt;&quot;&gt;Radlkofer, L. A. T. 1892-1900. Sapindaceae In: Martius, C. F. Flora Brasiliensis. v. 13 (3): 467 - 495.&lt;/span&gt;\r\n&lt;span style=&quot;font-family: &#39;times new roman&#39;, times, serif; font-size: 10pt;&quot;&gt;Radlkofer, L. A. T. 1908. Uber die gattung Allophylus und die ordnung ihrer arten. Sitz. Bayer Akad. Wins math. Kl. 38: 201-240.&lt;/span&gt;\r\n&lt;span style=&quot;font-family: &#39;times new roman&#39;, times, serif; font-size: 10pt;&quot;&gt;Radlkofer, L. A. T. 1931-1934. Sapindaceae in: Engler, A. &amp;amp; Diel, L. Das Pflanzenreich Regni Vegetabilis Conspectus. 4 (165): 455 - 604.&lt;/span&gt;\r\n&lt;span style=&quot;font-family: &#39;times new roman&#39;, times, serif; font-size: 10pt;&quot;&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;Coelho, R. L. G. 2014. in&amp;eacute;d. Estudos sistem&amp;aacute;ticos das esp&amp;eacute;cies neotropicais de&amp;nbsp;&lt;/span&gt;&lt;em style=&quot;text-align: justify;&quot;&gt;Allophylus&lt;/em&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;L. (Sapindaceae). Tese de Doutorado, Instituto de Biologia, Universidade Estadual de Campinas, Campinas. 449p.&lt;/span&gt;&lt;/span&gt;",
+        "parentnameusage": "Allophylus L.",
+        "parentnameusageid": 20871,
+        "originalnameusageid": null,
+        "namepublishedin": "Fl. Bras. Mer. I. 383. t. 82 1825",
+        "namepublishedinyear": "1825",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB111584",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Coelho, R.L.G. Allophylus in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB111584>. Acesso em: 24 oct. 2026.",
+        "modified": "2016-07-26 16:11:55.542"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ciliar ou Galeria",
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Radlkofer, L.A.T.,Nat. Pflanzenfam.,3 (5): 312,1895"
+        },
+        {
+          "reference": "Cambessèdes in Saint-Hilaire,Fl. Bras. Mer.,I. 383. t. 82,1825"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 134909,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Allophylus chrysoneurus Radlk."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "A. Saint-Hilaire 70",
+          "collectioncode": "P",
+          "catalognumber": "P02297119",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P02297119",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "A. Saint-Hilaire 70",
+          "collectioncode": "P",
+          "catalognumber": "P02297119",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228079779",
+          "locality": null,
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

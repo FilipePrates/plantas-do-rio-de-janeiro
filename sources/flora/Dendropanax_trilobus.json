@@ -1,0 +1,227 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Dendropanax_trilobus",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5112,
+        "scientificname": "Dendropanax trilobus (Gardner) Seem.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Apiales",
+        "family": "Araliaceae",
+        "genus": "Dendropanax",
+        "specificepithet": "trilobus",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Gardner) Seem.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araliaceae Juss.;Dendropanax Decne. & Planch.;Dendropanax trilobus (Gardner) Seem.",
+        "source": "Fiaschi, P. 2015. Araliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5112>http://floradobrasil2015.jbrj.gov.br/FB5112</a>)<br><br>Fiaschi, P., Nery, E.K. Araliaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5112\">https://floradobrasil2020.jbrj.gov.br/FB5112</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Dendropanax Decne. & Planch.",
+        "parentnameusageid": 5099,
+        "originalnameusageid": "43333",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5112",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Fiaschi, P., Nery, E.K. Araliaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB5112>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-07-23 17:19:50.222"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Marchal, E.,Flora Brasilensis,11(1)/248,1878"
+        },
+        {
+          "reference": "Seemann, B.C.,J. Bot.,2/302,1864"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 43333,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Hedera triloba Gardner"
+        },
+        {
+          "relatedresourceid": 43319,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Gilibertia triloba (Gardner) Marchal"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Santos, MF 697",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00212854",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SPF00212854",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "E. J. Lucas 592",
+          "collectioncode": "NY",
+          "catalognumber": "NY02212549",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY02212549",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 19416",
+          "collectioncode": "P",
+          "catalognumber": "P03236349",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P03236349",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "E. J. Lucas 592",
+          "collectioncode": "NY",
+          "catalognumber": "NY02212548",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY02212548",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "P. Fiaschi 751",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00093310",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CEPEC00093310",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Costa, C.B. 467",
+          "collectioncode": "RB",
+          "catalognumber": "RB00048316",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00048316",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Santos, MF 687",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00223273",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SPF00223273",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Lucas, E.J. et al. 592",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA053592",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ESA053592",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. Wesenberg 402",
+          "collectioncode": "RB",
+          "catalognumber": "RB00317508",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00317508",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. Wesenberg 402",
+          "collectioncode": "RB",
+          "catalognumber": "RB00317508",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284028932",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Santos, MF 687",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00223273",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=165416752",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "E. J. Lucas 592",
+          "collectioncode": "NY",
+          "catalognumber": "NY02212548",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228242387",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Lucas, E.J. et al. 592",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA053592",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226778425",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Santos, MF 697",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00212854",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=165416704",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Costa, C.B. 467",
+          "collectioncode": "RB",
+          "catalognumber": "RB00048316",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284313972",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "P. Fiaschi 751",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00093310",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226420855",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "E. J. Lucas 592",
+          "collectioncode": "NY",
+          "catalognumber": "NY02212549",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228242389",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 19416",
+          "collectioncode": "P",
+          "catalognumber": "P03236349",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227844844",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

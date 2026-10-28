@@ -1,0 +1,129 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Mandevilla_crassinoda",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 4656,
+        "scientificname": "Mandevilla crassinoda (Gardner) Woodson",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Gentianales",
+        "family": "Apocynaceae",
+        "genus": "Mandevilla",
+        "specificepithet": "crassinoda",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Gardner) Woodson",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Apocynaceae Juss.;Mandevilla Lindl.;Mandevilla crassinoda (Gardner) Woodson",
+        "source": "Koch, I.,Rapini, A.,Simões, A.O.,Kinoshita, L.S.,Spina, A.P.,Castello, A.C.D. 2015. Apocynaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB4656>http://floradobrasil2015.jbrj.gov.br/FB4656</a>)<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Mandevilla Lindl.",
+        "parentnameusageid": 4652,
+        "originalnameusageid": "41246",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB4656",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2024-12-20 17:52:16.498"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto"
+        ],
+        "habitat": [
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 41637,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Micradenia crassinoda (Gardner) Miers"
+        },
+        {
+          "relatedresourceid": 41152,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Dipladenia crassinoda (Gardner) A.DC."
+        },
+        {
+          "relatedresourceid": 41246,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Echites crassinodus Gardner"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "C.N. Fraga 2840",
+          "collectioncode": "RB",
+          "catalognumber": "RB00581131",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284471108",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "C.N. Fraga 3143",
+          "collectioncode": "RB",
+          "catalognumber": "RB00603484",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00603484",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "D. Sucre 1640",
+          "collectioncode": "RB",
+          "catalognumber": "RB00045116",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00045116",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "C.N. Fraga 2840",
+          "collectioncode": "RB",
+          "catalognumber": "RB00581131",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00581131",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "C.N. Fraga 3143",
+          "collectioncode": "RB",
+          "catalognumber": "RB00603484",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284516652",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "D. Sucre 1640",
+          "collectioncode": "RB",
+          "catalognumber": "RB00045116",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284250986",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

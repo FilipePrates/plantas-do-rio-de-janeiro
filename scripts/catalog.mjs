@@ -14,6 +14,7 @@ import {
   parseCatalog,
   representedSpeciesCount,
   photoMatchesPlant,
+  isProfile,
 } from "../src/catalog.mjs";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
@@ -29,7 +30,7 @@ function verify(catalog, release = false) {
     ? read(thumbnailManifestPath)
     : {};
   for (const plant of catalog.plants) {
-    if (release && (plant.reviewStatus !== "reviewed" || !plant.photos.length))
+    if (release && (plant.reviewStatus !== "reviewed" || (isProfile(plant) && !plant.photos.length)))
       throw new Error(
         `${plant.scientificName}: revise o texto e inclua uma foto antes do lançamento.`,
       );
@@ -110,6 +111,8 @@ function generate(catalog) {
   const summary = {
     generatedAt: new Date().toISOString(),
     entries: catalog.plants.length,
+    profiles: catalog.plants.filter(isProfile).length,
+    checklistOnly: catalog.plants.filter((p) => !isProfile(p)).length,
     representedSpecies: representedSpeciesCount(catalog),
     families: new Set(catalog.plants.map((p) => p.family)).size,
     invasiveEntries: catalog.plants.filter((p) => p.origin === "invasive")
@@ -126,7 +129,7 @@ function generate(catalog) {
     cc0Photos: files.length,
     illustratedEntries: catalog.plants.filter((p) => p.photos.length).length,
     missingPhotos: catalog.plants
-      .filter((p) => !p.photos.length)
+      .filter((p) => isProfile(p) && !p.photos.length)
       .map((p) => ({ id: p.id, scientificName: p.scientificName })),
     draftEntries: catalog.plants.filter((p) => p.reviewStatus === "draft")
       .length,

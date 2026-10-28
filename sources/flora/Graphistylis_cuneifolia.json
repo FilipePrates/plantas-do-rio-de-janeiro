@@ -1,0 +1,127 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Graphistylis_cuneifolia",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 102378,
+        "scientificname": "Graphistylis cuneifolia (Gardner) B.Nord.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Asterales",
+        "family": "Asteraceae",
+        "genus": "Graphistylis",
+        "specificepithet": "cuneifolia",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Gardner) B.Nord.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Asteraceae Bercht. & J.Presl;Senecioneae Cass.;Graphistylis B.Nord.;Graphistylis cuneifolia (Gardner) B.Nord.",
+        "source": "Borges, R.A.X.,Teles, A.M. 2015. Graphistylis in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB102378>http://floradobrasil2015.jbrj.gov.br/FB102378</a>)<br><br>Freitas, F.S., Teles, A.M. 2020. Graphistylis in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB102378\">https://floradobrasil2020.jbrj.gov.br/FB102378</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Cabrera, A.L. 1957. El genero &lt;em&gt;Senecio &lt;/em&gt;(Compositae) en Brasil, Paraguay y Uruguay. Arquivos do Jardim Bot&amp;acirc;nico do Rio de Janeiro 15: 163-264.\r\n&amp;nbsp;\r\n&amp;nbsp;",
+        "parentnameusage": "Graphistylis B.Nord.",
+        "parentnameusageid": 102376,
+        "originalnameusageid": "632397",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB102378",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Freitas, F.S., Teles, A.M. Graphistylis in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB102378>. Acesso em: 24 oct. 2026.",
+        "modified": "2024-03-17 19:07:48.425"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto",
+          "Subarbusto"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Campo de Altitude"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Hind, D.J.N.,Kew Bull.,48(2): 279-295.,1993"
+        },
+        {
+          "reference": "Cabrera, A.L.,Arq. Jard. Bot. Rio de Janeiro,15: 163-269,1957"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 632397,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Senecio cuneifolius Gardner"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Vidal, J 6476",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM282852",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229940561",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "NY",
+          "catalognumber": "NY00798414",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228340535",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "NY",
+          "catalognumber": "NY00798414",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00798414",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Vidal, J 6476",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM282852",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM282852",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Heiden 1006",
+          "collectioncode": "R",
+          "catalognumber": "RB00525295",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00525295",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Heiden 1006",
+          "collectioncode": "R",
+          "catalognumber": "RB00525295",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284369728",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Eugenia_macrantha",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 10447,
+        "scientificname": "Eugenia macrantha O.Berg",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Eugenia",
+        "specificepithet": "macrantha",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "O.Berg",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Eugenia L.;Eugenia macrantha O.Berg",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB10447>http://floradobrasil2015.jbrj.gov.br/FB10447</a>)<br><br>Mazine, F.F., Bünger, M., Faria, J.E.Q., Fernandes, T., Giaretta, A., Valdemarin, K.S., Santana, K.C., Souza, M.A.D., Sobral, M. 2020. Eugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB10447\">https://floradobrasil2020.jbrj.gov.br/FB10447</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Eugenia L.",
+        "parentnameusageid": 10338,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB10447",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-07 17:14:43.293"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Berg, O.,Fl. bras.,14(1): 301,1857"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 601307,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eugenia macrantha var. glomerata O.Berg"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 601307,
+        "scientificname": "Eugenia macrantha var. glomerata O.Berg",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Eugenia",
+        "specificepithet": "macrantha",
+        "infraspecificepithet": "glomerata",
+        "scientificnameauthorship": "O.Berg",
+        "acceptednameusage": "Eugenia macrantha O.Berg",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Eugenia L.;Eugenia macrantha O.Berg;Eugenia macrantha var. glomerata O.Berg",
+        "source": "Mazine, F.F., Bünger, M., Faria, J.E.Q., Fernandes, T., Giaretta, A., Valdemarin, K.S., Santana, K.C., Souza, M.A.D., Sobral, M. 2020. Eugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB601307\">https://floradobrasil2020.jbrj.gov.br/FB601307</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Eugenia macrantha O.Berg",
+        "parentnameusageid": 10447,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB601307",
+        "acceptednameusageid": 10447,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-07 17:14:11.197"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 10447,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Eugenia macrantha O.Berg"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

@@ -7,13 +7,13 @@
 
 **Destinatário sugerido:** Secretaria Municipal do Ambiente e Clima (SMAC), com avaliação pelo Centro de Educação Ambiental (CEA).
 
-**Solicitação:** avaliação de um piloto de seis meses, com orçamento preliminar de **R$ 30.000**, para finalizar, disponibilizar gratuitamente e testar um guia digital da flora com foco no município do Rio de Janeiro.
+**Solicitação:** avaliação de parceria para disponibilização e uso educativo do guia, com piloto indicativo de seis meses. O valor de eventual patrocínio será definido a partir das entregas futuras, da duração e das contrapartidas pactuadas; esta minuta não apresenta valor solicitado.
 
 ### 1. Resumo e interesse público
 
 O projeto propõe aproximar moradores, estudantes, educadores e visitantes da flora da Mata Atlântica por meio de um guia em português, com fotografias, características de reconhecimento e informações sobre ambientes. A consulta ao conteúdo instalado funciona sem conexão, favorecendo atividades educativas em áreas com sinal limitado.
 
-O apoio solicitado financiaria curadoria, conclusão do aplicativo, materiais pedagógicos, duas atividades piloto e avaliação de resultados. A proposta combina acesso público gratuito e educação ambiental; a exibição da marca do apoiador seria uma contrapartida institucional, sujeita à formalização e à aprovação das peças.
+A proposta considera que o aplicativo e seu acervo de apresentação serão desenvolvidos previamente pelo proponente. Eventual apoio financeiro seria vinculado a compromissos futuros definidos com o órgão, como disponibilidade gratuita por prazo acordado, manutenção, conteúdo adicional solicitado e ações educativas. A proposta combina acesso público gratuito e educação ambiental; a exibição da marca do apoiador seria uma contrapartida institucional, sujeita à formalização e à aprovação das peças.
 
 Há afinidade temática com o trabalho descrito pelo CEA, que promove educação ambiental e aborda unidades de conservação e flora da Mata Atlântica. Essa afinidade não implica vínculo, aprovação técnica ou disponibilidade de recursos pelo órgão.
 
@@ -37,12 +37,14 @@ O produto ainda não foi lançado nas lojas. Não há audiência própria medida
 
 ### 3. Objetivos e entregas propostas
 
-1. **Curadoria local:** revisar as 162 entradas existentes, priorizando espécies relevantes para as atividades escolhidas com o CEA; registrar fontes e distinguir evidência municipal de estadual. A validação municipal depende das fontes encontradas, sem meta artificial de confirmação.
-2. **Complementação visual:** buscar fotografias CC0 verificáveis para as 39 lacunas atuais e revisar visualmente imagens, legendas e marcadores. A disponibilidade de material adequado será avaliada no primeiro mês. Pendências que impeçam a publicação exigirão replanejamento formal antes da distribuição.
-3. **Aplicativo gratuito:** preparar uma versão pública para Android e iOS, com consulta offline após instalação, busca e fontes acessíveis. O lançamento dependerá da revisão editorial, da resolução das lacunas impeditivas e da aprovação das lojas. O catálogo financiado será disponibilizado sem cobrança ao público, com sua continuidade definida no instrumento de parceria.
-4. **Material educativo:** produzir um guia digital curto para educadores, com duas propostas de atividade de reconhecimento da flora, créditos e orientações de uso do aplicativo.
-5. **Duas atividades piloto:** organizar sessões de apresentação e uso com educadores e/ou visitantes, em locais e datas pactuados. Reserva de espaço, autorizações e mobilização do público serão combinadas previamente.
-6. **Prestação de resultados:** entregar relatórios intermediário e final com atividades realizadas, situação do catálogo, despesas conforme o instrumento e resultados agregados disponíveis.
+As entregas abaixo são opções para negociação, não compromissos já assumidos. A versão disponível na apresentação será registrada como linha de base para distinguir o acervo pronto de qualquer incremento solicitado.
+
+1. **Disponibilidade do guia:** acordar a oferta gratuita do acervo apoiado por período definido, em versão cuja situação de publicação será confirmada na apresentação.
+2. **Manutenção durante o período contratado:** delimitar correções, compatibilidade, canal de suporte, horas disponíveis e prazos de atendimento. Novas funcionalidades dependerão de escopo próprio.
+3. **Ampliação dirigida, se solicitada:** orçar separadamente novas fichas, pesquisa de evidência municipal ou materiais voltados às áreas escolhidas pelo CEA. Conteúdo já concluído não será apresentado como trabalho futuro.
+4. **Material educativo e atividades, se contratados:** definir quantidade e formato de materiais e encontros, público, locais e responsabilidades de mobilização antes de estimar custos.
+5. **Crédito institucional:** veicular a assinatura aprovada nos locais e pelo prazo previstos no instrumento.
+6. **Relatório de resultados:** documentar as entregas efetivamente pactuadas e os indicadores agregados disponíveis, sem garantia de downloads ou audiência.
 
 O piloto preserva a consulta simples e não prevê mapas, áudio, identificação automática por fotografia ou alegações de uso medicinal e comestibilidade.
 
@@ -50,36 +52,35 @@ O piloto preserva a consulta simples e não prevê mapas, áudio, identificaçã
 
 | Período, contado da formalização e disponibilização dos recursos | Trabalho e marco de acompanhamento |
 | --- | --- |
-| Mês 1 | Pactuar público, atividades e responsáveis; verificar viabilidade das fotos faltantes, revisão especializada e publicação; aprovar plano final e peças de comunicação. |
-| Meses 2 e 3 | Revisar conteúdo e evidências locais, complementar imagens, corrigir o aplicativo e preparar o material educativo; apresentar relatório intermediário. |
-| Mês 4 | Concluir validação editorial e testes de uso; submeter versões às lojas quando os requisitos estiverem atendidos. |
-| Mês 5 | Realizar as duas atividades piloto após disponibilização da versão; colher avaliação dos participantes. |
-| Mês 6 | Corrigir problemas identificados, consolidar indicadores e entregar relatório final e plano de continuidade. |
+| Mês 1 | Registrar a versão apresentada, pactuar entregas futuras, responsáveis, orçamento, indicadores e aplicação da marca. |
+| Meses 2 a 5 | Executar apenas a manutenção, os incrementos de conteúdo e as ações educativas contratados; acompanhar resultados. |
+| Mês 6 | Consolidar entregas e despesas, apresentar relatório final e avaliar continuidade. |
 
-O cronograma será ajustado se a análise inicial identificar indisponibilidade de imagens, necessidade de revisão adicional ou atraso de aprovação nas lojas.
+O período é uma sugestão para discussão e não pressupõe seis meses de trabalho em tempo integral. Conclusão editorial, fotografias e publicação já realizadas antes da parceria integrarão a linha de base, sem serem cobradas como entregas futuras.
 
-### 5. Orçamento preliminar
+### 5. Formação do valor de eventual patrocínio
 
-| Frente | Valor estimado |
-| --- | ---: |
-| Curadoria botânica, pesquisa de fontes e revisão especializada | R$ 8.000 |
-| Desenvolvimento, testes e preparação para publicação | R$ 7.000 |
-| Pesquisa, verificação de direitos e revisão visual de fotografias CC0 | R$ 4.000 |
-| Material pedagógico e realização de duas atividades piloto | R$ 4.000 |
-| Manutenção e suporte durante o piloto | R$ 4.000 |
-| Coordenação, relatórios e documentação das entregas | R$ 3.000 |
-| **Total solicitado** | **R$ 30.000** |
+**Valor solicitado: a definir.** O total de R$ 30.000 da primeira minuta foi retirado: era uma alocação ilustrativa sem levantamento de horas, cotações ou referência de edital e incluía trabalho que o proponente pretende concluir antes da apresentação.
 
-Estimativa de escopo para negociação, sem cotação de fornecedores ou tabela oficial. Os valores são brutos e deverão comportar tributos, encargos, taxas de lojas, infraestrutura e despesas operacionais aplicáveis; o detalhamento será fechado antes da submissão formal. A rubrica de fotografias remunera trabalho de pesquisa e revisão, não compra de direitos sobre imagens CC0. A disponibilidade de profissional para revisão botânica e os custos de execução deverão ser confirmados.
+| Componente possível | Base para orçamento |
+| --- | --- |
+| Aplicativo, curadoria e fotos já concluídos | Contribuição prévia do proponente, descrita na linha de base; sem valor atribuído nesta minuta. |
+| Manutenção futura | Horas previstas × valor/hora, período, atendimento incluído e custos efetivos de operação. |
+| Conteúdo adicional solicitado | Quantidade e complexidade das fichas ou materiais, horas de pesquisa e revisão, orçamento de especialistas quando necessário. |
+| Ações educativas | Número de atividades × preparação e execução, incluindo deslocamentos e materiais necessários. |
+| Coordenação e relatórios | Horas necessárias para as obrigações de acompanhamento e prestação de contas acordadas. |
+| Licença de uso ou outras contrapartidas comerciais, se aplicáveis | Direitos, duração, alcance e condições negociados, descritos separadamente dos custos de execução. |
 
-O protótipo e o acervo existente constituem contribuição prévia do proponente, sem valor financeiro atribuído nesta minuta. Serviços de servidores municipais, espaços e divulgação não foram presumidos como contrapartidas concedidas.
+O valor de um patrocínio pode considerar as contrapartidas oferecidas e não apenas horas de trabalho. Neste estágio, porém, não há base validada para precificar a exposição da marca ou indicar uma faixa de valor. O investimento anterior no produto poderá ser apresentado como contribuição do proponente, sem disfarçá-lo como despesa futura.
+
+A proposta financeira final deverá detalhar tributos, encargos, taxas de lojas e infraestrutura aplicáveis, além das responsabilidades de cada parte. Nenhuma cessão de espaço, mobilização de público ou serviço municipal foi presumida como concedida. Apoio apenas institucional ou de divulgação será descrito separadamente de patrocínio financeiro.
 
 ### 6. Contrapartidas e aplicação da marca
 
 - Acesso público gratuito ao catálogo financiado, nos termos pactuados.
 - Crédito institucional discreto na tela inicial, em área própria de apoio/patrocínio; detalhamento do objeto e vigência na seção de créditos.
 - Marca aprovada no material educativo e nas peças de divulgação do piloto, observando arquivos oficiais, proporções, área de proteção e instruções do órgão responsável.
-- Dois encontros educativos e entrega dos relatórios de execução.
+- Atividades educativas e relatórios na quantidade e no formato efetivamente pactuados.
 
 **Simulação textual de crédito, sem uso de logotipo nesta minuta:**
 
@@ -90,7 +91,7 @@ A expressão final deverá refletir a modalidade efetivamente concedida. Nenhuma
 
 ### 7. Avaliação, direitos e continuidade
 
-As entregas serão verificadas por versão do catálogo, registro de fontes e imagens, disponibilização nas lojas quando aprovada, material educativo e registro das duas atividades. O relatório separará instalações, usuários ativos quando a métrica estiver disponível, participantes e respostas à avaliação. Instalações de Android e iOS serão reportadas por plataforma, sem afirmar que sua soma equivale a pessoas únicas.
+As entregas serão verificadas por versão do catálogo, registro de fontes e imagens, disponibilização nas lojas quando aprovada, materiais e atividades efetivamente contratados. O relatório separará instalações, usuários ativos quando a métrica estiver disponível, participantes e respostas à avaliação. Instalações de Android e iOS serão reportadas por plataforma, sem afirmar que sua soma equivale a pessoas únicas.
 
 Não há promessa de alcance, cliques ou downloads mínimos. Dados serão agregados; não se prevê rastreamento individual de estudantes. A participação em avaliações será voluntária e não condicionará o acesso ao guia.
 

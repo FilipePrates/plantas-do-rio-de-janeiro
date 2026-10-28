@@ -1,0 +1,94 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Zollernia_glaziovii",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 101191,
+        "scientificname": "Zollernia glaziovii Yakovlev",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Fabales",
+        "family": "Fabaceae",
+        "genus": "Zollernia",
+        "specificepithet": "glaziovii",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Yakovlev",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Fabaceae Lindl.;Zollernia Wied-Neuw. & Nees;Zollernia glaziovii Yakovlev",
+        "source": "Mansano, V.F.,Barros, L.A.V. de 2015. Zollernia in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB101191>http://floradobrasil2015.jbrj.gov.br/FB101191</a>)<br><br>Mansano, V.F., Tierno, L.R. 2020. Zollernia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB101191\">https://floradobrasil2020.jbrj.gov.br/FB101191</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Mansano, V.F., Tozzi, A.M.G.A. &amp;amp; Lewis, G.P. 2004. A Revision of the South American Genus Zollernia Wied-Neuw. &amp;amp; Nees (Leguminosae,&amp;nbsp;Papilionoideae, Swartzieae). Kew Bulletin 59 (4): 497-520.\r\nYakovlev, G. P. (1976). Survey of genera Zollernia Wied-Neuw. &amp;amp; Nees and Lecointea Ducke. Bot. Zhurn. 61: 1304 - 1308.\r\n&amp;nbsp;",
+        "parentnameusage": "Zollernia Wied-Neuw. & Nees",
+        "parentnameusageid": 29914,
+        "originalnameusageid": null,
+        "namepublishedin": "Bot. Zhurn. (Moscow & Leningrad) Vol. 61: 1306-1308. 1976",
+        "namepublishedinyear": "1976",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB101191",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Mansano, V.F. Zollernia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB101191>. Acesso em: 24 oct. 2026.",
+        "modified": "2016-10-02 15:54:17.953"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Mansano, V. F. et al.,Kew Bull.,Vol. 59, No. 4.,2004"
+        },
+        {
+          "reference": "Yakovlev, G. P.,Bot. Zhurn. (Moscow & Leningrad),Vol. 61: 1306-1308.,1976"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 103490,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Zollernia parvifolia Taub. ex Glaz."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": null,
+          "collectioncode": "RB",
+          "catalognumber": "RB00202307",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00202307",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "RB",
+          "catalognumber": "RB00202307",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283863590",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

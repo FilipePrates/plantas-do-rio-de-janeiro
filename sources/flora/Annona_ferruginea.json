@@ -1,0 +1,115 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Annona_ferruginea",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 110245,
+        "scientificname": "Annona ferruginea (R.E.Fr.) H.Rainer",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Magnoliales",
+        "family": "Annonaceae",
+        "genus": "Annona",
+        "specificepithet": "ferruginea",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(R.E.Fr.) H.Rainer",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Annonaceae Juss.;Annona L.;Annona ferruginea (R.E.Fr.) H.Rainer",
+        "source": "Maas, P.,Lobão, A.,Rainer, H. 2015. Annonaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB110245>http://floradobrasil2015.jbrj.gov.br/FB110245</a>)<br><br>Mendes-Silva, I., Lopes, J.C., Silva, L.V., Oliveira, M.L.B. 2020. Annona in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB110245\">https://floradobrasil2020.jbrj.gov.br/FB110245</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Fries, R.E. 1934. Revision der Arten einiger Anonaceen-Gattungen III. Acta Horti Bergiani 12(1): 196.\r\nMaas, P .J. M.; Westra, L. Y. Th.;&amp;nbsp;Brown, K. S.; Maas Jr., P. J. M.; ter Welle,B. J. H.; Webber, A. C.; Le Thomas, A.; Waha, M.; van der Heijden, E.; Bouman,&amp;nbsp;F.; Cav&amp;eacute;, A.; Leboeuf,&amp;nbsp; M.; Lapr&amp;eacute;vote, O.; Koek-Noorman, J.; Morawetz, W. &amp;amp; Hemmer, W. 1992.&amp;nbsp;&lt;em&gt;Rollinia&lt;/em&gt;&amp;nbsp;(Annonaceae). Flora Neotropica 57: 1-188.\r\nRainer, H. 2007.&amp;nbsp;Monographic studies in the genus Annona L. (Annonaceae): Inclusion of the genus Rollinia A.ST.-HIL. Annalen des Naturhistorischen Museums in Wien. Serie B, Botanik und Zoologie 108: 191-205.",
+        "parentnameusage": "Annona L.",
+        "parentnameusageid": 110235,
+        "originalnameusageid": "110802",
+        "namepublishedin": "Acta Horti Bergiani 12(1): 196 1934",
+        "namepublishedinyear": "1934",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB110245",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Mendes-Silva, I., Lopes, J.C., Silva, L.V., Bazante, M.L., Lobão, A.Q. Annona in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB110245>. Acesso em: 24 oct. 2026.",
+        "modified": "2021-10-31 02:25:01.222"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Rainer, H.,Annalen des Naturhistorischen Museums in Wien,108: 195,2007"
+        },
+        {
+          "reference": "Fries, R.E.,Acta Horti Bergiani,12(1): 196,1934"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 110803,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Rollinia ferruginea (R.E.Fr.) Maas & Westra"
+        },
+        {
+          "relatedresourceid": 110802,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Rolliniopsis ferruginea R.E.Fr."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "J. G. Kuhlmann 6111",
+          "collectioncode": "RB",
+          "catalognumber": "RB00043260",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284206112",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "D. Sucre 7643",
+          "collectioncode": "RB",
+          "catalognumber": "RB00043265",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284206250",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "D. Sucre 7643",
+          "collectioncode": "RB",
+          "catalognumber": "RB00043265",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00043265",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J. G. Kuhlmann 6111",
+          "collectioncode": "RB",
+          "catalognumber": "RB00043260",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00043260",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 import { File, Paths } from "expo-file-system";
 import { Platform } from "react-native";
 import type { PrincipalName } from "./presentation.mjs";
+import type { Plant } from "./catalog.mjs";
+import { resolveSavedIds } from "./catalog.mjs";
 
 const key = "plantas-do-rio-state-v1";
 export interface SavedList {
@@ -11,6 +13,7 @@ export interface SavedList {
 export interface SavedState {
   advanced: boolean;
   alphabetical: boolean;
+  photosOnly: boolean;
   principalName: PrincipalName;
   // Retain legacy lists on disk when updating preferences.
   lists: SavedList[];
@@ -19,6 +22,7 @@ export interface SavedState {
 export const defaultState: SavedState = {
   advanced: false,
   alphabetical: false,
+  photosOnly: false,
   principalName: "common",
   familyFilter: null,
   lists: [{ id: "minha-lista", name: "Minha lista", plantIds: [] }],
@@ -26,6 +30,7 @@ export const defaultState: SavedState = {
 export async function loadState(
   validIds: Set<string>,
   validFamilies: Set<string>,
+  plants?: Plant[],
 ): Promise<SavedState> {
   const raw =
     Platform.OS === "web"
@@ -62,12 +67,14 @@ export async function loadState(
     return {
       id: list.id,
       name: list.name.slice(0, 80),
-      plantIds: [...new Set(list.plantIds.filter((id) => validIds.has(id)))],
+      plantIds: plants ? resolveSavedIds(list.plantIds, plants) :
+        [...new Set(list.plantIds.filter((id) => validIds.has(id)))],
     };
   });
   return {
     advanced: value.advanced,
     alphabetical: value.alphabetical,
+    photosOnly: value.photosOnly === true,
     principalName:
       value.principalName === "scientific" ? "scientific" : "common",
     lists,

@@ -1,0 +1,123 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Abutilon_anodoides",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 8975,
+        "scientificname": "Abutilon anodoides A.St.-Hil. & Naudin",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Malvales",
+        "family": "Malvaceae",
+        "genus": "Abutilon",
+        "specificepithet": "anodoides",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "A.St.-Hil. & Naudin",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Malvaceae Juss.;Abutilon Mill.;Abutilon anodoides A.St.-Hil. & Naudin",
+        "source": "Esteves, G.,Takeuchi, C. 2015. Abutilon in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB8975>http://floradobrasil2015.jbrj.gov.br/FB8975</a>)<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Bovini, M.G. 2003. Abutilon anodoides A.St.-Hil. &amp;amp; Naud. (Malvaceae) - Uma esp&amp;eacute;cie rara e end&amp;ecirc;mica. Bradea 9(7): 29-32.",
+        "parentnameusage": "Abutilon Mill.",
+        "parentnameusageid": 8974,
+        "originalnameusageid": null,
+        "namepublishedin": "Ann. Sci. Nat. Bot. Sér. 2 18/ 49 1842",
+        "namepublishedinyear": "1842",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB8975",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Coutinho, T.S., Zavatin, D.A. Abutilon in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB8975>. Acesso em: 24 oct. 2026.",
+        "modified": "2024-05-27 22:08:46.483"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Saint Hilaire, A. & Naudin, C.V.,Ann. Sci. Nat. Bot. Sér. 2,18/ 49,1842"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 106881,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Abutilon neovidense K.Schum."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Gaudichaud 945",
+          "collectioncode": "P",
+          "catalognumber": "P02285536",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=197471665",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Gaudichaud 945",
+          "collectioncode": "P",
+          "catalognumber": "P02285536",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P02285536",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "MCF Santos 11",
+          "collectioncode": "RB",
+          "catalognumber": "RB00216190",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00216190",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.G. Bovini 2587",
+          "collectioncode": "RB",
+          "catalognumber": "RB00418279",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00418279",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "MCF Santos 11",
+          "collectioncode": "RB",
+          "catalognumber": "RB00216190",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283890810",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.G. Bovini 2587",
+          "collectioncode": "RB",
+          "catalognumber": "RB00418279",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284177306",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

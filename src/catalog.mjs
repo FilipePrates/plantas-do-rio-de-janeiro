@@ -29,6 +29,7 @@ export const matchesPlant = (plant, query) =>
           plant.scientificName,
           plant.family,
           ...plant.alternateNames,
+          ...plant.regionalSpecies.map((s) => s.scientificName),
         ].join(" "),
       ).includes(term),
     );
@@ -151,6 +152,14 @@ export function parseCatalog(value) {
       `${label}: revisão ou abrangência inválida.`,
     );
     requireValue(
+      p.presentation === undefined || ["profile", "checklist"].includes(p.presentation),
+      `${label}: apresentação inválida.`,
+    );
+    requireValue(
+      p.previousIds === undefined || stringArray(p.previousIds),
+      `${label}: IDs anteriores inválidos.`,
+    );
+    requireValue(
       p.floraId === null || (Number.isSafeInteger(p.floraId) && p.floraId > 0),
       `${label}: ID Flora inválido.`,
     );
@@ -193,6 +202,14 @@ export function parseCatalog(value) {
         `${name}: espécie duplicada entre fichas ou grupos.`,
       );
       represented.add(name);
+    }
+    if (p.municipalEvidence !== undefined) {
+      requireValue(Array.isArray(p.municipalEvidence) && p.municipalEvidence.every((e) =>
+        e && names.includes(e.scientificName) && text(e.source?.title) &&
+        https(e.source?.url) && text(e.source?.retrievedAt) &&
+        Number.isSafeInteger(e.publicationYear) && e.publicationYear >= 1900 &&
+        e.publicationYear <= 2100 && text(e.sourceLocator) && text(e.locality)
+      ), `${label}: evidência municipal inválida.`);
     }
     if (p.regionalEvidence !== undefined) {
       requireValue(Array.isArray(p.regionalEvidence), `${label}: evidências regionais inválidas.`);
@@ -305,6 +322,16 @@ export function parseCatalog(value) {
     represented.size <= 1500,
     "Os grupos também contam para o limite de 1.500 espécies.",
   );
+  const previousIds = new Set();
+  for (const plant of value.plants) {
+    requireValue(plant.presentation !== "checklist" || plant.rank === "species",
+      "Uma entrada de referência deve representar uma espécie.");
+    for (const id of plant.previousIds || []) {
+      requireValue(/^[a-z][a-z0-9-]*$/.test(id) && !ids.has(id) && !previousIds.has(id),
+        `${id}: ID anterior duplicado ou ainda em uso.`);
+      previousIds.add(id);
+    }
+  }
   return value;
 }
 
@@ -333,4 +360,33 @@ export function photoMatchesPlant(plant, taxonName) {
     : plant.regionalSpecies.some(
         (member) => member.scientificName === taxonName,
       );
+}
+
+export const isProfile = (plant) => plant.presentation !== "checklist";
+export const hasMunicipalEvidence = (plant) =>
+  plant.geography === "rio-city" || Boolean(plant.municipalEvidence?.length);
+
+export function checklistRows(catalog) {
+  return catalog.plants.flatMap((plant) =>
+    (plant.rank === "genus" ? plant.regionalSpecies : [plant]).map((member) => ({
+      scientificName: member.scientificName,
+      commonName: plant.rank === "species" ? plant.commonName : "",
+      family: plant.family,
+      plant,
+      geography: plant.rank === "species" ? plant.geography :
+        plant.municipalEvidence?.some((e) => e.scientificName === member.scientificName)
+          ? "rio-city" : "rio-state",
+    })),
+  ).sort((a, b) => a.family.localeCompare(b.family) || a.scientificName.localeCompare(b.scientificName));
+}
+
+export function matchesChecklistRow(row, query) {
+  const haystack = normalize([row.scientificName, row.commonName, row.family,
+    ...(row.plant.rank === "species" ? row.plant.alternateNames : [])].join(" "));
+  return normalize(query).split(/\s+/).every((term) => haystack.includes(term));
+}
+
+export function resolveSavedIds(ids, plants) {
+  const targets = new Map(plants.flatMap((p) => [p.id, ...(p.previousIds || [])].map((id) => [id, p.id])));
+  return [...new Set(ids.map((id) => targets.get(id)).filter(Boolean))];
 }

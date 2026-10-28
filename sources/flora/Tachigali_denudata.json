@@ -1,0 +1,178 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Tachigali_denudata",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 100907,
+        "scientificname": "Tachigali denudata (Vogel) Oliveira-Filho",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Fabales",
+        "family": "Fabaceae",
+        "genus": "Tachigali",
+        "specificepithet": "denudata",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Vogel) Oliveira-Filho",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Fabaceae Lindl.;Tachigali Aubl.;Tachigali denudata (Vogel) Oliveira-Filho",
+        "source": "Lima, H.C. de 2015. Tachigali in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB100907>http://floradobrasil2015.jbrj.gov.br/FB100907</a>)<br><br>Huamantupa-Chuquimaco, I., Cardoso, D.B.O.S., Cardoso, L.J.T., Santana, J.C.O., Simon, M.F., Costa, J.A.S., Lima, H.C. 2020. Tachigali in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB100907\">https://floradobrasil2020.jbrj.gov.br/FB100907</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Tachigali Aubl.",
+        "parentnameusageid": 23195,
+        "originalnameusageid": "106855",
+        "namepublishedin": "Cat. Árvores Nativas Minas Gerais 140 2006",
+        "namepublishedinyear": "2006",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB100907",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Huamantupa-Chuquimaco, I., Cardoso, D.B.O.S., Cardoso, L.J.T., Santana, J.C.O., Simon, M.F., Costa, J.A.S., Lima, H.C. Tachigali in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB100907>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-12-11 20:58:52.079"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ciliar ou Galeria",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Oliveira-Flho, A.T.,Cat. Árvores Nativas Minas Gerais,140,2006"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 78766,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Sclerolobium glaziovii Taub."
+        },
+        {
+          "relatedresourceid": 106855,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Sclerolobium denudatum Vogel"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "F. Sellow s.n.",
+          "collectioncode": "K",
+          "catalognumber": "K000262570",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227577525",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "F. Sellow s.n.",
+          "collectioncode": "P",
+          "catalognumber": "P00835777",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228078071",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "F. Sellow s.n.",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0367786",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=225984298",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "F. Sellow s.n.",
+          "collectioncode": "MO",
+          "catalognumber": "MO2237509",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MO2237509",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "F. Sellow s.n.",
+          "collectioncode": "P",
+          "catalognumber": "P00835777",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00835777",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "F. Sellow s.n.",
+          "collectioncode": "B",
+          "catalognumber": "B 10 0367786",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/B 10 0367786",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "F. Sellow s.n.",
+          "collectioncode": "K",
+          "catalognumber": "K000262570",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000262570",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "F. Sellow s.n.",
+          "collectioncode": "MO",
+          "catalognumber": "MO2237509",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=98046948",
+          "locality": null,
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

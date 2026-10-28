@@ -1,0 +1,135 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Dendropanax_heterophyllus",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 33944,
+        "scientificname": "Dendropanax heterophyllus (Marchal) Frodin",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Apiales",
+        "family": "Araliaceae",
+        "genus": "Dendropanax",
+        "specificepithet": "heterophyllus",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Marchal) Frodin",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Araliaceae Juss.;Dendropanax Decne. & Planch.;Dendropanax heterophyllus (Marchal) Frodin",
+        "source": "Fiaschi, P. 2015. Araliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB33944>http://floradobrasil2015.jbrj.gov.br/FB33944</a>)<br><br>Fiaschi, P., Nery, E.K. Araliaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB33944\">https://floradobrasil2020.jbrj.gov.br/FB33944</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Dendropanax Decne. & Planch.",
+        "parentnameusageid": 5099,
+        "originalnameusageid": "43303",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB33944",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Fiaschi, P., Nery, E.K. Araliaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB33944>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-07-23 15:01:52.729"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 43303,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Gilibertia heterophylla Marchal"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Fiaschi, P 3805",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00212859",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SPF00212859",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Sucre, D 8524",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00167563",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SPF00167563",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Pereira, AB 53",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00196543",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SPF00196543",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Joels, LC 22",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00196542",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SPF00196542",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Fiaschi, P 3805",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00212859",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=165416708",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Joels, LC 22",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00196542",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=165416588",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Sucre, D 8524",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00167563",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=165416356",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Pereira, AB 53",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00196543",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=165416590",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

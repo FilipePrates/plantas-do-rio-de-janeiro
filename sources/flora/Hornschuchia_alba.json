@@ -1,0 +1,123 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Hornschuchia_alba",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 110466,
+        "scientificname": "Hornschuchia alba (A.St.-Hil.) R.E.Fr.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Magnoliales",
+        "family": "Annonaceae",
+        "genus": "Hornschuchia",
+        "specificepithet": "alba",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(A.St.-Hil.) R.E.Fr.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Annonaceae Juss.;Hornschuchia Nees;Hornschuchia alba (A.St.-Hil.) R.E.Fr.",
+        "source": "Maas, P.,Lobão, A.,Rainer, H. 2015. Annonaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB110466>http://floradobrasil2015.jbrj.gov.br/FB110466</a>)<br><br>Lopes, J.C., Silva, L.V., Mello-Silva, R. (in memoriam) 2020. Hornschuchia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB110466\">https://floradobrasil2020.jbrj.gov.br/FB110466</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Johnson, D.M. &amp;amp; Murray, N.A. 1995. Synopsis of the Bocageeae (Annonaceae), with revisions of &lt;em&gt;Cardiopetalum&lt;/em&gt;, &lt;em&gt;Froesiodendron&lt;/em&gt;, &lt;em&gt;Trigynaea&lt;/em&gt;, &lt;em&gt;Bocagea&lt;/em&gt;, and &lt;em&gt;Hornschuchia&lt;/em&gt;. Brittonia 47(3): 248-319",
+        "parentnameusage": "Hornschuchia Nees",
+        "parentnameusageid": 110465,
+        "originalnameusageid": "111091",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB110466",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Lopes, J.C., Silva, L.V., Mello-Silva, R. (in memoriam), Bazante, M.L. Hornschuchia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB110466>. Acesso em: 24 oct. 2026.",
+        "modified": "2021-10-20 14:22:09.924"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Johnson, D.M. & Murray, N.A. Synopsis of the Bocageeae (Annonaceae), with revisions of Cardiopetalum, Froesiodendron, Trigynaea, Bocagea, and Hornschuchia.,Brittonia,47: 301-302,1995"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 111091,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Bocagea alba A.St.-Hil."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "P.J.M. Maas 8818",
+          "collectioncode": "RB",
+          "catalognumber": "RB00042092",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00042092",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "C. Farney 4371",
+          "collectioncode": "RB",
+          "catalognumber": "RB00451923",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00451923",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "P.J.M. Maas 8818",
+          "collectioncode": "NY",
+          "catalognumber": "NY02699049",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY02699049",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "P.J.M. Maas 8818",
+          "collectioncode": "NY",
+          "catalognumber": "NY02699049",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228717817",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "P.J.M. Maas 8818",
+          "collectioncode": "RB",
+          "catalognumber": "RB00042092",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284181144",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "C. Farney 4371",
+          "collectioncode": "RB",
+          "catalognumber": "RB00451923",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284252710",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

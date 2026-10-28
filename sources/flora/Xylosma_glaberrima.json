@@ -1,0 +1,139 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Xylosma_glaberrima",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 14395,
+        "scientificname": "Xylosma glaberrima Sleumer",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Malpighiales",
+        "family": "Salicaceae",
+        "genus": "Xylosma",
+        "specificepithet": "glaberrima",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Sleumer",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Salicaceae Mirb.;Xylosma G.Forst.;Xylosma glaberrima Sleumer",
+        "source": "Marquete, R.,Torres, R.B.,Medeiros, E.S. 2015. Salicaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB14395>http://floradobrasil2015.jbrj.gov.br/FB14395</a>)<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Xylosma G.Forst.",
+        "parentnameusageid": 14393,
+        "originalnameusageid": null,
+        "namepublishedin": "Flora Neotropica 22: 175. 1980",
+        "namepublishedinyear": "1980",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB14395",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Marquete, R., Medeiros, E.V.S.S. Salicaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB14395>. Acesso em: 24 oct. 2026.",
+        "modified": "2025-08-04 15:24:28.771"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "resedá",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "RJ"
+        },
+        {
+          "vernacularname": "sucurá",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "SP"
+        },
+        {
+          "vernacularname": "assucará",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "SP"
+        },
+        {
+          "vernacularname": "açucará-manso",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "SP"
+        },
+        {
+          "vernacularname": "espinho-de-judeu",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "SP"
+        },
+        {
+          "vernacularname": "camélia-do-mato",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "SP"
+        }
+      ],
+      "reference": [
+        {
+          "reference": "H.O. Sleumer,Flora Neotropica,22: 175.,1980"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "Handro, O. s/n",
+          "collectioncode": "RB",
+          "catalognumber": "RB00538564",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284395672",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Handro, O. s/n",
+          "collectioncode": "RB",
+          "catalognumber": "RB00538564",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00538564",
+          "locality": null,
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

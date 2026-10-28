@@ -1,0 +1,131 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Eschweilera_compressa",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 8552,
+        "scientificname": "Eschweilera compressa (Vell.) Miers",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Lecythidaceae",
+        "genus": "Eschweilera",
+        "specificepithet": "compressa",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Vell.) Miers",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Lecythidaceae A.Rich.;Eschweilera Mart. ex DC.;Eschweilera compressa (Vell.) Miers",
+        "source": "Smith, N.P.,Mori, S.A.,Prance, G.T. 2015. Lecythidaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB8552>http://floradobrasil2015.jbrj.gov.br/FB8552</a>)<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Mori, S.A. &amp;amp; Prance, G.T. Fl. Neotrop. Monogr. 21(II): 171 (1990)",
+        "parentnameusage": "Eschweilera Mart. ex DC.",
+        "parentnameusageid": 8549,
+        "originalnameusageid": "60176",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB8552",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2025-11-01 12:45:31.777"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "ibiribá-rana",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": ""
+        },
+        {
+          "vernacularname": "sapucaia-miuda",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": ""
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Trans. Linn. Soc. London, Bot.,30: 248,1874"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 60176,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Lecythis compressa Vell."
+        },
+        {
+          "relatedresourceid": 60027,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eschweilera guanabarica Miers"
+        },
+        {
+          "relatedresourceid": 60166,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis angustifolia (Mart.) Endl. ex O.Berg"
+        },
+        {
+          "relatedresourceid": 59968,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Couratari glabra Cambess."
+        },
+        {
+          "relatedresourceid": 59934,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Chytroma incarcerata Miers"
+        },
+        {
+          "relatedresourceid": 60008,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eschweilera angustifolia Mart."
+        },
+        {
+          "relatedresourceid": 60284,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythopsis glabra (Cambess.) O.Berg"
+        },
+        {
+          "relatedresourceid": 60187,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lecythis glabra (Cambess.) O.Berg"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

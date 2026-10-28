@@ -1,0 +1,181 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Trigynaea_axilliflora",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 110535,
+        "scientificname": "Trigynaea axilliflora D.M.Johnson & N.A.Murray",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Magnoliales",
+        "family": "Annonaceae",
+        "genus": "Trigynaea",
+        "specificepithet": "axilliflora",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "D.M.Johnson & N.A.Murray",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Annonaceae Juss.;Trigynaea Schltdl.;Trigynaea axilliflora D.M.Johnson & N.A.Murray",
+        "source": "Maas, P.,Lobão, A.,Rainer, H. 2015. Annonaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB110535>http://floradobrasil2015.jbrj.gov.br/FB110535</a>)<br><br>Lopes, J.C., Silva, L.V., Mello-Silva, R. (in memoriam) 2020. Trigynaea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB110535\">https://floradobrasil2020.jbrj.gov.br/FB110535</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Johnson, D.M. &amp;amp; Murray, N.A. 1995. Synopsis of the tribe Bocageeae (Annonaceae), with revisions of &lt;em&gt;Cardiopetalum&lt;/em&gt;, &lt;em&gt;Froesiodendron&lt;/em&gt;, &lt;em&gt;Trigynaea&lt;/em&gt;, &lt;em&gt;Bocagea&lt;/em&gt;, and &lt;em&gt;Hornschuchia&lt;/em&gt;. Brittonia, 47(3): 248-319.",
+        "parentnameusage": "Trigynaea Schltdl.",
+        "parentnameusageid": 110534,
+        "originalnameusageid": null,
+        "namepublishedin": "Brittonia 47: 289-290 1995",
+        "namepublishedinyear": "1995",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB110535",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Lopes, J.C., Silva, L.V., Mello-Silva, R. (in memoriam) Trigynaea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB110535>. Acesso em: 24 oct. 2026.",
+        "modified": "2021-10-21 14:23:31.256"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Johnson, D.M. & Murray, N.A.,Brittonia,47: 289-290,1995"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "R.C. Araújo 002",
+          "collectioncode": "RB",
+          "catalognumber": "RB01152330",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB01152330",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "P.J.M. Maas 8817",
+          "collectioncode": "NY",
+          "catalognumber": "NY02699075",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY02699075",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "P.J.M. Maas 8817",
+          "collectioncode": "K",
+          "catalognumber": "K001238455",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K001238455",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Marquete 2981",
+          "collectioncode": "RB",
+          "catalognumber": "RB00043546",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00043546",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Marquete 2981",
+          "collectioncode": "RB",
+          "catalognumber": "RB00774068",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00774068",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "P.J.M. Maas 8817",
+          "collectioncode": "RB",
+          "catalognumber": "RB00043514",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00043514",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Araújo 002",
+          "collectioncode": "RB",
+          "catalognumber": "RB00889735",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00889735",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Marquete 2981",
+          "collectioncode": "RB",
+          "catalognumber": "RB00043546",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284213586",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "P.J.M. Maas 8817",
+          "collectioncode": "K",
+          "catalognumber": "K001238455",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227303970",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Marquete 2981",
+          "collectioncode": "RB",
+          "catalognumber": "RB00774068",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284802240",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "P.J.M. Maas 8817",
+          "collectioncode": "NY",
+          "catalognumber": "NY02699075",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228717869",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "P.J.M. Maas 8817",
+          "collectioncode": "RB",
+          "catalognumber": "RB00043514",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284212776",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Araújo 002",
+          "collectioncode": "RB",
+          "catalognumber": "RB00889735",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284910042",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Araújo 002",
+          "collectioncode": "RB",
+          "catalognumber": "RB01152330",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284990798",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

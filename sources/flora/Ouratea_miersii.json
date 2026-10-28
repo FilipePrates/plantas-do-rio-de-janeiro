@@ -1,0 +1,107 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Ouratea_miersii",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 105613,
+        "scientificname": "Ouratea miersii (Planch.) Engl.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Malpighiales",
+        "family": "Ochnaceae",
+        "genus": "Ouratea",
+        "specificepithet": "miersii",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Planch.) Engl.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Ochnaceae DC.;Ouratea Aubl.;Ouratea miersii (Planch.) Engl.",
+        "source": "Chacon, R.G.,Yamamoto, K. 2015. Ouratea in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB105613>http://floradobrasil2015.jbrj.gov.br/FB105613</a>)<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Ouratea Aubl.",
+        "parentnameusageid": 19917,
+        "originalnameusageid": "128757",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB105613",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2026-05-10 11:20:54.686"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 640524,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Ochna miersii (Planch.) Kuntze"
+        },
+        {
+          "relatedresourceid": 128757,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Gomphia miersii Planch."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Schwacke, P. 5683",
+          "collectioncode": "RB",
+          "catalognumber": "RB00525817",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00525817",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.G. Kulhmann 914",
+          "collectioncode": "RB",
+          "catalognumber": "RB00525719",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00525719",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.G. Kulhmann 914",
+          "collectioncode": "RB",
+          "catalognumber": "RB00525719",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284370800",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Schwacke, P. 5683",
+          "collectioncode": "RB",
+          "catalognumber": "RB00525817",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284371060",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

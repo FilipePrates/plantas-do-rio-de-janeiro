@@ -1,0 +1,133 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Paratecoma_peroba",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 114203,
+        "scientificname": "Paratecoma peroba (Record) Kuhlm.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Lamiales",
+        "family": "Bignoniaceae",
+        "genus": "Paratecoma",
+        "specificepithet": "peroba",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Record) Kuhlm.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bignoniaceae Juss.;Paratecoma Kuhlm.;Paratecoma peroba (Record) Kuhlm.",
+        "source": "Lohmann, L.G. 2015. Bignoniaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB114203>http://floradobrasil2015.jbrj.gov.br/FB114203</a>)<br><br>Lohmann, L.G. 2020. Paratecoma in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB114203\">https://floradobrasil2020.jbrj.gov.br/FB114203</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Gentry, A.H. 1992. Flora Neotropica 25(2): 106-109.",
+        "parentnameusage": "Paratecoma Kuhlm.",
+        "parentnameusageid": 114202,
+        "originalnameusageid": null,
+        "namepublishedin": "Minist. Agric. Serv. Fl. Bras. Bol. 4: 3 1931",
+        "namepublishedinyear": "1931",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB114203",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Lohmann, L.G. Paratecoma in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB114203>. Acesso em: 24 oct. 2026.",
+        "modified": "2016-12-30 13:32:18.117"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "peroba",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        },
+        {
+          "vernacularname": "peroba-amarella",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        },
+        {
+          "vernacularname": "peroba-manchada",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        },
+        {
+          "vernacularname": "peroba-tremida",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        },
+        {
+          "vernacularname": "ipe-peroba",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Kuhlmann, J.G.,Minist. Agric. Serv. Fl. Bras. Bol.,4: 3,1931"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "H.N. Whitford 59",
+          "collectioncode": "K",
+          "catalognumber": "K000449964",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227607473",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "H.N. Whitford 59",
+          "collectioncode": "K",
+          "catalognumber": "K000449964",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000449964",
+          "locality": null,
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

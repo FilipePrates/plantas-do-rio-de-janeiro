@@ -1,0 +1,104 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Macropeplus_friburgensis",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 10065,
+        "scientificname": "Macropeplus friburgensis (Perkins) I.Santos & Peixoto",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Laurales",
+        "family": "Monimiaceae",
+        "genus": "Macropeplus",
+        "specificepithet": "friburgensis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Perkins) I.Santos & Peixoto",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Monimiaceae Juss.;Macropeplus Perkins;Macropeplus friburgensis (Perkins) I.Santos & Peixoto",
+        "source": "Peixoto, A.L.,Lírio, E.J. 2015. Monimiaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB10065>http://floradobrasil2015.jbrj.gov.br/FB10065</a>)<br><br>Lirio, E.J., Peixoto, A.L., Pignal, M. Monimiaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB10065\">https://floradobrasil2020.jbrj.gov.br/FB10065</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Santos, I.S. &amp;amp; Peixoto, A.L. 2001. Taxonomia do g&amp;ecirc;nero Macropeplus Perkins (Monimiaceae, Monimioideae). Rodrigu&amp;eacute;sia 52 (81): 65-105",
+        "parentnameusage": "Macropeplus Perkins",
+        "parentnameusageid": 10063,
+        "originalnameusageid": "122658",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB10065",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Lirio, E.J., Peixoto, A.L., Zavatin, D.A., Pignal, M. Monimiaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB10065>. Acesso em: 24 oct. 2026.",
+        "modified": "2021-10-31 20:54:21.19"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Campo de Altitude",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 122658,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Macropeplus ligustrinus var. friburgensis Perkins"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "H. C. de Lima 3456",
+          "collectioncode": "RB",
+          "catalognumber": "RB00302935",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284000192",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "H. C. de Lima 3456",
+          "collectioncode": "RB",
+          "catalognumber": "RB00302935",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00302935",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Pessoa, S.V.A. 504",
+          "collectioncode": "RBR",
+          "catalognumber": "RB00302932",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00302932",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Pessoa, S.V.A. 504",
+          "collectioncode": "RBR",
+          "catalognumber": "RB00302932",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284000188",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

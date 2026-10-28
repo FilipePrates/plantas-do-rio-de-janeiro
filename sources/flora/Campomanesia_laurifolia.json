@@ -1,0 +1,166 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Campomanesia_laurifolia",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 10318,
+        "scientificname": "Campomanesia laurifolia Gardner",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Campomanesia",
+        "specificepithet": "laurifolia",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Gardner",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Campomanesia Ruiz et Pav.;Campomanesia laurifolia Gardner",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB10318>http://floradobrasil2015.jbrj.gov.br/FB10318</a>)<br><br>Oliveira, M.I.U., Costa, I.R., Proença, C.E.B. 2020. Campomanesia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB10318\">https://floradobrasil2020.jbrj.gov.br/FB10318</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Campomanesia Ruiz et Pav.",
+        "parentnameusageid": 10307,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB10318",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Oliveira, M.I.U., Costa, I.R., Proença, C.E.B., Fernandes, T. Campomanesia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB10318>. Acesso em: 24 oct. 2026.",
+        "modified": "2021-10-30 19:35:24.085"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Gardner, G.,London J. Bot.,2: 353,1843"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 61567,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Campomanesia acrandroides Mattos"
+        },
+        {
+          "relatedresourceid": 60964,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Acrandra sellowiana O.Berg"
+        },
+        {
+          "relatedresourceid": 61679,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Campomanesia sellowiana (O.Berg) Mattos"
+        },
+        {
+          "relatedresourceid": 60963,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Acrandra laurifolia (Gardner) O.Berg"
+        },
+        {
+          "relatedresourceid": 63970,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Psidium terminale Vell."
+        },
+        {
+          "relatedresourceid": 36883,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Campomanesia terminalis (Vell.) Mattos"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "R. Marquete 1101",
+          "collectioncode": null,
+          "catalognumber": "RB00305471",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284004786",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Daneu 561",
+          "collectioncode": "RB",
+          "catalognumber": "RB00720774",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284748720",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 2203",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA082838",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ESA082838",
+          "locality": "MG",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 2203",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA082838",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226802035",
+          "locality": "MG",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

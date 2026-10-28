@@ -1,0 +1,211 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Scutia_arenicola",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 108414,
+        "scientificname": "Scutia arenicola (Casar.) Reissek",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Rosales",
+        "family": "Rhamnaceae",
+        "genus": "Scutia",
+        "specificepithet": "arenicola",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Casar.) Reissek",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Rhamnaceae Juss.;Scutia (Comm. ex DC.) Brongn.;Scutia arenicola (Casar.) Reissek",
+        "source": "Lima, R.B. 2015. Rhamnaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB108414>http://floradobrasil2015.jbrj.gov.br/FB108414</a>)<br><br>Lima, R.B. (in memoriam), Barbosa, M.R.V., Giulietti, A.M. Rhamnaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB108414\">https://floradobrasil2020.jbrj.gov.br/FB108414</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Bastos, N.R. (1989) A fam&amp;iacute;lia Rhamnaceae no Rio Grande do Sul, g&amp;ecirc;neros &lt;em&gt;Condalia&lt;/em&gt; Cav. e &lt;em&gt;Scutia&lt;/em&gt; Comm. ex Brongn. Pesquisas 40: 69-84. 1989.\r\nBrongniart, M.A. (1827) Ann. Soc. Nat. Bot. 10: 362.\r\nJohnston, M.C. (1974) Revision of&amp;nbsp;&lt;em&gt;Scutia&lt;/em&gt;. Bull. Torrey bot. Club 101(2): 64-72.\r\nLima, R.B. &amp;amp; Giulietti, A.M. (2005) Rhamnaceae.&amp;nbsp;&lt;em&gt;In&lt;/em&gt;: M. G. L. Wanderley, G. J. Shepherd, T. S. Melhem, S. E. Martins, M. Kirizawa, &amp;amp; A. M. Giulietti (eds.)&amp;nbsp;&lt;em&gt;Flora Fanerog&amp;acirc;mica do Estado de S&amp;atilde;o Paulo&lt;/em&gt;. Instituto de Bot&amp;acirc;nica, S&amp;atilde;o Paulo, pp. 331&amp;ndash;341.\r\nLima, R.B. A fam&amp;iacute;lia Rhamnaceae no Brasil, taxonomia e diversidade. Tese de Doutorado (P&amp;oacute;s-gradua&amp;ccedil;&amp;atilde;o em Bot&amp;acirc;nica). Universidade de S&amp;atilde;o Paulo, S&amp;atilde;o Paulo - SP. 2000. 292 p.&amp;nbsp;",
+        "parentnameusage": "Scutia (Comm. ex DC.) Brongn.",
+        "parentnameusageid": 108413,
+        "originalnameusageid": "108423",
+        "namepublishedin": "Fl. bras. 11(1): 93. 1861",
+        "namepublishedinyear": "1861",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB108414",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Lima, R.B. (in memoriam), Barbosa, M.R.V., Giulietti, A.M., Figueira, M. Rhamnaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB108414>. Acesso em: 24 oct. 2026.",
+        "modified": "2024-02-15 09:36:44.11"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Manguezal",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Reissek, S.,Fl. bras.,11(1): 93.,1861"
+        },
+        {
+          "reference": "Reissek, S.,Fl. bras.,vol.11, part. 1, tab. 30,"
+        },
+        {
+          "reference": "Reissek, S.,Fl. bras.,vol.11, part. 1, tab. 24, fig. 7a,b,"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 108423,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Rhamnus arenicola Casar."
+        },
+        {
+          "relatedresourceid": 600131,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Adolia arenicola (Casar.) Kuntze"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "J.R. Pirani 2891",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00081750",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=99872845",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.M.L. Gomes 3657",
+          "collectioncode": "CEN",
+          "catalognumber": "CEN00125584",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=308355486",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.P. Queiroz 2577",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00171670",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=99873451",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.A. Funez 9184",
+          "collectioncode": "FURB",
+          "catalognumber": "FURB00066991",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=307165346",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.A. Funez 9184",
+          "collectioncode": "FURB",
+          "catalognumber": "FURB00066991",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/FURB00066991",
+          "locality": "SC",
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.R. Pirani 2891",
+          "collectioncode": "SPF",
+          "catalognumber": "SPF00081750",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SPF00081750",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.P. Queiroz 2577",
+          "collectioncode": "ALCB",
+          "catalognumber": "ALCB00034683",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ALCB00034683",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 24743",
+          "collectioncode": "NY",
+          "catalognumber": "NY00561300",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00561300",
+          "locality": "PR",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L.P. Queiroz 2577",
+          "collectioncode": "ALCB",
+          "catalognumber": "ALCB00034683",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=306770854",
+          "locality": "SP",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Hatschbach 24743",
+          "collectioncode": "NY",
+          "catalognumber": "NY00561300",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228305597",
+          "locality": "PR",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

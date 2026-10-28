@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-24",
+  "spreadsheetCandidates": 3114,
+  "totalCandidatesIncludingCatalog": 3253,
+  "spreadsheetDecisions": {
+    "research-backlog": 2870,
+    "reference-checklist": 159,
+    "individual-page": 13,
+    "genus-group": 72
+  },
+  "allDecisions": {
+    "research-backlog": 2977,
+    "reference-checklist": 161,
+    "individual-page": 27,
+    "genus-group": 88
+  },
+  "municipalCandidates": 278,
+  "photoSurvey": {
+    "none-in-search": 219,
+    "candidates-found": 23,
+    "needs-inspection": 3
+  },
+  "catalogEntries": 311,
+  "representedSpecies": 452,
+  "profiles": 123,
+  "checklistOnly": 188,
+  "groups": {
+    "Anthurium": 44,
+    "Philodendron": 29,
+    "Eugenia": 39,
+    "Myrcia": 33
+  }
+}

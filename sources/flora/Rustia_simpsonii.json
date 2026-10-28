@@ -1,0 +1,68 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Rustia_simpsonii",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 14277,
+        "scientificname": "Rustia simpsonii Delprete",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Gentianales",
+        "family": "Rubiaceae",
+        "genus": "Rustia",
+        "specificepithet": "simpsonii",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Delprete",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Rubiaceae Juss.;Rustia Klotzsch;Rustia simpsonii Delprete",
+        "source": "Anunciação, E.A. da 2015. Rustia in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB14277>http://floradobrasil2015.jbrj.gov.br/FB14277</a>)<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Delprete, P.G. 1999. Rondeletieae (Rubiaceae) - Part I (Rustia, Tresanthera, Condaminea, Picardaea, Pogonopus, Chimarrhis, Dioicodendron, Molopanthera, Dolichodelphys, and Parachimarrhis). Flora Neotropica Monograph 77. The New York Botanical Garden Press, New York. 226p.",
+        "parentnameusage": "Rustia Klotzsch",
+        "parentnameusageid": 14273,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB14277",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Picanço, W. Rustia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB14277>. Acesso em: 24 oct. 2026.",
+        "modified": "2025-06-30 20:14:27.52"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Delprete, P.G.,Flora Neotropica,77: 89,1999"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    }
+  ]
+}

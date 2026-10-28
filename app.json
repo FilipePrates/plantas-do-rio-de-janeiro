@@ -5,6 +5,17 @@
     "version": "0.1.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "icon": "./assets/branding/app-icon.png",
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/branding/leaf-foreground.png",
+          "imageWidth": 240,
+          "backgroundColor": "#70815F"
+        }
+      ]
+    ],
     "ios": {
       "bundleIdentifier": "br.com.avesdosbrasis.plantasdorio",
       "buildNumber": "1",
@@ -14,6 +25,11 @@
     "android": {
       "package": "br.com.avesdosbrasis.plantasdorio",
       "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/branding/leaf-foreground.png",
+        "monochromeImage": "./assets/branding/leaf-foreground.png",
+        "backgroundColor": "#70815F"
+      },
       "allowBackup": false,
       "blockedPermissions": ["android.permission.RECORD_AUDIO", "android.permission.READ_EXTERNAL_STORAGE", "android.permission.WRITE_EXTERNAL_STORAGE"]
     }

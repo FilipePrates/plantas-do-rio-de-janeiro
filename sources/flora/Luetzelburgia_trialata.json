@@ -1,0 +1,224 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Luetzelburgia_trialata",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 101118,
+        "scientificname": "Luetzelburgia trialata (Ducke) Ducke",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Fabales",
+        "family": "Fabaceae",
+        "genus": "Luetzelburgia",
+        "specificepithet": "trialata",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Ducke) Ducke",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Fabaceae Lindl.;Luetzelburgia Harms;Luetzelburgia trialata (Ducke) Ducke",
+        "source": "Cardoso, D.B.O.S. 2015. Luetzelburgia in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB101118>http://floradobrasil2015.jbrj.gov.br/FB101118</a>)<br><br>Cardoso, D.B.O.S. 2020. Luetzelburgia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB101118\">https://floradobrasil2020.jbrj.gov.br/FB101118</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Cardoso, D.B.O.S.; Queiroz, L.P.de &amp;amp; Lima, H.C.de.&amp;nbsp;2014. A taxonomic&amp;nbsp;revision of the South American papilionoid genus&amp;nbsp;&lt;em&gt;Luetzelburgia&lt;/em&gt;&amp;nbsp;(Fabaceae). Botanical Journal of the Linnean Society 175: 328&amp;ndash;375.",
+        "parentnameusage": "Luetzelburgia Harms",
+        "parentnameusageid": 29739,
+        "originalnameusageid": "79156",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB101118",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Cardoso, D.B.O.S. Luetzelburgia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB101118>. Acesso em: 24 oct. 2026.",
+        "modified": "2024-08-05 12:22:29.006"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Perenifólia",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 79156,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Vatairea trialata Ducke"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "C.A.C. Oliveira 39",
+          "collectioncode": "NY",
+          "catalognumber": "NY01551970",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228159471",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "M.R. Moreno 70",
+          "collectioncode": "RB",
+          "catalognumber": "RB00178754",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283849944",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "RB",
+          "catalognumber": "RB00178793",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283850038",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "RB",
+          "catalognumber": "RB00540443",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284407442",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "RB",
+          "catalognumber": "RB00540443",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00540443",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "M.R. Moreno 70",
+          "collectioncode": "RB",
+          "catalognumber": "RB00178754",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00178754",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "S",
+          "catalognumber": "S-R-9604",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/S-R-9604",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000500800",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000500800",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "RB",
+          "catalognumber": "RB00178793",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00178793",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "C.A.C. Oliveira 39",
+          "collectioncode": "NY",
+          "catalognumber": "NY01551970",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY01551970",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000500799",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000500799",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000500798",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000500798",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "RB",
+          "catalognumber": "RB00694725",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00694725",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000500798",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227612413",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000500799",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227612415",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000500800",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227612417",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "RB",
+          "catalognumber": "RB00694725",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284697616",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "S",
+          "catalognumber": "S-R-9604",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=99827701",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "S",
+          "catalognumber": "S-R-9604",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=99827699",
+          "locality": null,
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

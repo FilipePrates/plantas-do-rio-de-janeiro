@@ -1,0 +1,643 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Myrceugenia_bracteosa",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 10634,
+        "scientificname": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrceugenia",
+        "specificepithet": "bracteosa",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(DC.) D.Legrand & Kausel",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrceugenia O.Berg;Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB10634>http://floradobrasil2015.jbrj.gov.br/FB10634</a>)<br><br>Vieira, F.C.S., Meireles, L.D. 2020. Myrceugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB10634\">https://floradobrasil2020.jbrj.gov.br/FB10634</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Landrum, L. R. (1981) A Monograph of the genus&amp;nbsp;&lt;em&gt;Myrceugenia&amp;nbsp;&lt;/em&gt;(Myrtaceae).&amp;nbsp;&lt;strong&gt;Flora Neotropica&lt;/strong&gt;&amp;nbsp;&amp;ndash; Monograph number 29. New York, New York Botanical Garden, 137 pp.\r\nLima, W. G. &amp;amp; Guedes-Bruni, R. R. 2004. &lt;em&gt;Myrceugenia&lt;/em&gt; (Myrtaceae) ocorrentes no Parque Nacional do Itatiaia, Rio de Janeiro. &lt;strong&gt;Rodrigu&amp;eacute;sia&lt;/strong&gt; 55 (85): 73-94.",
+        "parentnameusage": "Myrceugenia O.Berg",
+        "parentnameusageid": 10631,
+        "originalnameusageid": "61865",
+        "namepublishedin": "Comun. Bot. Mus. Hist. Nat. Montevideo 2(28): 6 1953",
+        "namepublishedinyear": "1953",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB10634",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Vieira, F.C.S., Meireles, L.D. Myrceugenia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB10634>. Acesso em: 24 oct. 2026.",
+        "modified": "2023-03-16 10:04:04.793"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Campo de Altitude",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Floresta Ombrófila Mista"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Legrand, D.,Comun. Bot. Mus. Hist. Nat. Montevideo,2(28): 6,1953"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 61809,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eugenia anceps O.Berg"
+        },
+        {
+          "relatedresourceid": 62682,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Luma anceps (O.Berg) Burret"
+        },
+        {
+          "relatedresourceid": 62730,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Luma montana Burret"
+        },
+        {
+          "relatedresourceid": 62690,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Luma brachymischa (Kiaersk.) Burret"
+        },
+        {
+          "relatedresourceid": 62858,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia cambessedeana D.Legrand & Kausel"
+        },
+        {
+          "relatedresourceid": 62850,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia bracteosa var. australis D.Legrand"
+        },
+        {
+          "relatedresourceid": 62851,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia bracteosa var. expallens (O.Berg) D.Legrand"
+        },
+        {
+          "relatedresourceid": 62855,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia bracteosa var. ibitipocensis (Cambess.) D.Legrand"
+        },
+        {
+          "relatedresourceid": 61860,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eugenia brachymischa Kiaersk."
+        },
+        {
+          "relatedresourceid": 62691,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Luma bracteosa (DC.) Burret"
+        },
+        {
+          "relatedresourceid": 62709,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Luma expallens (O.Berg) Burret"
+        },
+        {
+          "relatedresourceid": 62149,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eugenia montana Cambess."
+        },
+        {
+          "relatedresourceid": 61865,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Eugenia bracteosa DC."
+        },
+        {
+          "relatedresourceid": 61981,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eugenia expallens O.Berg"
+        },
+        {
+          "relatedresourceid": 62049,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Eugenia ibitipocensis Cambess."
+        },
+        {
+          "relatedresourceid": 62888,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia monticola D.Legrand & Kausel"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Landrum, L. 2111",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM066027",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229457447",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "H.S. Irwin 28762",
+          "collectioncode": "NY",
+          "catalognumber": "NY00908312",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228822123",
+          "locality": "MG",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Landrum, L. 2111",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM066027",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM066027",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "H.S. Irwin 28762",
+          "collectioncode": "NY",
+          "catalognumber": "NY00908312",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/NY00908312",
+          "locality": "MG",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 62849,
+        "scientificname": "Myrceugenia bracteosa var. alpigena (DC.) D.Legrand",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrceugenia",
+        "specificepithet": "bracteosa",
+        "infraspecificepithet": "alpigena",
+        "scientificnameauthorship": "(DC.) D.Legrand",
+        "acceptednameusage": "Myrceugenia alpigena (DC.) Landrum",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrceugenia O.Berg;Myrceugenia bracteosa (DC.) D.Legrand & Kausel;Myrceugenia bracteosa var. alpigena (DC.) D.Legrand",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB62849>http://floradobrasil2015.jbrj.gov.br/FB62849</a>)<br><br>Vieira, F.C.S., Meireles, L.D. 2020. Myrceugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB62849\">https://floradobrasil2020.jbrj.gov.br/FB62849</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "parentnameusageid": 10634,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB62849",
+        "acceptednameusageid": 10633,
+        "bibliographiccitation_how_to_cite": "Vieira, F.C.S., Meireles, L.D. Myrceugenia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB62849>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-06-04 20:12:35.297"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Comun. Bot. Mus. Hist. Nat. Montevideo,2(28): 7,1953"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 10633,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia alpigena (DC.) Landrum"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 62850,
+        "scientificname": "Myrceugenia bracteosa var. australis D.Legrand",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrceugenia",
+        "specificepithet": "bracteosa",
+        "infraspecificepithet": "australis",
+        "scientificnameauthorship": "D.Legrand",
+        "acceptednameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrceugenia O.Berg;Myrceugenia bracteosa (DC.) D.Legrand & Kausel;Myrceugenia bracteosa var. australis D.Legrand",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB62850>http://floradobrasil2015.jbrj.gov.br/FB62850</a>)<br><br>Vieira, F.C.S., Meireles, L.D. 2020. Myrceugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB62850\">https://floradobrasil2020.jbrj.gov.br/FB62850</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "parentnameusageid": 10634,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB62850",
+        "acceptednameusageid": 10634,
+        "bibliographiccitation_how_to_cite": "Vieira, F.C.S., Meireles, L.D. Myrceugenia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB62850>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-06-04 20:16:00.162"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Darwiniana,11: 335,1957"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 10634,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 62851,
+        "scientificname": "Myrceugenia bracteosa var. expallens (O.Berg) D.Legrand",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrceugenia",
+        "specificepithet": "bracteosa",
+        "infraspecificepithet": "expallens",
+        "scientificnameauthorship": "(O.Berg) D.Legrand",
+        "acceptednameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrceugenia O.Berg;Myrceugenia bracteosa (DC.) D.Legrand & Kausel;Myrceugenia bracteosa var. expallens (O.Berg) D.Legrand",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB62851>http://floradobrasil2015.jbrj.gov.br/FB62851</a>)<br><br>Vieira, F.C.S., Meireles, L.D. 2020. Myrceugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB62851\">https://floradobrasil2020.jbrj.gov.br/FB62851</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "parentnameusageid": 10634,
+        "originalnameusageid": null,
+        "namepublishedin": "Comun. Bot. Mus. Hist. Nat. Montevideo 2(28): 6 1953",
+        "namepublishedinyear": "1953",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB62851",
+        "acceptednameusageid": 10634,
+        "bibliographiccitation_how_to_cite": "Vieira, F.C.S., Meireles, L.D. Myrceugenia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB62851>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-06-04 20:32:41.074"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Legrand, C.D.,Comun. Bot. Mus. Hist. Nat. Montevideo,2(28): 6,1953"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 10634,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 62852,
+        "scientificname": "Myrceugenia bracteosa var. franciscensis (O.Berg) D.Legrand",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrceugenia",
+        "specificepithet": "bracteosa",
+        "infraspecificepithet": "franciscensis",
+        "scientificnameauthorship": "(O.Berg) D.Legrand",
+        "acceptednameusage": "Myrceugenia franciscensis (O.Berg) Landrum",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrceugenia O.Berg;Myrceugenia bracteosa (DC.) D.Legrand & Kausel;Myrceugenia bracteosa var. franciscensis (O.Berg) D.Legrand",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB62852>http://floradobrasil2015.jbrj.gov.br/FB62852</a>)<br><br>Vieira, F.C.S., Meireles, L.D. 2020. Myrceugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB62852\">https://floradobrasil2020.jbrj.gov.br/FB62852</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "parentnameusageid": 10634,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB62852",
+        "acceptednameusageid": 10640,
+        "bibliographiccitation_how_to_cite": "Vieira, F.C.S., Meireles, L.D. Myrceugenia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB62852>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-06-04 20:11:08.338"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Comun. Bot. Mus. Hist. Nat. Montevideo,2(28): 7,1953"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 10640,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia franciscensis (O.Berg) Landrum"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 62853,
+        "scientificname": "Myrceugenia bracteosa var. fuliginea (O.Berg) D.Legrand",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrceugenia",
+        "specificepithet": "bracteosa",
+        "infraspecificepithet": "fuliginea",
+        "scientificnameauthorship": "(O.Berg) D.Legrand",
+        "acceptednameusage": "Myrceugenia alpigena (DC.) Landrum",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrceugenia O.Berg;Myrceugenia bracteosa (DC.) D.Legrand & Kausel;Myrceugenia bracteosa var. fuliginea (O.Berg) D.Legrand",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB62853>http://floradobrasil2015.jbrj.gov.br/FB62853</a>)<br><br>Vieira, F.C.S., Meireles, L.D. 2020. Myrceugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB62853\">https://floradobrasil2020.jbrj.gov.br/FB62853</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "parentnameusageid": 10634,
+        "originalnameusageid": null,
+        "namepublishedin": "Comun. Bot. Mus. Hist. Nat. Montevideo 2(28): 7 1953",
+        "namepublishedinyear": "1953",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB62853",
+        "acceptednameusageid": 10633,
+        "bibliographiccitation_how_to_cite": "Vieira, F.C.S., Meireles, L.D. Myrceugenia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB62853>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-06-04 20:30:31.461"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Legrand, C.D.,Comun. Bot. Mus. Hist. Nat. Montevideo,2(28): 7,1953"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 10633,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia alpigena (DC.) Landrum"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 62854,
+        "scientificname": "Myrceugenia bracteosa var. guaratubensis Mattos",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrceugenia",
+        "specificepithet": "bracteosa",
+        "infraspecificepithet": "guaratubensis",
+        "scientificnameauthorship": "Mattos",
+        "acceptednameusage": "Myrceugenia alpigena (DC.) Landrum",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrceugenia O.Berg;Myrceugenia bracteosa (DC.) D.Legrand & Kausel;Myrceugenia bracteosa var. guaratubensis Mattos",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB62854>http://floradobrasil2015.jbrj.gov.br/FB62854</a>)<br><br>Vieira, F.C.S., Meireles, L.D. 2020. Myrceugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB62854\">https://floradobrasil2020.jbrj.gov.br/FB62854</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "parentnameusageid": 10634,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB62854",
+        "acceptednameusageid": 10633,
+        "bibliographiccitation_how_to_cite": "Vieira, F.C.S., Meireles, L.D. Myrceugenia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB62854>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-06-04 20:14:55.031"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Loefgrenia,66: 6,1975"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 10633,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia alpigena (DC.) Landrum"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 62855,
+        "scientificname": "Myrceugenia bracteosa var. ibitipocensis (Cambess.) D.Legrand",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrceugenia",
+        "specificepithet": "bracteosa",
+        "infraspecificepithet": "ibitipocensis",
+        "scientificnameauthorship": "(Cambess.) D.Legrand",
+        "acceptednameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrceugenia O.Berg;Myrceugenia bracteosa (DC.) D.Legrand & Kausel;Myrceugenia bracteosa var. ibitipocensis (Cambess.) D.Legrand",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB62855>http://floradobrasil2015.jbrj.gov.br/FB62855</a>)<br><br>Vieira, F.C.S., Meireles, L.D. 2020. Myrceugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB62855\">https://floradobrasil2020.jbrj.gov.br/FB62855</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "parentnameusageid": 10634,
+        "originalnameusageid": null,
+        "namepublishedin": "Comun. Bot. Mus. Hist. Nat. Montevideo 2(28): 7 1953",
+        "namepublishedinyear": "1953",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB62855",
+        "acceptednameusageid": 10634,
+        "bibliographiccitation_how_to_cite": "Vieira, F.C.S., Meireles, L.D. Myrceugenia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB62855>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-06-04 20:33:59.781"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Legrand, C.D.,Comun. Bot. Mus. Hist. Nat. Montevideo,2(28): 7,1953"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 10634,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 62856,
+        "scientificname": "Myrceugenia bracteosa var. seriatopedunculata (Kiaersk.) D.Legrand",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "VARIANTE_ORTOGRAFICA",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrceugenia",
+        "specificepithet": "bracteosa",
+        "infraspecificepithet": "seriatopedunculata",
+        "scientificnameauthorship": "(Kiaersk.) D.Legrand",
+        "acceptednameusage": "Myrceugenia alpigena (DC.) Landrum",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrceugenia O.Berg;Myrceugenia bracteosa (DC.) D.Legrand & Kausel;Myrceugenia bracteosa var. seriatopedunculata (Kiaersk.) D.Legrand",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB62856>http://floradobrasil2015.jbrj.gov.br/FB62856</a>)<br><br>Vieira, F.C.S., Meireles, L.D. 2020. Myrceugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB62856\">https://floradobrasil2020.jbrj.gov.br/FB62856</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "parentnameusageid": 10634,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB62856",
+        "acceptednameusageid": 10633,
+        "bibliographiccitation_how_to_cite": "Vieira, F.C.S., Meireles, L.D. Myrceugenia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB62856>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-06-04 20:23:59.114"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Comun. Bot. Mus. Hist. Nat. Montevideo,2(28): 7,1953"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 10633,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia alpigena (DC.) Landrum"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 602242,
+        "scientificname": "Myrceugenia bracteosa var. seriato-pedunculata (Kiaersk.) D. Legrand",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_LEGITIMO_MAS_INCORRETO",
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Myrceugenia",
+        "specificepithet": "bracteosa",
+        "infraspecificepithet": "seriato-pedunculata",
+        "scientificnameauthorship": "(Kiaersk.) D. Legrand",
+        "acceptednameusage": "Myrceugenia alpigena (DC.) Landrum",
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Myrceugenia O.Berg;Myrceugenia bracteosa (DC.) D.Legrand & Kausel;Myrceugenia bracteosa var. seriato-pedunculata (Kiaersk.) D. Legrand",
+        "source": "Vieira, F.C.S., Meireles, L.D. 2020. Myrceugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB602242\">https://floradobrasil2020.jbrj.gov.br/FB602242</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Myrceugenia bracteosa (DC.) D.Legrand & Kausel",
+        "parentnameusageid": 10634,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB602242",
+        "acceptednameusageid": 10633,
+        "bibliographiccitation_how_to_cite": "Vieira, F.C.S., Meireles, L.D. Myrceugenia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB602242>. Acesso em: 24 oct. 2026.",
+        "modified": "2020-06-04 20:17:45.971"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 10633,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Myrceugenia alpigena (DC.) Landrum"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

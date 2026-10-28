@@ -1,0 +1,118 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Eugenia_neolaurifolia",
+  "retrievedAt": "2026-10-24",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 10471,
+        "scientificname": "Eugenia neolaurifolia Sobral",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Myrtaceae",
+        "genus": "Eugenia",
+        "specificepithet": "neolaurifolia",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Sobral",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Myrtaceae Juss.;Eugenia L.;Eugenia neolaurifolia Sobral",
+        "source": "Sobral, M.,Proença, C.,Souza, M.,Mazine, F.,Lucas, E. 2015. Myrtaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB10471>http://floradobrasil2015.jbrj.gov.br/FB10471</a>)<br><br>Mazine, F.F., Bünger, M., Faria, J.E.Q., Fernandes, T., Giaretta, A., Valdemarin, K.S., Santana, K.C., Souza, M.A.D., Sobral, M. 2020. Eugenia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB10471\">https://floradobrasil2020.jbrj.gov.br/FB10471</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Cambess&amp;egrave;des, J. (1833) Myrtaceae. In: Saint-Hilaire, A., De Jussieu, A., Cambess&amp;egrave;des, J. (Eds.) Flora Brasiliae Meridonalis. Apud A. Berlin, Bibliopolam, Via Dicta Des Marthuris S.-J., Parisiis, pp. 373.\r\nSobral, M. 1995. Uma nova combina&amp;ccedil;&amp;atilde;o e onze nomes novos em Eugenia (Myrtaceae) do Brasil. Napaea&amp;nbsp;11: 36.",
+        "parentnameusage": "Eugenia L.",
+        "parentnameusageid": 10338,
+        "originalnameusageid": null,
+        "namepublishedin": "Fl. Bras. Merid. 2: 357. 1833",
+        "namepublishedinyear": "1833",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB10471",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2021-10-21 09:26:41.424"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Cambess.,Fl. Bras. Merid.,2: 357.,1833"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 62082,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Eugenia laurifolia Cambess."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "A. Saint-Hilaire 769",
+          "collectioncode": "P",
+          "catalognumber": "P01902550",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P01902550",
+          "locality": "SP",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "R. Marquete 1187",
+          "collectioncode": "RB",
+          "catalognumber": "RB00309551",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00309551",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Marquete 1187",
+          "collectioncode": "RB",
+          "catalognumber": "RB00309551",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284013660",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A. Saint-Hilaire 769",
+          "collectioncode": "P",
+          "catalognumber": "P01902550",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=197469809",
+          "locality": "SP",
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

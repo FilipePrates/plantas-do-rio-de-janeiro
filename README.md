@@ -1,5 +1,10 @@
 # Plantas do Rio de Janeiro
 
+Escopo de 24/10/2026, concluído em 27/10: [decisões e método](docs/scope-2026-10-24.md)
+e [planilha filtrável com todas as candidatas](docs/decisoes-escopo-2026-10-24.xlsx).
+O catálogo de desenvolvimento representa 452 espécies em 123 fichas ilustradas
+e 188 entradas de referência. As novas decisões e os novos textos são rascunhos.
+
 Curadoria de 17/10/2026: [espécies, textos e fotos](docs/curation-2026-10-17.md)
 e [importação de unidades de conservação e categorias históricas](docs/rio-conservation-import.md).
 
@@ -37,11 +42,15 @@ machine (Android SDK installed at `~/Android/Sdk`, Java 17 available):
 ```bash
 cd /home/filipe/Desktop/plantas-do-rio-de-janeiro
 npm run check
+npx expo prebuild --platform android --no-install
 cd android
 ANDROID_HOME="$HOME/Android/Sdk" GRADLE_USER_HOME="$PWD/.gradle-home" NODE_ENV=production ./gradlew :app:assembleRelease
 ```
 
 The updated APK is `android/app/build/outputs/apk/release/app-release.apk`.
+Run prebuild after changing `app.json` or native icon and splash assets; Gradle
+uses the files already generated in `android/` and does not update them from
+Expo configuration on its own.
 This bundles the current catalog, photos and JavaScript for use without Metro.
 The current release variant uses this plant project's debug signing configuration,
 so this is a locally installable test APK; store signing remains separate work.
@@ -63,11 +72,20 @@ present in the Atlantic Forest domain. This is state-level evidence, not a
 municipal checklist. The shortlisted families emphasize Myrtaceae,
 Bromeliaceae, Arecaceae, Araceae, and Lecythidaceae (the jequitibá family).
 
-Anthurium and Philodendron may be represented as genus groups. Every accepted
-native state member is enumerated, including substrate information; a genus
-group is not equivalent to a single species and is not restricted to terrestrial
-plants. The unique represented species count, including group members, must
-stay at or below 1,500. There is no target to fill 1,500 slots automatically.
+Anthurium, Philodendron, Eugenia and Myrcia have genus groups with explicitly
+enumerated members. The groups are editorial selections, not complete municipal
+checklists. Anthurium coriaceum and A. pentaphyllum have separate pages; four
+Eugenia species also retain individual pages. A species belongs to one entry
+only. Related pages link to each other without duplicating membership.
+The unique represented species count, including checklist entries and group
+members, must stay at or below 1,500.
+
+The guide opens with illustrated profiles. “Lista de espécies” opens the complete
+offline reference list, including individual group members, and “Registro
+municipal” filters documented municipal records. State-only members retain
+their state label even when other members of their genus have city evidence.
+Family navigation includes families represented only in the reference list.
+Merged profile IDs redirect legacy saved lists to their group.
 
 The initial five editorial invasive selections are leucena, jiboia, zebrina, jaqueira,
 and capim-colonião. They are not a ranked top five. See
@@ -94,13 +112,19 @@ npm run catalog:generate
 npm run catalog:release-check
 ```
 
-The release check fails while any record or photo is a draft, or a record has
-no photo. There are still 39 entries without photos after review approval.
-Ordinary checks permit those documented gaps.
+The release check fails while any record or photo is a draft, or an illustrated
+profile has no photo. Reference entries (`presentation: "checklist"`) may have
+no photo, but still require human review before release. The 123 illustrated
+profiles currently have photos. Ordinary checks permit documented drafts.
 `catalog:generate` creates static Metro `require()` entries: the shipped guide
 loads its photos locally, with no runtime iNaturalist request.
 The grid and small gallery previews use generated 320-pixel WebP thumbnails;
 the profile preserves the complete original photo within its square frame.
+Tap a profile photo to open the full-screen viewer. Pinch to zoom up to 5×,
+drag to inspect details, or double-tap to zoom in/out around the tapped point.
+The viewer has restore, previous/next, and close controls; changing photos resets
+the zoom. Gestures and transforms run on the UI thread on iOS and Android using
+the Expo-compatible Gesture Handler and Reanimated packages.
 The generated [catalog report](docs/catalog-status.json) lists photo gaps and
 review status. A much larger catalog may need independently configured content
 packs; this first draft bundles its seed media.
