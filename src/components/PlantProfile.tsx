@@ -39,7 +39,6 @@ export function PlantProfile({
   const [size, setSize] = useState(Math.min(width, 640));
   const [activeIndex, setActiveIndex] = useState(0);
   const [showSources, setShowSources] = useState(false);
-  const [showMembers, setShowMembers] = useState(false);
   const [showMunicipal, setShowMunicipal] = useState(false);
   const [viewerIndex, setViewerIndex] = useState<number | null>(null);
   const gallery = useRef<FlatList<PlantPhoto>>(null);
@@ -47,7 +46,6 @@ export function PlantProfile({
   useEffect(() => {
     setActiveIndex(0);
     setShowSources(false);
-    setShowMembers(false);
     setShowMunicipal(false);
     setViewerIndex(null);
   }, [plant.id]);
@@ -59,6 +57,25 @@ export function PlantProfile({
     gallery.current?.scrollToIndex({ index: next, animated: true });
     setActiveIndex(next);
   }
+  const municipalSection = (
+    !!plant.municipalEvidence?.length && (
+      <View style={styles.section}>
+        <Pressable accessibilityRole="button" accessibilityState={{ expanded: showMunicipal }}
+          onPress={() => setShowMunicipal((value) => !value)}>
+          <Text style={styles.sectionTitle}>Ocorrência no Município do Rio {showMunicipal ? "−" : "+"}</Text>
+        </Pressable>
+        {showMunicipal && plant.municipalEvidence.map((e, index) => (
+          <View key={`${e.scientificName}:${index}`} style={styles.municipalRecord}>
+            {plant.rank === "genus" && <Text style={[styles.body, styles.scientific]}>{e.scientificName}</Text>}
+            <Text style={styles.body}>{e.locality}</Text>
+            <Pressable accessibilityRole="link" onPress={() => openUrl(e.source.url)}>
+              <Text style={styles.link}>{e.source.title} · {e.publicationYear} · {e.sourceLocator} ↗</Text>
+            </Pressable>
+          </View>
+        ))}
+      </View>
+    )
+  );
   return (
     <ScrollView
       style={styles.screen}
@@ -212,7 +229,7 @@ export function PlantProfile({
           <View style={styles.identityMeta}>
             <Text style={styles.muted}>{plant.family}</Text>
             <Text style={styles.muted}>
-              {plant.geography === "rio-city" ? "Registro municipal" : "Registro estadual"}
+              {plant.geography === "rio-city" ? "Município do Rio" : "Estado do RJ"}
             </Text>
             {plant.origin !== "native" && (
               <View style={styles.origin}>
@@ -235,38 +252,8 @@ export function PlantProfile({
           </Section>
         )}
         {!!plant.ecology && (
-          <Section title="Ambientes no Brasil">
+          <Section title="Onde cresce">
             <Text style={styles.body}>{plant.ecology}</Text>
-          </Section>
-        )}
-        <RegionalRecords key={plant.id} plant={plant} />
-        {!!plant.municipalEvidence?.length && (
-          <View style={styles.section}>
-            <Pressable accessibilityRole="button" accessibilityState={{ expanded: showMunicipal }}
-              onPress={() => setShowMunicipal((value) => !value)}>
-              <Text style={styles.sectionTitle}>Registros no município {showMunicipal ? "−" : "+"}</Text>
-            </Pressable>
-            <Text style={styles.muted}>Ocorrências publicadas e datadas; não garantem presença atual. Nos grupos, cada registro vale apenas para a espécie indicada.</Text>
-            {showMunicipal && plant.municipalEvidence.map((e, index) => (
-              <Pressable key={`${e.scientificName}:${index}`} style={styles.municipalRecord}
-                accessibilityRole="link" onPress={() => openUrl(e.source.url)}>
-                <Text style={[styles.body, styles.scientific]}>{e.scientificName}</Text>
-                <Text style={styles.body}>{e.locality}</Text>
-                <Text style={styles.muted}>{e.publicationYear} · {e.sourceLocator}</Text>
-                <Text style={styles.small}>{e.source.title}</Text>
-              </Pressable>
-            ))}
-          </View>
-        )}
-        {relatedPlants.some((p) => p.id !== plant.id) && onOpenPlant && (
-          <Section title={`Conheça ${plant.genus}`}>
-            <Text style={styles.muted}>Fichas deste gênero. As espécies com ficha própria não se repetem entre os membros do grupo.</Text>
-            {relatedPlants.filter((p) => p.id !== plant.id).map((p) => (
-              <Pressable key={p.id} style={styles.relatedLink} accessibilityRole="button"
-                accessibilityLabel={`Abrir ${p.scientificName}`} onPress={() => onOpenPlant(p)}>
-                <Text style={styles.body}>{p.commonName} · {p.scientificName} ›</Text>
-              </Pressable>
-            ))}
           </Section>
         )}
         <Section title={plant.rank === "genus" ? "Nomes registrados entre os membros" : "Outros nomes"}>
@@ -278,31 +265,34 @@ export function PlantProfile({
         </Section>
         {plant.rank === "genus" && (
           <View style={styles.section}>
-            <Pressable
-              accessibilityRole="button"
-              accessibilityState={{ expanded: showMembers }}
-              onPress={() => setShowMembers((v) => !v)}
-            >
-              <Text style={styles.sectionTitle}>
-                {plant.regionalSpecies.length} espécies neste grupo {showMembers ? "−" : "+"}
+            <Text style={styles.sectionTitle}>
+              {plant.regionalSpecies.length} espécies neste grupo
+            </Text>
+            <Text style={styles.muted}>
+              Seleção de espécies nativas com registro estadual; não representa
+              uma contagem municipal nem o total do gênero. A data e o recorte
+              da seleção estão na descrição.
+            </Text>
+            {plant.regionalSpecies.map((member) => (
+              <Text key={member.floraId} style={styles.member}>
+                {member.scientificName} · {member.substrates.join(", ")}
               </Text>
-            </Pressable>
-            {showMembers && (
-              <>
-                <Text style={styles.muted}>
-                  Seleção de espécies nativas com registro estadual; não representa
-                  uma contagem municipal nem o total do gênero. A data e o recorte
-                  da seleção estão na descrição.
-                </Text>
-                {plant.regionalSpecies.map((member) => (
-                  <Text key={member.floraId} style={styles.member}>
-                    {member.scientificName} · {member.substrates.join(", ")}
-                  </Text>
-                ))}
-              </>
-            )}
+            ))}
           </View>
         )}
+        {plant.rank !== "genus" && municipalSection}
+        <RegionalRecords key={plant.id} plant={plant} />
+        {relatedPlants.some((p) => p.id !== plant.id) && onOpenPlant && (
+          <Section title={`Fichas de ${plant.genus}`}>
+            {relatedPlants.filter((p) => p.id !== plant.id).map((p) => (
+              <Pressable key={p.id} style={styles.relatedLink} accessibilityRole="button"
+                accessibilityLabel={`Abrir ${p.scientificName}`} onPress={() => onOpenPlant(p)}>
+                <Text style={styles.body}>{p.commonName} · {p.scientificName} ›</Text>
+              </Pressable>
+            ))}
+          </Section>
+        )}
+        {plant.rank === "genus" && municipalSection}
         <View style={styles.section}>
           <Pressable
             accessibilityRole="button"

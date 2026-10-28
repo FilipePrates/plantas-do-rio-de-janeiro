@@ -80,11 +80,13 @@ only. Related pages link to each other without duplicating membership.
 The unique represented species count, including checklist entries and group
 members, must stay at or below 1,500.
 
-The guide opens with illustrated profiles. “Lista de espécies” opens the complete
-offline reference list, including individual group members, and “Registro
-municipal” filters documented municipal records. State-only members retain
-their state label even when other members of their genus have city evidence.
-Family navigation includes families represented only in the reference list.
+The guide opens with illustrated profiles. The Families tab contains “Lista de
+espécies”, a complete offline reference list including individual group members.
+Tapping a species opens its profile or its genus group profile; tapping a family
+heading opens the illustrated guide filtered to that family. “Município do Rio”
+is an evidence label, not a filter. State-only members retain their state label
+even when other members of their genus have city evidence. Family navigation
+includes families represented only in the reference list.
 Merged profile IDs redirect legacy saved lists to their group.
 
 The initial five editorial invasive selections are leucena, jiboia, zebrina, jaqueira,

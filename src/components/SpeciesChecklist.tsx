@@ -4,16 +4,15 @@ import type { Catalog, ChecklistRow, Plant } from "../catalog.mjs";
 import { checklistRows, matchesChecklistRow } from "../catalog.mjs";
 import { palette } from "../theme";
 
-export function SpeciesChecklist({ catalog, query, family, cityOnly, onOpen }: {
+export function SpeciesChecklist({ catalog, query, family, onOpen, onOpenFamily }: {
   catalog: Catalog;
   query: string;
   family: string | null;
-  cityOnly: boolean;
   onOpen: (plant: Plant) => void;
+  onOpenFamily: (family: string) => void;
 }) {
   const rows = useMemo(() => checklistRows(catalog).filter((row) =>
-    matchesChecklistRow(row, query) && (!family || row.family === family) &&
-    (!cityOnly || row.geography === "rio-city")), [catalog, query, family, cityOnly]);
+    (!family || row.family === family) && matchesChecklistRow(row, query)), [catalog, query, family]);
   const sections = useMemo(() => {
     const families = new Map<string, ChecklistRow[]>();
     for (const row of rows) {
@@ -31,11 +30,18 @@ export function SpeciesChecklist({ catalog, query, family, cityOnly, onOpen }: {
       initialNumToRender={15}
       ListHeaderComponent={
         <Text style={styles.introduction}>
-          {rows.length} {rows.length === 1 ? "espécie" : "espécies"} · consulta offline. Cada espécie aparece uma vez.
-          Registros publicados podem ser históricos; as fontes não garantem presença atual.
+          {rows.length} {rows.length === 1 ? "espécie" : "espécies"}
         </Text>
       }
-      renderSectionHeader={({ section }) => <Text style={styles.family}>{section.title}</Text>}
+      renderSectionHeader={({ section }) => (
+        <View style={styles.family}>
+          <Text style={styles.familyName}>{section.title}</Text>
+          <Pressable style={styles.guideButton} onPress={() => onOpenFamily(section.title)}
+            accessibilityRole="button" accessibilityLabel={`Ver ${section.title} no guia`}>
+            <Text style={styles.familyLink}>Ver no guia ›</Text>
+          </Pressable>
+        </View>
+      )}
       renderItem={({ item }) => (
         <Pressable style={styles.row} onPress={() => onOpen(item.plant)}
           accessibilityRole="button" accessibilityLabel={`Consultar ${item.scientificName}`}>
@@ -43,7 +49,7 @@ export function SpeciesChecklist({ catalog, query, family, cityOnly, onOpen }: {
             <Text style={styles.name}>{item.scientificName}</Text>
             {!!item.commonName && item.commonName !== item.scientificName && <Text style={styles.secondary}>{item.commonName}</Text>}
             <Text style={styles.secondary}>
-              {item.geography === "rio-city" ? "Registro municipal" : "Registro estadual · município a confirmar"}
+              {item.geography === "rio-city" ? "Município do Rio" : "Estado do RJ · município a confirmar"}
             </Text>
             <Text style={styles.kind}>
               {item.plant.rank === "genus" ? `No grupo ${item.plant.scientificName}` :
@@ -61,7 +67,10 @@ export function SpeciesChecklist({ catalog, query, family, cityOnly, onOpen }: {
 
 const styles = StyleSheet.create({
   introduction: { color: palette.muted, fontSize: 13, lineHeight: 19, padding: 16 },
-  family: { backgroundColor: palette.moss, color: palette.ink, fontWeight: "700", paddingHorizontal: 16, paddingVertical: 9 },
+  family: { backgroundColor: palette.moss, paddingHorizontal: 16, paddingVertical: 10, flexDirection: "row", alignItems: "center", gap: 8 },
+  familyName: { color: palette.ink, fontWeight: "700", flex: 1 },
+  guideButton: { backgroundColor: palette.paper, borderColor: palette.pine, borderWidth: 1, borderRadius: 6, paddingHorizontal: 12, paddingVertical: 10 },
+  familyLink: { color: palette.pine, fontSize: 12, fontWeight: "700" },
   row: { paddingHorizontal: 16, paddingVertical: 14, borderBottomWidth: 1, borderBottomColor: palette.border, flexDirection: "row", alignItems: "center", gap: 10 },
   names: { flex: 1, gap: 4 },
   name: { color: palette.ink, fontSize: 16, fontStyle: "italic" },
