@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Bathysa+australis&photo_license=cc0&per_page=30&order_by=votes",
+  "photo": {
+    "id": 449371442,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449371442/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Paulo Mascaretti",
+  "observation": {
+    "id": 251173415,
+    "quality_grade": "needs_id",
+    "taxon": {
+      "id": 804834,
+      "name": "Bathysa australis"
+    },
+    "observerLogin": "paulomascaretti",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449371442/large.jpeg",
+    "sha256": "00553ce8beb79d23e561a69d89841b2d6eedb4a32005c390b741e9ef343fd5e8",
+    "retrievedAt": "2026-10-28T16:02:39.813881+00:00"
+  },
+  "searchEvidence": {
+    "path": "coverage-2026-10-28/responses-expanded/bathysa-australis.json",
+    "sha256": "6f7d9d7b159f59b4d98e6e4b9cd10304f5c088cc730f738e3e47846add132df2",
+    "retrievedAt": "2026-10-28T15:54:44.860817+00:00"
+  }
+}

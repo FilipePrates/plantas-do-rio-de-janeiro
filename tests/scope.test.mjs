@@ -15,7 +15,10 @@ test("scope curation preserves every previous species and every photo with its r
   const names = new Set(checklistRows(catalog).map((r) => r.scientificName));
   for (const row of checklistRows(before)) assert.ok(names.has(row.scientificName), row.scientificName);
   const photos = (c) => c.plants.flatMap((p) => p.photos).sort((a, b) => a.photoId - b.photoId);
-  assert.deepEqual(photos(catalog), photos(before));
+  const previousPhotos = photos(before);
+  const previousPhotoIds = new Set(previousPhotos.map((photo) => photo.photoId));
+  // Preserve the scope migration's originals without freezing later additions.
+  assert.deepEqual(photos(catalog).filter((photo) => previousPhotoIds.has(photo.photoId)), previousPhotos);
   assert.equal(representedSpeciesCount(parseCatalog(catalog)), names.size);
   for (const group of catalog.plants.filter((p) => p.rank === "genus")) {
     const members = new Set(group.regionalSpecies.map((s) => s.scientificName));

@@ -1,0 +1,2550 @@
+{
+  "allagoptera-caudescens": {
+    "scientificName": "Allagoptera caudescens",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Allagoptera+caudescens&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:43:27.856720+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "attalea-humilis": {
+    "scientificName": "Attalea humilis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Attalea+humilis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:43:32.774824+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "bactris-vulgaris": {
+    "scientificName": "Bactris vulgaris",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Bactris+vulgaris&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:43:35.312889+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "geonoma-elegans": {
+    "scientificName": "Geonoma elegans",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Geonoma+elegans&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:43:38.370332+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "geonoma-pohliana": {
+    "scientificName": "Geonoma pohliana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Geonoma+pohliana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:43:42.008879+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "syagrus-picrophylla": {
+    "scientificName": "Syagrus picrophylla",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Syagrus+picrophylla&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:43:44.959748+00:00",
+    "photos": [
+      {
+        "observationId": 410897925,
+        "photoId": 755792952
+      },
+      {
+        "observationId": 410897874,
+        "photoId": 755792379
+      }
+    ],
+    "responseSha256": "1d857f89fc837cc1261c74bc5b5aa279ca6a1c0783508a91e299468cb84626e8",
+    "totalObservations": 2,
+    "returnedTaxonNames": [
+      "Syagrus picrophylla"
+    ],
+    "status": "candidates-found"
+  },
+  "syagrus-weddelliana": {
+    "scientificName": "Syagrus weddelliana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Syagrus+weddelliana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:43:50.482940+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "sparattosperma-leucanthum": {
+    "scientificName": "Sparattosperma leucanthum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Sparattosperma+leucanthum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:43:53.607641+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "aechmea-lingulata": {
+    "scientificName": "Aechmea lingulata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Aechmea+lingulata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:43:56.323220+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "alcantarea-regina": {
+    "scientificName": "Alcantarea regina",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Alcantarea+regina&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:00.020738+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "neoregelia-spectabilis": {
+    "scientificName": "Neoregelia spectabilis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Neoregelia+spectabilis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:04.113216+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "nidularium-fulgens": {
+    "scientificName": "Nidularium fulgens",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Nidularium+fulgens&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:07.111253+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "clusia-hilariana": {
+    "scientificName": "Clusia hilariana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Clusia+hilariana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:09.877743+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "copaifera-langsdorffii": {
+    "scientificName": "Copaifera langsdorffii",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Copaifera+langsdorffii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:12.718261+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "dalbergia-nigra": {
+    "scientificName": "Dalbergia nigra",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Dalbergia+nigra&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:15.577679+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "nematanthus-brasiliensis": {
+    "scientificName": "Nematanthus brasiliensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Nematanthus+brasiliensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:18.249879+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "sinningia-speciosa": {
+    "scientificName": "Sinningia speciosa",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Sinningia+speciosa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:20.806612+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "nectandra-membranacea": {
+    "scientificName": "Nectandra membranacea",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Nectandra+membranacea&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:23.565857+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "nectandra-oppositifolia": {
+    "scientificName": "Nectandra oppositifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Nectandra+oppositifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:26.026071+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "ocotea-odorifera": {
+    "scientificName": "Ocotea odorifera",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ocotea+odorifera&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:28.104146+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "cariniana-ianeirensis": {
+    "scientificName": "Cariniana ianeirensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cariniana+ianeirensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:30.734228+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "lecythis-lanceolata": {
+    "scientificName": "Lecythis lanceolata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Lecythis+lanceolata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:32.884564+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "lecythis-lurida": {
+    "scientificName": "Lecythis lurida",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Lecythis+lurida&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:35.548012+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "pavonia-alnifolia": {
+    "scientificName": "Pavonia alnifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pavonia+alnifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:38.086696+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "miconia-cinnamomifolia": {
+    "scientificName": "Miconia cinnamomifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Miconia+cinnamomifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:40.161244+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "pleroma-trichopodum": {
+    "scientificName": "Pleroma trichopodum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pleroma+trichopodum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:42.222231+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "ficus-cyclophylla": {
+    "scientificName": "Ficus cyclophylla",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ficus+cyclophylla&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:44.224066+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "campomanesia-guaviroba": {
+    "scientificName": "Campomanesia guaviroba",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Campomanesia+guaviroba&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:46.416054+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "cattleya-guttata": {
+    "scientificName": "Cattleya guttata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cattleya+guttata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:49.372687+00:00",
+    "photos": [],
+    "responseSha256": "549091199c31d9ffac99c6996931470315fb6e420b12348e1df9239d1a7285ed",
+    "totalObservations": 2,
+    "returnedTaxonNames": [
+      "Cattleya tigrina"
+    ],
+    "status": "needs-inspection"
+  },
+  "bathysa-australis": {
+    "scientificName": "Bathysa australis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Bathysa+australis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:54.089904+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "chrysophyllum-flexuosum": {
+    "scientificName": "Chrysophyllum flexuosum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Chrysophyllum+flexuosum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:56.443983+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "manilkara-subsericea": {
+    "scientificName": "Manilkara subsericea",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Manilkara+subsericea&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:44:59.111332+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "avicennia-schaueriana": {
+    "scientificName": "Avicennia schaueriana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Avicennia+schaueriana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:01.352627+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "staurogyne-itatiaiae": {
+    "scientificName": "Staurogyne itatiaiae",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Staurogyne+itatiaiae&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:03.707788+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "annona-ferruginea": {
+    "scientificName": "Annona ferruginea",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Annona+ferruginea&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:05.960300+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "annona-parviflora": {
+    "scientificName": "Annona parviflora",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Annona+parviflora&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:08.214520+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "duguetia-microphylla": {
+    "scientificName": "Duguetia microphylla",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Duguetia+microphylla&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:11.298332+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "duguetia-pohliana": {
+    "scientificName": "Duguetia pohliana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Duguetia+pohliana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:14.357043+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "hornschuchia-alba": {
+    "scientificName": "Hornschuchia alba",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Hornschuchia+alba&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:16.712037+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "trigynaea-axilliflora": {
+    "scientificName": "Trigynaea axilliflora",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Trigynaea+axilliflora&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:18.965404+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "trigynaea-oblongifolia": {
+    "scientificName": "Trigynaea oblongifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Trigynaea+oblongifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:21.628011+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "unonopsis-riedeliana": {
+    "scientificName": "Unonopsis riedeliana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Unonopsis+riedeliana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:24.050888+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "xylopia-brasiliensis": {
+    "scientificName": "Xylopia brasiliensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Xylopia+brasiliensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:27.670326+00:00",
+    "photos": [
+      {
+        "observationId": 266435462,
+        "photoId": 478712253
+      },
+      {
+        "observationId": 320959775,
+        "photoId": 580384653
+      },
+      {
+        "observationId": 332356645,
+        "photoId": 603143758
+      },
+      {
+        "observationId": 332356645,
+        "photoId": 603143799
+      },
+      {
+        "observationId": 345173726,
+        "photoId": 629007625
+      }
+    ],
+    "responseSha256": "8daa2e9c2a54ee4c60e5a7d594124094450c088e400ec93dd495ea5944060ed7",
+    "totalObservations": 4,
+    "returnedTaxonNames": [
+      "Xylopia brasiliensis"
+    ],
+    "status": "candidates-found"
+  },
+  "aspidosperma-parvifolium": {
+    "scientificName": "Aspidosperma parvifolium",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Aspidosperma+parvifolium&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:33.595302+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "mandevilla-crassinoda": {
+    "scientificName": "Mandevilla crassinoda",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Mandevilla+crassinoda&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:36.170482+00:00",
+    "photos": [
+      {
+        "observationId": 314838999,
+        "photoId": 568679407
+      },
+      {
+        "observationId": 314838994,
+        "photoId": 568679502
+      },
+      {
+        "observationId": 314838994,
+        "photoId": 568679468
+      },
+      {
+        "observationId": 314838994,
+        "photoId": 568679498
+      },
+      {
+        "observationId": 314838994,
+        "photoId": 568679525
+      }
+    ],
+    "responseSha256": "423093bea2d81f99d0b3f5d7a74658f44cad9518a8e3f976caa1edbb7903a1d1",
+    "totalObservations": 2,
+    "returnedTaxonNames": [
+      "Mandevilla crassinoda"
+    ],
+    "status": "candidates-found"
+  },
+  "ilex-schwackeana": {
+    "scientificName": "Ilex schwackeana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ilex+schwackeana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:40.117071+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "dendropanax-langsdorfii": {
+    "scientificName": "Dendropanax langsdorfii",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Dendropanax+langsdorfii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:42.515331+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "dendropanax-trilobus": {
+    "scientificName": "Dendropanax trilobus",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Dendropanax+trilobus&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:44.791581+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "dendropanax-heterophyllus": {
+    "scientificName": "Dendropanax heterophyllus",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Dendropanax+heterophyllus&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:47.228301+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "piptocarpha-verticillata": {
+    "scientificName": "Piptocarpha verticillata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Piptocarpha+verticillata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:49.357609+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "trichogoniopsis-podocarpa": {
+    "scientificName": "Trichogoniopsis podocarpa",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Trichogoniopsis+podocarpa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:51.493066+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "graphistylis-cuneifolia": {
+    "scientificName": "Graphistylis cuneifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Graphistylis+cuneifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:53.577441+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "cololobus-rupestris": {
+    "scientificName": "Cololobus rupestris",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cololobus+rupestris&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:55.726868+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "lepidaploa-obtusifolia": {
+    "scientificName": "Lepidaploa obtusifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Lepidaploa+obtusifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:45:57.881183+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "lepidaploa-persicifolia": {
+    "scientificName": "Lepidaploa persicifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Lepidaploa+persicifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:00.294919+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "austrocritonia-taunayana": {
+    "scientificName": "Austrocritonia taunayana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Austrocritonia+taunayana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:02.916385+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "paratecoma-peroba": {
+    "scientificName": "Paratecoma peroba",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Paratecoma+peroba&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:05.966604+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "tabebuia-cassinoides": {
+    "scientificName": "Tabebuia cassinoides",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Tabebuia+cassinoides&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:08.527765+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "kielmeyera-excelsa": {
+    "scientificName": "Kielmeyera excelsa",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Kielmeyera+excelsa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:11.300461+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "kielmeyera-insignis": {
+    "scientificName": "Kielmeyera insignis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Kielmeyera+insignis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:13.981741+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "kielmeyera-rizziniana": {
+    "scientificName": "Kielmeyera rizziniana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Kielmeyera+rizziniana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:16.517393+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "couepia-schottii": {
+    "scientificName": "Couepia schottii",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Couepia+schottii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:18.587134+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "couepia-parvifolia": {
+    "scientificName": "Couepia parvifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Couepia+parvifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:22.486721+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "terminalia-acuminata": {
+    "scientificName": "Terminalia acuminata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Terminalia+acuminata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:26.858893+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "connarus-marginatus": {
+    "scientificName": "Connarus marginatus",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Connarus+marginatus&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:29.519271+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "stephanopodium-sessile": {
+    "scientificName": "Stephanopodium sessile",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Stephanopodium+sessile&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:32.271592+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "sloanea-obtusifolia": {
+    "scientificName": "Sloanea obtusifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Sloanea+obtusifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:34.938394+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "agarista-organensis": {
+    "scientificName": "Agarista organensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Agarista+organensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:37.349107+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "agarista-uleana": {
+    "scientificName": "Agarista uleana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Agarista+uleana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:39.505562+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "erythroxylum-cincinnatum": {
+    "scientificName": "Erythroxylum cincinnatum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Erythroxylum+cincinnatum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:41.780374+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "erythroxylum-magnoliifolium": {
+    "scientificName": "Erythroxylum magnoliifolium",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Erythroxylum+magnoliifolium&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:43.938182+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "erythroxylum-occultum": {
+    "scientificName": "Erythroxylum occultum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Erythroxylum+occultum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:46.640947+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "erythroxylum-ovalifolium": {
+    "scientificName": "Erythroxylum ovalifolium",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Erythroxylum+ovalifolium&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:49.200174+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "ophthalmoblapton-macrophyllum": {
+    "scientificName": "Ophthalmoblapton macrophyllum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ophthalmoblapton+macrophyllum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:51.426115+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "sebastiania-pteroclada": {
+    "scientificName": "Sebastiania pteroclada",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Sebastiania+pteroclada&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:53.996385+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "apuleia-leiocarpa": {
+    "scientificName": "Apuleia leiocarpa",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Apuleia+leiocarpa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:56.248807+00:00",
+    "photos": [
+      {
+        "observationId": 148197691,
+        "photoId": 255156924
+      }
+    ],
+    "responseSha256": "920d1cbfd4c6b7a2ca1e1a5c931f1a9011821fad3f8ac87fb179f9b5ed45a247",
+    "totalObservations": 1,
+    "returnedTaxonNames": [
+      "Apuleia leiocarpa"
+    ],
+    "status": "candidates-found"
+  },
+  "dimorphandra-exaltata": {
+    "scientificName": "Dimorphandra exaltata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Dimorphandra+exaltata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:46:59.801424+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "peltogyne-mattosiana": {
+    "scientificName": "Peltogyne mattosiana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Peltogyne+mattosiana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:02.354838+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "grazielodendron-rio-docensis": {
+    "scientificName": "Grazielodendron rio-docensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Grazielodendron+rio-docensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:05.259289+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "bauhinia-albicans": {
+    "scientificName": "Bauhinia albicans",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Bauhinia+albicans&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:08.422040+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "moldenhawera-polysperma": {
+    "scientificName": "Moldenhawera polysperma",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Moldenhawera+polysperma&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:10.622051+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "tachigali-denudata": {
+    "scientificName": "Tachigali denudata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Tachigali+denudata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:13.024514+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "inga-globularis": {
+    "scientificName": "Inga globularis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Inga+globularis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:15.199713+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "inga-maritima": {
+    "scientificName": "Inga maritima",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Inga+maritima&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:17.345680+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "senegalia-mikanii": {
+    "scientificName": "Senegalia mikanii",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Senegalia+mikanii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:19.697570+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "luetzelburgia-trialata": {
+    "scientificName": "Luetzelburgia trialata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Luetzelburgia+trialata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:22.016204+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "machaerium-firmum": {
+    "scientificName": "Machaerium firmum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Machaerium+firmum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:25.024556+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "machaerium-legale": {
+    "scientificName": "Machaerium legale",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Machaerium+legale&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:27.486457+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "zollernia-glaziovii": {
+    "scientificName": "Zollernia glaziovii",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Zollernia+glaziovii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:29.636261+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "muellera-filipes": {
+    "scientificName": "Muellera filipes",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Muellera+filipes&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:32.091958+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "dahlstedtia-glaziovii": {
+    "scientificName": "Dahlstedtia glaziovii",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Dahlstedtia+glaziovii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:34.955317+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "besleria-macahensis": {
+    "scientificName": "Besleria macahensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Besleria+macahensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:36.908039+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "besleria-melancholica": {
+    "scientificName": "Besleria melancholica",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Besleria+melancholica&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:39.056867+00:00",
+    "photos": [
+      {
+        "observationId": 320959881,
+        "photoId": 580385698
+      },
+      {
+        "observationId": 253949822,
+        "photoId": 454772982
+      }
+    ],
+    "responseSha256": "e98cd1d48534586fcb9bd135f7f848b7ecb43bcd7df39748a4f0c4338cf88dfa",
+    "totalObservations": 2,
+    "returnedTaxonNames": [
+      "Besleria melancholica"
+    ],
+    "status": "candidates-found"
+  },
+  "vanhouttea-gardneri": {
+    "scientificName": "Vanhouttea gardneri",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Vanhouttea+gardneri&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:42.225029+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "beilschmiedia-angustifolia": {
+    "scientificName": "Beilschmiedia angustifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Beilschmiedia+angustifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:44.395888+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "ocotea-schwackeana": {
+    "scientificName": "Ocotea schwackeana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ocotea+schwackeana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:47.146652+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "urbanodendron-bahiense": {
+    "scientificName": "Urbanodendron bahiense",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Urbanodendron+bahiense&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:49.806794+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "couratari-pyramidata": {
+    "scientificName": "Couratari pyramidata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Couratari+pyramidata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:52.202498+00:00",
+    "photos": [
+      {
+        "observationId": 267125745,
+        "photoId": 480006372
+      },
+      {
+        "observationId": 267125745,
+        "photoId": 480006368
+      },
+      {
+        "observationId": 267125745,
+        "photoId": 480006377
+      },
+      {
+        "observationId": 267125745,
+        "photoId": 480006359
+      },
+      {
+        "observationId": 285377972,
+        "photoId": 512946835
+      },
+      {
+        "observationId": 285377972,
+        "photoId": 512946853
+      },
+      {
+        "observationId": 285377972,
+        "photoId": 512946899
+      },
+      {
+        "observationId": 285377972,
+        "photoId": 512946893
+      },
+      {
+        "observationId": 285377972,
+        "photoId": 512946914
+      },
+      {
+        "observationId": 285377972,
+        "photoId": 512946945
+      },
+      {
+        "observationId": 285377972,
+        "photoId": 512946981
+      },
+      {
+        "observationId": 254919347,
+        "photoId": 456717797
+      }
+    ],
+    "responseSha256": "21e05858f4a21fb2cbb8c2aff4a8afa59e7862bc03dc44bee6f1c9c626b6db3c",
+    "totalObservations": 3,
+    "returnedTaxonNames": [
+      "Couratari pyramidata"
+    ],
+    "status": "candidates-found"
+  },
+  "eschweilera-compressa": {
+    "scientificName": "Eschweilera compressa",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Eschweilera+compressa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:55.455001+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "byrsonima-microphylla": {
+    "scientificName": "Byrsonima microphylla",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Byrsonima+microphylla&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:57.800100+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "mezia-araujoi": {
+    "scientificName": "Mezia araujoi",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Mezia+araujoi&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:47:59.942128+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "abutilon-anodoides": {
+    "scientificName": "Abutilon anodoides",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Abutilon+anodoides&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:01.881833+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "callianthe-sellowiana": {
+    "scientificName": "Callianthe sellowiana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Callianthe+sellowiana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:04.049470+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "leandra-atroviridis": {
+    "scientificName": "Leandra atroviridis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Leandra+atroviridis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:06.013468+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "leandra-breviflora": {
+    "scientificName": "Leandra breviflora",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Leandra+breviflora&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:08.237377+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "leandra-mollis": {
+    "scientificName": "Leandra mollis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Leandra+mollis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:10.394067+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "meriania-glabra": {
+    "scientificName": "Meriania glabra",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Meriania+glabra&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:12.528994+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "miconia-subvernicosa": {
+    "scientificName": "Miconia subvernicosa",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Miconia+subvernicosa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:14.726525+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "pleroma-benthamianum": {
+    "scientificName": "Pleroma benthamianum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pleroma+benthamianum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:16.735893+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "pleroma-elegans": {
+    "scientificName": "Pleroma elegans",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pleroma+elegans&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:18.822011+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "cedrela-fissilis": {
+    "scientificName": "Cedrela fissilis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cedrela+fissilis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:21.506936+00:00",
+    "photos": [
+      {
+        "observationId": 105926878,
+        "photoId": 177845975
+      },
+      {
+        "observationId": 105926878,
+        "photoId": 177845986
+      },
+      {
+        "observationId": 105926878,
+        "photoId": 177846003
+      },
+      {
+        "observationId": 105926878,
+        "photoId": 177846021
+      },
+      {
+        "observationId": 105926878,
+        "photoId": 177846038
+      },
+      {
+        "observationId": 105926878,
+        "photoId": 177846052
+      },
+      {
+        "observationId": 386880720,
+        "photoId": 708454488
+      },
+      {
+        "observationId": 386880720,
+        "photoId": 708454588
+      },
+      {
+        "observationId": 386880720,
+        "photoId": 708454621
+      },
+      {
+        "observationId": 117024131,
+        "photoId": 197586893
+      },
+      {
+        "observationId": 117024131,
+        "photoId": 197586990
+      },
+      {
+        "observationId": 117024131,
+        "photoId": 197614741
+      },
+      {
+        "observationId": 141629138,
+        "photoId": 242679214
+      },
+      {
+        "observationId": 127255524,
+        "photoId": 216019760
+      },
+      {
+        "observationId": 126588440,
+        "photoId": 214801892
+      },
+      {
+        "observationId": 311067160,
+        "photoId": 561494318
+      },
+      {
+        "observationId": 311067160,
+        "photoId": 561494715
+      },
+      {
+        "observationId": 335214819,
+        "photoId": 608922187
+      },
+      {
+        "observationId": 335214819,
+        "photoId": 608922208
+      },
+      {
+        "observationId": 320528802,
+        "photoId": 579539046
+      }
+    ],
+    "responseSha256": "a0ecbb0f4974a48ac6acbdcbda68c8760a43509e9cc8a5a1090c94d7c909b55b",
+    "totalObservations": 9,
+    "returnedTaxonNames": [
+      "Cedrela fissilis"
+    ],
+    "status": "candidates-found"
+  },
+  "cedrela-odorata": {
+    "scientificName": "Cedrela odorata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cedrela+odorata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:25.521952+00:00",
+    "photos": [
+      {
+        "observationId": 177398525,
+        "photoId": 308529823
+      },
+      {
+        "observationId": 177398525,
+        "photoId": 308529971
+      },
+      {
+        "observationId": 177398525,
+        "photoId": 308530077
+      },
+      {
+        "observationId": 177398525,
+        "photoId": 308530123
+      },
+      {
+        "observationId": 269123761,
+        "photoId": 483844308
+      },
+      {
+        "observationId": 269123761,
+        "photoId": 483844329
+      },
+      {
+        "observationId": 269123761,
+        "photoId": 483844364
+      },
+      {
+        "observationId": 116024740,
+        "photoId": 195823711
+      },
+      {
+        "observationId": 335665440,
+        "photoId": 609828725
+      },
+      {
+        "observationId": 321998698,
+        "photoId": 582418658
+      },
+      {
+        "observationId": 141797656,
+        "photoId": 242999972
+      },
+      {
+        "observationId": 141797656,
+        "photoId": 242999995
+      },
+      {
+        "observationId": 141797656,
+        "photoId": 243000014
+      },
+      {
+        "observationId": 68591851,
+        "photoId": 111107261
+      },
+      {
+        "observationId": 68591851,
+        "photoId": 111107265
+      },
+      {
+        "observationId": 68591851,
+        "photoId": 111107267
+      },
+      {
+        "observationId": 162590445,
+        "photoId": 281147568
+      },
+      {
+        "observationId": 162590445,
+        "photoId": 281147599
+      },
+      {
+        "observationId": 162590445,
+        "photoId": 281147641
+      },
+      {
+        "observationId": 162590445,
+        "photoId": 281147678
+      },
+      {
+        "observationId": 162590445,
+        "photoId": 281147723
+      },
+      {
+        "observationId": 260864417,
+        "photoId": 468547171
+      },
+      {
+        "observationId": 260864417,
+        "photoId": 468547229
+      },
+      {
+        "observationId": 260864417,
+        "photoId": 468547247
+      },
+      {
+        "observationId": 160600774,
+        "photoId": 277523031
+      },
+      {
+        "observationId": 260865446,
+        "photoId": 468548713
+      },
+      {
+        "observationId": 260865446,
+        "photoId": 468548894
+      },
+      {
+        "observationId": 260865446,
+        "photoId": 468548968
+      },
+      {
+        "observationId": 10023022,
+        "photoId": 13784044
+      },
+      {
+        "observationId": 10023022,
+        "photoId": 13784045
+      },
+      {
+        "observationId": 9982142,
+        "photoId": 13718428
+      },
+      {
+        "observationId": 9982142,
+        "photoId": 13735099
+      },
+      {
+        "observationId": 36201889,
+        "photoId": 57197231
+      }
+    ],
+    "responseSha256": "4be3b2a1a211a3d97816549f0f88a429bd973c00212e65be0e03b31125b63a1b",
+    "totalObservations": 14,
+    "returnedTaxonNames": [
+      "Cedrela odorata"
+    ],
+    "status": "candidates-found"
+  },
+  "macropeplus-friburgensis": {
+    "scientificName": "Macropeplus friburgensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Macropeplus+friburgensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:29.593312+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "mollinedia-acutissima": {
+    "scientificName": "Mollinedia acutissima",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Mollinedia+acutissima&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:31.693951+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "mollinedia-engleriana": {
+    "scientificName": "Mollinedia engleriana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Mollinedia+engleriana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:34.496800+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "ficus-pulchella": {
+    "scientificName": "Ficus pulchella",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ficus+pulchella&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:36.607930+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "virola-bicuhyba": {
+    "scientificName": "Virola bicuhyba",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Virola+bicuhyba&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:38.805561+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "campomanesia-guazumifolia": {
+    "scientificName": "Campomanesia guazumifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Campomanesia+guazumifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:41.523246+00:00",
+    "photos": [
+      {
+        "observationId": 126427234,
+        "photoId": 214511985
+      },
+      {
+        "observationId": 126427234,
+        "photoId": 214512011
+      },
+      {
+        "observationId": 37747296,
+        "photoId": 59900818
+      },
+      {
+        "observationId": 37747296,
+        "photoId": 59900811
+      }
+    ],
+    "responseSha256": "1fb985acf899921517d6c3bccd596cb3de60cabae8cbe59809f6e0e0e8ebdb01",
+    "totalObservations": 2,
+    "returnedTaxonNames": [
+      "Campomanesia guazumifolia"
+    ],
+    "status": "candidates-found"
+  },
+  "campomanesia-laurifolia": {
+    "scientificName": "Campomanesia laurifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Campomanesia+laurifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:44.392024+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "campomanesia-schlechtendaliana": {
+    "scientificName": "Campomanesia schlechtendaliana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Campomanesia+schlechtendaliana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:46.433710+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "myrceugenia-acutiflora": {
+    "scientificName": "Myrceugenia acutiflora",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+acutiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:48.523189+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "myrceugenia-bracteosa": {
+    "scientificName": "Myrceugenia bracteosa",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+bracteosa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:51.133757+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "myrceugenia-cucullata": {
+    "scientificName": "Myrceugenia cucullata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+cucullata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:54.351576+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "myrceugenia-miersiana": {
+    "scientificName": "Myrceugenia miersiana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+miersiana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:56.781721+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "myrceugenia-myrcioides": {
+    "scientificName": "Myrceugenia myrcioides",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+myrcioides&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:48:59.250165+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "myrceugenia-pilotantha": {
+    "scientificName": "Myrceugenia pilotantha",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+pilotantha&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:02.719525+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "myrciaria-floribunda": {
+    "scientificName": "Myrciaria floribunda",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrciaria+floribunda&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:06.311823+00:00",
+    "photos": [
+      {
+        "observationId": 284853634,
+        "photoId": 511970272
+      },
+      {
+        "observationId": 284853634,
+        "photoId": 511970321
+      },
+      {
+        "observationId": 284853634,
+        "photoId": 511970364
+      },
+      {
+        "observationId": 284853634,
+        "photoId": 511970408
+      },
+      {
+        "observationId": 284853634,
+        "photoId": 511970442
+      },
+      {
+        "observationId": 122664178,
+        "photoId": 207705159
+      },
+      {
+        "observationId": 149199349,
+        "photoId": 257057483
+      },
+      {
+        "observationId": 149199349,
+        "photoId": 257057547
+      },
+      {
+        "observationId": 149199349,
+        "photoId": 257057614
+      },
+      {
+        "observationId": 149199349,
+        "photoId": 257057725
+      }
+    ],
+    "responseSha256": "35f477261920cd071c2c2db401f618450b215befba9672365b53b797e53cb3d2",
+    "totalObservations": 3,
+    "returnedTaxonNames": [
+      "Myrciaria floribunda"
+    ],
+    "status": "candidates-found"
+  },
+  "myrciaria-glazioviana": {
+    "scientificName": "Myrciaria glazioviana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrciaria+glazioviana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:11.861023+00:00",
+    "photos": [
+      {
+        "observationId": 340071725,
+        "photoId": 618778177
+      },
+      {
+        "observationId": 340071725,
+        "photoId": 618778223
+      },
+      {
+        "observationId": 335215098,
+        "photoId": 608922607
+      },
+      {
+        "observationId": 335215098,
+        "photoId": 608922637
+      },
+      {
+        "observationId": 400546918,
+        "photoId": 735053800
+      },
+      {
+        "observationId": 400546918,
+        "photoId": 735053871
+      },
+      {
+        "observationId": 400546918,
+        "photoId": 735055071
+      },
+      {
+        "observationId": 400547631,
+        "photoId": 735055470
+      },
+      {
+        "observationId": 400547631,
+        "photoId": 735055537
+      },
+      {
+        "observationId": 400547631,
+        "photoId": 735055587
+      }
+    ],
+    "responseSha256": "17138991cff81dd4dc9f8933aec6a9c32be1f564c2b18df4287e3967d919e942",
+    "totalObservations": 4,
+    "returnedTaxonNames": [
+      "Myrciaria glazioviana"
+    ],
+    "status": "candidates-found"
+  },
+  "myrciaria-tenella": {
+    "scientificName": "Myrciaria tenella",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrciaria+tenella&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:17.066446+00:00",
+    "photos": [
+      {
+        "observationId": 259809646,
+        "photoId": 466460873
+      },
+      {
+        "observationId": 259809646,
+        "photoId": 466460896
+      },
+      {
+        "observationId": 259809646,
+        "photoId": 466460917
+      },
+      {
+        "observationId": 259809646,
+        "photoId": 466460964
+      },
+      {
+        "observationId": 268100751,
+        "photoId": 481871403
+      },
+      {
+        "observationId": 268100751,
+        "photoId": 481871806
+      },
+      {
+        "observationId": 268100751,
+        "photoId": 481871868
+      },
+      {
+        "observationId": 268100751,
+        "photoId": 481871935
+      },
+      {
+        "observationId": 268100751,
+        "photoId": 481872001
+      },
+      {
+        "observationId": 268100751,
+        "photoId": 481872072
+      },
+      {
+        "observationId": 268100751,
+        "photoId": 481872133
+      },
+      {
+        "observationId": 268100751,
+        "photoId": 481872175
+      },
+      {
+        "observationId": 268100751,
+        "photoId": 481872238
+      }
+    ],
+    "responseSha256": "ebec6b40e03f2fe440bbe03e3c9dd6275882aa2640e0362851376cfc3809f8f1",
+    "totalObservations": 2,
+    "returnedTaxonNames": [
+      "Myrciaria tenella"
+    ],
+    "status": "candidates-found"
+  },
+  "myrrhinium-atropurpureum": {
+    "scientificName": "Myrrhinium atropurpureum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrrhinium+atropurpureum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:20.729383+00:00",
+    "photos": [
+      {
+        "observationId": 89409557,
+        "photoId": 147642855
+      },
+      {
+        "observationId": 89409557,
+        "photoId": 147642909
+      },
+      {
+        "observationId": 98377056,
+        "photoId": 163776758
+      },
+      {
+        "observationId": 98377056,
+        "photoId": 163777240
+      },
+      {
+        "observationId": 98377056,
+        "photoId": 163777283
+      },
+      {
+        "observationId": 136914939,
+        "photoId": 233812400
+      },
+      {
+        "observationId": 136914939,
+        "photoId": 233812531
+      },
+      {
+        "observationId": 136914939,
+        "photoId": 233812693
+      },
+      {
+        "observationId": 136914939,
+        "photoId": 233812853
+      },
+      {
+        "observationId": 136914939,
+        "photoId": 233812970
+      },
+      {
+        "observationId": 136914939,
+        "photoId": 233813086
+      },
+      {
+        "observationId": 136914939,
+        "photoId": 233813163
+      },
+      {
+        "observationId": 136914939,
+        "photoId": 233813284
+      },
+      {
+        "observationId": 313458485,
+        "photoId": 566066256
+      },
+      {
+        "observationId": 251464006,
+        "photoId": 449948758
+      },
+      {
+        "observationId": 251464006,
+        "photoId": 449948868
+      },
+      {
+        "observationId": 251464006,
+        "photoId": 449949066
+      },
+      {
+        "observationId": 123459262,
+        "photoId": 209150597
+      },
+      {
+        "observationId": 257799189,
+        "photoId": 462519657
+      },
+      {
+        "observationId": 257799189,
+        "photoId": 462519682
+      },
+      {
+        "observationId": 257799189,
+        "photoId": 462519702
+      },
+      {
+        "observationId": 257799189,
+        "photoId": 462519726
+      },
+      {
+        "observationId": 257799189,
+        "photoId": 462519748
+      },
+      {
+        "observationId": 243587708,
+        "photoId": 434374978
+      },
+      {
+        "observationId": 243587708,
+        "photoId": 434375145
+      },
+      {
+        "observationId": 187857521,
+        "photoId": 328624536
+      },
+      {
+        "observationId": 187857521,
+        "photoId": 328624554
+      },
+      {
+        "observationId": 314037309,
+        "photoId": 567171238
+      },
+      {
+        "observationId": 95702024,
+        "photoId": 158903063
+      },
+      {
+        "observationId": 139869482,
+        "photoId": 239318843
+      },
+      {
+        "observationId": 105034651,
+        "photoId": 176137057
+      },
+      {
+        "observationId": 177007272,
+        "photoId": 307802012
+      },
+      {
+        "observationId": 177007272,
+        "photoId": 307802093
+      },
+      {
+        "observationId": 177007272,
+        "photoId": 307802189
+      },
+      {
+        "observationId": 177007272,
+        "photoId": 307802294
+      },
+      {
+        "observationId": 177007272,
+        "photoId": 307802369
+      }
+    ],
+    "responseSha256": "5e0137ef3850dc1b30aa11e84acab8c4c99f9459dd1b5b78bb01781fa12b2f18",
+    "totalObservations": 14,
+    "returnedTaxonNames": [
+      "Myrrhinium atropurpureum"
+    ],
+    "status": "candidates-found"
+  },
+  "neomitranthes-warmingiana": {
+    "scientificName": "Neomitranthes warmingiana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Neomitranthes+warmingiana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:24.608110+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "pimenta-pseudocaryophyllus": {
+    "scientificName": "Pimenta pseudocaryophyllus",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pimenta+pseudocaryophyllus&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:26.797580+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "plinia-rivularis": {
+    "scientificName": "Plinia rivularis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Plinia+rivularis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:28.912415+00:00",
+    "photos": [
+      {
+        "observationId": 411203729,
+        "photoId": 756417709
+      },
+      {
+        "observationId": 411203729,
+        "photoId": 756417955
+      }
+    ],
+    "responseSha256": "f6496e83b9959e3cf0bd59e195addc892a13a1829bd535bc0d33b19d1b5cb9d8",
+    "totalObservations": 1,
+    "returnedTaxonNames": [
+      "Plinia rivularis"
+    ],
+    "status": "candidates-found"
+  },
+  "siphoneugena-densiflora": {
+    "scientificName": "Siphoneugena densiflora",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Siphoneugena+densiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:32.734241+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "plinia-peruviana": {
+    "scientificName": "Plinia peruviana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Plinia+peruviana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:35.014902+00:00",
+    "photos": [],
+    "responseSha256": "a97f59a95cdaeb43f6b5dc67e082ad12fb8453b3fb4474ea60558c7603d3c779",
+    "totalObservations": 9,
+    "returnedTaxonNames": [
+      "Plinia cauliflora"
+    ],
+    "status": "needs-inspection"
+  },
+  "luxemburgia-glazioviana": {
+    "scientificName": "Luxemburgia glazioviana",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Luxemburgia+glazioviana&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:39.650809+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "ouratea-miersii": {
+    "scientificName": "Ouratea miersii",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ouratea+miersii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:43.208800+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "picramnia-grandifolia": {
+    "scientificName": "Picramnia grandifolia",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Picramnia+grandifolia&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:45.825080+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "piper-anostachyum": {
+    "scientificName": "Piper anostachyum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Piper+anostachyum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:48.425048+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "piper-juliflorum": {
+    "scientificName": "Piper juliflorum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Piper+juliflorum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:51.876889+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "piper-morisonianum": {
+    "scientificName": "Piper morisonianum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Piper+morisonianum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:54.127758+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "piper-translucens": {
+    "scientificName": "Piper translucens",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Piper+translucens&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:56.520755+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "piper-trigonodrupum": {
+    "scientificName": "Piper trigonodrupum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Piper+trigonodrupum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:49:58.555623+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "podocarpus-sellowii": {
+    "scientificName": "Podocarpus sellowii",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Podocarpus+sellowii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:00.602497+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "coccoloba-rigida": {
+    "scientificName": "Coccoloba rigida",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Coccoloba+rigida&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:03.344260+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "myrsine-villosissima": {
+    "scientificName": "Myrsine villosissima",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrsine+villosissima&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:05.496673+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "stylogyne-leptantha": {
+    "scientificName": "Stylogyne leptantha",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Stylogyne+leptantha&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:08.078032+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "stylogyne-sordida": {
+    "scientificName": "Stylogyne sordida",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Stylogyne+sordida&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:10.107550+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "panopsis-multiflora": {
+    "scientificName": "Panopsis multiflora",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Panopsis+multiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:12.462576+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "roupala-gracilis": {
+    "scientificName": "Roupala gracilis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Roupala+gracilis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:14.702874+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "rhamnidium-glabrum": {
+    "scientificName": "Rhamnidium glabrum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Rhamnidium+glabrum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:16.990268+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "scutia-arenicola": {
+    "scientificName": "Scutia arenicola",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Scutia+arenicola&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:19.149104+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "alseis-involuta": {
+    "scientificName": "Alseis involuta",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Alseis+involuta&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:21.695512+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "coussarea-coffeoides": {
+    "scientificName": "Coussarea coffeoides",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Coussarea+coffeoides&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:24.178056+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "coussarea-viridis": {
+    "scientificName": "Coussarea viridis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Coussarea+viridis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:26.319560+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "faramea-calyciflora": {
+    "scientificName": "Faramea calyciflora",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Faramea+calyciflora&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:28.327920+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "faramea-campanularis": {
+    "scientificName": "Faramea campanularis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Faramea+campanularis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:30.378429+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "faramea-leucocalyx": {
+    "scientificName": "Faramea leucocalyx",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Faramea+leucocalyx&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:32.631919+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "faramea-paratiensis": {
+    "scientificName": "Faramea paratiensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Faramea+paratiensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:34.780685+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "melanopsidium-nigrum": {
+    "scientificName": "Melanopsidium nigrum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Melanopsidium+nigrum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:36.727554+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "posoqueria-palustris": {
+    "scientificName": "Posoqueria palustris",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Posoqueria+palustris&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:38.860488+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "psychotria-subspathacea": {
+    "scientificName": "Psychotria subspathacea",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Psychotria+subspathacea&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:50:41.339229+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "rudgea-erythrocarpa": {
+    "scientificName": "Rudgea erythrocarpa",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Rudgea+erythrocarpa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:20.494802+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "rudgea-nobilis": {
+    "scientificName": "Rudgea nobilis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Rudgea+nobilis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:22.806321+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "rustia-simpsonii": {
+    "scientificName": "Rustia simpsonii",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Rustia+simpsonii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:25.700666+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "psychotria-clavipes": {
+    "scientificName": "Psychotria clavipes",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Psychotria+clavipes&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:27.662066+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "psychotria-tenuinervis": {
+    "scientificName": "Psychotria tenuinervis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Psychotria+tenuinervis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:29.649122+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "coussarea-friburgensis": {
+    "scientificName": "Coussarea friburgensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Coussarea+friburgensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:32.100430+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "conchocarpus-grandiflorus": {
+    "scientificName": "Conchocarpus grandiflorus",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Conchocarpus+grandiflorus&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:35.186386+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "conchocarpus-ovatus": {
+    "scientificName": "Conchocarpus ovatus",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Conchocarpus+ovatus&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:37.925736+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "conchocarpus-sordidus": {
+    "scientificName": "Conchocarpus sordidus",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Conchocarpus+sordidus&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:40.310034+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "xylosma-glaberrima": {
+    "scientificName": "Xylosma glaberrima",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Xylosma+glaberrima&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:42.789893+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "allophylus-heterophyllus": {
+    "scientificName": "Allophylus heterophyllus",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Allophylus+heterophyllus&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:45.309069+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "cupania-fluminensis": {
+    "scientificName": "Cupania fluminensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cupania+fluminensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:47.999764+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "cupania-schizoneura": {
+    "scientificName": "Cupania schizoneura",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cupania+schizoneura&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:51.576096+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "pouteria-bullata": {
+    "scientificName": "Pouteria bullata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pouteria+bullata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:51:59.569745+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "pouteria-coelomatica": {
+    "scientificName": "Pouteria coelomatica",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pouteria+coelomatica&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:02.654243+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "pouteria-macahensis": {
+    "scientificName": "Pouteria macahensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pouteria+macahensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:05.811375+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "pradosia-kuhlmannii": {
+    "scientificName": "Pradosia kuhlmannii",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pradosia+kuhlmannii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:10.553769+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "homalolepis-insignis": {
+    "scientificName": "Homalolepis insignis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Homalolepis+insignis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:14.426146+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "solanum-arenarium": {
+    "scientificName": "Solanum arenarium",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Solanum+arenarium&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:24.394001+00:00",
+    "photos": [],
+    "responseSha256": "faa99a1867192f7d7bd6aea10b697df7c40bbdbe9cac67294ffd263a63f6b45d",
+    "totalObservations": 42,
+    "returnedTaxonNames": [
+      "Solanum villosum"
+    ],
+    "status": "needs-inspection"
+  },
+  "solanum-paralum": {
+    "scientificName": "Solanum paralum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Solanum+paralum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:37.857813+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "solanum-sycocarpum": {
+    "scientificName": "Solanum sycocarpum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Solanum+sycocarpum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:40.640696+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "funifera-brasiliensis": {
+    "scientificName": "Funifera brasiliensis",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Funifera+brasiliensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:43.347280+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "funifera-insulae": {
+    "scientificName": "Funifera insulae",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Funifera+insulae&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:45.722998+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "coussapoa-curranii": {
+    "scientificName": "Coussapoa curranii",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Coussapoa+curranii&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:48.933648+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "rinorea-laevigata": {
+    "scientificName": "Rinorea laevigata",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Rinorea+laevigata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:52.378691+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  },
+  "callisthene-dryadum": {
+    "scientificName": "Callisthene dryadum",
+    "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Callisthene+dryadum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+    "retrievedAt": "2026-10-28T15:52:54.698393+00:00",
+    "photos": [],
+    "responseSha256": "78121ac0a936c811e88bcbe5aa1b9de4ca52e1eb36ae076aac06726c1f8f3be5",
+    "totalObservations": 0,
+    "returnedTaxonNames": [],
+    "status": "none-in-search"
+  }
+}

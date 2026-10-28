@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-28",
+  "userExport": {
+    "fileName": "plantas-rio-2026-10-28.json",
+    "sha256": "d609f1bd1bdd9ba621fece7660226e21a500991834654f979801574fc59b744f"
+  },
+  "selectionFile": "selected-photos.json",
+  "visualReview": "Assistant screening only; all new photos require human review. Markers remain unknown.",
+  "searchPolicy": {
+    "primary": "Research-grade, non-captive, exact species name; photo-level CC0, no flags or hidden photos, original dimensions >=400px. Up to 30 observations per species ordered by votes.",
+    "expanded": "Same photo-level rights/dimension checks, all observation quality grades and cultivated status. Non-research photos explicitly warned in captions.",
+    "scope": "Only entries with zero photos at the start; the two entries covered by the user export were excluded from additions. No existing profile photos replaced.",
+    "presentation": "Reference entries remain checklist entries; adding draft photos does not certify an identification profile."
+  },
+  "synonymCheck": {
+    "catalogName": "Aechmea lingulata",
+    "returnedName": "Wittmackia lingulata",
+    "sourceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1173371-2",
+    "checkedOn": "2026-10-28",
+    "decision": "Synonym documented, but candidate photo rejected for insufficient visual detail."
+  }
+}

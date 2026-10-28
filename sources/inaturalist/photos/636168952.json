@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Dalbergia+nigra&photo_license=cc0&per_page=30&order_by=votes",
+  "photo": {
+    "id": 636168952,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636168952/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Gabriel Cardoso Fialho",
+  "observation": {
+    "id": 348788031,
+    "quality_grade": "needs_id",
+    "taxon": {
+      "id": 191300,
+      "name": "Dalbergia nigra"
+    },
+    "observerLogin": "gabrielfialho",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636168952/large.jpg",
+    "sha256": "a3785b5e8822473216d8220748c8c1d1c0e5cfcddb657b6ab3b20f1dd11966c2",
+    "retrievedAt": "2026-10-28T16:02:30.824924+00:00"
+  },
+  "searchEvidence": {
+    "path": "coverage-2026-10-28/responses-expanded/dalbergia-nigra.json",
+    "sha256": "2c4c43d3a3cb11b622cfa5bed224d9a4cec9b5cf33ca20dd7ec438f798ee30c5",
+    "retrievedAt": "2026-10-28T15:54:28.440863+00:00"
+  }
+}

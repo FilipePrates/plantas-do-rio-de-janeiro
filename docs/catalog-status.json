@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:34:51.722Z",
+  "generatedAt": "2026-10-28T16:03:23.880Z",
   "entries": 311,
   "profiles": 123,
   "checklistOnly": 188,
@@ -28,9 +28,9 @@
       "terrestrialSpecies": 33
     }
   ],
-  "cc0Photos": 277,
-  "illustratedEntries": 123,
+  "cc0Photos": 325,
+  "illustratedEntries": 143,
   "missingPhotos": [],
-  "draftEntries": 186,
-  "draftPhotos": 0
+  "draftEntries": 184,
+  "draftPhotos": 48
 }

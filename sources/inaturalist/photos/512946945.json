@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Couratari+pyramidata&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 512946945,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512946945/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "filipeprates",
+  "observation": {
+    "id": 285377972,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 190967,
+      "name": "Couratari pyramidata"
+    },
+    "observerLogin": "filipeprates",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512946945/large.jpg",
+    "sha256": "e8e4cf70699238b7d5c09fe86b6974d65d46219bc20f0d1adc053430e04b4f91",
+    "retrievedAt": "2026-10-28T16:02:07.833829+00:00"
+  },
+  "searchEvidence": {
+    "path": "coverage-2026-10-28/responses/couratari-pyramidata.json",
+    "sha256": "21e05858f4a21fb2cbb8c2aff4a8afa59e7862bc03dc44bee6f1c9c626b6db3c",
+    "retrievedAt": "2026-10-28T15:47:52.202498+00:00"
+  }
+}

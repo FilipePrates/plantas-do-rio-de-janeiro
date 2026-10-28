@@ -1,0 +1,14 @@
+{
+  "newPhotos": 43,
+  "newlyIllustratedEntries": 18,
+  "newPhotosByQualityGrade": {
+    "research": 30,
+    "casual": 2,
+    "needs_id": 11
+  },
+  "totalPhotos": 325,
+  "entriesWithPhotos": 143,
+  "entriesWithoutPhotos": 168,
+  "preservedUserExport": true,
+  "retainedPresentationAndGeography": true
+}

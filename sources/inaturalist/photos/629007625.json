@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Xylopia+brasiliensis&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 629007625,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629007625/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Gabriel Cardoso Fialho",
+  "observation": {
+    "id": 345173726,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 570275,
+      "name": "Xylopia brasiliensis"
+    },
+    "observerLogin": "gabrielfialho",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629007625/large.jpg",
+    "sha256": "e1dc5620986b82bcab64a6ab9228763e2c794c04d13411c312430af50e30102b",
+    "retrievedAt": "2026-10-28T16:01:19.617915+00:00"
+  },
+  "searchEvidence": {
+    "path": "coverage-2026-10-28/responses/xylopia-brasiliensis.json",
+    "sha256": "8daa2e9c2a54ee4c60e5a7d594124094450c088e400ec93dd495ea5944060ed7",
+    "retrievedAt": "2026-10-28T15:45:27.670326+00:00"
+  }
+}

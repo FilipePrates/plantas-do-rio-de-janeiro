@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Apuleia+leiocarpa&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 255156924,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255156924/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Frank Thomas Sautter",
+  "observation": {
+    "id": 148197691,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 747134,
+      "name": "Apuleia leiocarpa"
+    },
+    "observerLogin": "ftsautter",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255156924/large.jpg",
+    "sha256": "fe886d048e94421e27e964958dc10e1ce487fbe9a9d4b4975e7f7b1829142852",
+    "retrievedAt": "2026-10-28T16:01:32.689173+00:00"
+  },
+  "searchEvidence": {
+    "path": "coverage-2026-10-28/responses/apuleia-leiocarpa.json",
+    "sha256": "920d1cbfd4c6b7a2ca1e1a5c931f1a9011821fad3f8ac87fb179f9b5ed45a247",
+    "retrievedAt": "2026-10-28T15:46:56.248807+00:00"
+  }
+}

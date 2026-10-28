@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Mandevilla+crassinoda&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 568679468,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1638,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568679468/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "filipeprates",
+  "observation": {
+    "id": 314838994,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 879510,
+      "name": "Mandevilla crassinoda"
+    },
+    "observerLogin": "filipeprates",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568679468/large.jpg",
+    "sha256": "9c2da0ab8c8b6ea9daa2c24a63f9d510313ba4588308f7bb656b06ca38b881c0",
+    "retrievedAt": "2026-10-28T16:01:25.502288+00:00"
+  },
+  "searchEvidence": {
+    "path": "coverage-2026-10-28/responses/mandevilla-crassinoda.json",
+    "sha256": "423093bea2d81f99d0b3f5d7a74658f44cad9518a8e3f976caa1edbb7903a1d1",
+    "retrievedAt": "2026-10-28T15:45:36.170482+00:00"
+  }
+}

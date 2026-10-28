@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Nectandra+oppositifolia&photo_license=cc0&per_page=30&order_by=votes",
+  "photo": {
+    "id": 476847823,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476847823/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Francisco de Menezes Cavalcante Sassi",
+  "observation": {
+    "id": 265472215,
+    "quality_grade": "needs_id",
+    "taxon": {
+      "id": 544631,
+      "name": "Nectandra oppositifolia"
+    },
+    "observerLogin": "chicosassi",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476847823/large.jpeg",
+    "sha256": "97913e41a3b7335f7246b45301466e1666fbde5656a911daf37dea107a583762",
+    "retrievedAt": "2026-10-28T16:02:37.988113+00:00"
+  },
+  "searchEvidence": {
+    "path": "coverage-2026-10-28/responses-expanded/nectandra-oppositifolia.json",
+    "sha256": "4c3c78291dc3d132a404cbfa1827afe4ec78e94013ab451c5d622275a2a19793",
+    "retrievedAt": "2026-10-28T15:54:32.954164+00:00"
+  }
+}

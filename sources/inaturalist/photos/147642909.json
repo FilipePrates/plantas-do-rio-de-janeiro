@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrrhinium+atropurpureum&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 147642909,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147642909/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Gustavo Puente",
+  "observation": {
+    "id": 89409557,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 441039,
+      "name": "Myrrhinium atropurpureum"
+    },
+    "observerLogin": "gustavopuente",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147642909/large.jpeg",
+    "sha256": "9076c73c24b61f72b48043d8a0b746af5ca2eefbb8db24d4179b319b9f9afa29",
+    "retrievedAt": "2026-10-28T16:02:17.948063+00:00"
+  },
+  "searchEvidence": {
+    "path": "coverage-2026-10-28/responses/myrrhinium-atropurpureum.json",
+    "sha256": "5e0137ef3850dc1b30aa11e84acab8c4c99f9459dd1b5b78bb01781fa12b2f18",
+    "retrievedAt": "2026-10-28T15:49:20.729383+00:00"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "title": "Plantas do Rio de Janeiro",
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28T16:02:50.799644+00:00",
   "maxSpecies": 1500,
   "scope": "Flora nativa do município do Rio de Janeiro, com extensão estadual explicitamente identificada, e plantas exóticas selecionadas para reconhecimento. Mata Atlântica, incluindo restingas, manguezais, afloramentos e florestas.",
   "plants": [
@@ -665,7 +665,7 @@
       "rank": "genus",
       "origin": "native",
       "geography": "rio-state",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "description": "Esta ficha reúne 44 espécies nativas do estado do Rio de Janeiro na Mata Atlântica que não têm ficha individual neste guia; 34 têm substrato terrícola registrado. Contagens derivadas dos membros e da Flora e Funga do Brasil consultada em 16/10/2026; seleção reorganizada em 24/10/2026. Não são contagens municipais. Anthurium coriaceum e A. pentaphyllum têm fichas próprias.",
       "identification": "As fotos desta ficha mostram Anthurium scandens, com seu porte e estruturas reprodutivas; não ilustram as outras espécies enumeradas. Observe a folha inteira, as nervuras e o caule. A separação de muitos antúrios depende também do pecíolo, dos catafilos e da inflorescência, com auxílio de chave botânica e especialista. Uma identificação apenas como Anthurium é adequada quando faltam esses caracteres.",
       "ecology": "Campos de altitude; Campos rupestres; Florestas estacionais deciduais; Florestas estacionais semideciduais; Florestas úmidas; Restinga; Afloramentos rochosos.",
@@ -2489,7 +2489,7 @@
       "rank": "genus",
       "origin": "native",
       "geography": "rio-state",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "description": "Filodendros nativos com grande variedade de folhas e modos de crescer. O grupo inclui plantas que usam troncos como suporte e espécies que vivem no solo ou sobre rochas. Esta ficha reúne 29 espécies nativas do estado do Rio de Janeiro na Mata Atlântica; 5 têm ocorrência no solo registrada. Contagem derivada dos membros da ficha, conforme a Flora e Funga do Brasil consultada em 16/10/2026.",
       "identification": "As pequenas flores ficam reunidas em uma espiga, chamada espádice, acompanhada por uma folha modificada, a espata. Compare a folha inteira, suas nervuras, o caule e a inflorescência. Cada foto representa a espécie indicada na legenda; uma imagem não identifica todos os membros do grupo. A galeria ilustra apenas Philodendron appendiculatum, P. bipennifolium e P. cordatum. A forma da folha pode mudar com o desenvolvimento; a separação das espécies pode exigir inflorescências, detalhes do pecíolo e consulta a especialista.",
       "ecology": "Campinarana; Campos de altitude; Campos rupestres; Carrasco; Matas ciliares e de galeria; Florestas estacionais semideciduais; Florestas úmidas; Florestas de igapó; Florestas de terra firme; Florestas de várzea; Restinga; Afloramentos rochosos; Áreas alteradas.",
@@ -5217,7 +5217,48 @@
       ],
       "floraId": 34082,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-755792379",
+          "fileName": "inat-755792379.jpg",
+          "photoId": 755792379,
+          "observationId": 410897874,
+          "taxonId": 366090,
+          "taxonName": "Syagrus picrophylla",
+          "creator": "filipeprates",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/755792379/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/410897874",
+          "downloadedAt": "2026-10-28T15:35:58.131Z",
+          "sha256": "ef15846d5783b50635ed6e0b4e16802a99099d471e4aa07366dfed1188ec9037",
+          "markers": [
+            "wholePlant"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-755792952",
+          "fileName": "inat-755792952.jpg",
+          "photoId": 755792952,
+          "observationId": 410897925,
+          "taxonId": 366090,
+          "taxonName": "Syagrus picrophylla",
+          "creator": "filipeprates",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/755792952/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/410897925",
+          "downloadedAt": "2026-10-28T15:36:33.529Z",
+          "sha256": "20a64433e1f8aa42b217bd2c433127f5b7ad9486d1c4fe5a3b13aa93bfe48525",
+          "markers": [
+            "fruit"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Syagrus picrophylla (FB34082)",
@@ -7957,7 +7998,48 @@
       ],
       "floraId": 6221,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-13781371",
+          "fileName": "inat-13781371.jpeg",
+          "photoId": 13781371,
+          "observationId": 10021496,
+          "taxonId": 479671,
+          "taxonName": "Neoregelia spectabilis",
+          "creator": "Giselle Blythe",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13781371/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/10021496",
+          "downloadedAt": "2026-10-28T16:02:21.835510+00:00",
+          "sha256": "fd589a77ecad722f59553918b6650b5a63dcb8a19657c0ebc677208d1e252d19",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa. Planta registrada como cultivada.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-91014088",
+          "fileName": "inat-91014088.jpeg",
+          "photoId": 91014088,
+          "observationId": 57078205,
+          "taxonId": 479671,
+          "taxonName": "Neoregelia spectabilis",
+          "creator": "Jake Rehage",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/91014088/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/57078205",
+          "downloadedAt": "2026-10-28T16:02:23.641564+00:00",
+          "sha256": "e9c0ee681f458df53646bcc1e75ddcf1c1da9724fb8627e79df33137f9bec0d1",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa. Planta registrada como cultivada.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Neoregelia spectabilis (FB6221)",
@@ -11455,7 +11537,48 @@
       ],
       "floraId": 22915,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-636168952",
+          "fileName": "inat-636168952.jpg",
+          "photoId": 636168952,
+          "observationId": 348788031,
+          "taxonId": 191300,
+          "taxonName": "Dalbergia nigra",
+          "creator": "Gabriel Cardoso Fialho",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/636168952/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/348788031",
+          "downloadedAt": "2026-10-28T16:02:30.824924+00:00",
+          "sha256": "a3785b5e8822473216d8220748c8c1d1c0e5cfcddb657b6ab3b20f1dd11966c2",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa. Muda em recipiente de viveiro; não representa o porte adulto.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-753037434",
+          "fileName": "inat-753037434.jpg",
+          "photoId": 753037434,
+          "observationId": 409544714,
+          "taxonId": 191300,
+          "taxonName": "Dalbergia nigra",
+          "creator": "Gabriel Cardoso Fialho",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753037434/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/409544714",
+          "downloadedAt": "2026-10-28T16:02:33.600394+00:00",
+          "sha256": "8716cedfaafa1bbd5f5b82860fe2ec91c36468578c9f3ddad67a81ff0093325d",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Dalbergia nigra (FB22915)",
@@ -13729,7 +13852,48 @@
       ],
       "floraId": 8434,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-476847863",
+          "fileName": "inat-476847863.jpeg",
+          "photoId": 476847863,
+          "observationId": 265472215,
+          "taxonId": 544631,
+          "taxonName": "Nectandra oppositifolia",
+          "creator": "Francisco de Menezes Cavalcante Sassi",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/476847863/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/265472215",
+          "downloadedAt": "2026-10-28T16:02:36.080109+00:00",
+          "sha256": "e374798351b7ee2ac4b5b5490b48b6f9d3bfe1c94db199e915cc82b4ce52c1f5",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-476847823",
+          "fileName": "inat-476847823.jpeg",
+          "photoId": 476847823,
+          "observationId": 265472215,
+          "taxonId": 544631,
+          "taxonName": "Nectandra oppositifolia",
+          "creator": "Francisco de Menezes Cavalcante Sassi",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/476847823/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/265472215",
+          "downloadedAt": "2026-10-28T16:02:37.988113+00:00",
+          "sha256": "97913e41a3b7335f7246b45301466e1666fbde5656a911daf37dea107a583762",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Nectandra oppositifolia (FB8434)",
@@ -19753,7 +19917,48 @@
       ],
       "floraId": 13835,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-449371442",
+          "fileName": "inat-449371442.jpeg",
+          "photoId": 449371442,
+          "observationId": 251173415,
+          "taxonId": 804834,
+          "taxonName": "Bathysa australis",
+          "creator": "Paulo Mascaretti",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/449371442/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/251173415",
+          "downloadedAt": "2026-10-28T16:02:39.813881+00:00",
+          "sha256": "00553ce8beb79d23e561a69d89841b2d6eedb4a32005c390b741e9ef343fd5e8",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-424687346",
+          "fileName": "inat-424687346.jpeg",
+          "photoId": 424687346,
+          "observationId": 238536334,
+          "taxonId": 804834,
+          "taxonName": "Bathysa australis",
+          "creator": "Alfredo F. Fuentes Claros",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/424687346/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/238536334",
+          "downloadedAt": "2026-10-28T16:02:42.075722+00:00",
+          "sha256": "1c8adfe108880bf4521dad9f31e40a6cf73571366208e6c048ccb9cba8d0fc03",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Bathysa australis (FB13835)",
@@ -21393,7 +21598,68 @@
       ],
       "floraId": 34115,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-750506760",
+          "fileName": "inat-750506760.jpg",
+          "photoId": 750506760,
+          "observationId": 408300944,
+          "taxonId": 189589,
+          "taxonName": "Avicennia schaueriana",
+          "creator": "filipeprates",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/750506760/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/408300944",
+          "downloadedAt": "2026-10-28T16:02:44.070594+00:00",
+          "sha256": "b5ce663e0705d6e6771c056df17da3e8d915d6b6493e4ba1d1bc437b3c59bf0d",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-601987468",
+          "fileName": "inat-601987468.jpg",
+          "photoId": 601987468,
+          "observationId": 331795044,
+          "taxonId": 189589,
+          "taxonName": "Avicennia schaueriana",
+          "creator": "Lucas Rodrigues",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/601987468/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/331795044",
+          "downloadedAt": "2026-10-28T16:02:45.666347+00:00",
+          "sha256": "9e03751e4b5f1e924219e9674c6baf0dd0bf7bfab68526e104c05e923a821ea1",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-677082007",
+          "fileName": "inat-677082007.jpg",
+          "photoId": 677082007,
+          "observationId": 370619683,
+          "taxonId": 189589,
+          "taxonName": "Avicennia schaueriana",
+          "creator": "André Pardal",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/677082007/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/370619683",
+          "downloadedAt": "2026-10-28T16:02:47.512644+00:00",
+          "sha256": "525d8d9eced30a68a6133924ec13c1f86852c80fa43a68e3d7b43f7cc3121b18",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Avicennia schaueriana (FB34115)",
@@ -23362,7 +23628,68 @@
       ],
       "floraId": 110560,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-629007625",
+          "fileName": "inat-629007625.jpg",
+          "photoId": 629007625,
+          "observationId": 345173726,
+          "taxonId": 570275,
+          "taxonName": "Xylopia brasiliensis",
+          "creator": "Gabriel Cardoso Fialho",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/629007625/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/345173726",
+          "downloadedAt": "2026-10-28T16:01:19.617915+00:00",
+          "sha256": "e1dc5620986b82bcab64a6ab9228763e2c794c04d13411c312430af50e30102b",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-478712253",
+          "fileName": "inat-478712253.jpeg",
+          "photoId": 478712253,
+          "observationId": 266435462,
+          "taxonId": 570275,
+          "taxonName": "Xylopia brasiliensis",
+          "creator": "Paulo Mascaretti",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/478712253/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/266435462",
+          "downloadedAt": "2026-10-28T16:01:21.940969+00:00",
+          "sha256": "64955006a7ad5cab18ab6014af39b6a645478d79f00b5089eef6c4885d111d14",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-580384653",
+          "fileName": "inat-580384653.jpg",
+          "photoId": 580384653,
+          "observationId": 320959775,
+          "taxonId": 570275,
+          "taxonName": "Xylopia brasiliensis",
+          "creator": "ringmike",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/580384653/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/320959775",
+          "downloadedAt": "2026-10-28T16:01:23.797393+00:00",
+          "sha256": "2dd3c0893060008ab1e3b1eb3791fe729e1016f017bedcc81aa3490544ddb45d",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Xylopia brasiliensis (FB110560)",
@@ -23475,7 +23802,68 @@
       ],
       "floraId": 4656,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-568679468",
+          "fileName": "inat-568679468.jpg",
+          "photoId": 568679468,
+          "observationId": 314838994,
+          "taxonId": 879510,
+          "taxonName": "Mandevilla crassinoda",
+          "creator": "filipeprates",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/568679468/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/314838994",
+          "downloadedAt": "2026-10-28T16:01:25.502288+00:00",
+          "sha256": "9c2da0ab8c8b6ea9daa2c24a63f9d510313ba4588308f7bb656b06ca38b881c0",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-568679498",
+          "fileName": "inat-568679498.jpg",
+          "photoId": 568679498,
+          "observationId": 314838994,
+          "taxonId": 879510,
+          "taxonName": "Mandevilla crassinoda",
+          "creator": "filipeprates",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/568679498/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/314838994",
+          "downloadedAt": "2026-10-28T16:01:27.766985+00:00",
+          "sha256": "9daab1266f2526d9629ad007a35b0484a5d921a52a5409c53a4358440d8fc690",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-568679407",
+          "fileName": "inat-568679407.jpg",
+          "photoId": 568679407,
+          "observationId": 314838999,
+          "taxonId": 879510,
+          "taxonName": "Mandevilla crassinoda",
+          "creator": "filipeprates",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/568679407/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/314838999",
+          "downloadedAt": "2026-10-28T16:01:29.769086+00:00",
+          "sha256": "f2f0e6c1ee1ac86ccfb9f71a32f94a9970f6600aa666604a58385290b49b6f7b",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Mandevilla crassinoda (FB4656)",
@@ -25233,7 +25621,28 @@
       ],
       "floraId": 22796,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-255156924",
+          "fileName": "inat-255156924.jpg",
+          "photoId": 255156924,
+          "observationId": 148197691,
+          "taxonId": 747134,
+          "taxonName": "Apuleia leiocarpa",
+          "creator": "Frank Thomas Sautter",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255156924/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/148197691",
+          "downloadedAt": "2026-10-28T16:01:32.689173+00:00",
+          "sha256": "fe886d048e94421e27e964958dc10e1ce487fbe9a9d4b4975e7f7b1829142852",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Apuleia leiocarpa (FB22796)",
@@ -26180,7 +26589,48 @@
       ],
       "floraId": 7818,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-580385698",
+          "fileName": "inat-580385698.jpg",
+          "photoId": 580385698,
+          "observationId": 320959881,
+          "taxonId": 964717,
+          "taxonName": "Besleria melancholica",
+          "creator": "ringmike",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/580385698/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/320959881",
+          "downloadedAt": "2026-10-28T16:01:34.733791+00:00",
+          "sha256": "7c18fcd5e1a3718fe9c36c65d3aa52bb8bc3af4ccf55aa7a73a5acc05802976f",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-454772982",
+          "fileName": "inat-454772982.jpg",
+          "photoId": 454772982,
+          "observationId": 253949822,
+          "taxonId": 964717,
+          "taxonName": "Besleria melancholica",
+          "creator": "filipeprates",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/454772982/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/253949822",
+          "downloadedAt": "2026-10-28T16:01:36.925350+00:00",
+          "sha256": "359e534ac32645e3f317bd422b593b21e5d8ddafd54aca14ed36d0ccd8af6215",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Besleria melancholica (FB7818)",
@@ -26455,7 +26905,48 @@
       ],
       "floraId": 8548,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-512946853",
+          "fileName": "inat-512946853.jpg",
+          "photoId": 512946853,
+          "observationId": 285377972,
+          "taxonId": 190967,
+          "taxonName": "Couratari pyramidata",
+          "creator": "filipeprates",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/512946853/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/285377972",
+          "downloadedAt": "2026-10-28T16:02:05.961421+00:00",
+          "sha256": "53381024f4b576bc6e75d7655704d3a0f00eed3c59431524f4e046b1726b1c66",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-512946945",
+          "fileName": "inat-512946945.jpg",
+          "photoId": 512946945,
+          "observationId": 285377972,
+          "taxonId": 190967,
+          "taxonName": "Couratari pyramidata",
+          "creator": "filipeprates",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/512946945/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/285377972",
+          "downloadedAt": "2026-10-28T16:02:07.833829+00:00",
+          "sha256": "e8e4cf70699238b7d5c09fe86b6974d65d46219bc20f0d1adc053430e04b4f91",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Couratari pyramidata (FB8548)",
@@ -27180,7 +27671,68 @@
       ],
       "floraId": 9990,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-608922187",
+          "fileName": "inat-608922187.jpg",
+          "photoId": 608922187,
+          "observationId": 335214819,
+          "taxonId": 135399,
+          "taxonName": "Cedrela fissilis",
+          "creator": "Tiago Lubiana",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/608922187/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/335214819",
+          "downloadedAt": "2026-10-28T16:01:40.049140+00:00",
+          "sha256": "ce98283508467d3c77f48930efccc19213e2ff1cc351811e24fe8979cab6f89b",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-177846021",
+          "fileName": "inat-177846021.jpeg",
+          "photoId": 177846021,
+          "observationId": 105926878,
+          "taxonId": 135399,
+          "taxonName": "Cedrela fissilis",
+          "creator": "Fede y Vani",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177846021/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/105926878",
+          "downloadedAt": "2026-10-28T16:01:41.620668+00:00",
+          "sha256": "500bfb3798187b469d2d4f6477a1f978cf6ebbac9ec844553aaa7fb84cc1cbc5",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-197586990",
+          "fileName": "inat-197586990.jpeg",
+          "photoId": 197586990,
+          "observationId": 117024131,
+          "taxonId": 135399,
+          "taxonName": "Cedrela fissilis",
+          "creator": "Paisaje Protegido Paso Centurión y Sierra de Ríos",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/197586990/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/117024131",
+          "downloadedAt": "2026-10-28T16:01:43.898292+00:00",
+          "sha256": "4b549a116cbf4eec83666f441af2080e5044f4f3150bcdb14cdbf07caeb0f6c2",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Cedrela fissilis (FB9990)",
@@ -27246,7 +27798,68 @@
       ],
       "floraId": 9992,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-468548713",
+          "fileName": "inat-468548713.jpg",
+          "photoId": 468548713,
+          "observationId": 260865446,
+          "taxonId": 62833,
+          "taxonName": "Cedrela odorata",
+          "creator": "Kathy Daniel",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/468548713/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/260865446",
+          "downloadedAt": "2026-10-28T15:39:07.592Z",
+          "sha256": "1902d18100959f1c6945ed57c5b2ea398f91eaa2fcae9b4f2b30ded1ea8bc676",
+          "markers": [
+            "fruit"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-468548968",
+          "fileName": "inat-468548968.jpg",
+          "photoId": 468548968,
+          "observationId": 260865446,
+          "taxonId": 62833,
+          "taxonName": "Cedrela odorata",
+          "creator": "Kathy Daniel",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/468548968/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/260865446",
+          "downloadedAt": "2026-10-28T15:39:08.688Z",
+          "sha256": "1d16439376ba3b89c77aa25239d94b86941087819a04adfa7bd8e4fe0d84ac84",
+          "markers": [
+            "wholePlant"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-468548894",
+          "fileName": "inat-468548894.jpg",
+          "photoId": 468548894,
+          "observationId": 260865446,
+          "taxonId": 62833,
+          "taxonName": "Cedrela odorata",
+          "creator": "Kathy Daniel",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/468548894/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/260865446",
+          "downloadedAt": "2026-10-28T15:39:09.791Z",
+          "sha256": "0ee74355dc1b7af3816dd604b9f8c470596177d3e10f9d206e4acfc6b90a784b",
+          "markers": [
+            "bark"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Cedrela odorata (FB9992)",
@@ -27273,7 +27886,8 @@
           "sourceLocator": "Anexo I, item 229; página 19 do PDF",
           "locality": "Município do Rio de Janeiro"
         }
-      ]
+      ],
+      "regionalEvidence": []
     },
     {
       "id": "macropeplus-friburgensis",
@@ -27412,7 +28026,48 @@
       ],
       "floraId": 10082,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-580390151",
+          "fileName": "inat-580390151.jpg",
+          "photoId": 580390151,
+          "observationId": 320960590,
+          "taxonId": 440753,
+          "taxonName": "Mollinedia engleriana",
+          "creator": "ringmike",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/580390151/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/320960590",
+          "downloadedAt": "2026-10-28T16:02:49.162801+00:00",
+          "sha256": "cf6154ec9c2a9eff58523482f54a5f17b13af32f2810a004c0d19797ff042e42",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-580390183",
+          "fileName": "inat-580390183.jpg",
+          "photoId": 580390183,
+          "observationId": 320960590,
+          "taxonId": 440753,
+          "taxonName": "Mollinedia engleriana",
+          "creator": "ringmike",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/580390183/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/320960590",
+          "downloadedAt": "2026-10-28T16:02:50.497819+00:00",
+          "sha256": "464ca4d8ff3bd443be4cb6c9126c5098b96e45ef3c8a420de1c5571c7139c74d",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Mollinedia engleriana (FB10082)",
@@ -27588,7 +28243,68 @@
       ],
       "floraId": 10316,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-214511985",
+          "fileName": "inat-214511985.jpeg",
+          "photoId": 214511985,
+          "observationId": 126427234,
+          "taxonId": 563860,
+          "taxonName": "Campomanesia guazumifolia",
+          "creator": "demianlescano",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/214511985/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/126427234",
+          "downloadedAt": "2026-10-28T16:01:46.082299+00:00",
+          "sha256": "c8a02999ec8ad5dacb8e74fe360dfd2d8fe10deacd1cf2d78e8bd6e9801b4bea",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-59900818",
+          "fileName": "inat-59900818.jpg",
+          "photoId": 59900818,
+          "observationId": 37747296,
+          "taxonId": 563860,
+          "taxonName": "Campomanesia guazumifolia",
+          "creator": "Fernando Sessegolo",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59900818/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/37747296",
+          "downloadedAt": "2026-10-28T16:01:47.728707+00:00",
+          "sha256": "0730922dab659593e03ee916f45babb430c2e8329dd1411133f7d95713a4fa8a",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-59900811",
+          "fileName": "inat-59900811.jpg",
+          "photoId": 59900811,
+          "observationId": 37747296,
+          "taxonId": 563860,
+          "taxonName": "Campomanesia guazumifolia",
+          "creator": "Fernando Sessegolo",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59900811/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/37747296",
+          "downloadedAt": "2026-10-28T16:01:49.579938+00:00",
+          "sha256": "ad9648ccfd73bd36129527604f302c33cd0153485835dca05b00ad122a0f6f2d",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Campomanesia guazumifolia (FB10316)",
@@ -28109,7 +28825,68 @@
       ],
       "floraId": 10792,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-257057483",
+          "fileName": "inat-257057483.jpg",
+          "photoId": 257057483,
+          "observationId": 149199349,
+          "taxonId": 84058,
+          "taxonName": "Myrciaria floribunda",
+          "creator": "Yolanda M. Leon",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/257057483/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/149199349",
+          "downloadedAt": "2026-10-28T16:01:51.517850+00:00",
+          "sha256": "c42edf3183259534f4f2bc155ebc8bb1245522364b2ac05bdfb1c818d42b81fc",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-207705159",
+          "fileName": "inat-207705159.jpg",
+          "photoId": 207705159,
+          "observationId": 122664178,
+          "taxonId": 84058,
+          "taxonName": "Myrciaria floribunda",
+          "creator": "Whaldener Endo",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207705159/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/122664178",
+          "downloadedAt": "2026-10-28T16:01:54.251757+00:00",
+          "sha256": "d8062d4389ff959928205ba946cf2ece528e422fce4a357aec66bf715df1a53f",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-257057614",
+          "fileName": "inat-257057614.jpg",
+          "photoId": 257057614,
+          "observationId": 149199349,
+          "taxonId": 84058,
+          "taxonName": "Myrciaria floribunda",
+          "creator": "Yolanda M. Leon",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/257057614/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/149199349",
+          "downloadedAt": "2026-10-28T16:01:55.728703+00:00",
+          "sha256": "dc184aedbe8c6415433a15c201e25f3421a6a3a07a9c8bb6e37fd51568bbbda6",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Myrciaria floribunda (FB10792)",
@@ -28170,7 +28947,68 @@
       ],
       "floraId": 10794,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-735053871",
+          "fileName": "inat-735053871.jpg",
+          "photoId": 735053871,
+          "observationId": 400546918,
+          "taxonId": 563897,
+          "taxonName": "Myrciaria glazioviana",
+          "creator": "Tiago Lubiana",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/735053871/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/400546918",
+          "downloadedAt": "2026-10-28T16:01:57.852608+00:00",
+          "sha256": "68a29f057b603c7197831f8caaa954fdf6707f340129f73bd900b31132afb673",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-735055470",
+          "fileName": "inat-735055470.jpg",
+          "photoId": 735055470,
+          "observationId": 400547631,
+          "taxonId": 563897,
+          "taxonName": "Myrciaria glazioviana",
+          "creator": "Tiago Lubiana",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/735055470/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/400547631",
+          "downloadedAt": "2026-10-28T16:02:00.565218+00:00",
+          "sha256": "594021b83d337479b328ca990175a12d2e5db150d3d462da91eb199f5f0cd1a0",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-608922637",
+          "fileName": "inat-608922637.jpg",
+          "photoId": 608922637,
+          "observationId": 335215098,
+          "taxonId": 563897,
+          "taxonName": "Myrciaria glazioviana",
+          "creator": "Tiago Lubiana",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/608922637/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/335215098",
+          "downloadedAt": "2026-10-28T16:02:02.218697+00:00",
+          "sha256": "5b788eb2e3b46f9bca0699188060a0e1247015833b37d5d33168617e6c6fbe48",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Myrciaria glazioviana (FB10794)",
@@ -28231,7 +29069,68 @@
       ],
       "floraId": 10802,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-481871868",
+          "fileName": "inat-481871868.jpeg",
+          "photoId": 481871868,
+          "observationId": 268100751,
+          "taxonId": 868013,
+          "taxonName": "Myrciaria tenella",
+          "creator": "Carol Fontes",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/481871868/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/268100751",
+          "downloadedAt": "2026-10-28T16:02:09.752634+00:00",
+          "sha256": "25dec1d86acee154ff3abf67300d1695cd195c685e597e6a2c9f72876840d841",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-481871935",
+          "fileName": "inat-481871935.jpeg",
+          "photoId": 481871935,
+          "observationId": 268100751,
+          "taxonId": 868013,
+          "taxonName": "Myrciaria tenella",
+          "creator": "Carol Fontes",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/481871935/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/268100751",
+          "downloadedAt": "2026-10-28T16:02:11.865179+00:00",
+          "sha256": "4731c5cc017b3d88f978a4ff1e1d011f09b4c30f9e18d18d0b3f939045324222",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-481871403",
+          "fileName": "inat-481871403.jpeg",
+          "photoId": 481871403,
+          "observationId": 268100751,
+          "taxonId": 868013,
+          "taxonName": "Myrciaria tenella",
+          "creator": "Carol Fontes",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/481871403/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/268100751",
+          "downloadedAt": "2026-10-28T16:02:14.865735+00:00",
+          "sha256": "d660e78c59147b832d17824073cee7e461940d12fec45618046f9338b62c1586",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Myrciaria tenella (FB10802)",
@@ -28289,7 +29188,68 @@
       ],
       "floraId": 10804,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-239318843",
+          "fileName": "inat-239318843.jpeg",
+          "photoId": 239318843,
+          "observationId": 139869482,
+          "taxonId": 441039,
+          "taxonName": "Myrrhinium atropurpureum",
+          "creator": "Luis Capeletti",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/239318843/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/139869482",
+          "downloadedAt": "2026-10-28T16:02:16.402951+00:00",
+          "sha256": "4e165a738f4cf8328577cb62f68a4f593f019b9d6e083b6e72ab51cf627e4527",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-147642909",
+          "fileName": "inat-147642909.jpeg",
+          "photoId": 147642909,
+          "observationId": 89409557,
+          "taxonId": 441039,
+          "taxonName": "Myrrhinium atropurpureum",
+          "creator": "Gustavo Puente",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147642909/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/89409557",
+          "downloadedAt": "2026-10-28T16:02:17.948063+00:00",
+          "sha256": "9076c73c24b61f72b48043d8a0b746af5ca2eefbb8db24d4179b319b9f9afa29",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-176137057",
+          "fileName": "inat-176137057.jpg",
+          "photoId": 176137057,
+          "observationId": 105034651,
+          "taxonId": 441039,
+          "taxonName": "Myrrhinium atropurpureum",
+          "creator": "Hugo Hulsberg",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176137057/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/105034651",
+          "downloadedAt": "2026-10-28T16:02:19.992085+00:00",
+          "sha256": "6e104b4862ce45671ddc9009631b138fe3e3a861e6d13f4893033776553e3545",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Myrrhinium atropurpureum (FB10804)",
@@ -28463,7 +29423,28 @@
       ],
       "floraId": 10845,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-756417709",
+          "fileName": "inat-756417709.jpg",
+          "photoId": 756417709,
+          "observationId": 411203729,
+          "taxonId": 563910,
+          "taxonName": "Plinia rivularis",
+          "creator": "Hugo Hulsberg",
+          "license": "CC0-1.0",
+          "licenseCode": "cc0",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/756417709/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/411203729",
+          "downloadedAt": "2026-10-28T16:02:03.972867+00:00",
+          "sha256": "73bc2e34b699e98dad143562484522e753076110e31b9f774903ed6ee911a8ba",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Plinia rivularis (FB10845)",

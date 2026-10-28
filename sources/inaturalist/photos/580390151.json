@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Mollinedia+engleriana&photo_license=cc0&per_page=30&order_by=votes",
+  "photo": {
+    "id": 580390151,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 946,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580390151/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "ringmike",
+  "observation": {
+    "id": 320960590,
+    "quality_grade": "needs_id",
+    "taxon": {
+      "id": 440753,
+      "name": "Mollinedia engleriana"
+    },
+    "observerLogin": "ringmike",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580390151/large.jpg",
+    "sha256": "cf6154ec9c2a9eff58523482f54a5f17b13af32f2810a004c0d19797ff042e42",
+    "retrievedAt": "2026-10-28T16:02:49.162801+00:00"
+  },
+  "searchEvidence": {
+    "path": "coverage-2026-10-28/responses-expanded/mollinedia-engleriana.json",
+    "sha256": "7f89d3b8b95ab529a5132e69b58727a75b9ada90b66d45ee90eb00aaa72ebb8c",
+    "retrievedAt": "2026-10-28T15:56:18.357529+00:00"
+  }
+}

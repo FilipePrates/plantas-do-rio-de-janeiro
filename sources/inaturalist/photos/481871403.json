@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrciaria+tenella&photo_license=cc0&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 481871403,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481871403/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Carol Fontes",
+  "observation": {
+    "id": 268100751,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 868013,
+      "name": "Myrciaria tenella"
+    },
+    "observerLogin": "carol211",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481871403/large.jpeg",
+    "sha256": "d660e78c59147b832d17824073cee7e461940d12fec45618046f9338b62c1586",
+    "retrievedAt": "2026-10-28T16:02:14.865735+00:00"
+  },
+  "searchEvidence": {
+    "path": "coverage-2026-10-28/responses/myrciaria-tenella.json",
+    "sha256": "ebec6b40e03f2fe440bbe03e3c9dd6275882aa2640e0362851376cfc3809f8f1",
+    "retrievedAt": "2026-10-28T15:49:17.066446+00:00"
+  }
+}
