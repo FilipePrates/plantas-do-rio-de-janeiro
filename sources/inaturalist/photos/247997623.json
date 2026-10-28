@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Alcantarea+regina&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 247997623,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1318,
+      "height": 989
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247997623/square.jpeg",
+    "attribution": "(c) Carlos Otávio Gussoni, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Carlos Otávio Gussoni",
+  "observation": {
+    "id": 144489284,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 511001,
+      "name": "Alcantarea regina"
+    },
+    "observerLogin": "gussoni",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247997623/large.jpeg",
+    "sha256": "f18ce65c28acbcf0bacbe9540ea57c85014c1d6cdac3f8a148ffaa3f4de6a01a",
+    "retrievedAt": "2026-10-28T16:47:08.368061+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/alcantarea-regina.json",
+    "sha256": "13639336aadacb37fae07c53fbaeaee61c9abbf72ccd6ba8fc5a14b3828ec584",
+    "retrievedAt": "2026-10-28T16:26:03.825208+00:00"
+  }
+}

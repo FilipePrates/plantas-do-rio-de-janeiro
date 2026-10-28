@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Sparattosperma+leucanthum&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 604167788,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604167788/square.jpg",
+    "attribution": "(c) Gabriel Jovêncio Ribeiro, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Gabriel Jovêncio Ribeiro",
+  "observation": {
+    "id": 332856952,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 823819,
+      "name": "Sparattosperma leucanthum"
+    },
+    "observerLogin": "gabrieljovencio",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604167788/large.jpg",
+    "sha256": "7126b4eba7ff746adcf7d8bddcdc98b9d67c3989e6aa36fc8acc55b17eee1053",
+    "retrievedAt": "2026-10-28T16:47:03.253052+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/sparattosperma-leucanthum.json",
+    "sha256": "7ca2983a036492356d61faf3cb07e5c9e9adb4fe6cffda88f97bb5928d900848",
+    "retrievedAt": "2026-10-28T16:26:02.374297+00:00"
+  }
+}

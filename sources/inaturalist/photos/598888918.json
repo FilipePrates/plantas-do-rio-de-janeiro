@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Aspidosperma+parvifolium&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 598888918,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1153
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598888918/square.jpg",
+    "attribution": "(c) Thomaz Ricardo Favreto Sinani, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Thomaz Ricardo Favreto Sinani",
+  "observation": {
+    "id": 330288193,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 790703,
+      "name": "Aspidosperma parvifolium"
+    },
+    "observerLogin": "trfsinani",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598888918/large.jpg",
+    "sha256": "3d53b3a9538dbccd0a98c1c195f8abab4fb0211b9285e44d2e11b1017996a338",
+    "retrievedAt": "2026-10-28T16:48:27.284716+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/aspidosperma-parvifolium.json",
+    "sha256": "c3e6efdfad5d71124b01d1aebe3978f12ca375520e23642113c5533daa391953",
+    "retrievedAt": "2026-10-28T16:26:37.281915+00:00"
+  }
+}

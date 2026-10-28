@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Nidularium+fulgens&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 115647460,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115647460/square.jpeg",
+    "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Victor Farjalla Pontes",
+  "observation": {
+    "id": 71072633,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 508773,
+      "name": "Nidularium fulgens"
+    },
+    "observerLogin": "vfarjalla",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115647460/large.jpeg",
+    "sha256": "4b32788516f2229df15608e9596a81759b5285f89eb7c71cb861c657efacc8e6",
+    "retrievedAt": "2026-10-28T16:47:17.229265+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/nidularium-fulgens.json",
+    "sha256": "ac153a31b945878fd58198dfb81f186d7491a5cea850d2a5393f9392291a9065",
+    "retrievedAt": "2026-10-28T16:26:06.936409+00:00"
+  }
+}

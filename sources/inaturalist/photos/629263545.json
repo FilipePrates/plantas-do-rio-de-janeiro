@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Clusia+hilariana&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 629263545,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1152,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629263545/square.jpg",
+    "attribution": "(c) Henrique Nogueira, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Henrique Nogueira",
+  "observation": {
+    "id": 345300732,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 709674,
+      "name": "Clusia hilariana"
+    },
+    "observerLogin": "herpetonogueira",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629263545/large.jpg",
+    "sha256": "271851bf6cbd055d46d5a6064fdee399d965340e28977a88bfe04816df646f66",
+    "retrievedAt": "2026-10-28T16:47:12.575834+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/clusia-hilariana.json",
+    "sha256": "9acc52f4cee143bae23455ea4c356e5e3bd3c84819e42333e6ba2c14b3a22bd6",
+    "retrievedAt": "2026-10-28T16:26:07.676598+00:00"
+  }
+}

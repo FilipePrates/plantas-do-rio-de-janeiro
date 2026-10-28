@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Miconia+cinnamomifolia&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 598543422,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598543422/square.jpg",
+    "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Pablo Cauã da Silva Toledo",
+  "observation": {
+    "id": 330117891,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1394940,
+      "name": "Miconia cinnamomifolia"
+    },
+    "observerLogin": "pablocauapc",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598543422/large.jpg",
+    "sha256": "d02f69135969290a5a3bad4b75b062c91ff07dc4343906434ebf2130cc28380c",
+    "retrievedAt": "2026-10-28T16:47:55.658203+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/miconia-cinnamomifolia.json",
+    "sha256": "9c4d4a0495ed56f0715ac33f6d6b4c6efef22d9bb64bdeba737fca11b26f41a2",
+    "retrievedAt": "2026-10-28T16:26:19.150919+00:00"
+  }
+}

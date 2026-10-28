@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Tabebuia+cassinoides&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 410540697,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/410540697/square.jpeg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 231170405,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 85336,
+      "name": "Tabebuia cassinoides"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/410540697/large.jpeg",
+    "sha256": "38d82e82210a45e655612ffdc2fbc2f8d3b6d744e187924fa591821544180c86",
+    "retrievedAt": "2026-10-28T16:48:32.292080+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/tabebuia-cassinoides.json",
+    "sha256": "465ecb2b176f34f884a92503bae89fdd6047729031f3c783b18c4800c91ead29",
+    "retrievedAt": "2026-10-28T16:26:53.020262+00:00"
+  }
+}

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Linking, Modal, Pressable, StatusBar, StyleSheet, Text, View } from "react-native";
+import { Modal, Pressable, StatusBar, StyleSheet, Text, View } from "react-native";
 import { Asset } from "expo-asset";
 import { Gesture, GestureDetector, GestureHandlerRootView } from "react-native-gesture-handler";
 import Animated, { cancelAnimation, useAnimatedStyle, useSharedValue, withTiming } from "react-native-reanimated";
@@ -8,6 +8,7 @@ import type { PlantPhoto } from "../catalog.mjs";
 import { plantImages } from "../data/plant-images";
 import { clampPhotoOffset, clampZoom, fitPhoto, focalOffset } from "../photoZoom.mjs";
 import { palette } from "../theme";
+import { PhotoCredit } from "./PhotoCredit";
 
 export function PhotoViewer({ photos, initialIndex, name, onClose }: {
   photos: PlantPhoto[];
@@ -57,9 +58,7 @@ export function PhotoViewer({ photos, initialIndex, name, onClose }: {
               <Text style={styles.buttonText}>›</Text>
             </Pressable>
           </View>
-          <Pressable accessibilityRole="link" accessibilityLabel={`Foto de ${photo.creator}, CC0. Abrir observação ${photo.observationId}`} onPress={() => void Linking.openURL(photo.observationUrl).catch(() => undefined)} style={styles.credit}>
-            <Text style={styles.hint} numberOfLines={1}>{photo.creator} · CC0 ↗</Text>
-          </Pressable>
+          <PhotoCredit photo={photo} />
         </View>
       </GestureHandlerRootView>
     </Modal>

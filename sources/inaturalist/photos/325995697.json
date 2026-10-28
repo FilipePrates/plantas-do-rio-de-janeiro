@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Geonoma+elegans&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 325995697,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325995697/square.jpeg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 186529843,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 365267,
+      "name": "Geonoma elegans"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325995697/large.jpeg",
+    "sha256": "4f48ce11c72eb48daba8caab85645114c310fc9a4b4cfdab1eb7d439a86d2462",
+    "retrievedAt": "2026-10-28T16:46:56.575815+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/geonoma-elegans.json",
+    "sha256": "777ea1a14165ead575e853d443a89c11545411b99869bdb4d58719206ae5d9e3",
+    "retrievedAt": "2026-10-28T16:25:58.666241+00:00"
+  }
+}

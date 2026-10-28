@@ -51,8 +51,12 @@ export interface PlantPhoto {
   taxonId: number;
   taxonName: string;
   creator: string;
-  license: "CC0-1.0";
-  licenseCode: "cc0";
+  license: "CC0-1.0" | "CC-BY-4.0";
+  licenseCode: "cc0" | "cc-by";
+  /** Required for CC BY; preserve the supplied copyright/attribution notice. */
+  attribution?: string;
+  licenseUrl?: string;
+  photoPageUrl?: string;
   sourceUrl: string;
   observationUrl: string;
   downloadedAt: string;
@@ -108,6 +112,12 @@ export interface Catalog {
 export const markerLabels: Record<PhotoMarker, string>;
 export const conservationLabels: Record<ConservationCategory, string>;
 export function parseCatalog(value: unknown): Catalog;
+export function photoLicenseLabel(photo: PlantPhoto): string;
+export function photoLicenseUrl(photo: PlantPhoto): string;
+export function inaturalistPhotoRights(photo: { license_code?: string; attribution?: string; id: number }): {
+  license: PlantPhoto["license"]; licenseCode: PlantPhoto["licenseCode"];
+  creator?: string; attribution?: string; licenseUrl?: string; photoPageUrl?: string;
+};
 export function representedSpeciesCount(catalog: Catalog): number;
 export function normalize(value: string): string;
 export function matchesPlant(plant: Plant, query: string): boolean;

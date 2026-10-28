@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Syagrus+weddelliana&photo_license=cc-by&per_page=30&order_by=votes",
+  "photo": {
+    "id": 611013912,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2036,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611013912/square.jpg",
+    "attribution": "(c) Rosario Douglas, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Rosario Douglas",
+  "observation": {
+    "id": 336257899,
+    "quality_grade": "needs_id",
+    "taxon": {
+      "id": 1535498,
+      "name": "Syagrus weddelliana"
+    },
+    "observerLogin": "argonauta",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611013912/large.jpg",
+    "sha256": "63535b5e2834c9e92f56f7995dc00fa2bf3e49062e642e0e2f679516cf44e25d",
+    "retrievedAt": "2026-10-28T16:49:36.334460+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses-expanded/syagrus-weddelliana.json",
+    "sha256": "60ef252139e194aa33f23070377041538262c4f30f6a8ae280390736b65133d2",
+    "retrievedAt": "2026-10-28T16:35:45.950799+00:00"
+  }
+}

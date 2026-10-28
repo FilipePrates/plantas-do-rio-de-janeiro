@@ -21,7 +21,7 @@ for plant in catalog['plants']:
             ImageOps.fit(image, (320, 320), method=Image.Resampling.LANCZOS).save(destination, 'WEBP', quality=78, method=4)
         manifest[photo['fileName']] = {'fileName': filename, 'sourceSha256': photo['sha256'], 'sha256': hashlib.sha256(destination.read_bytes()).hexdigest()}
 (ROOT / 'src/data/plant-thumbnail-manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
-lines = ['// Generated 320px local previews; originals retain their archived CC0 evidence.', 'import type { ImageSourcePropType } from "react-native";', 'export const plantThumbnails: Record<string, ImageSourcePropType> = {']
+lines = ['// Generated resized/cropped 320px previews; source files retain archived license evidence.', 'import type { ImageSourcePropType } from "react-native";', 'export const plantThumbnails: Record<string, ImageSourcePropType> = {']
 lines += [f'  {json.dumps(source)}: require({json.dumps("../../assets/plants/thumbnails/" + item["fileName"])}),' for source, item in sorted(manifest.items())]
 lines += ['};', '']
 (ROOT / 'src/data/plant-thumbnails.ts').write_text('\n'.join(lines))

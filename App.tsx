@@ -323,7 +323,9 @@ function Guide() {
             </Text>
             <Text style={styles.muted}>
               Dados: Flora e Funga do Brasil / Jardim Botânico do Rio de
-              Janeiro. Fotos: colaboradores do iNaturalist, exclusivamente CC0.
+              Janeiro. Fotos: colaboradores do iNaturalist, sob CC0 ou CC BY 4.0.
+              Toque no crédito de cada foto para consultar autor, origem e licença.
+              Miniaturas redimensionadas e recortadas em quadrado.
               Seleção e textos em revisão.
             </Text>
           </Card>

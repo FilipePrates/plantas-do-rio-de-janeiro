@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Vanhouttea+gardneri&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 148821166,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148821166/square.jpeg",
+    "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Victor Farjalla Pontes",
+  "observation": {
+    "id": 90076408,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 930608,
+      "name": "Vanhouttea gardneri"
+    },
+    "observerLogin": "vfarjalla",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148821166/large.jpeg",
+    "sha256": "bcaefceaff55bc15228a5212006c9d613cb12d7b98bd38afe8d23a947d000c39",
+    "retrievedAt": "2026-10-28T16:48:43.764147+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/vanhouttea-gardneri.json",
+    "sha256": "18cfdafbf5bcd3a5c7c3b2fa94dc9b2c8a0ea65378e1339d6cdbc2192a1061f2",
+    "retrievedAt": "2026-10-28T16:27:33.806931+00:00"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Sinningia+speciosa&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 721458074,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1152,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/721458074/square.jpg",
+    "attribution": "(c) fmunoz, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "fmunoz",
+  "observation": {
+    "id": 393599714,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 281612,
+      "name": "Sinningia speciosa"
+    },
+    "observerLogin": "fmunoz",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/721458074/large.jpg",
+    "sha256": "c7f8f1d0e9bb5e98d3f55feb4bbbce91d9d1437d715a781ff178f9463823cc5a",
+    "retrievedAt": "2026-10-28T16:47:32.981251+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/sinningia-speciosa.json",
+    "sha256": "a9caa3db931503a5225d302238b33dd02a8184612a3130f922942b85f5d1646e",
+    "retrievedAt": "2026-10-28T16:26:10.540017+00:00"
+  }
+}

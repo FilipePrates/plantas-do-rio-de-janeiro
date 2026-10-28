@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Virola+bicuhyba&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 236874847,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236874847/square.jpeg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 138571782,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1095082,
+      "name": "Virola bicuhyba"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236874847/large.jpeg",
+    "sha256": "7751292f4d6647121801b423f3f2965ce036a82a277a0c443dcd3c1207dada69",
+    "retrievedAt": "2026-10-28T16:48:58.119471+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/virola-bicuhyba.json",
+    "sha256": "44ab6cf901c84122e9731eaa6c1629275d3560333b19c69b865ec3f45f288abb",
+    "retrievedAt": "2026-10-28T16:27:56.312774+00:00"
+  }
+}

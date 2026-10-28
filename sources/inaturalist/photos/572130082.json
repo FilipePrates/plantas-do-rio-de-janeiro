@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Copaifera+langsdorffii&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 572130082,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1911,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572130082/square.jpg",
+    "attribution": "(c) Raquel Mondino, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Raquel Mondino",
+  "observation": {
+    "id": 316650696,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 139358,
+      "name": "Copaifera langsdorffii"
+    },
+    "observerLogin": "raquel_mondino",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572130082/large.jpg",
+    "sha256": "c78a721253c3b062fcdc340f1ba3b268bd40bb1e6951a86202335a8827dc8591",
+    "retrievedAt": "2026-10-28T16:47:28.770190+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/copaifera-langsdorffii.json",
+    "sha256": "6b857386806059799f2cb52b3b9c062da1857c27ec1d45eaeb5eaec7fbf6b275",
+    "retrievedAt": "2026-10-28T16:26:08.088360+00:00"
+  }
+}

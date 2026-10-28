@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Inga+maritima&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 150444228,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150444228/square.jpeg",
+    "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Victor Farjalla Pontes",
+  "observation": {
+    "id": 90992206,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 439114,
+      "name": "Inga maritima"
+    },
+    "observerLogin": "vfarjalla",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150444228/large.jpeg",
+    "sha256": "2ab9c9f21f1f2cfa0ca0521f9e605250a74b6b6fb7db3c1b3e2618c6629c3078",
+    "retrievedAt": "2026-10-28T16:48:37.276498+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/inga-maritima.json",
+    "sha256": "15ba599f2a89537a992d6c430b9a89f1101f40784cd0abbc518f7e99d1e181ff",
+    "retrievedAt": "2026-10-28T16:27:22.828620+00:00"
+  }
+}

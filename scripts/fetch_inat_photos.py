@@ -1,4 +1,4 @@
-"""Import only photo-level CC0 iNaturalist media, caching rights evidence.
+"""Import photo-level CC0 (default) or CC BY 4.0 media with rights evidence.
 
 Never imports the taxon's default_photo. Records stay drafts until visual
 review. Observation annotations describe observations, so they are NOT used
@@ -23,7 +23,7 @@ def get(url):
     global LAST_REQUEST
     time.sleep(max(0, 1.1 - (time.monotonic() - LAST_REQUEST)))
     LAST_REQUEST = time.monotonic()
-    request = urllib.request.Request(url, headers={'User-Agent': 'PlantasDoRioDraft/0.1 (CC0-only offline field guide)'})
+    request = urllib.request.Request(url, headers={'User-Agent': 'PlantasDoRioDraft/0.2 (licensed offline field guide)'})
     for attempt in range(4):
         try:
             with urllib.request.urlopen(request, timeout=45) as response:
@@ -40,6 +40,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--per-plant', type=int, default=None, help='Optional target number of photos per plant; no fixed default limit.')
     parser.add_argument('--ids', nargs='*', default=[])
+    parser.add_argument('--license', choices=['cc0', 'cc-by'], default='cc0', help='Photo-level license; CC BY requires preserved attribution.')
     parser.add_argument('--taxon-name', help='Search a named member of one selected genus group; it must be listed in regionalSpecies.')
     args = parser.parse_args()
     if args.per_plant is not None and args.per_plant < 1:
@@ -64,7 +65,7 @@ if __name__ == '__main__':
             if args.taxon_name not in allowed_names:
                 parser.error('--taxon-name must match the species or a native regional member of this group')
             name = args.taxon_name
-        params = {'taxon_name': name, 'photo_license': 'cc0', 'quality_grade': 'research', 'captive': 'false', 'per_page': 30, 'order_by': 'votes', 'locale': 'pt-BR'}
+        params = {'taxon_name': name, 'photo_license': args.license, 'quality_grade': 'research', 'captive': 'false', 'per_page': 30, 'order_by': 'votes', 'locale': 'en'}
         try:
             data = json.loads(get('https://api.inaturalist.org/v1/observations?' + urllib.parse.urlencode(params)))
             for observation in data['results']:
@@ -74,7 +75,9 @@ if __name__ == '__main__':
                 if observation.get('captive') is True or observation.get('flags'):
                     continue
                 for photo in observation.get('photos', []):
-                    if photo.get('license_code') != 'cc0' or photo['id'] in used or photo.get('hidden') or photo.get('flags'):
+                    if photo.get('license_code') != args.license or photo['id'] in used or photo.get('hidden') or photo.get('flags') or photo.get('moderator_actions'):
+                        continue
+                    if args.license == 'cc-by' and not (photo.get('attribution') or '').strip():
                         continue
                     dimensions = photo.get('original_dimensions') or {}
                     if min(dimensions.get('width', 0), dimensions.get('height', 0)) < 400:
@@ -93,6 +96,15 @@ if __name__ == '__main__':
                     now = time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
                     user = observation.get('user') or {}
                     creator = user.get('name') or user.get('login') or 'Colaborador iNaturalist'
+                    rights = {'license': 'CC0-1.0', 'licenseCode': 'cc0'}
+                    if args.license == 'cc-by':
+                        attribution = photo['attribution']
+                        match = re.fullmatch(r'(?:\(c\)|©)\s*(.+),\s*some rights reserved\s*\(CC BY\)', attribution, re.I)
+                        creator = match.group(1) if match else attribution
+                        rights = {'license': 'CC-BY-4.0', 'licenseCode': 'cc-by', 'attribution': attribution, 'licenseUrl': 'https://creativecommons.org/licenses/by/4.0/', 'photoPageUrl': f'https://www.inaturalist.org/photos/{photo["id"]}'}
+                    # Never overwrite acquisition evidence from an earlier import.
+                    if (EVIDENCE / f'{photo["id"]}.json').exists() or (ROOT / 'assets/plants' / filename).exists():
+                        continue
                     (ROOT / 'assets/plants' / filename).write_bytes(payload)
                     write_json(EVIDENCE / f'{photo["id"]}.json', {
                         'apiUrl': 'https://api.inaturalist.org/v1/observations/' + str(observation['id']),
@@ -104,7 +116,7 @@ if __name__ == '__main__':
                         'id': f'inat-{photo["id"]}', 'fileName': filename,
                         'photoId': photo['id'], 'observationId': observation['id'],
                         'taxonId': taxon['id'], 'taxonName': taxon['name'], 'creator': creator,
-                        'license': 'CC0-1.0', 'licenseCode': 'cc0', 'sourceUrl': source,
+                        **rights, 'sourceUrl': source,
                         'observationUrl': f'https://www.inaturalist.org/observations/{observation["id"]}',
                         'downloadedAt': now, 'sha256': digest, 'markers': ['unknown'],
                         'caption': '', 'reviewStatus': 'draft'
@@ -117,8 +129,8 @@ if __name__ == '__main__':
             catalog['updatedAt'] = time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
             write_json(temp, catalog)
             temp.replace(CATALOG)
-            report.append({'id': plant['id'], 'photos': len(plant['photos']), 'cc0ObservationCount': data.get('total_results')})
-            print(f'{index + 1}/{len(catalog["plants"])} {name}: {len(plant["photos"])} CC0', flush=True)
+            report.append({'id': plant['id'], 'photos': len(plant['photos']), 'photoLicense': args.license, 'matchingObservationCount': data.get('total_results')})
+            print(f'{index + 1}/{len(catalog["plants"])} {name}: {len(plant["photos"])} photos ({args.license} search)', flush=True)
         except Exception as exc:
             report.append({'id': plant['id'], 'error': str(exc)})
             print(f'FAILED {name}: {exc}', flush=True)

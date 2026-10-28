@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Rhamnidium+glabrum&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 677889429,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/677889429/square.jpg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 371039645,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 181255,
+      "name": "Rhamnidium glabrum"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/677889429/large.jpg",
+    "sha256": "696acf6aefd282a5bf7f126390a7388c2f7ee3f8a498993cdba5c8db8912bb6d",
+    "retrievedAt": "2026-10-28T16:49:18.239638+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/rhamnidium-glabrum.json",
+    "sha256": "457486d81c2b9924a5df603bbe3c2f191616307b5e49be128a4eb5760c3211d9",
+    "retrievedAt": "2026-10-28T16:28:30.024389+00:00"
+  }
+}

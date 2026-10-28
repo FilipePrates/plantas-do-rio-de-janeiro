@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Attalea+humilis&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 590256847,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1542,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590256847/square.jpg",
+    "attribution": "(c) Tom Field, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Tom Field",
+  "observation": {
+    "id": 325958942,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 364333,
+      "name": "Attalea humilis"
+    },
+    "observerLogin": "tomfeild",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590256847/large.jpg",
+    "sha256": "2c8f8cc586d2b4a8d4cb51f77d98015b9d5854e81829f75ce6ac4a154ea65686",
+    "retrievedAt": "2026-10-28T16:46:49.045993+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/attalea-humilis.json",
+    "sha256": "9642767fcb1fc6eaacff0ff7152bc6bb1a2b9fec69fb6ba34f7a337c24196add",
+    "retrievedAt": "2026-10-28T16:25:56.703338+00:00"
+  }
+}

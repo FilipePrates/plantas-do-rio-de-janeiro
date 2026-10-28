@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Clusia+hilariana&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 584075431,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584075431/square.jpg",
+    "attribution": "(c) Gabriel Jovêncio Ribeiro, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Gabriel Jovêncio Ribeiro",
+  "observation": {
+    "id": 322833617,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 709674,
+      "name": "Clusia hilariana"
+    },
+    "observerLogin": "gabrieljovencio",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584075431/large.jpg",
+    "sha256": "5f096afb57eb3dacd1ca6c59bc36c3146fea0186c5e0c566ee970fe0769a83f5",
+    "retrievedAt": "2026-10-28T16:47:14.183690+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/clusia-hilariana.json",
+    "sha256": "9acc52f4cee143bae23455ea4c356e5e3bd3c84819e42333e6ba2c14b3a22bd6",
+    "retrievedAt": "2026-10-28T16:26:07.676598+00:00"
+  }
+}

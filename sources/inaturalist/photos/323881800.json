@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Nectandra+membranacea&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 323881800,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323881800/square.jpg",
+    "attribution": "(c) Jaqueline Hertel Corrêa, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Jaqueline Hertel Corrêa",
+  "observation": {
+    "id": 185449391,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 285208,
+      "name": "Nectandra membranacea"
+    },
+    "observerLogin": "jackehertel_correa",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323881800/large.jpg",
+    "sha256": "ae761a98e16499275fe098ae8ff73e1d851f90f19e0be776d8c19dabbc8970fd",
+    "retrievedAt": "2026-10-28T16:47:41.123536+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/nectandra-membranacea.json",
+    "sha256": "4cf201cda7e193aef2d9c663cd86fbf9616b7bf20d6432bf74a9905375555c6e",
+    "retrievedAt": "2026-10-28T16:26:12.915175+00:00"
+  }
+}

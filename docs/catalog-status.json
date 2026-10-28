@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T16:03:23.880Z",
+  "generatedAt": "2026-10-28T17:00:41.342Z",
   "entries": 311,
   "profiles": 123,
   "checklistOnly": 188,
@@ -29,8 +29,9 @@
     }
   ],
   "cc0Photos": 325,
-  "illustratedEntries": 143,
+  "ccByPhotos": 112,
+  "illustratedEntries": 186,
   "missingPhotos": [],
   "draftEntries": 184,
-  "draftPhotos": 48
+  "draftPhotos": 160
 }

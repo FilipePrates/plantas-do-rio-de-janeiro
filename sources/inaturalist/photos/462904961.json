@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pleroma+trichopodum&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 462904961,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462904961/square.jpeg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 258038899,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1418569,
+      "name": "Pleroma trichopodum"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462904961/large.jpeg",
+    "sha256": "50cd291207f4cf86efa59cb8e75452fbb89221de93c420b07f736c81ed35d57c",
+    "retrievedAt": "2026-10-28T16:48:05.001144+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/pleroma-trichopodum.json",
+    "sha256": "481db7c1ba73b238a3a0d1b345f6b3a041d119f15c7510c9ab87d42b7d89aed5",
+    "retrievedAt": "2026-10-28T16:26:19.212364+00:00"
+  }
+}

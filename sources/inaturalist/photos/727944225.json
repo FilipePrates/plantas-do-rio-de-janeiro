@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Faramea+calyciflora&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 727944225,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1152,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727944225/square.jpg",
+    "attribution": "(c) fmunoz, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "fmunoz",
+  "observation": {
+    "id": 396924618,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1710416,
+      "name": "Faramea calyciflora"
+    },
+    "observerLogin": "fmunoz",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727944225/large.jpg",
+    "sha256": "726f70a073d681fabe39e614e90c0f06bbebe0cab54d76aad28304703c4124e6",
+    "retrievedAt": "2026-10-28T16:49:28.513470+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/faramea-calyciflora.json",
+    "sha256": "2b7e0f1a5a9169ae661f22937926f99826450c47dc8778ac7d48a52ab9b035d9",
+    "retrievedAt": "2026-10-28T16:28:36.071516+00:00"
+  }
+}

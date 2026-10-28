@@ -1,0 +1,11 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/inaturalist/inaturalist/main/app/models/shared/license_module.rb",
+  "retrievedAt": "2026-10-28T16:31:08.042624+00:00",
+  "sha256": "4f13be6e7aaf8f93d910b764463ce42449abccea21de9a6535e606a60f964965",
+  "file": "license-module-2026-10-28.rb",
+  "mapping": {
+    "cc0": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "cc-by": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "note": "Photo-level license_code and full attribution are archived separately for every acquisition. Version mapping verified from iNaturalist provider code."
+}

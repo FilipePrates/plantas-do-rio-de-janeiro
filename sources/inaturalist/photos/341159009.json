@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Manilkara+subsericea&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 341159009,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341159009/square.jpeg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 194133355,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 440215,
+      "name": "Manilkara subsericea"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341159009/large.jpeg",
+    "sha256": "c71d3a3207790171868b94854bf4c17ad0953461180a3a69fb391ba4b6623e64",
+    "retrievedAt": "2026-10-28T16:48:23.486595+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/manilkara-subsericea.json",
+    "sha256": "c535d46d8608672412699d92d217fcbb25ebbe7473c43b5d2101457ece7bbb9c",
+    "retrievedAt": "2026-10-28T16:26:26.543132+00:00"
+  }
+}

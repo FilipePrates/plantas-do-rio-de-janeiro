@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+cucullata&photo_license=cc-by&per_page=30&order_by=votes",
+  "photo": {
+    "id": 675558314,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/675558314/square.jpg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 369839127,
+    "quality_grade": "needs_id",
+    "taxon": {
+      "id": 1405716,
+      "name": "Myrceugenia cucullata"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/675558314/large.jpg",
+    "sha256": "db1fe9b91914e1ff8563af22d690011d654c90e0ad7ca1ae76056018df6eb194",
+    "retrievedAt": "2026-10-28T16:49:51.936714+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses-expanded/myrceugenia-cucullata.json",
+    "sha256": "a72a93bd1bcd78c25eab0895b24deb0d325b10380275740183cda3f9608ec581",
+    "retrievedAt": "2026-10-28T16:37:18.375829+00:00"
+  }
+}

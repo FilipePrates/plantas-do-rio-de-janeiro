@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Meriania+glabra&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 57914400,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57914400/square.jpeg",
+    "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Diogo Luiz",
+  "observation": {
+    "id": 36623613,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1236874,
+      "name": "Meriania glabra"
+    },
+    "observerLogin": "diogoluiz",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57914400/large.jpeg",
+    "sha256": "7ef483205b52755f12e015eadce7ec5a0c825aad2b81e54fa391c66c5c485808",
+    "retrievedAt": "2026-10-28T16:48:50.429507+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/meriania-glabra.json",
+    "sha256": "62b444d34f835612caa9bef70ca547d58eaf40f995a159e5d63b7e52283c23bc",
+    "retrievedAt": "2026-10-28T16:27:47.922285+00:00"
+  }
+}

@@ -61,6 +61,26 @@ function https(value, hosts) {
     return false;
   }
 }
+export const photoLicenseLabel = (photo) => photo.licenseCode === "cc-by" ? "CC BY 4.0" : "CC0 1.0";
+export const photoLicenseUrl = (photo) => photo.licenseCode === "cc-by"
+  ? "https://creativecommons.org/licenses/by/4.0/"
+  : "https://creativecommons.org/publicdomain/zero/1.0/";
+
+// iNaturalist's Shared::LicenseModule maps cc-by to version 4.0.
+// The provider mapping and its hash are archived under sources/inaturalist.
+export function inaturalistPhotoRights(photo) {
+  if (photo?.license_code === "cc0") return { license: "CC0-1.0", licenseCode: "cc0" };
+  requireValue(photo?.license_code === "cc-by" && text(photo.attribution) &&
+    Number.isSafeInteger(photo.id) && photo.id > 0,
+    "Somente fotos CC0 ou CC BY com atribuição são aceitas.");
+  return {
+    license: "CC-BY-4.0", licenseCode: "cc-by",
+    creator: photo.attribution.match(/^(?:\(c\)|©)\s*(.+),\s*some rights reserved\s*\(CC BY\)$/i)?.[1] || photo.attribution,
+    attribution: photo.attribution,
+    licenseUrl: "https://creativecommons.org/licenses/by/4.0/",
+    photoPageUrl: `https://www.inaturalist.org/photos/${photo.id}`,
+  };
+}
 export function parseCatalog(value) {
   requireValue(
     value && typeof value === "object" && value.schemaVersion === 1,
@@ -259,8 +279,21 @@ export function parseCatalog(value) {
       );
       photoIds.add(photo.id);
       requireValue(
-        photo.license === "CC0-1.0" && photo.licenseCode === "cc0",
-        `${label}: somente fotos CC0 são aceitas.`,
+        (photo.license === "CC0-1.0" && photo.licenseCode === "cc0") ||
+          (photo.license === "CC-BY-4.0" && photo.licenseCode === "cc-by"),
+        `${label}: somente fotos CC0 ou CC BY 4.0 são aceitas.`,
+      );
+      if (photo.licenseCode === "cc-by") requireValue(
+        text(photo.attribution) &&
+          photo.licenseUrl === "https://creativecommons.org/licenses/by/4.0/" &&
+          photo.photoPageUrl === `https://www.inaturalist.org/photos/${photo.photoId}`,
+        `${label}: CC BY exige atribuição e links da foto e da licença.`,
+      );
+      requireValue(
+        (photo.licenseUrl === undefined || photo.licenseUrl === photoLicenseUrl(photo)) &&
+          (photo.photoPageUrl === undefined || photo.photoPageUrl === `https://www.inaturalist.org/photos/${photo.photoId}`) &&
+          (photo.attribution === undefined || text(photo.attribution)),
+        `${label}: links ou atribuição da licença inválidos.`,
       );
       requireValue(
         /^inat-[0-9]+\.(jpg|jpeg|png|webp)$/.test(photo.fileName) &&

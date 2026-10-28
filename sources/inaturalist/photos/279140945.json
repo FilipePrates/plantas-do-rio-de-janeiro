@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Ocotea+odorifera&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 279140945,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1959,
+      "height": 1261
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279140945/square.jpeg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 161496250,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 866775,
+      "name": "Ocotea odorifera"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279140945/large.jpeg",
+    "sha256": "2e46329c379fd5b62e3a8650bd0893e31cfa40291c37a85819f09b7b7324ea89",
+    "retrievedAt": "2026-10-28T16:47:47.075036+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/ocotea-odorifera.json",
+    "sha256": "3c5c13895be9353b652d68d2d3b6ea7b343305d2edc7a8e35f43b262b896dfb0",
+    "retrievedAt": "2026-10-28T16:26:13.224022+00:00"
+  }
+}

@@ -20,6 +20,7 @@ import { LeafIcon } from "./icons";
 import { PlantPhotoMarkers } from "./PlantPhotoMarkers";
 import { RegionalRecords } from "./RegionalRecords";
 import { PhotoViewer } from "./PhotoViewer";
+import { PhotoCredit } from "./PhotoCredit";
 
 function openUrl(url: string) {
   void Linking.openURL(url).catch(() => undefined);
@@ -388,16 +389,7 @@ function PhotoFrame({
         </View>
       )}
       <PlantPhotoMarkers markers={photo.markers} />
-      <Pressable
-        accessibilityRole="link"
-        accessibilityLabel={`Foto de ${photo.creator}, CC0. Abrir observação ${photo.observationId}`}
-        onPress={() => openUrl(photo.observationUrl)}
-        style={styles.credit}
-      >
-        <Text style={styles.creditText} numberOfLines={2}>
-          {photo.creator} · CC0 ↗
-        </Text>
-      </Pressable>
+      <View style={styles.credit}><PhotoCredit photo={photo} /></View>
     </View>
   );
 }

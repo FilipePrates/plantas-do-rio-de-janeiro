@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cololobus+rupestris&photo_license=cc-by&per_page=30&order_by=votes",
+  "photo": {
+    "id": 340233673,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340233673/square.jpeg",
+    "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "agujaceratops",
+  "observation": {
+    "id": 193668864,
+    "quality_grade": "needs_id",
+    "taxon": {
+      "id": 937376,
+      "name": "Cololobus rupestris"
+    },
+    "observerLogin": "agujaceratops",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340233673/large.jpeg",
+    "sha256": "2cfb7350ddf9c2bdd0851f5f5cb01a4ede6a625e3a66177060efa3b15640f120",
+    "retrievedAt": "2026-10-28T16:49:43.337279+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses-expanded/cololobus-rupestris.json",
+    "sha256": "811d41bafdf403fdaa4b44964bc21efc3a0ea6ca3e9b37b04aaa93dc85848020",
+    "retrievedAt": "2026-10-28T16:36:10.161031+00:00"
+  }
+}

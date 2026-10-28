@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Pimenta+pseudocaryophyllus&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 656585420,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656585420/square.jpg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 359860085,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 442129,
+      "name": "Pimenta pseudocaryophyllus"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656585420/large.jpg",
+    "sha256": "ac44e7b077f928987abf66a7830668d92dfbcdeab215962d72f6261d3c502133",
+    "retrievedAt": "2026-10-28T16:49:07.490382+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/pimenta-pseudocaryophyllus.json",
+    "sha256": "904f7085e040a98c8b6fd93f4e9ee0eb906b3fed6f28a319c0e970ed42f5e0a5",
+    "retrievedAt": "2026-10-28T16:28:10.127989+00:00"
+  }
+}

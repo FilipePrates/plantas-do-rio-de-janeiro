@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "title": "Plantas do Rio de Janeiro",
-  "updatedAt": "2026-10-28T16:02:50.799644+00:00",
+  "updatedAt": "2026-10-28T16:50:06.414467+00:00",
   "maxSpecies": 1500,
   "scope": "Flora nativa do município do Rio de Janeiro, com extensão estadual explicitamente identificada, e plantas exóticas selecionadas para reconhecimento. Mata Atlântica, incluindo restingas, manguezais, afloramentos e florestas.",
   "plants": [
@@ -4010,7 +4010,77 @@
       ],
       "floraId": 33974,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-629772737",
+          "fileName": "inat-629772737.jpg",
+          "photoId": 629772737,
+          "observationId": 345560934,
+          "taxonId": 364204,
+          "taxonName": "Allagoptera caudescens",
+          "creator": "Marcio Santos Ferreira",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/629772737",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/629772737/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/345560934",
+          "downloadedAt": "2026-10-28T16:46:44.043480+00:00",
+          "sha256": "7bf4d8f1c363db93eab738dda7ff6b572dc3b8f87beb5d1ad9f174a939fad80e",
+          "markers": [
+            "unknown"
+          ],
+          "caption": " Conferir identificação e estágio de desenvolvimento; indivíduo sem tronco visível.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-629772679",
+          "fileName": "inat-629772679.jpg",
+          "photoId": 629772679,
+          "observationId": 345560934,
+          "taxonId": 364204,
+          "taxonName": "Allagoptera caudescens",
+          "creator": "Marcio Santos Ferreira",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/629772679",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/629772679/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/345560934",
+          "downloadedAt": "2026-10-28T16:46:45.592568+00:00",
+          "sha256": "6b96e1258c1f38f6ab8c37804edab732bb3351e02a81ad88751b8ed3ddec19da",
+          "markers": [
+            "unknown"
+          ],
+          "caption": " Conferir identificação e estágio de desenvolvimento; indivíduo sem tronco visível.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-629772710",
+          "fileName": "inat-629772710.jpg",
+          "photoId": 629772710,
+          "observationId": 345560934,
+          "taxonId": 364204,
+          "taxonName": "Allagoptera caudescens",
+          "creator": "Marcio Santos Ferreira",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/629772710",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/629772710/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/345560934",
+          "downloadedAt": "2026-10-28T16:46:47.092838+00:00",
+          "sha256": "dba5c204ccdbfbf08cbcb1830e70f47eb4f0f51ea9ed492eccee999c25ffa97c",
+          "markers": [
+            "unknown"
+          ],
+          "caption": " Conferir identificação e estágio de desenvolvimento; indivíduo sem tronco visível.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Allagoptera caudescens (FB33974)",
@@ -4349,7 +4419,77 @@
       ],
       "floraId": 15681,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-590256847",
+          "fileName": "inat-590256847.jpg",
+          "photoId": 590256847,
+          "observationId": 325958942,
+          "taxonId": 364333,
+          "taxonName": "Attalea humilis",
+          "creator": "Tom Field",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Tom Field, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/590256847",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/590256847/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/325958942",
+          "downloadedAt": "2026-10-28T16:46:49.045993+00:00",
+          "sha256": "2c8f8cc586d2b4a8d4cb51f77d98015b9d5854e81829f75ce6ac4a154ea65686",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-590256760",
+          "fileName": "inat-590256760.jpg",
+          "photoId": 590256760,
+          "observationId": 325958942,
+          "taxonId": 364333,
+          "taxonName": "Attalea humilis",
+          "creator": "Tom Field",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Tom Field, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/590256760",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/590256760/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/325958942",
+          "downloadedAt": "2026-10-28T16:46:50.766033+00:00",
+          "sha256": "999d100e7044c179137307b2310b8a482b783058611023297eb8d398515a8435",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-60788855",
+          "fileName": "inat-60788855.jpeg",
+          "photoId": 60788855,
+          "observationId": 38263904,
+          "taxonId": 364333,
+          "taxonName": "Attalea humilis",
+          "creator": "Carlos Otávio Gussoni",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Carlos Otávio Gussoni, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/60788855",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60788855/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/38263904",
+          "downloadedAt": "2026-10-28T16:46:52.211019+00:00",
+          "sha256": "d801fb1d83b48291e1a7b330dad8efbabb1ad6a3b686b50669d6c61ccf4e58b5",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Attalea humilis (FB15681)",
@@ -4864,7 +5004,54 @@
       ],
       "floraId": 44301,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-675738974",
+          "fileName": "inat-675738974.jpg",
+          "photoId": 675738974,
+          "observationId": 369916884,
+          "taxonId": 365267,
+          "taxonName": "Geonoma elegans",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/675738974",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/675738974/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/369916884",
+          "downloadedAt": "2026-10-28T16:46:54.609714+00:00",
+          "sha256": "19cdc523fbb184bc0012b954f8e985b8d7f644907935b87c2dc16bc73c424e7d",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-325995697",
+          "fileName": "inat-325995697.jpeg",
+          "photoId": 325995697,
+          "observationId": 186529843,
+          "taxonId": 365267,
+          "taxonName": "Geonoma elegans",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/325995697",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/325995697/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/186529843",
+          "downloadedAt": "2026-10-28T16:46:56.575815+00:00",
+          "sha256": "4f48ce11c72eb48daba8caab85645114c310fc9a4b4cfdab1eb7d439a86d2462",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Geonoma elegans (FB44301)",
@@ -4972,7 +5159,77 @@
       ],
       "floraId": 15720,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-438795777",
+          "fileName": "inat-438795777.jpeg",
+          "photoId": 438795777,
+          "observationId": 245851916,
+          "taxonId": 365285,
+          "taxonName": "Geonoma pohliana",
+          "creator": "Victor Farjalla Pontes",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/438795777",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/438795777/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/245851916",
+          "downloadedAt": "2026-10-28T16:46:58.499497+00:00",
+          "sha256": "a8646df2b3a6f694ff664ca968d42c83fe3f2090c48399865ecd1e64860d1420",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-154241157",
+          "fileName": "inat-154241157.jpeg",
+          "photoId": 154241157,
+          "observationId": 93099086,
+          "taxonId": 365285,
+          "taxonName": "Geonoma pohliana",
+          "creator": "Victor Farjalla Pontes",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/154241157",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154241157/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/93099086",
+          "downloadedAt": "2026-10-28T16:47:00.042216+00:00",
+          "sha256": "ac9764b0dbabd2fdc8622a2a330b23982fc3fc1b47a52366e8b93646643872d0",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-154241133",
+          "fileName": "inat-154241133.jpeg",
+          "photoId": 154241133,
+          "observationId": 93099086,
+          "taxonId": 365285,
+          "taxonName": "Geonoma pohliana",
+          "creator": "Victor Farjalla Pontes",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/154241133",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154241133/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/93099086",
+          "downloadedAt": "2026-10-28T16:47:01.472080+00:00",
+          "sha256": "d0f27ab3bd4fb41fabe35d786cb9ecf5fcbed7bb822beb3a439b934ae1b2af52",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Geonoma pohliana (FB15720)",
@@ -5540,7 +5797,54 @@
       ],
       "floraId": 44834,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-748438567",
+          "fileName": "inat-748438567.jpg",
+          "photoId": 748438567,
+          "observationId": 407300796,
+          "taxonId": 1535498,
+          "taxonName": "Syagrus weddelliana",
+          "creator": "Donald Davesne",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/748438567",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/748438567/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/407300796",
+          "downloadedAt": "2026-10-28T16:49:33.975930+00:00",
+          "sha256": "fafc1701d54579114c3ee71f0821eb26ab7bea7a5cf42f1d3a927c1b29c22939",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-611013912",
+          "fileName": "inat-611013912.jpg",
+          "photoId": 611013912,
+          "observationId": 336257899,
+          "taxonId": 1535498,
+          "taxonName": "Syagrus weddelliana",
+          "creator": "Rosario Douglas",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Rosario Douglas, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/611013912",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/611013912/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/336257899",
+          "downloadedAt": "2026-10-28T16:49:36.334460+00:00",
+          "sha256": "63535b5e2834c9e92f56f7995dc00fa2bf3e49062e642e0e2f679516cf44e25d",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Syagrus weddelliana (FB44834)",
@@ -6151,7 +6455,77 @@
       ],
       "floraId": 114215,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-604167788",
+          "fileName": "inat-604167788.jpg",
+          "photoId": 604167788,
+          "observationId": 332856952,
+          "taxonId": 823819,
+          "taxonName": "Sparattosperma leucanthum",
+          "creator": "Gabriel Jovêncio Ribeiro",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Gabriel Jovêncio Ribeiro, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/604167788",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/604167788/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/332856952",
+          "downloadedAt": "2026-10-28T16:47:03.253052+00:00",
+          "sha256": "7126b4eba7ff746adcf7d8bddcdc98b9d67c3989e6aa36fc8acc55b17eee1053",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-144981918",
+          "fileName": "inat-144981918.jpeg",
+          "photoId": 144981918,
+          "observationId": 87912958,
+          "taxonId": 823819,
+          "taxonName": "Sparattosperma leucanthum",
+          "creator": "Victor Farjalla Pontes",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/144981918",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/144981918/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/87912958",
+          "downloadedAt": "2026-10-28T16:47:04.858288+00:00",
+          "sha256": "08020de1acbb8ebc52e544a6143f4be94aafd29a0c7d74cf35f9ce9b16b149f5",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-720985383",
+          "fileName": "inat-720985383.jpg",
+          "photoId": 720985383,
+          "observationId": 393353339,
+          "taxonId": 823819,
+          "taxonName": "Sparattosperma leucanthum",
+          "creator": "fmunoz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) fmunoz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/720985383",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/720985383/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/393353339",
+          "downloadedAt": "2026-10-28T16:47:06.494106+00:00",
+          "sha256": "c2c8efcd7faa2e61526f604ce677bda90c46484454f2fa3d7541bbb730836f81",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Sparattosperma leucanthum (FB114215)",
@@ -7210,7 +7584,54 @@
       ],
       "floraId": 5905,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-247997623",
+          "fileName": "inat-247997623.jpeg",
+          "photoId": 247997623,
+          "observationId": 144489284,
+          "taxonId": 511001,
+          "taxonName": "Alcantarea regina",
+          "creator": "Carlos Otávio Gussoni",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Carlos Otávio Gussoni, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/247997623",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/247997623/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/144489284",
+          "downloadedAt": "2026-10-28T16:47:08.368061+00:00",
+          "sha256": "f18ce65c28acbcf0bacbe9540ea57c85014c1d6cdac3f8a148ffaa3f4de6a01a",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-285292454",
+          "fileName": "inat-285292454.jpeg",
+          "photoId": 285292454,
+          "observationId": 164855757,
+          "taxonId": 511001,
+          "taxonName": "Alcantarea regina",
+          "creator": "Yoannis Domínguez",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Yoannis Domínguez, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/285292454",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/285292454/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/164855757",
+          "downloadedAt": "2026-10-28T16:47:09.790840+00:00",
+          "sha256": "1f6b3512b72febbdc87ccfb00eb7ef543370fcc608011f4b24e90bf505489a92",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Alcantarea regina (FB5905)",
@@ -8076,7 +8497,77 @@
       ],
       "floraId": 6252,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-51767008",
+          "fileName": "inat-51767008.jpeg",
+          "photoId": 51767008,
+          "observationId": 32982484,
+          "taxonId": 508773,
+          "taxonName": "Nidularium fulgens",
+          "creator": "Diogo Luiz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/51767008",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51767008/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/32982484",
+          "downloadedAt": "2026-10-28T16:47:15.758763+00:00",
+          "sha256": "e3ae9a3472663232878cf6fd1a6a5313bf6f9eb2b18a0e9f0551bbf282393d48",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-115647460",
+          "fileName": "inat-115647460.jpeg",
+          "photoId": 115647460,
+          "observationId": 71072633,
+          "taxonId": 508773,
+          "taxonName": "Nidularium fulgens",
+          "creator": "Victor Farjalla Pontes",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/115647460",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/115647460/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/71072633",
+          "downloadedAt": "2026-10-28T16:47:17.229265+00:00",
+          "sha256": "4b32788516f2229df15608e9596a81759b5285f89eb7c71cb861c657efacc8e6",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-734038011",
+          "fileName": "inat-734038011.jpg",
+          "photoId": 734038011,
+          "observationId": 400053655,
+          "taxonId": 508773,
+          "taxonName": "Nidularium fulgens",
+          "creator": "Diogo Luiz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/734038011",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/734038011/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/400053655",
+          "downloadedAt": "2026-10-28T16:47:18.541793+00:00",
+          "sha256": "144cfe29fb71ec25153105fa5240202aab95de26c418d19088041ab086bf9e1b",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Nidularium fulgens (FB6252)",
@@ -10191,7 +10682,77 @@
       ],
       "floraId": 6836,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-47463267",
+          "fileName": "inat-47463267.jpeg",
+          "photoId": 47463267,
+          "observationId": 30380567,
+          "taxonId": 709674,
+          "taxonName": "Clusia hilariana",
+          "creator": "Diogo Luiz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/47463267",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47463267/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/30380567",
+          "downloadedAt": "2026-10-28T16:47:11.040382+00:00",
+          "sha256": "f8c4b04387494cecf7b386bb763e005d409a417ac5bf5aa131e7b702c300fab5",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-629263545",
+          "fileName": "inat-629263545.jpg",
+          "photoId": 629263545,
+          "observationId": 345300732,
+          "taxonId": 709674,
+          "taxonName": "Clusia hilariana",
+          "creator": "Henrique Nogueira",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Henrique Nogueira, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/629263545",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/629263545/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/345300732",
+          "downloadedAt": "2026-10-28T16:47:12.575834+00:00",
+          "sha256": "271851bf6cbd055d46d5a6064fdee399d965340e28977a88bfe04816df646f66",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-584075431",
+          "fileName": "inat-584075431.jpg",
+          "photoId": 584075431,
+          "observationId": 322833617,
+          "taxonId": 709674,
+          "taxonName": "Clusia hilariana",
+          "creator": "Gabriel Jovêncio Ribeiro",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Gabriel Jovêncio Ribeiro, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/584075431",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/584075431/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/322833617",
+          "downloadedAt": "2026-10-28T16:47:14.183690+00:00",
+          "sha256": "5f096afb57eb3dacd1ca6c59bc36c3146fea0186c5e0c566ee970fe0769a83f5",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Clusia hilariana (FB6836)",
@@ -11463,7 +12024,77 @@
       ],
       "floraId": 22896,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-617370818",
+          "fileName": "inat-617370818.jpg",
+          "photoId": 617370818,
+          "observationId": 339380651,
+          "taxonId": 139358,
+          "taxonName": "Copaifera langsdorffii",
+          "creator": "Cristiane Colodel",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Cristiane Colodel, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/617370818",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/617370818/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/339380651",
+          "downloadedAt": "2026-10-28T16:47:26.939897+00:00",
+          "sha256": "48f5adbfe80d1ae230ade0e1fd106739c8b11e59cdd23cf33fc8e94f46508505",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-572130082",
+          "fileName": "inat-572130082.jpg",
+          "photoId": 572130082,
+          "observationId": 316650696,
+          "taxonId": 139358,
+          "taxonName": "Copaifera langsdorffii",
+          "creator": "Raquel Mondino",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Raquel Mondino, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/572130082",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/572130082/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/316650696",
+          "downloadedAt": "2026-10-28T16:47:28.770190+00:00",
+          "sha256": "c78a721253c3b062fcdc340f1ba3b268bd40bb1e6951a86202335a8827dc8591",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-621635117",
+          "fileName": "inat-621635117.jpg",
+          "photoId": 621635117,
+          "observationId": 341468613,
+          "taxonId": 139358,
+          "taxonName": "Copaifera langsdorffii",
+          "creator": "Marcio Santos Ferreira",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/621635117",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/621635117/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/341468613",
+          "downloadedAt": "2026-10-28T16:47:30.528882+00:00",
+          "sha256": "861f2ff3cbb5ae5da55779afb1bc5135b0df268d8032340a33d4f4ac584b5cbe",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Copaifera langsdorffii (FB22896)",
@@ -13181,7 +13812,77 @@
       ],
       "floraId": 7845,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-415767793",
+          "fileName": "inat-415767793.jpeg",
+          "photoId": 415767793,
+          "observationId": 233913345,
+          "taxonId": 927553,
+          "taxonName": "Nematanthus brasiliensis",
+          "creator": "Daniel Duarte",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Daniel Duarte, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/415767793",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415767793/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/233913345",
+          "downloadedAt": "2026-10-28T16:47:20.693391+00:00",
+          "sha256": "3fbc8ed8b5f32c1a84c08661c34e13a6c64dd1b8238c5fb05f8a9b897d8bf1f1",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-415767824",
+          "fileName": "inat-415767824.jpeg",
+          "photoId": 415767824,
+          "observationId": 233913345,
+          "taxonId": 927553,
+          "taxonName": "Nematanthus brasiliensis",
+          "creator": "Daniel Duarte",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Daniel Duarte, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/415767824",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415767824/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/233913345",
+          "downloadedAt": "2026-10-28T16:47:22.290453+00:00",
+          "sha256": "8b1761380e9ed911404e954b131f7b4cccac2e2a185fca3919ccddd543a9eb60",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-415767764",
+          "fileName": "inat-415767764.jpeg",
+          "photoId": 415767764,
+          "observationId": 233913345,
+          "taxonId": 927553,
+          "taxonName": "Nematanthus brasiliensis",
+          "creator": "Daniel Duarte",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Daniel Duarte, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/415767764",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415767764/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/233913345",
+          "downloadedAt": "2026-10-28T16:47:24.975379+00:00",
+          "sha256": "3a76ffb0cce4918cd65d512cb6bd58f37ef062bba9b71980bac9c9887b5df6f6",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Nematanthus brasiliensis (FB7845)",
@@ -13368,7 +14069,77 @@
       ],
       "floraId": 7930,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-721458074",
+          "fileName": "inat-721458074.jpg",
+          "photoId": 721458074,
+          "observationId": 393599714,
+          "taxonId": 281612,
+          "taxonName": "Sinningia speciosa",
+          "creator": "fmunoz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) fmunoz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/721458074",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/721458074/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/393599714",
+          "downloadedAt": "2026-10-28T16:47:32.981251+00:00",
+          "sha256": "c7f8f1d0e9bb5e98d3f55feb4bbbce91d9d1437d715a781ff178f9463823cc5a",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-577882109",
+          "fileName": "inat-577882109.jpg",
+          "photoId": 577882109,
+          "observationId": 319673716,
+          "taxonId": 281612,
+          "taxonName": "Sinningia speciosa",
+          "creator": "Henrique Nogueira",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Henrique Nogueira, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/577882109",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/577882109/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/319673716",
+          "downloadedAt": "2026-10-28T16:47:34.558414+00:00",
+          "sha256": "15acd51e6870ed93218d8ab2b5473a6e596b6d2dd76062714ae45c32a548ba04",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-577882105",
+          "fileName": "inat-577882105.jpg",
+          "photoId": 577882105,
+          "observationId": 319673716,
+          "taxonId": 281612,
+          "taxonName": "Sinningia speciosa",
+          "creator": "Henrique Nogueira",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Henrique Nogueira, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/577882105",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/577882105/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/319673716",
+          "downloadedAt": "2026-10-28T16:47:36.269423+00:00",
+          "sha256": "ff682fcbc8e8589f4bb53a691b11f21c22d85d7698d510c0c9d54ae3630d45ca",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Sinningia speciosa (FB7930)",
@@ -13734,7 +14505,77 @@
       ],
       "floraId": 8432,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-262288020",
+          "fileName": "inat-262288020.jpeg",
+          "photoId": 262288020,
+          "observationId": 151968393,
+          "taxonId": 285208,
+          "taxonName": "Nectandra membranacea",
+          "creator": "fmunoz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) fmunoz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/262288020",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/262288020/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/151968393",
+          "downloadedAt": "2026-10-28T16:47:37.678100+00:00",
+          "sha256": "d40e8f302ffa6b49fdeb0e81c9044c1513e7c02e0c8aafc5728d71537a0a6ac0",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-320587636",
+          "fileName": "inat-320587636.jpeg",
+          "photoId": 320587636,
+          "observationId": 183733038,
+          "taxonId": 285208,
+          "taxonName": "Nectandra membranacea",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/320587636",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/320587636/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/183733038",
+          "downloadedAt": "2026-10-28T16:47:39.471837+00:00",
+          "sha256": "8e6761273be411382b57aeca0947842027f56ea39e9d2356cf717ca7f0f750c2",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-323881800",
+          "fileName": "inat-323881800.jpg",
+          "photoId": 323881800,
+          "observationId": 185449391,
+          "taxonId": 285208,
+          "taxonName": "Nectandra membranacea",
+          "creator": "Jaqueline Hertel Corrêa",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Jaqueline Hertel Corrêa, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/323881800",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/323881800/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/185449391",
+          "downloadedAt": "2026-10-28T16:47:41.123536+00:00",
+          "sha256": "ae761a98e16499275fe098ae8ff73e1d851f90f19e0be776d8c19dabbc8970fd",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Nectandra membranacea (FB8432)",
@@ -13995,7 +14836,77 @@
       ],
       "floraId": 8476,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-279140120",
+          "fileName": "inat-279140120.jpeg",
+          "photoId": 279140120,
+          "observationId": 161496250,
+          "taxonId": 866775,
+          "taxonName": "Ocotea odorifera",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/279140120",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/279140120/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/161496250",
+          "downloadedAt": "2026-10-28T16:47:42.834037+00:00",
+          "sha256": "380ad1783f6baa7bb699e49036297989a054e239e1f8c2af40fb4641e7346153",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-356639936",
+          "fileName": "inat-356639936.jpeg",
+          "photoId": 356639936,
+          "observationId": 201982483,
+          "taxonId": 866775,
+          "taxonName": "Ocotea odorifera",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/356639936",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/356639936/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/201982483",
+          "downloadedAt": "2026-10-28T16:47:45.328445+00:00",
+          "sha256": "cf19c8fdb479ff4167e4fe5ce991f50d608432b089bd46e5dd5327b53a43ba24",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-279140945",
+          "fileName": "inat-279140945.jpeg",
+          "photoId": 279140945,
+          "observationId": 161496250,
+          "taxonId": 866775,
+          "taxonName": "Ocotea odorifera",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/279140945",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/279140945/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/161496250",
+          "downloadedAt": "2026-10-28T16:47:47.075036+00:00",
+          "sha256": "2e46329c379fd5b62e3a8650bd0893e31cfa40291c37a85819f09b7b7324ea89",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Ocotea odorifera (FB8476)",
@@ -14392,7 +15303,31 @@
       ],
       "floraId": 8542,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-44510233",
+          "fileName": "inat-44510233.jpeg",
+          "photoId": 44510233,
+          "observationId": 28548569,
+          "taxonId": 190291,
+          "taxonName": "Cariniana ianeirensis",
+          "creator": "Diogo Luiz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/44510233",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44510233/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/28548569",
+          "downloadedAt": "2026-10-28T16:47:48.760935+00:00",
+          "sha256": "7f20d4c9db52b0aa9cec4d41a16b5f2a540fdebc949e6d5d917b84406e0b2fa3",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Cariniana ianeirensis (FB8542)",
@@ -14619,7 +15554,77 @@
       ],
       "floraId": 8559,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-476879261",
+          "fileName": "inat-476879261.jpeg",
+          "photoId": 476879261,
+          "observationId": 265489023,
+          "taxonId": 357311,
+          "taxonName": "Lecythis lanceolata",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/476879261",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/476879261/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/265489023",
+          "downloadedAt": "2026-10-28T16:47:50.277091+00:00",
+          "sha256": "d09c188c0a2316068a3b43266c10ee6bfbeaa1cf67ce3aae56d09dcc7b5ed52c",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-476879255",
+          "fileName": "inat-476879255.jpeg",
+          "photoId": 476879255,
+          "observationId": 265489023,
+          "taxonId": 357311,
+          "taxonName": "Lecythis lanceolata",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/476879255",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/476879255/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/265489023",
+          "downloadedAt": "2026-10-28T16:47:52.102042+00:00",
+          "sha256": "ec401e435c00d0df4c59924e790f89408a0f42c22c2e23a15495696de5241e7d",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-476879258",
+          "fileName": "inat-476879258.jpeg",
+          "photoId": 476879258,
+          "observationId": 265489023,
+          "taxonId": 357311,
+          "taxonName": "Lecythis lanceolata",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/476879258",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/476879258/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/265489023",
+          "downloadedAt": "2026-10-28T16:47:53.925849+00:00",
+          "sha256": "d3db36adf0ffed8f5e31e37dcef1e354e69b61583d239d40f8fe1181af9e0e91",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Lecythis lanceolata (FB8559)",
@@ -16008,7 +17013,77 @@
       ],
       "floraId": 9688,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-598543422",
+          "fileName": "inat-598543422.jpg",
+          "photoId": 598543422,
+          "observationId": 330117891,
+          "taxonId": 1394940,
+          "taxonName": "Miconia cinnamomifolia",
+          "creator": "Pablo Cauã da Silva Toledo",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/598543422",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/598543422/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/330117891",
+          "downloadedAt": "2026-10-28T16:47:55.658203+00:00",
+          "sha256": "d02f69135969290a5a3bad4b75b062c91ff07dc4343906434ebf2130cc28380c",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-280944675",
+          "fileName": "inat-280944675.jpg",
+          "photoId": 280944675,
+          "observationId": 162478013,
+          "taxonId": 1394940,
+          "taxonName": "Miconia cinnamomifolia",
+          "creator": "André Ambrozio",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) André Ambrozio, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/280944675",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/280944675/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/162478013",
+          "downloadedAt": "2026-10-28T16:47:57.400046+00:00",
+          "sha256": "a6427a5577df104e9b12822ee6d9f1d232442123ebe83592f101c951b59610be",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-536760623",
+          "fileName": "inat-536760623.jpg",
+          "photoId": 536760623,
+          "observationId": 298021492,
+          "taxonId": 1394940,
+          "taxonName": "Miconia cinnamomifolia",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/536760623",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/536760623/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/298021492",
+          "downloadedAt": "2026-10-28T16:47:59.621920+00:00",
+          "sha256": "57de1b7ca0c590402f4de593dc3bd286252170e3a09b0c0e7a951c7b4ae62e2e",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Miconia cinnamomifolia (FB9688)",
@@ -16485,7 +17560,77 @@
       ],
       "floraId": 603053,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-364636996",
+          "fileName": "inat-364636996.jpeg",
+          "photoId": 364636996,
+          "observationId": 206178620,
+          "taxonId": 1418569,
+          "taxonName": "Pleroma trichopodum",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/364636996",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/364636996/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/206178620",
+          "downloadedAt": "2026-10-28T16:48:01.404818+00:00",
+          "sha256": "7e1c0714366ccb3f3918e84556592ade7b3c0f44ae0ac3ac6b478db48a40b602",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-462905012",
+          "fileName": "inat-462905012.jpeg",
+          "photoId": 462905012,
+          "observationId": 258038899,
+          "taxonId": 1418569,
+          "taxonName": "Pleroma trichopodum",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/462905012",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/462905012/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/258038899",
+          "downloadedAt": "2026-10-28T16:48:03.466648+00:00",
+          "sha256": "397a8df60843e88beb79e808aa1a548e7d799c6965a9d78dfa5110abbc4abccb",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-462904961",
+          "fileName": "inat-462904961.jpeg",
+          "photoId": 462904961,
+          "observationId": 258038899,
+          "taxonId": 1418569,
+          "taxonName": "Pleroma trichopodum",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/462904961",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/462904961/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/258038899",
+          "downloadedAt": "2026-10-28T16:48:05.001144+00:00",
+          "sha256": "50cd291207f4cf86efa59cb8e75452fbb89221de93c420b07f736c81ed35d57c",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Pleroma trichopodum (FB603053)",
@@ -16648,7 +17793,54 @@
       ],
       "floraId": 10158,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-168876097",
+          "fileName": "inat-168876097.jpg",
+          "photoId": 168876097,
+          "observationId": 101146771,
+          "taxonId": 192401,
+          "taxonName": "Ficus cyclophylla",
+          "creator": "João D'Andretta",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) João D'Andretta, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/168876097",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168876097/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/101146771",
+          "downloadedAt": "2026-10-28T16:48:07.194109+00:00",
+          "sha256": "874a058434ed52d686c1daa7ebce02d4d4677e23f10eabae23be2e95f39f2a17",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-166329845",
+          "fileName": "inat-166329845.jpg",
+          "photoId": 166329845,
+          "observationId": 99736412,
+          "taxonId": 192401,
+          "taxonName": "Ficus cyclophylla",
+          "creator": "João D'Andretta",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) João D'Andretta, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/166329845",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/166329845/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/99736412",
+          "downloadedAt": "2026-10-28T16:48:09.004440+00:00",
+          "sha256": "cf82bb934d4b5687bdea06620e935583c1276e84eca671849a32c2badee9b638",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Ficus cyclophylla (FB10158)",
@@ -17197,7 +18389,77 @@
       ],
       "floraId": 10315,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-536839161",
+          "fileName": "inat-536839161.jpg",
+          "photoId": 536839161,
+          "observationId": 298054940,
+          "taxonId": 1013814,
+          "taxonName": "Campomanesia guaviroba",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/536839161",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/536839161/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/298054940",
+          "downloadedAt": "2026-10-28T16:48:11.012699+00:00",
+          "sha256": "0c31c0b70c6624ead35a9d63489d2b187d1831d2192e88500520b71fca8ff224",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-536839156",
+          "fileName": "inat-536839156.jpg",
+          "photoId": 536839156,
+          "observationId": 298054940,
+          "taxonId": 1013814,
+          "taxonName": "Campomanesia guaviroba",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/536839156",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/536839156/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/298054940",
+          "downloadedAt": "2026-10-28T16:48:12.696372+00:00",
+          "sha256": "413680fd8dad8f11137128646bf57e4350c5332b21edf808ed3f3c7567da6b5e",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-265243979",
+          "fileName": "inat-265243979.jpeg",
+          "photoId": 265243979,
+          "observationId": 153562978,
+          "taxonId": 1013814,
+          "taxonName": "Campomanesia guaviroba",
+          "creator": "fmunoz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) fmunoz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/265243979",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/265243979/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/153562978",
+          "downloadedAt": "2026-10-28T16:48:14.178965+00:00",
+          "sha256": "80aecd26061edbcbd0639fd36f4ed014949589695fbbd39bee790198203d19a0",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Campomanesia guaviroba (FB10315)",
@@ -18765,7 +20027,31 @@
       ],
       "floraId": 11336,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-347194342",
+          "fileName": "inat-347194342.jpeg",
+          "photoId": 347194342,
+          "observationId": 197167408,
+          "taxonId": 788260,
+          "taxonName": "Cattleya guttata",
+          "creator": "Patrícia Mees",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Patrícia Mees, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/347194342",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/347194342/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/197167408",
+          "downloadedAt": "2026-10-28T16:48:16.240420+00:00",
+          "sha256": "c484971c40aa6f921b3edad7d674b307ba1bd9763424e3a78dff81108507f087",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Cattleya guttata (FB11336)",
@@ -20559,7 +21845,77 @@
       ],
       "floraId": 39448,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-598549641",
+          "fileName": "inat-598549641.jpg",
+          "photoId": 598549641,
+          "observationId": 330120607,
+          "taxonId": 440215,
+          "taxonName": "Manilkara subsericea",
+          "creator": "Pablo Cauã da Silva Toledo",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/598549641",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/598549641/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/330120607",
+          "downloadedAt": "2026-10-28T16:48:18.616083+00:00",
+          "sha256": "b54aaf4311c34b9b2f316f28c463c012669dc3f11b597cadbf82b970e9d540c8",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-423530622",
+          "fileName": "inat-423530622.jpeg",
+          "photoId": 423530622,
+          "observationId": 237938176,
+          "taxonId": 440215,
+          "taxonName": "Manilkara subsericea",
+          "creator": "Darren Obbard",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Darren Obbard, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/423530622",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/423530622/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/237938176",
+          "downloadedAt": "2026-10-28T16:48:20.208925+00:00",
+          "sha256": "682ad645172ffc7ec2abe3ffccfa5d6dff9e5169eb50f2980fc4003be8304cb1",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-341159009",
+          "fileName": "inat-341159009.jpeg",
+          "photoId": 341159009,
+          "observationId": 194133355,
+          "taxonId": 440215,
+          "taxonName": "Manilkara subsericea",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/341159009",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341159009/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/194133355",
+          "downloadedAt": "2026-10-28T16:48:23.486595+00:00",
+          "sha256": "c71d3a3207790171868b94854bf4c17ad0953461180a3a69fb391ba4b6623e64",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Manilkara subsericea (FB39448)",
@@ -23747,7 +25103,77 @@
       ],
       "floraId": 4529,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-598888724",
+          "fileName": "inat-598888724.jpg",
+          "photoId": 598888724,
+          "observationId": 330288193,
+          "taxonId": 790703,
+          "taxonName": "Aspidosperma parvifolium",
+          "creator": "Thomaz Ricardo Favreto Sinani",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Thomaz Ricardo Favreto Sinani, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/598888724",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/598888724/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/330288193",
+          "downloadedAt": "2026-10-28T16:48:25.300337+00:00",
+          "sha256": "342961280fe1679bd3ce4f51fb636bded8657796a0aeefb4606e30078bf00e72",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-598888918",
+          "fileName": "inat-598888918.jpg",
+          "photoId": 598888918,
+          "observationId": 330288193,
+          "taxonId": 790703,
+          "taxonName": "Aspidosperma parvifolium",
+          "creator": "Thomaz Ricardo Favreto Sinani",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Thomaz Ricardo Favreto Sinani, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/598888918",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/598888918/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/330288193",
+          "downloadedAt": "2026-10-28T16:48:27.284716+00:00",
+          "sha256": "3d53b3a9538dbccd0a98c1c195f8abab4fb0211b9285e44d2e11b1017996a338",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-598888962",
+          "fileName": "inat-598888962.jpg",
+          "photoId": 598888962,
+          "observationId": 330288193,
+          "taxonId": 790703,
+          "taxonName": "Aspidosperma parvifolium",
+          "creator": "Thomaz Ricardo Favreto Sinani",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Thomaz Ricardo Favreto Sinani, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/598888962",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/598888962/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/330288193",
+          "downloadedAt": "2026-10-28T16:48:29.197921+00:00",
+          "sha256": "e44163385423440ca1df9cf42862c5be68172f03b21d2e04ca57b7a1d3f339ee",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Aspidosperma parvifolium (FB4529)",
@@ -24083,7 +25509,54 @@
       ],
       "floraId": 33944,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-752838265",
+          "fileName": "inat-752838265.jpg",
+          "photoId": 752838265,
+          "observationId": 409446154,
+          "taxonId": 1655395,
+          "taxonName": "Dendropanax heterophyllus",
+          "creator": "Paulo Mascaretti",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Paulo Mascaretti, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/752838265",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752838265/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/409446154",
+          "downloadedAt": "2026-10-28T16:49:38.286764+00:00",
+          "sha256": "62e4badcea764d7d2fa6f2316ebf64a7b053dfc110d2975c3eb0ee4fc2fddf6e",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-752838415",
+          "fileName": "inat-752838415.jpg",
+          "photoId": 752838415,
+          "observationId": 409446154,
+          "taxonId": 1655395,
+          "taxonName": "Dendropanax heterophyllus",
+          "creator": "Paulo Mascaretti",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Paulo Mascaretti, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/752838415",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752838415/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/409446154",
+          "downloadedAt": "2026-10-28T16:49:39.998346+00:00",
+          "sha256": "542c94bdd6bf3340c53023f802b9a06e207adb3a8f4c98d9123a0b5249f5cb08",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Dendropanax heterophyllus (FB33944)",
@@ -24305,7 +25778,77 @@
       ],
       "floraId": 109566,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-340233662",
+          "fileName": "inat-340233662.jpeg",
+          "photoId": 340233662,
+          "observationId": 193668864,
+          "taxonId": 937376,
+          "taxonName": "Cololobus rupestris",
+          "creator": "agujaceratops",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/340233662",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/340233662/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/193668864",
+          "downloadedAt": "2026-10-28T16:49:41.741677+00:00",
+          "sha256": "4a6a167993b88886ae62b0b4cd2faa02302d24a1dd280b9050b3b3e9b51b35dd",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-340233673",
+          "fileName": "inat-340233673.jpeg",
+          "photoId": 340233673,
+          "observationId": 193668864,
+          "taxonId": 937376,
+          "taxonName": "Cololobus rupestris",
+          "creator": "agujaceratops",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/340233673",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/340233673/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/193668864",
+          "downloadedAt": "2026-10-28T16:49:43.337279+00:00",
+          "sha256": "2cfb7350ddf9c2bdd0851f5f5cb01a4ede6a625e3a66177060efa3b15640f120",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-340233667",
+          "fileName": "inat-340233667.jpeg",
+          "photoId": 340233667,
+          "observationId": 193668864,
+          "taxonId": 937376,
+          "taxonName": "Cololobus rupestris",
+          "creator": "agujaceratops",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/340233667",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/340233667/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/193668864",
+          "downloadedAt": "2026-10-28T16:49:45.011905+00:00",
+          "sha256": "f1c5a9507ec65fde2c11cb7de1277f83a28ee57d77ab12afca7621761b4cb28e",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Cololobus rupestris (FB109566)",
@@ -24531,7 +26074,54 @@
       ],
       "floraId": 114203,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-606653777",
+          "fileName": "inat-606653777.jpg",
+          "photoId": 606653777,
+          "observationId": 334101500,
+          "taxonId": 1063368,
+          "taxonName": "Paratecoma peroba",
+          "creator": "Marcio Santos Ferreira",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/606653777",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/606653777/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/334101500",
+          "downloadedAt": "2026-10-28T16:49:46.674773+00:00",
+          "sha256": "26a6938fcee901cfe3c0659fdba4c57904c5ac3d3898c6155c8669a142294ef8",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-606653764",
+          "fileName": "inat-606653764.jpg",
+          "photoId": 606653764,
+          "observationId": 334101500,
+          "taxonId": 1063368,
+          "taxonName": "Paratecoma peroba",
+          "creator": "Marcio Santos Ferreira",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/606653764",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/606653764/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/334101500",
+          "downloadedAt": "2026-10-28T16:49:49.166004+00:00",
+          "sha256": "c3cbb77db97384bee2a73eab1ef57cf700990f77ad0debe173d1fdf0d5eddf6c",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Paratecoma peroba (FB114203)",
@@ -24590,7 +26180,77 @@
       ],
       "floraId": 114267,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-60927236",
+          "fileName": "inat-60927236.jpeg",
+          "photoId": 60927236,
+          "observationId": 38344435,
+          "taxonId": 85336,
+          "taxonName": "Tabebuia cassinoides",
+          "creator": "Carlos Otávio Gussoni",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Carlos Otávio Gussoni, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/60927236",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60927236/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/38344435",
+          "downloadedAt": "2026-10-28T16:48:30.529579+00:00",
+          "sha256": "a0627e27b7ab4f026cd6a9fcc262205b00b6676798fafeafac5196e87184cc9c",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-410540697",
+          "fileName": "inat-410540697.jpeg",
+          "photoId": 410540697,
+          "observationId": 231170405,
+          "taxonId": 85336,
+          "taxonName": "Tabebuia cassinoides",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/410540697",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/410540697/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/231170405",
+          "downloadedAt": "2026-10-28T16:48:32.292080+00:00",
+          "sha256": "38d82e82210a45e655612ffdc2fbc2f8d3b6d744e187924fa591821544180c86",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-410540913",
+          "fileName": "inat-410540913.jpeg",
+          "photoId": 410540913,
+          "observationId": 231170405,
+          "taxonId": 85336,
+          "taxonName": "Tabebuia cassinoides",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/410540913",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/410540913/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/231170405",
+          "downloadedAt": "2026-10-28T16:48:34.018670+00:00",
+          "sha256": "093c34b5a105a6c4a1cc8fe788e92fed148facd2dbb22bf61937f04e3ae37deb",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Tabebuia cassinoides (FB114267)",
@@ -26088,7 +27748,77 @@
       ],
       "floraId": 100934,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-150444248",
+          "fileName": "inat-150444248.jpeg",
+          "photoId": 150444248,
+          "observationId": 90992206,
+          "taxonId": 439114,
+          "taxonName": "Inga maritima",
+          "creator": "Victor Farjalla Pontes",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/150444248",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/150444248/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/90992206",
+          "downloadedAt": "2026-10-28T16:48:35.585710+00:00",
+          "sha256": "27d21721d6e1f4d7b2996166d1f493ae3226527e220393f6481cfedad7131193",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-150444228",
+          "fileName": "inat-150444228.jpeg",
+          "photoId": 150444228,
+          "observationId": 90992206,
+          "taxonId": 439114,
+          "taxonName": "Inga maritima",
+          "creator": "Victor Farjalla Pontes",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/150444228",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/150444228/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/90992206",
+          "downloadedAt": "2026-10-28T16:48:37.276498+00:00",
+          "sha256": "2ab9c9f21f1f2cfa0ca0521f9e605250a74b6b6fb7db3c1b3e2618c6629c3078",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-150444217",
+          "fileName": "inat-150444217.jpeg",
+          "photoId": 150444217,
+          "observationId": 90992206,
+          "taxonId": 439114,
+          "taxonName": "Inga maritima",
+          "creator": "Victor Farjalla Pontes",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/150444217",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/150444217/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/90992206",
+          "downloadedAt": "2026-10-28T16:48:38.907824+00:00",
+          "sha256": "3eadcfc4994b13424aa45161e43d1b24440d756a8fa90b1ea9c6b4cbe3f4d3ea",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Inga maritima (FB100934)",
@@ -26685,7 +28415,77 @@
       ],
       "floraId": 7941,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-148821244",
+          "fileName": "inat-148821244.jpeg",
+          "photoId": 148821244,
+          "observationId": 90076408,
+          "taxonId": 930608,
+          "taxonName": "Vanhouttea gardneri",
+          "creator": "Victor Farjalla Pontes",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/148821244",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148821244/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/90076408",
+          "downloadedAt": "2026-10-28T16:48:40.496044+00:00",
+          "sha256": "80b4f1e0809e97c54923a97ed1ca25d4b3d5f0f6a68fc9fab9d27c3d834bd300",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-148821278",
+          "fileName": "inat-148821278.jpeg",
+          "photoId": 148821278,
+          "observationId": 90076408,
+          "taxonId": 930608,
+          "taxonName": "Vanhouttea gardneri",
+          "creator": "Victor Farjalla Pontes",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/148821278",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148821278/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/90076408",
+          "downloadedAt": "2026-10-28T16:48:42.071787+00:00",
+          "sha256": "f79ce9feda1a91b160ebad47b4ee14da839c78049a55deb4d6a4e49457863531",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-148821166",
+          "fileName": "inat-148821166.jpeg",
+          "photoId": 148821166,
+          "observationId": 90076408,
+          "taxonId": 930608,
+          "taxonName": "Vanhouttea gardneri",
+          "creator": "Victor Farjalla Pontes",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/148821166",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148821166/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/90076408",
+          "downloadedAt": "2026-10-28T16:48:43.764147+00:00",
+          "sha256": "bcaefceaff55bc15228a5212006c9d613cb12d7b98bd38afe8d23a947d000c39",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Vanhouttea gardneri (FB7941)",
@@ -27058,7 +28858,77 @@
       ],
       "floraId": 8839,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-510283868",
+          "fileName": "inat-510283868.jpg",
+          "photoId": 510283868,
+          "observationId": 283975369,
+          "taxonId": 1402240,
+          "taxonName": "Byrsonima microphylla",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/510283868",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/510283868/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/283975369",
+          "downloadedAt": "2026-10-28T16:48:45.383070+00:00",
+          "sha256": "6e77e4fb9e7ad8bb4ac71021b479e20779db8da607786d5c73471f7c61dadd37",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-507992542",
+          "fileName": "inat-507992542.jpg",
+          "photoId": 507992542,
+          "observationId": 282744145,
+          "taxonId": 1402240,
+          "taxonName": "Byrsonima microphylla",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/507992542",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/507992542/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/282744145",
+          "downloadedAt": "2026-10-28T16:48:47.364983+00:00",
+          "sha256": "8fe0d7caa3fc1f24705ab4ad648543f0638e113c5c1c893253b97cc082e71885",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-510283876",
+          "fileName": "inat-510283876.jpg",
+          "photoId": 510283876,
+          "observationId": 283975369,
+          "taxonId": 1402240,
+          "taxonName": "Byrsonima microphylla",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/510283876",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/510283876/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/283975369",
+          "downloadedAt": "2026-10-28T16:48:49.113722+00:00",
+          "sha256": "f46b2b54839c7efe7a457dd5de5e07723ca1de0fdae694c4429f18367d7ce2c7",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Byrsonima microphylla (FB8839)",
@@ -27446,7 +29316,77 @@
       ],
       "floraId": 9655,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-57914400",
+          "fileName": "inat-57914400.jpeg",
+          "photoId": 57914400,
+          "observationId": 36623613,
+          "taxonId": 1236874,
+          "taxonName": "Meriania glabra",
+          "creator": "Diogo Luiz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/57914400",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57914400/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/36623613",
+          "downloadedAt": "2026-10-28T16:48:50.429507+00:00",
+          "sha256": "7ef483205b52755f12e015eadce7ec5a0c825aad2b81e54fa391c66c5c485808",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-353391566",
+          "fileName": "inat-353391566.jpg",
+          "photoId": 353391566,
+          "observationId": 200316714,
+          "taxonId": 1236874,
+          "taxonName": "Meriania glabra",
+          "creator": "Diogo Luiz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/353391566",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353391566/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/200316714",
+          "downloadedAt": "2026-10-28T16:48:52.897476+00:00",
+          "sha256": "ee41dce05b529b51039707c320d5701276e8297ad3f4e52677cbc55bb870c9ab",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-353391554",
+          "fileName": "inat-353391554.jpg",
+          "photoId": 353391554,
+          "observationId": 200316714,
+          "taxonId": 1236874,
+          "taxonName": "Meriania glabra",
+          "creator": "Diogo Luiz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/353391554",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353391554/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/200316714",
+          "downloadedAt": "2026-10-28T16:48:54.629951+00:00",
+          "sha256": "5d02cba1cc24e38eadf4bbf01f72707fcb23b53210c31919733590fa46149103",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Meriania glabra (FB9655)",
@@ -28183,7 +30123,77 @@
       ],
       "floraId": 10198,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-548624053",
+          "fileName": "inat-548624053.jpg",
+          "photoId": 548624053,
+          "observationId": 304335016,
+          "taxonId": 1095082,
+          "taxonName": "Virola bicuhyba",
+          "creator": "Pablo Cauã da Silva Toledo",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/548624053",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/548624053/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/304335016",
+          "downloadedAt": "2026-10-28T16:48:56.739036+00:00",
+          "sha256": "7aa2f4d01da44547f395eec880c6084f69e5179e228fc1db72c05d395e01dd95",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-236874847",
+          "fileName": "inat-236874847.jpeg",
+          "photoId": 236874847,
+          "observationId": 138571782,
+          "taxonId": 1095082,
+          "taxonName": "Virola bicuhyba",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/236874847",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/236874847/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/138571782",
+          "downloadedAt": "2026-10-28T16:48:58.119471+00:00",
+          "sha256": "7751292f4d6647121801b423f3f2965ce036a82a277a0c443dcd3c1207dada69",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-368809280",
+          "fileName": "inat-368809280.jpeg",
+          "photoId": 368809280,
+          "observationId": 208446112,
+          "taxonId": 1095082,
+          "taxonName": "Virola bicuhyba",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/368809280",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/368809280/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/208446112",
+          "downloadedAt": "2026-10-28T16:49:00.176516+00:00",
+          "sha256": "ed06c89f0e4ee900d4dfbd4fb3ea49c19040b456f3458925735c478202759ece",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Virola bicuhyba (FB10198)",
@@ -28587,7 +30597,54 @@
       ],
       "floraId": 10637,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-675558294",
+          "fileName": "inat-675558294.jpg",
+          "photoId": 675558294,
+          "observationId": 369839127,
+          "taxonId": 1405716,
+          "taxonName": "Myrceugenia cucullata",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/675558294",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/675558294/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/369839127",
+          "downloadedAt": "2026-10-28T16:49:50.450230+00:00",
+          "sha256": "a607ab5e01c79ab61a11349d0ad6bcdb3cfe810e8dae8846349ee9c3c7b10d34",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-675558314",
+          "fileName": "inat-675558314.jpg",
+          "photoId": 675558314,
+          "observationId": 369839127,
+          "taxonId": 1405716,
+          "taxonName": "Myrceugenia cucullata",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/675558314",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/675558314/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/369839127",
+          "downloadedAt": "2026-10-28T16:49:51.936714+00:00",
+          "sha256": "db1fe9b91914e1ff8563af22d690011d654c90e0ad7ca1ae76056018df6eb194",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Myrceugenia cucullata (FB10637)",
@@ -28644,7 +30701,54 @@
       ],
       "floraId": 10647,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-448736363",
+          "fileName": "inat-448736363.jpeg",
+          "photoId": 448736363,
+          "observationId": 250858954,
+          "taxonId": 440861,
+          "taxonName": "Myrceugenia miersiana",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/448736363",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/448736363/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/250858954",
+          "downloadedAt": "2026-10-28T16:49:54.233903+00:00",
+          "sha256": "844cda23afc04ab01320661d709b9c261b45246db36e6beec7141d873277ed5b",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-448737585",
+          "fileName": "inat-448737585.jpeg",
+          "photoId": 448737585,
+          "observationId": 250858954,
+          "taxonId": 440861,
+          "taxonName": "Myrceugenia miersiana",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/448737585",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/448737585/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/250858954",
+          "downloadedAt": "2026-10-28T16:49:57.746617+00:00",
+          "sha256": "7a60b6a766d674fc59c7fae926368bb7cf7fe3679c382345a89f1324961c53e6",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Myrceugenia miersiana (FB10647)",
@@ -28702,7 +30806,77 @@
       ],
       "floraId": 10648,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-356629737",
+          "fileName": "inat-356629737.jpeg",
+          "photoId": 356629737,
+          "observationId": 201977442,
+          "taxonId": 440862,
+          "taxonName": "Myrceugenia myrcioides",
+          "creator": "Patrícia Mees",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Patrícia Mees, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/356629737",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/356629737/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/201977442",
+          "downloadedAt": "2026-10-28T16:49:02.071673+00:00",
+          "sha256": "723575a03f42d37daccfd99e8e5060500c07a3cf72a55f7ee2c56a236c977895",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-277741151",
+          "fileName": "inat-277741151.jpeg",
+          "photoId": 277741151,
+          "observationId": 160718086,
+          "taxonId": 440862,
+          "taxonName": "Myrceugenia myrcioides",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/277741151",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277741151/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/160718086",
+          "downloadedAt": "2026-10-28T16:49:03.818667+00:00",
+          "sha256": "e9a142a6ab6a7bc13ca7bd053180adc130f332b290a781c267d761d184119171",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-277741157",
+          "fileName": "inat-277741157.jpeg",
+          "photoId": 277741157,
+          "observationId": 160718086,
+          "taxonId": 440862,
+          "taxonName": "Myrceugenia myrcioides",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/277741157",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277741157/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/160718086",
+          "downloadedAt": "2026-10-28T16:49:05.732606+00:00",
+          "sha256": "31b1fa9b936e1601b6eadc0a06873281e09bb6cd0f51f89b8b68ef71a4bf96ad",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Myrceugenia myrcioides (FB10648)",
@@ -29366,7 +31540,77 @@
       ],
       "floraId": 10823,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-656585420",
+          "fileName": "inat-656585420.jpg",
+          "photoId": 656585420,
+          "observationId": 359860085,
+          "taxonId": 442129,
+          "taxonName": "Pimenta pseudocaryophyllus",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/656585420",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/656585420/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/359860085",
+          "downloadedAt": "2026-10-28T16:49:07.490382+00:00",
+          "sha256": "ac44e7b077f928987abf66a7830668d92dfbcdeab215962d72f6261d3c502133",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-341370105",
+          "fileName": "inat-341370105.jpeg",
+          "photoId": 341370105,
+          "observationId": 194236461,
+          "taxonId": 442129,
+          "taxonName": "Pimenta pseudocaryophyllus",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/341370105",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341370105/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/194236461",
+          "downloadedAt": "2026-10-28T16:49:09.187770+00:00",
+          "sha256": "b3c4a1cf34b41d431da85c9fccee503b49ce10f0ae0bf09fab376cf8bec76cd0",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-341370109",
+          "fileName": "inat-341370109.jpeg",
+          "photoId": 341370109,
+          "observationId": 194236461,
+          "taxonId": 442129,
+          "taxonName": "Pimenta pseudocaryophyllus",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/341370109",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341370109/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/194236461",
+          "downloadedAt": "2026-10-28T16:49:11.085789+00:00",
+          "sha256": "77e711d47677ec602a1b293bd58520a9ddc4ee90a69789a72c62f7ea60fbcebd",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Pimenta pseudocaryophyllus (FB10823)",
@@ -30057,7 +32301,77 @@
       ],
       "floraId": 20527,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-424581234",
+          "fileName": "inat-424581234.jpeg",
+          "photoId": 424581234,
+          "observationId": 238483491,
+          "taxonId": 135649,
+          "taxonName": "Podocarpus sellowii",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/424581234",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/424581234/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/238483491",
+          "downloadedAt": "2026-10-28T16:49:13.068108+00:00",
+          "sha256": "6be49daa8f7ef50438e1da27752a8d904949c91e530031d324adc820cd011b4f",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-424581237",
+          "fileName": "inat-424581237.jpeg",
+          "photoId": 424581237,
+          "observationId": 238483491,
+          "taxonId": 135649,
+          "taxonName": "Podocarpus sellowii",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/424581237",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/424581237/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/238483491",
+          "downloadedAt": "2026-10-28T16:49:14.862225+00:00",
+          "sha256": "594c755da3204d787ba38f6799b952d32141200c28235b0443a30fd639192b45",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-424580724",
+          "fileName": "inat-424580724.jpeg",
+          "photoId": 424580724,
+          "observationId": 238483494,
+          "taxonId": 135649,
+          "taxonName": "Podocarpus sellowii",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/424580724",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/424580724/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/238483494",
+          "downloadedAt": "2026-10-28T16:49:16.555852+00:00",
+          "sha256": "fcd88fdf5fa55dd0b542101fe2fbd94de2282a41fcf8de06d068790d7c81d6c5",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Podocarpus sellowii (FB20527)",
@@ -30449,7 +32763,77 @@
       ],
       "floraId": 106739,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-677889429",
+          "fileName": "inat-677889429.jpg",
+          "photoId": 677889429,
+          "observationId": 371039645,
+          "taxonId": 181255,
+          "taxonName": "Rhamnidium glabrum",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/677889429",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/677889429/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/371039645",
+          "downloadedAt": "2026-10-28T16:49:18.239638+00:00",
+          "sha256": "696acf6aefd282a5bf7f126390a7388c2f7ee3f8a498993cdba5c8db8912bb6d",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-677889322",
+          "fileName": "inat-677889322.jpg",
+          "photoId": 677889322,
+          "observationId": 371039645,
+          "taxonId": 181255,
+          "taxonName": "Rhamnidium glabrum",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/677889322",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/677889322/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/371039645",
+          "downloadedAt": "2026-10-28T16:49:20.060513+00:00",
+          "sha256": "1dc6ad7c20173850c225a64c1753bcd57d1afaf0b54bc33aa78672eaf110fd7f",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-677889334",
+          "fileName": "inat-677889334.jpg",
+          "photoId": 677889334,
+          "observationId": 371039645,
+          "taxonId": 181255,
+          "taxonName": "Rhamnidium glabrum",
+          "creator": "Fabrício Mil Homens Riella",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/677889334",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/677889334/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/371039645",
+          "downloadedAt": "2026-10-28T16:49:21.840851+00:00",
+          "sha256": "ec174715cbee28b0976d709756e6e199818d5eb273bcb59805391d077140dcac",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Rhamnidium glabrum (FB106739)",
@@ -30505,7 +32889,31 @@
       ],
       "floraId": 108414,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-264300010",
+          "fileName": "inat-264300010.jpeg",
+          "photoId": 264300010,
+          "observationId": 153055180,
+          "taxonId": 1442712,
+          "taxonName": "Scutia arenicola",
+          "creator": "Pablo Cauã da Silva Toledo",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/264300010",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/264300010/large.jpeg",
+          "observationUrl": "https://www.inaturalist.org/observations/153055180",
+          "downloadedAt": "2026-10-28T16:49:23.611051+00:00",
+          "sha256": "addbecb947e7f57af1f7bc61222d14edb7aca226f658fe8a5bc4897787117c32",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Scutia arenicola (FB108414)",
@@ -30729,7 +33137,77 @@
       ],
       "floraId": 13951,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-727944299",
+          "fileName": "inat-727944299.jpg",
+          "photoId": 727944299,
+          "observationId": 396924618,
+          "taxonId": 1710416,
+          "taxonName": "Faramea calyciflora",
+          "creator": "fmunoz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) fmunoz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/727944299",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/727944299/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/396924618",
+          "downloadedAt": "2026-10-28T16:49:25.236568+00:00",
+          "sha256": "894c8003606c18bdc8ee2df3648cb175e3e8393eafcc4e7bb134a7e4fbebc965",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-727944186",
+          "fileName": "inat-727944186.jpg",
+          "photoId": 727944186,
+          "observationId": 396924618,
+          "taxonId": 1710416,
+          "taxonName": "Faramea calyciflora",
+          "creator": "fmunoz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) fmunoz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/727944186",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/727944186/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/396924618",
+          "downloadedAt": "2026-10-28T16:49:26.888325+00:00",
+          "sha256": "8dc4c59c48f1c21830882bbd36710b5b2ee4d89bf8f97aa7596341fa1133ed98",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-727944225",
+          "fileName": "inat-727944225.jpg",
+          "photoId": 727944225,
+          "observationId": 396924618,
+          "taxonId": 1710416,
+          "taxonName": "Faramea calyciflora",
+          "creator": "fmunoz",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) fmunoz, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/727944225",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/727944225/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/396924618",
+          "downloadedAt": "2026-10-28T16:49:28.513470+00:00",
+          "sha256": "726f70a073d681fabe39e614e90c0f06bbebe0cab54d76aad28304703c4124e6",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Faramea calyciflora (FB13951)",
@@ -30955,7 +33433,54 @@
       ],
       "floraId": 14116,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-629070197",
+          "fileName": "inat-629070197.jpg",
+          "photoId": 629070197,
+          "observationId": 345203858,
+          "taxonId": 1422252,
+          "taxonName": "Melanopsidium nigrum",
+          "creator": "Henrique Nogueira",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Henrique Nogueira, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/629070197",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/629070197/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/345203858",
+          "downloadedAt": "2026-10-28T16:49:30.077680+00:00",
+          "sha256": "185f60b51e77dbfefc08439ef48de94f465ecf351e7164af8b882dc083411426",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-629070219",
+          "fileName": "inat-629070219.jpg",
+          "photoId": 629070219,
+          "observationId": 345203858,
+          "taxonId": 1422252,
+          "taxonName": "Melanopsidium nigrum",
+          "creator": "Henrique Nogueira",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Henrique Nogueira, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/629070219",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/629070219/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/345203858",
+          "downloadedAt": "2026-10-28T16:49:32.050467+00:00",
+          "sha256": "d685171d60e97d6c46112978e6352fc785f3288317d9bf900a1bd95aaba6a98b",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Melanopsidium nigrum (FB14116)",
@@ -31065,7 +33590,77 @@
       ],
       "floraId": 14221,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-691168057",
+          "fileName": "inat-691168057.jpg",
+          "photoId": 691168057,
+          "observationId": 377931745,
+          "taxonId": 1682048,
+          "taxonName": "Psychotria subspathacea",
+          "creator": "Josh Baryia",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Josh Baryia, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/691168057",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/691168057/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/377931745",
+          "downloadedAt": "2026-10-28T16:49:59.437825+00:00",
+          "sha256": "ba4bb62ea9a13d4d280185ff9328aad1b2336135f51bbac628896afc8a76f11b",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-691168162",
+          "fileName": "inat-691168162.jpg",
+          "photoId": 691168162,
+          "observationId": 377931745,
+          "taxonId": 1682048,
+          "taxonName": "Psychotria subspathacea",
+          "creator": "Josh Baryia",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Josh Baryia, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/691168162",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/691168162/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/377931745",
+          "downloadedAt": "2026-10-28T16:50:01.368971+00:00",
+          "sha256": "ba160f6e024773c9d6f2456d66247716b7732b0009fef7c4cce58e71f18b4fc6",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        },
+        {
+          "id": "inat-691168124",
+          "fileName": "inat-691168124.jpg",
+          "photoId": 691168124,
+          "observationId": 377931745,
+          "taxonId": 1682048,
+          "taxonName": "Psychotria subspathacea",
+          "creator": "Josh Baryia",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Josh Baryia, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/691168124",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/691168124/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/377931745",
+          "downloadedAt": "2026-10-28T16:50:03.889129+00:00",
+          "sha256": "6d7db2178cc850ca64888cc3a963353f458b19383512250ae3e165cf4a15e24d",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Psychotria subspathacea (FB14221)",
@@ -31793,7 +34388,31 @@
       ],
       "floraId": 111638,
       "regionalSpecies": [],
-      "photos": [],
+      "photos": [
+        {
+          "id": "inat-609929978",
+          "fileName": "inat-609929978.jpg",
+          "photoId": 609929978,
+          "observationId": 335719193,
+          "taxonId": 1663353,
+          "taxonName": "Cupania schizoneura",
+          "creator": "Rosario Douglas",
+          "license": "CC-BY-4.0",
+          "licenseCode": "cc-by",
+          "attribution": "(c) Rosario Douglas, some rights reserved (CC BY)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "photoPageUrl": "https://www.inaturalist.org/photos/609929978",
+          "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/609929978/large.jpg",
+          "observationUrl": "https://www.inaturalist.org/observations/335719193",
+          "downloadedAt": "2026-10-28T16:50:06.101396+00:00",
+          "sha256": "9f0cefacb3719d9c272c5c456f9d182f13fc4512951205c692d892bf792c093f",
+          "markers": [
+            "unknown"
+          ],
+          "caption": "Identificação a conferir: observação iNaturalist sem grau de pesquisa.",
+          "reviewStatus": "draft"
+        }
+      ],
       "sources": [
         {
           "title": "Flora e Funga do Brasil · Cupania schizoneura (FB111638)",

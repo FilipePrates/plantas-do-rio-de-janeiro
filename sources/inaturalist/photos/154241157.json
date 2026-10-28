@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Geonoma+pohliana&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 154241157,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154241157/square.jpeg",
+    "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Victor Farjalla Pontes",
+  "observation": {
+    "id": 93099086,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 365285,
+      "name": "Geonoma pohliana"
+    },
+    "observerLogin": "vfarjalla",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154241157/large.jpeg",
+    "sha256": "ac9764b0dbabd2fdc8622a2a330b23982fc3fc1b47a52366e8b93646643872d0",
+    "retrievedAt": "2026-10-28T16:47:00.042216+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/geonoma-pohliana.json",
+    "sha256": "79e41ebd8982b976001c1665d96fea1485022675019ea2f58551f70fa50705cf",
+    "retrievedAt": "2026-10-28T16:26:00.613576+00:00"
+  }
+}

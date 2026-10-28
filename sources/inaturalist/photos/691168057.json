@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Psychotria+subspathacea&photo_license=cc-by&per_page=30&order_by=votes",
+  "photo": {
+    "id": 691168057,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1260,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/691168057/square.jpg",
+    "attribution": "(c) Josh Baryia, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Josh Baryia",
+  "observation": {
+    "id": 377931745,
+    "quality_grade": "needs_id",
+    "taxon": {
+      "id": 1682048,
+      "name": "Psychotria subspathacea"
+    },
+    "observerLogin": "joshbaryia",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/691168057/large.jpg",
+    "sha256": "ba4bb62ea9a13d4d280185ff9328aad1b2336135f51bbac628896afc8a76f11b",
+    "retrievedAt": "2026-10-28T16:49:59.437825+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses-expanded/psychotria-subspathacea.json",
+    "sha256": "be54d083082c6e9f9b45fdec77726aaa0e4cff8a4d9b86868a288450b91c6d70",
+    "retrievedAt": "2026-10-28T16:37:52.116487+00:00"
+  }
+}

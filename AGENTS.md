@@ -17,8 +17,11 @@
   invasives; classification is editable with no fixed invasive-count limit.
 - Scope: native Atlantic Forest flora of Rio city; documented Rio state records
   may be included but must retain `rio-state` until municipal evidence exists.
-- Photos must be iNaturalist photo-level CC0 only. Never substitute CC BY,
-  CC BY-NC, or `default_photo`. Preserve downloaded license evidence and hashes.
+- Photos must be iNaturalist photo-level CC0 or CC BY 4.0 (CC BY authorized
+  on 2026-10-28). Never substitute CC BY-NC, CC BY-SA, CC BY-ND, or
+  `default_photo`. Preserve downloaded license evidence and hashes. CC BY
+  requires the supplied attribution, source and license links, and disclosure
+  of thumbnail resizing/cropping; do not label CC BY photos as CC0.
 - Flower/fruit/leaf/bark/whole-plant markers describe individual photos, not every
   photo in a phenologically annotated observation. Human visual review required.
 - Draft-generated text and images must remain draft until reviewed. Counts in

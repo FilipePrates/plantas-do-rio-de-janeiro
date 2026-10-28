@@ -131,12 +131,14 @@ The generated [catalog report](docs/catalog-status.json) lists photo gaps and
 review status. A much larger catalog may need independently configured content
 packs; this first draft bundles its seed media.
 
-## CC0 photo workflow
+## CC0 and CC BY photo workflow
 
 ```bash
 npm run photos:fetch
 # Or fetch a specific entry, matching its catalog ID:
 npm run photos:fetch -- --ids euterpe-edulis --per-plant 3
+# CC BY requires attribution, a license link and a modification notice:
+npm run photos:fetch -- --ids euterpe-edulis --per-plant 3 --license cc-by
 # A particular native member can illustrate a grouped genus:
 npm run photos:fetch -- --ids anthurium-spp --taxon-name "Anthurium coriaceum"
 npm run catalog:generate
@@ -145,10 +147,15 @@ npm run editor:sync
 ```
 
 The importer reads research-grade, non-captive observations and checks each
-photo's own `license_code == cc0`. Default taxon photos are never imported.
+photo's own license: CC0 by default, or CC BY with `--license cc-by`.
+Default taxon photos and NC/SA/ND licenses are never imported.
 It downloads images from iNaturalist hosts only, preserves photo/observation
 IDs, creator, source URL, timestamp, raw photo-license evidence, and SHA-256.
-Missing CC0 media produces a placeholder, never a license substitution.
+CC BY imports additionally preserve the full iNaturalist attribution, the
+photo-page URL and the CC BY 4.0 license URL. The app's photo-credit panel shows
+these offline-readable credits and explains thumbnail resizing/cropping.
+Missing eligible media produces a placeholder. See
+[the CC BY review report](docs/photo-review-cc-by-2026-10-28.md).
 Photos can be taken outside Rio if their taxon matches; photo provenance is
 independent of the botanical evidence for native membership.
 
@@ -172,7 +179,7 @@ npm run catalog:import -- /path/to/plantas-rio-2026-10-16.json --apply
 ```
 
 The importer validates media hashes and compares provenance against archived
-CC0 evidence before replacing the catalog. New photos must go through the
+CC0 / CC BY evidence before replacing the catalog. New photos must go through the
 verified downloader first. Sync refreshes the editor's seed files; an existing
 browser draft is preserved until explicitly importing a newer JSON file.
 
@@ -206,7 +213,7 @@ generated Android/iOS folders were copied.
 ## Managing observations and photo selection
 
 The local plant editor now imports selected photos directly from an iNaturalist
-observation URL or numeric ID. It verifies each photo's CC0 license again at
+observation URL or numeric ID. It verifies each photo's CC0 or CC BY license at
 import, warns when the observation's identification differs from the plant or its
 enumerated genus members, then caches the image and rights evidence in this
 repository. The canonical app catalog is unchanged until you apply an editor

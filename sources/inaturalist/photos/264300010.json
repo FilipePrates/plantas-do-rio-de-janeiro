@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Scutia+arenicola&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 264300010,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264300010/square.jpeg",
+    "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Pablo Cauã da Silva Toledo",
+  "observation": {
+    "id": 153055180,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1442712,
+      "name": "Scutia arenicola"
+    },
+    "observerLogin": "pablocauapc",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264300010/large.jpeg",
+    "sha256": "addbecb947e7f57af1f7bc61222d14edb7aca226f658fe8a5bc4897787117c32",
+    "retrievedAt": "2026-10-28T16:49:23.611051+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/scutia-arenicola.json",
+    "sha256": "aedc3762b01fe516842dcd98458399a06107437c8d13307f0102b30c1a98a64f",
+    "retrievedAt": "2026-10-28T16:28:31.355503+00:00"
+  }
+}

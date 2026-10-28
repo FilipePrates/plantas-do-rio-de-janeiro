@@ -6,6 +6,9 @@ import {
   matchesPlant,
   parseCatalog,
   representedSpeciesCount,
+  inaturalistPhotoRights,
+  photoLicenseLabel,
+  photoLicenseUrl,
 } from "../src/catalog.mjs";
 
 const seed = JSON.parse(
@@ -123,13 +126,30 @@ function onePhoto() {
   catalog.plants[0].photos = [structuredClone(photo)];
   return catalog;
 }
-test("photo-level CC0 is mandatory, even if observation data may have a different license", () => {
+test("only paired CC0 and CC BY licenses are accepted at photo level", () => {
   assert.ok(parseCatalog(onePhoto()));
-  for (const license of ["cc-by", "cc-by-nc", null, ""]) {
+  for (const license of ["cc-by", "cc-by-nc", "cc-by-sa", "cc-by-nd", null, ""]) {
     const catalog = onePhoto();
     catalog.plants[0].photos[0].licenseCode = license;
     assert.throws(() => parseCatalog(catalog), /CC0/);
   }
+});
+test("CC BY round-trips with supplied attribution and exact source/license links", () => {
+  const catalog = onePhoto();
+  const rights = inaturalistPhotoRights({ id: 123, license_code: "cc-by", attribution: "(c) Photo author, some rights reserved (CC BY)" });
+  Object.assign(catalog.plants[0].photos[0], rights);
+  assert.deepEqual(parseCatalog(JSON.parse(JSON.stringify(catalog))), catalog);
+  assert.equal(rights.creator, "Photo author");
+  assert.equal(photoLicenseLabel(catalog.plants[0].photos[0]), "CC BY 4.0");
+  assert.equal(photoLicenseUrl(catalog.plants[0].photos[0]), "https://creativecommons.org/licenses/by/4.0/");
+  for (const [field, invalid] of [["attribution", ""], ["licenseUrl", "https://creativecommons.org/licenses/by-nc/4.0/"], ["photoPageUrl", "https://www.inaturalist.org/photos/999"]]) {
+    const changed = structuredClone(catalog);
+    changed.plants[0].photos[0][field] = invalid;
+    assert.throws(() => parseCatalog(changed), /CC BY/);
+  }
+  for (const code of ["cc-by-nc", "cc-by-sa", "cc-by-nd", undefined])
+    assert.throws(() => inaturalistPhotoRights({ id: 123, license_code: code, attribution: "Credit" }));
+  assert.throws(() => inaturalistPhotoRights({ id: 123, license_code: "cc-by" }), /atribuição/);
 });
 test("path traversal, arbitrary hosts, and bird markers are rejected", () => {
   for (const [key, value] of [

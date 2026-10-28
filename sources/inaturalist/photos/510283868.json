@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Byrsonima+microphylla&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 510283868,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510283868/square.jpg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 283975369,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1402240,
+      "name": "Byrsonima microphylla"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510283868/large.jpg",
+    "sha256": "6e77e4fb9e7ad8bb4ac71021b479e20779db8da607786d5c73471f7c61dadd37",
+    "retrievedAt": "2026-10-28T16:48:45.383070+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/byrsonima-microphylla.json",
+    "sha256": "3f835b6b4adfd5a39cfef091fb6ca097f044339ed63b6ee1c44e706f27ad5fc2",
+    "retrievedAt": "2026-10-28T16:27:39.643659+00:00"
+  }
+}

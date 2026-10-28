@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Melanopsidium+nigrum&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 629070219,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629070219/square.jpg",
+    "attribution": "(c) Henrique Nogueira, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Henrique Nogueira",
+  "observation": {
+    "id": 345203858,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1422252,
+      "name": "Melanopsidium nigrum"
+    },
+    "observerLogin": "herpetonogueira",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629070219/large.jpg",
+    "sha256": "d685171d60e97d6c46112978e6352fc785f3288317d9bf900a1bd95aaba6a98b",
+    "retrievedAt": "2026-10-28T16:49:32.050467+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/melanopsidium-nigrum.json",
+    "sha256": "811f5d5388399d590b9b5acc4ac212257bddd4397fe09b30b3a76dd3a99d68f2",
+    "retrievedAt": "2026-10-28T16:28:41.066373+00:00"
+  }
+}

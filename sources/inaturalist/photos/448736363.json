@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+miersiana&photo_license=cc-by&per_page=30&order_by=votes",
+  "photo": {
+    "id": 448736363,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448736363/square.jpeg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 250858954,
+    "quality_grade": "needs_id",
+    "taxon": {
+      "id": 440861,
+      "name": "Myrceugenia miersiana"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448736363/large.jpeg",
+    "sha256": "844cda23afc04ab01320661d709b9c261b45246db36e6beec7141d873277ed5b",
+    "retrievedAt": "2026-10-28T16:49:54.233903+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses-expanded/myrceugenia-miersiana.json",
+    "sha256": "38b06723292a50ae9d01a7a29306066c475fd53d92f4ac52648b2c4679708f0b",
+    "retrievedAt": "2026-10-28T16:37:19.353937+00:00"
+  }
+}

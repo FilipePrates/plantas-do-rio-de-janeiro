@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Allagoptera+caudescens&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 629772710,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 923,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629772710/square.jpg",
+    "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Marcio Santos Ferreira",
+  "observation": {
+    "id": 345560934,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 364204,
+      "name": "Allagoptera caudescens"
+    },
+    "observerLogin": "marcio_santos_ferreira",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629772710/large.jpg",
+    "sha256": "dba5c204ccdbfbf08cbcb1830e70f47eb4f0f51ea9ed492eccee999c25ffa97c",
+    "retrievedAt": "2026-10-28T16:46:47.092838+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/allagoptera-caudescens.json",
+    "sha256": "2ab273f45cf20da37a2f7511cc8dd9bcb0513c4116b014d48907b881c5cb9b92",
+    "retrievedAt": "2026-10-28T16:25:56.702390+00:00"
+  }
+}

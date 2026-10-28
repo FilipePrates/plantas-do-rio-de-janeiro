@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Campomanesia+guaviroba&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 536839156,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536839156/square.jpg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 298054940,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1013814,
+      "name": "Campomanesia guaviroba"
+    },
+    "observerLogin": "bariza",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536839156/large.jpg",
+    "sha256": "413680fd8dad8f11137128646bf57e4350c5332b21edf808ed3f3c7567da6b5e",
+    "retrievedAt": "2026-10-28T16:48:12.696372+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/campomanesia-guaviroba.json",
+    "sha256": "a28fc8b4449737e8757da8426f08eee16485058fbb4aeb2bf3cb51c1967feeae",
+    "retrievedAt": "2026-10-28T16:26:23.186839+00:00"
+  }
+}

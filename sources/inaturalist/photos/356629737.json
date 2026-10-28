@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Myrceugenia+myrcioides&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 356629737,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356629737/square.jpeg",
+    "attribution": "(c) Patrícia Mees, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Patrícia Mees",
+  "observation": {
+    "id": 201977442,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 440862,
+      "name": "Myrceugenia myrcioides"
+    },
+    "observerLogin": "patricia_mees",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356629737/large.jpeg",
+    "sha256": "723575a03f42d37daccfd99e8e5060500c07a3cf72a55f7ee2c56a236c977895",
+    "retrievedAt": "2026-10-28T16:49:02.071673+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/myrceugenia-myrcioides.json",
+    "sha256": "cd9477de638e2408116ca746b244570d3ceee63bfeae4f6dca3f2fa84899dff8",
+    "retrievedAt": "2026-10-28T16:28:04.753825+00:00"
+  }
+}

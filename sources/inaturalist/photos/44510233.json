@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Cariniana+ianeirensis&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes",
+  "photo": {
+    "id": 44510233,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44510233/square.jpeg",
+    "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Diogo Luiz",
+  "observation": {
+    "id": 28548569,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 190291,
+      "name": "Cariniana ianeirensis"
+    },
+    "observerLogin": "diogoluiz",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44510233/large.jpeg",
+    "sha256": "7f20d4c9db52b0aa9cec4d41a16b5f2a540fdebc949e6d5d917b84406e0b2fa3",
+    "retrievedAt": "2026-10-28T16:47:48.760935+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses/cariniana-ianeirensis.json",
+    "sha256": "6994ffebfbd7f52eb85294f473e168ad2b6a9ebb4f99a548cf17534949ec5763",
+    "retrievedAt": "2026-10-28T16:26:14.534408+00:00"
+  }
+}

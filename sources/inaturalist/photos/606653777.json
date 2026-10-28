@@ -1,0 +1,38 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations?taxon_name=Paratecoma+peroba&photo_license=cc-by&per_page=30&order_by=votes",
+  "photo": {
+    "id": 606653777,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 923,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606653777/square.jpg",
+    "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Marcio Santos Ferreira",
+  "observation": {
+    "id": 334101500,
+    "quality_grade": "needs_id",
+    "taxon": {
+      "id": 1063368,
+      "name": "Paratecoma peroba"
+    },
+    "observerLogin": "marcio_santos_ferreira",
+    "captive": false
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606653777/large.jpg",
+    "sha256": "26a6938fcee901cfe3c0659fdba4c57904c5ac3d3898c6155c8669a142294ef8",
+    "retrievedAt": "2026-10-28T16:49:46.674773+00:00"
+  },
+  "licenseVersionEvidence": "sources/inaturalist/license-policy-2026-10-28.json",
+  "searchEvidence": {
+    "path": "coverage-cc-by-2026-10-28/responses-expanded/paratecoma-peroba.json",
+    "sha256": "822b9caafc3cf5a55a36ce87b6949f753f140a79d758530c0d5f96c0002aa769",
+    "retrievedAt": "2026-10-28T16:36:15.531794+00:00"
+  }
+}
