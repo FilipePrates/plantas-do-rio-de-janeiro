@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { execFileSync } from "node:child_process";
 import { readFileSync } from "node:fs";
 import test from "node:test";
-import { parseCatalog } from "../src/catalog.mjs";
+import { conservationCodesForSpecies, parseCatalog } from "../src/catalog.mjs";
 
 const seed = JSON.parse(readFileSync(new URL("../src/data/plants.json", import.meta.url), "utf8"));
 const fresh = () => structuredClone(seed);
@@ -24,6 +24,12 @@ test("a group's conservation evidence must identify a listed species", () => {
   const group = catalog.plants.find((p) => p.rank === "genus");
   group.regionalEvidence[0].scientificName = group.scientificName;
   assert.throws(() => parseCatalog(catalog), /espécie ou fonte/);
+});
+
+test("genus conservation codes belong only to the named member", () => {
+  const group = seed.plants.find((p) => p.scientificName === "Anthurium spp.");
+  assert.deepEqual(conservationCodesForSpecies(group, "Anthurium langsdorffii"), ["EN"]);
+  assert.deepEqual(conservationCodesForSpecies(group, "Anthurium augustinum"), []);
 });
 
 test("conservation evidence requires scope, year, category, and page provenance", () => {

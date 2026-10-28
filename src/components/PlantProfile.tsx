@@ -1,24 +1,25 @@
 import React, { useEffect, useRef, useState } from "react";
 import {
+  Animated,
   FlatList,
   Image,
   Linking,
   Pressable,
-  ScrollView,
+  PanResponder,
   StyleSheet,
   Text,
   View,
   useWindowDimensions,
 } from "react-native";
 import type { Plant, PlantPhoto } from "../catalog.mjs";
-import { originLabels } from "../catalog.mjs";
-import type { PrincipalName } from "../presentation.mjs";
-import { formatPlantNameForWrap, getPlantName } from "../presentation.mjs";
+import { conservationCodesForSpecies, originLabels } from "../catalog.mjs";
+import type { MainPhoto, PrincipalName } from "../presentation.mjs";
+import { formatPlantNameForWrap, getPlantName, getMainPhoto } from "../presentation.mjs";
 import { plantImages } from "../data/plant-images";
 import { palette } from "../theme";
-import { LeafIcon } from "./icons";
+import { BrandLeafIcon } from "./icons";
 import { PlantPhotoMarkers } from "./PlantPhotoMarkers";
-import { RegionalRecords } from "./RegionalRecords";
+import { ConservationStatus, RegionalRecords } from "./RegionalRecords";
 import { PhotoViewer } from "./PhotoViewer";
 import { PhotoCredit } from "./PhotoCredit";
 
@@ -29,30 +30,58 @@ export function PlantProfile({
   plant,
   principalName,
   relatedPlants = [],
+  mainPhoto = "default",
+  onPrevious,
+  onNext,
   onOpenPlant,
 }: {
   plant: Plant;
   principalName: PrincipalName;
+  mainPhoto?: MainPhoto;
+  onPrevious?: () => void;
+  onNext?: () => void;
   relatedPlants?: Plant[];
   onOpenPlant?: (plant: Plant) => void;
 }) {
   const { width } = useWindowDimensions();
   const [size, setSize] = useState(Math.min(width, 640));
-  const [activeIndex, setActiveIndex] = useState(0);
+  const firstPhotoIndex = Math.max(0, plant.photos.indexOf(getMainPhoto(plant, mainPhoto)!));
+  const [activeIndex, setActiveIndex] = useState(firstPhotoIndex);
+  const translateX = useRef(new Animated.Value(0)).current;
+  const transitioning = useRef(false);
+  const resetSwipe = () => Animated.spring(translateX, { toValue: 0, useNativeDriver: true }).start();
+  const swipe = PanResponder.create({
+    onMoveShouldSetPanResponder: (_, { dx, dy }) =>
+      Math.abs(dx) > 24 && Math.abs(dx) > Math.abs(dy) * 2 && (dx < 0 ? !!onNext : !!onPrevious),
+    onMoveShouldSetPanResponderCapture: (_, { dx, dy }) =>
+      !transitioning.current && Math.abs(dx) > 24 && Math.abs(dx) > Math.abs(dy) * 2 && (dx < 0 ? !!onNext : !!onPrevious),
+    onPanResponderMove: (_, { dx }) => { if (!transitioning.current) translateX.setValue(dx); },
+    onPanResponderTerminate: resetSwipe,
+    onPanResponderRelease: (_, { dx, dy }) => {
+      if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 2) {
+        const action = dx < 0 ? onNext : onPrevious;
+        if (!action || transitioning.current) { resetSwipe(); return; }
+        transitioning.current = true;
+        Animated.timing(translateX, { toValue: dx < 0 ? -width : width, duration: 160, useNativeDriver: true }).start(({ finished }) => {
+          transitioning.current = false;
+          translateX.setValue(0);
+          if (finished) action();
+        });
+      } else resetSwipe();
+    },
+  });
   const [showSources, setShowSources] = useState(false);
-  const [showMunicipal, setShowMunicipal] = useState(false);
   const [viewerIndex, setViewerIndex] = useState<number | null>(null);
   const gallery = useRef<FlatList<PlantPhoto>>(null);
   const activePhoto = plant.photos[activeIndex] ?? plant.photos[0];
   useEffect(() => {
-    setActiveIndex(0);
+    setActiveIndex(firstPhotoIndex);
     setShowSources(false);
-    setShowMunicipal(false);
     setViewerIndex(null);
-  }, [plant.id]);
+  }, [plant.id, firstPhotoIndex]);
   useEffect(() => {
-    setActiveIndex(0);
-  }, [size]);
+    setActiveIndex(firstPhotoIndex);
+  }, [size, firstPhotoIndex]);
   function showPhoto(index: number) {
     const next = Math.max(0, Math.min(plant.photos.length - 1, index));
     gallery.current?.scrollToIndex({ index: next, animated: true });
@@ -61,11 +90,8 @@ export function PlantProfile({
   const municipalSection = (
     !!plant.municipalEvidence?.length && (
       <View style={styles.section}>
-        <Pressable accessibilityRole="button" accessibilityState={{ expanded: showMunicipal }}
-          onPress={() => setShowMunicipal((value) => !value)}>
-          <Text style={styles.sectionTitle}>Ocorrência no Município do Rio {showMunicipal ? "−" : "+"}</Text>
-        </Pressable>
-        {showMunicipal && plant.municipalEvidence.map((e, index) => (
+        <Text style={styles.sectionTitle}>Ocorrência no Município do Rio</Text>
+        {plant.municipalEvidence.map((e, index) => (
           <View key={`${e.scientificName}:${index}`} style={styles.municipalRecord}>
             {plant.rank === "genus" && <Text style={[styles.body, styles.scientific]}>{e.scientificName}</Text>}
             <Text style={styles.body}>{e.locality}</Text>
@@ -78,8 +104,8 @@ export function PlantProfile({
     )
   );
   return (
-    <ScrollView
-      style={styles.screen}
+    <Animated.ScrollView
+      style={[styles.screen, { transform: [{ translateX }] }]}
       showsVerticalScrollIndicator={false}
       contentContainerStyle={styles.content}
     >
@@ -90,7 +116,8 @@ export function PlantProfile({
         {plant.photos.length ? (
           <>
             <FlatList
-              key={`${plant.id}:${size}`}
+              key={`${plant.id}:${size}:${firstPhotoIndex}`}
+              initialScrollIndex={firstPhotoIndex}
               ref={gallery}
               horizontal
               pagingEnabled
@@ -201,10 +228,11 @@ export function PlantProfile({
           </>
         ) : plant.presentation !== "checklist" ? (
           <View style={[styles.emptyPhoto, { height: size }]}>
-            <LeafIcon size={74} color={palette.pine} />
+            <BrandLeafIcon size={74} color={palette.pine} />
             <Text style={styles.muted}>Foto em preparação</Text>
           </View>
         ) : null}
+        <View {...swipe.panHandlers}>
         <View style={styles.identity}>
           <Text
             style={[
@@ -242,7 +270,6 @@ export function PlantProfile({
             )}
           </View>
           {plant.reviewStatus === "draft" && <Text style={styles.review}>Conteúdo em revisão</Text>}
-          {plant.presentation === "checklist" && <Text style={styles.muted}>Lista de referência · identificação ilustrada em preparação</Text>}
         </View>
         <Section title="Descrição">
           <Text style={styles.body}>{plant.description}</Text>
@@ -264,6 +291,7 @@ export function PlantProfile({
               : "Sem outros nomes cadastrados."}
           </Text>
         </Section>
+        <ConservationStatus plant={plant} />
         {plant.rank === "genus" && (
           <View style={styles.section}>
             <Text style={styles.sectionTitle}>
@@ -274,17 +302,25 @@ export function PlantProfile({
               uma contagem municipal nem o total do gênero. A data e o recorte
               da seleção estão na descrição.
             </Text>
-            {plant.regionalSpecies.map((member) => (
-              <Text key={member.floraId} style={styles.member}>
-                {member.scientificName} · {member.substrates.join(", ")}
-              </Text>
-            ))}
+            {plant.regionalSpecies.map((member) => {
+              const codes = conservationCodesForSpecies(plant, member.scientificName);
+              return <Text key={member.floraId} style={styles.member}>
+                {member.scientificName} · {member.substrates.join(", ")}{codes.length ? ` · ${codes.join(", ")}` : ""}
+              </Text>;
+            })}
           </View>
+        )}
+        {plant.rank === "genus" && (plant.regionalEvidence ?? []).some((record) => record.endemicToRioState) && (
+          <Section title="Endemismo no estado do RJ">
+            {(plant.regionalEvidence ?? []).filter((record) => record.endemicToRioState).map((record) => (
+              <Text key={record.scientificName} style={styles.member}>{record.scientificName} · publicação de {record.publicationYear}</Text>
+            ))}
+          </Section>
         )}
         {plant.rank !== "genus" && municipalSection}
         <RegionalRecords key={plant.id} plant={plant} />
         {relatedPlants.some((p) => p.id !== plant.id) && onOpenPlant && (
-          <Section title={`Fichas de ${plant.genus}`}>
+          <Section title="Outras do Gênero">
             {relatedPlants.filter((p) => p.id !== plant.id).map((p) => (
               <Pressable key={p.id} style={styles.relatedLink} accessibilityRole="button"
                 accessibilityLabel={`Abrir ${p.scientificName}`} onPress={() => onOpenPlant(p)}>
@@ -336,6 +372,7 @@ export function PlantProfile({
             <Text style={styles.review}>Conteúdo em revisão</Text>
           )}
         </View>
+        </View>
       </View>
       {viewerIndex !== null && (
         <PhotoViewer
@@ -346,7 +383,7 @@ export function PlantProfile({
           onClose={() => setViewerIndex(null)}
         />
       )}
-    </ScrollView>
+    </Animated.ScrollView>
   );
 }
 function PhotoFrame({
@@ -378,13 +415,10 @@ function PhotoFrame({
             resizeMode="contain"
             onError={() => setFailed(true)}
           />
-          <View pointerEvents="none" style={styles.zoomHint}>
-            <Text style={styles.zoomHintText}>⤢ Ampliar</Text>
-          </View>
         </Pressable>
       ) : (
         <View style={styles.photoFallback}>
-          <LeafIcon size={64} color={palette.pine} />
+          <BrandLeafIcon size={64} color={palette.pine} />
           <Text style={styles.muted}>Foto em preparação</Text>
         </View>
       )}
@@ -415,16 +449,6 @@ const styles = StyleSheet.create({
   profile: { width: "100%", maxWidth: 640, alignSelf: "center" },
   photo: { backgroundColor: palette.moss, position: "relative" },
   photoImage: { width: "100%", height: "100%" },
-  zoomHint: {
-    position: "absolute",
-    top: 8,
-    right: 8,
-    paddingHorizontal: 9,
-    paddingVertical: 6,
-    borderRadius: 5,
-    backgroundColor: "rgba(36,49,39,0.72)",
-  },
-  zoomHintText: { color: palette.paper, fontSize: 12 },
   photoFallback: {
     flex: 1,
     alignItems: "center",
@@ -441,11 +465,11 @@ const styles = StyleSheet.create({
     position: "absolute",
     bottom: 8,
     right: 8,
-    maxWidth: "43%",
+    maxWidth: "65%",
     backgroundColor: "rgba(36,49,39,0.72)",
     borderRadius: 5,
     paddingHorizontal: 6,
-    paddingVertical: 4,
+    paddingVertical: 1,
   },
   creditText: { color: palette.paper, fontSize: 9, lineHeight: 12 },
   photoCaption: { paddingHorizontal: 16, paddingTop: 8, gap: 3 },

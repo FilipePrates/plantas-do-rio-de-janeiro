@@ -16,7 +16,7 @@ function openUrl(url: string) {
 }
 
 export function RegionalRecords({ plant }: { plant: Plant }) {
-  const records = plant.regionalEvidence ?? [];
+  const records = (plant.regionalEvidence ?? []).filter((record) => record.conservationUnits.length);
   if (!records.length) return null;
   const sources = [...new Map(records.map((record) => [record.source.url, record.source])).values()];
   return (
@@ -41,17 +41,36 @@ function SpeciesRecords({ record, showName }: { record: RegionalEvidence; showNa
   return (
     <View style={styles.record}>
       {showName && <Text style={styles.species}>{record.scientificName}</Text>}
-      {record.conservationAssessments.map((assessment) => (
-        <View key={`${assessment.scope}:${assessment.referenceYear}:${assessment.category}`} style={styles.assessment}>
-          <Text style={styles.body}>{conservationLabels[assessment.category]} ({assessment.category}) · {scopeLabels[assessment.scope]} · {assessment.referenceYear}</Text>
-          <Text style={styles.muted}>{assessment.referenceTitle}.</Text>
-        </View>
-      ))}
-      {record.endemicToRioState && <Text style={styles.muted}>Endêmica do estado do Rio de Janeiro na publicação de {record.publicationYear}.</Text>}
       {units.map((unit) => (
         <Text key={unit.name} style={styles.unit}>
           {unit.name}{unit.municipality ? ` · ${unit.municipality}` : ""}
         </Text>
+      ))}
+    </View>
+  );
+}
+
+export function ConservationStatus({ plant }: { plant: Plant }) {
+  if (plant.rank === "genus") return null;
+  const records = (plant.regionalEvidence ?? []).filter((record) =>
+    record.conservationAssessments.length || record.endemicToRioState);
+  if (!records.length) return null;
+  return (
+    <View style={styles.section}>
+      <Text style={styles.title}>Estado de conservação</Text>
+      {records.map((record) => (
+        <View key={`${record.scientificName}:${record.source.url}`} style={styles.record}>
+          {record.conservationAssessments.map((assessment) => (
+            <View key={`${assessment.scope}:${assessment.referenceYear}:${assessment.category}`} style={styles.assessment}>
+              <Text style={styles.body}>{conservationLabels[assessment.category]} ({assessment.category}) · {scopeLabels[assessment.scope]} · {assessment.referenceYear}</Text>
+              <Text style={styles.muted}>{assessment.referenceTitle}.</Text>
+            </View>
+          ))}
+          {record.endemicToRioState && <Text style={styles.muted}>Endêmica do estado do Rio de Janeiro na publicação de {record.publicationYear}.</Text>}
+          <Pressable accessibilityRole="link" onPress={() => openUrl(record.source.url)}>
+            <Text style={styles.reference}>Referência: {record.source.title} ↗</Text>
+          </Pressable>
+        </View>
       ))}
     </View>
   );

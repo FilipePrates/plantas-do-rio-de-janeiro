@@ -1,18 +1,13 @@
 import React, { useMemo } from "react";
 import { Pressable, SectionList, StyleSheet, Text, View } from "react-native";
-import type { Catalog, ChecklistRow, Plant } from "../catalog.mjs";
-import { checklistRows, matchesChecklistRow } from "../catalog.mjs";
+import type { ChecklistRow, Plant } from "../catalog.mjs";
 import { palette } from "../theme";
 
-export function SpeciesChecklist({ catalog, query, family, onOpen, onOpenFamily }: {
-  catalog: Catalog;
-  query: string;
-  family: string | null;
+export function SpeciesChecklist({ rows, onOpen, onOpenFamily }: {
+  rows: ChecklistRow[];
   onOpen: (plant: Plant) => void;
-  onOpenFamily: (family: string) => void;
+  onOpenFamily: (family: string, plants: Plant[]) => void;
 }) {
-  const rows = useMemo(() => checklistRows(catalog).filter((row) =>
-    (!family || row.family === family) && matchesChecklistRow(row, query)), [catalog, query, family]);
   const sections = useMemo(() => {
     const families = new Map<string, ChecklistRow[]>();
     for (const row of rows) {
@@ -28,6 +23,8 @@ export function SpeciesChecklist({ catalog, query, family, onOpen, onOpenFamily 
       keyExtractor={(row) => row.scientificName}
       stickySectionHeadersEnabled={false}
       initialNumToRender={15}
+      keyboardShouldPersistTaps="handled"
+      keyboardDismissMode="on-drag"
       ListHeaderComponent={
         <Text style={styles.introduction}>
           {rows.length} {rows.length === 1 ? "espécie" : "espécies"}
@@ -36,7 +33,7 @@ export function SpeciesChecklist({ catalog, query, family, onOpen, onOpenFamily 
       renderSectionHeader={({ section }) => (
         <View style={styles.family}>
           <Text style={styles.familyName}>{section.title}</Text>
-          <Pressable style={styles.guideButton} onPress={() => onOpenFamily(section.title)}
+          <Pressable style={styles.guideButton} onPress={() => onOpenFamily(section.title, [...new Map(section.data.map((row) => [row.plant.id, row.plant])).values()])}
             accessibilityRole="button" accessibilityLabel={`Ver ${section.title} no guia`}>
             <Text style={styles.familyLink}>Ver no guia ›</Text>
           </Pressable>
@@ -69,7 +66,7 @@ const styles = StyleSheet.create({
   introduction: { color: palette.muted, fontSize: 13, lineHeight: 19, padding: 16 },
   family: { backgroundColor: palette.moss, paddingHorizontal: 16, paddingVertical: 10, flexDirection: "row", alignItems: "center", gap: 8 },
   familyName: { color: palette.ink, fontWeight: "700", flex: 1 },
-  guideButton: { backgroundColor: palette.paper, borderColor: palette.pine, borderWidth: 1, borderRadius: 6, paddingHorizontal: 12, paddingVertical: 10 },
+  guideButton: { minHeight: 44, justifyContent: "center", backgroundColor: palette.paper, borderColor: palette.pine, borderWidth: 1, borderRadius: 6, paddingHorizontal: 12, paddingVertical: 8 },
   familyLink: { color: palette.pine, fontSize: 12, fontWeight: "700" },
   row: { paddingHorizontal: 16, paddingVertical: 14, borderBottomWidth: 1, borderBottomColor: palette.border, flexDirection: "row", alignItems: "center", gap: 10 },
   names: { flex: 1, gap: 4 },

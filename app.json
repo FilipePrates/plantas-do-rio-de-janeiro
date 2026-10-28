@@ -12,7 +12,7 @@
         {
           "image": "./assets/branding/leaf-foreground.png",
           "imageWidth": 240,
-          "backgroundColor": "#70815F"
+          "backgroundColor": "#FFFDF7"
         }
       ]
     ],
@@ -28,7 +28,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/branding/leaf-foreground.png",
         "monochromeImage": "./assets/branding/leaf-foreground.png",
-        "backgroundColor": "#70815F"
+        "backgroundColor": "#FFFDF7"
       },
       "allowBackup": false,
       "blockedPermissions": ["android.permission.RECORD_AUDIO", "android.permission.READ_EXTERNAL_STORAGE", "android.permission.WRITE_EXTERNAL_STORAGE"]

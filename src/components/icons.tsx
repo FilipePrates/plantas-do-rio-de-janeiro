@@ -218,6 +218,29 @@ export function LeafIcon({ color, size }: { color: string; size: number }) {
   );
 }
 
+export function BrandLeafIcon({ color, size }: { color: string; size: number }) {
+  return (
+    <Svg width={size} height={size} viewBox="0 0 24 24">
+      <Path
+        d="M19 2C17 4.3 13.8 5.4 10 6.15C6.6 6.8 4.5 9.3 4.5 12.6C4.5 16.7 7.2 20 11 20C16.4 20 21 15.5 21 10C21 6.5 20.2 3.8 19 2Z"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={2}
+      />
+      <Path
+        d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"
+        fill="none"
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={2}
+      />
+    </Svg>
+  );
+}
+
 export function BookIcon({ color, size }: { color: string; size: number }) {
   return (
     <Svg width={size} height={size} viewBox="0 0 24 24">

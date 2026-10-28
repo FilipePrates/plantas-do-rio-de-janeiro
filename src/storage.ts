@@ -1,6 +1,7 @@
 import { File, Paths } from "expo-file-system";
 import { Platform } from "react-native";
-import type { PrincipalName } from "./presentation.mjs";
+import { normalizeMainPhoto } from "./presentation.mjs";
+import type { MainPhoto, PrincipalName } from "./presentation.mjs";
 import type { Plant } from "./catalog.mjs";
 import { resolveSavedIds } from "./catalog.mjs";
 
@@ -15,6 +16,7 @@ export interface SavedState {
   alphabetical: boolean;
   photosOnly: boolean;
   principalName: PrincipalName;
+  mainPhoto: MainPhoto;
   // Retain legacy lists on disk when updating preferences.
   lists: SavedList[];
   familyFilter: string | null;
@@ -24,6 +26,7 @@ export const defaultState: SavedState = {
   alphabetical: false,
   photosOnly: false,
   principalName: "common",
+  mainPhoto: "default",
   familyFilter: null,
   lists: [{ id: "minha-lista", name: "Minha lista", plantIds: [] }],
 };
@@ -77,6 +80,7 @@ export async function loadState(
     photosOnly: value.photosOnly === true,
     principalName:
       value.principalName === "scientific" ? "scientific" : "common",
+    mainPhoto: normalizeMainPhoto(value.mainPhoto),
     lists,
     familyFilter:
       typeof value.familyFilter === "string" &&

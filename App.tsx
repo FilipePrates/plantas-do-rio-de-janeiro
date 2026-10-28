@@ -1,6 +1,5 @@
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useMemo, useReducer, useRef, useState } from "react";
 import {
-  ActivityIndicator,
   BackHandler,
   FlatList,
   Image,
@@ -20,6 +19,7 @@ import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 import {
   BackIcon,
   BookIcon,
+  BrandLeafIcon,
   GridModeIcon,
   LeafIcon,
   ListIcon,
@@ -42,8 +42,10 @@ import { defaultState, loadState, saveState } from "./src/storage";
 import { palette } from "./src/theme";
 import { PlantProfile } from "./src/components/PlantProfile";
 import { PlantPhotoMarker } from "./src/components/PlantPhotoMarkers";
-import { SpeciesChecklist } from "./src/components/SpeciesChecklist";
-import { formatPlantNameForWrap, getPlantName } from "./src/presentation.mjs";
+import { CatalogBrowser } from "./src/components/CatalogBrowser";
+import { browserReducer, initialBrowserState, filterBrowserRows, conservationUnitIndex } from "./src/catalogBrowser.mjs";
+import type { BrowserSection } from "./src/catalogBrowser.mjs";
+import { formatPlantNameForWrap, getPlantName, getMainPhoto, mainPhotoKinds } from "./src/presentation.mjs";
 
 const catalog = parseCatalog(catalogJson);
 const allIds = new Set(catalog.plants.map((p) => p.id));
@@ -66,18 +68,20 @@ const familyEntries = [...new Set(catalog.plants.map((plant) => plant.family))]
     name,
     speciesCount: speciesRows.filter((row) => row.family === name).length,
   }));
+const unitEntries = conservationUnitIndex(speciesRows);
+const habitatNames = [...new Set(catalog.plants.flatMap((plant) => plant.habitats))]
+  .sort((a, b) => a.localeCompare(b, "pt-BR"));
 const allFamilies = new Set(familyEntries.map((family) => family.name));
-const photoMarkerKinds = [
-  "flower",
-  "fruit",
-  "leaf",
-  "bark",
-  "wholePlant",
-  "seed",
-  "root",
-] as const;
 type Tab = "guide" | "families" | "habitats";
 type Icon = typeof LeafIcon;
+type GuideScope = { plantIds: string[]; label: string } | null;
+type GuideReturn = {
+  tab: Tab;
+  query: string;
+  habitat: string;
+  familyFilter: string | null;
+  scope: GuideScope;
+};
 export default function App() {
   return (
     <SafeAreaProvider>
@@ -90,9 +94,16 @@ function Guide() {
   const [tab, setTab] = useState<Tab>("guide");
   const [detailId, setDetailId] = useState<string | null>(null);
   const [detailHistory, setDetailHistory] = useState<string[]>([]);
-  const [familyChecklist, setFamilyChecklist] = useState(false);
-  const [checklistFamily, setChecklistFamily] = useState<string | null>(null);
-  const [guideReturnTab, setGuideReturnTab] = useState<Tab | null>(null);
+  const [browser, dispatchBrowser] = useReducer(browserReducer, initialBrowserState);
+  const browserRows = useMemo(() => filterBrowserRows(speciesRows, browser),
+    [browser.family, browser.queries.species]);
+  const [tabLoading, setTabLoading] = useState(false);
+  const tabTransition = useRef(0);
+  const tabLoadingTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  useEffect(() => () => { if (tabLoadingTimer.current) clearTimeout(tabLoadingTimer.current); }, []);
+  const [guideReturn, setGuideReturn] = useState<GuideReturn | null>(null);
+  const [guideScope, setGuideScope] = useState<GuideScope>(null);
+  const [detailSequence, setDetailSequence] = useState<Plant[]>([]);
   const [settings, setSettings] = useState(false);
   const [query, setQuery] = useState("");
   const [habitat, setHabitat] = useState("");
@@ -103,7 +114,6 @@ function Guide() {
   const [hydrated, setHydrated] = useState(false);
   const [storageError, setStorageError] = useState("");
   const [saveEnabled, setSaveEnabled] = useState(true);
-  const [familyQuery, setFamilyQuery] = useState("");
   const detail = catalog.plants.find((p) => p.id === detailId);
   useEffect(() => {
     let mounted = true;
@@ -142,7 +152,7 @@ function Guide() {
       return goBack();
     });
     return () => handler.remove();
-  }, [detailId, detailHistory, settings, tab, guideReturnTab, familyChecklist]);
+  }, [detailId, detailHistory, settings, tab, guideReturn, browser]);
   const visible = useMemo(
     () =>
       (saved.alphabetical
@@ -152,10 +162,11 @@ function Guide() {
         : byFamily
       ).filter(
         (plant) =>
+          (!guideScope || guideScope.plantIds.includes(plant.id)) &&
           matchesPlant(plant, query) &&
           (!saved.photosOnly || plant.photos.length > 0) &&
           (!saved.familyFilter || plant.family === saved.familyFilter) &&
-          (!habitat || plant.habitats.some((h) => h.includes(habitat))),
+          (!habitat || plant.habitats.includes(habitat)),
       ),
     [
       saved.alphabetical,
@@ -164,8 +175,10 @@ function Guide() {
       saved.photosOnly,
       query,
       habitat,
+      guideScope,
     ],
   );
+  const detailPosition = detailSequence.findIndex((plant) => plant.id === detailId);
   const sections = useMemo(() => {
     const groups = new Map<string, Plant[]>();
     for (const plant of visible) {
@@ -178,41 +191,70 @@ function Guide() {
     }
     return [...groups].map(([title, data]) => ({ title, data }));
   }, [visible, saved.alphabetical, saved.principalName]);
-  function openPlant(plant: Plant) {
+  function openPlant(plant: Plant, sequence = visible) {
+    setDetailSequence(sequence);
     setDetailHistory([]);
     setDetailId(plant.id);
   }
-  function selectFamily(family: string | null) {
-    setSaved((value) => ({ ...value, familyFilter: family }));
-    setQuery("");
-    setHabitat("");
-    setGuideReturnTab(tab === "guide" ? null : tab);
-    setTab("guide");
+  function rememberGuide() {
+    setGuideReturn({ tab, query, habitat, familyFilter: saved.familyFilter, scope: guideScope });
+  }
+  function openSelectionInGuide(plants: Plant[], label: string) {
+    rememberGuide();
+    withTabLoading(() => {
+      setGuideScope({ plantIds: plants.map((plant) => plant.id), label });
+      setSaved((value) => ({ ...value, familyFilter: null }));
+      setQuery("");
+      setHabitat("");
+      setTab("guide");
+    });
+  }
+  function withTabLoading(action: () => void) {
+    const transition = ++tabTransition.current;
+    if (tabLoadingTimer.current) clearTimeout(tabLoadingTimer.current);
+    setTabLoading(true);
+    requestAnimationFrame(() => {
+      if (tabTransition.current !== transition) return;
+      action();
+      tabLoadingTimer.current = setTimeout(() => {
+        if (tabTransition.current === transition) setTabLoading(false);
+      }, 100);
+    });
+  }
+  function changeBrowserTab(section: BrowserSection) {
+    if (browser.section === section && !browser.origin) return;
+    withTabLoading(() => dispatchBrowser({ type: "tab", section }));
+  }
+  function restoreGuide() {
+    if (!guideReturn) return;
+    setQuery(guideReturn.query);
+    setHabitat(guideReturn.habitat);
+    setGuideScope(guideReturn.scope);
+    setSaved((value) => ({ ...value, familyFilter: guideReturn.familyFilter }));
+    setGuideReturn(null);
   }
   function goBack() {
-    if (detail) {
+    if (settings) setSettings(false);
+    else if (detail) {
       setDetailId(detailHistory.at(-1) || null);
       setDetailHistory((history) => history.slice(0, -1));
-    } else if (settings) setSettings(false);
-    else if (tab === "guide" && guideReturnTab) {
-      setTab(guideReturnTab);
-      setGuideReturnTab(null);
-    } else if (tab === "families" && familyChecklist) {
-      setFamilyChecklist(false);
-      setChecklistFamily(null);
-      setFamilyQuery("");
+    } else if (tab === "guide" && guideReturn) {
+      setTab(guideReturn.tab);
+      restoreGuide();
+    } else if (tab === "families" && browser.section === "species" && browser.origin) {
+      dispatchBrowser({ type: "back" });
     } else if (tab !== "guide") setTab("guide");
     else return false;
     return true;
   }
   const isSubscreen = Boolean(detail || settings);
-  const title = detail?.commonName || (settings ? "Configurações" : "Plantas");
+  const title = settings ? "Configurações" : detail?.commonName || "Plantas";
   return (
     <SafeAreaView style={styles.safe} edges={["left", "right"]}>
       <StatusBar barStyle="light-content" backgroundColor="#000000" />
       <SafeAreaView edges={["top"]} style={styles.statusBarSafe}>
         <View style={styles.header}>
-          {isSubscreen || (tab === "guide" && guideReturnTab) || (tab === "families" && familyChecklist) ? (
+          {isSubscreen || (tab === "guide" && guideReturn) || (tab === "families" && browser.section === "species" && browser.origin) ? (
             <IconButton label="Voltar" icon={BackIcon} onPress={goBack} light />
           ) : tab === "guide" ? (
             <IconButton
@@ -222,9 +264,7 @@ function Guide() {
               light
             />
           ) : (
-            <View style={styles.iconButton}>
-              <LeafIcon size={24} color={palette.paper} />
-            </View>
+            <View style={styles.iconButton} />
           )}
           <View style={styles.headerTitleWrap}>
             <Text style={styles.headerTitle} numberOfLines={2}>
@@ -239,8 +279,6 @@ function Guide() {
               label="Configurações"
               icon={SettingsIcon}
               onPress={() => {
-                setDetailId(null);
-                setDetailHistory([]);
                 setSettings(true);
               }}
               light
@@ -256,11 +294,7 @@ function Guide() {
       )}
       <View style={styles.flex}>
       {!hydrated ? (
-        <ActivityIndicator
-          style={styles.loading}
-          color={palette.pine}
-          size="large"
-        />
+        <LoadingBrand />
       ) : settings ? (
         <ScrollView contentContainerStyle={styles.content}>
           <Card title="Exibição">
@@ -301,13 +335,21 @@ function Guide() {
               }
             />
           </Card>
-          <Card title="Ícones das fotos">
-            {photoMarkerKinds.map((marker) => (
-              <View key={marker} style={styles.legendRow}>
-                <PlantPhotoMarker marker={marker} />
-                <Text style={styles.body}>{markerLabels[marker]}</Text>
-              </View>
-            ))}
+          <Card title="Foto principal">
+            <View style={styles.photoChoices}>
+              {mainPhotoKinds.map((marker) => (
+                <Pressable key={marker} accessibilityRole="radio"
+                  accessibilityLabel={marker === "default" ? "Padrão" : markerLabels[marker]}
+                  accessibilityState={{ checked: saved.mainPhoto === marker }}
+                  onPress={() => setSaved((value) => ({ ...value, mainPhoto: marker }))}
+                  style={[styles.photoChoice, saved.mainPhoto === marker && styles.photoChoiceSelected]}>
+                  {marker === "default" ? <GridModeIcon size={26} color={palette.pine} /> : <PlantPhotoMarker marker={marker} />}
+                  <Text style={styles.photoChoiceLabel}>{marker === "default" ? "Padrão" : markerLabels[marker]}</Text>
+                  <Text style={styles.photoChoiceCheck}>{saved.mainPhoto === marker ? "✓" : " "}</Text>
+                </Pressable>
+              ))}
+            </View>
+            <Text style={styles.muted}>Sem esse tipo de foto, usa a padrão.</Text>
           </Card>
           <Card title="Sobre o guia">
             <Text style={styles.body}>
@@ -333,136 +375,28 @@ function Guide() {
       ) : tab === "habitats" ? (
         <ScrollView contentContainerStyle={styles.content}>
           <Text style={styles.title}>Fitofisionomias</Text>
-          <Text style={styles.body}>Explore as plantas pelo ambiente.</Text>
-          <Pressable
-            style={styles.card}
-            accessibilityRole="button"
-            onPress={() => {
-              setSaved((value) => ({ ...value, familyFilter: null }));
-              setGuideReturnTab("habitats");
-              setHabitat("Floresta Ombrófila");
-              setQuery("");
-              setTab("guide");
-            }}
-          >
-            <LeafIcon color={palette.pine} size={34} />
-            <Text style={styles.sectionTitle}>Floresta ombrófila</Text>
-            <Text style={styles.muted}>
-              Plantas de florestas úmidas · Abrir guia
-            </Text>
-          </Pressable>
-          {[
-            "Restinga",
-            "Manguezal",
-            "Afloramentos rochosos",
-            "Floresta estacional",
-          ].map((name) => (
-            <View key={name} style={[styles.card, styles.locked]}>
-              <Text style={styles.sectionTitle}>{name}</Text>
-              <Text style={styles.muted}>Módulo em preparação</Text>
-            </View>
+          <Text style={styles.body}>Explore os ambientes registrados no catálogo.</Text>
+          {habitatNames.map((name) => (
+            <Pressable key={name} accessibilityRole="button"
+              accessibilityLabel={`Ver plantas de ${name} no guia`}
+              style={styles.habitatRow}
+              onPress={() => {
+                rememberGuide();
+                withTabLoading(() => {
+                  setSaved((value) => ({ ...value, familyFilter: null }));
+                  setGuideScope(null);
+                  setHabitat(name);
+                  setQuery("");
+                  setTab("guide");
+                });
+              }}>
+              <Text style={styles.habitatName}>{name}</Text>
+              <Text style={styles.habitatArrow}>›</Text>
+            </Pressable>
           ))}
         </ScrollView>
       ) : tab === "families" ? (
-        <View style={styles.flex}>
-          <View style={styles.familyIndexHeader}>
-            <View style={styles.familyIndexTitleRow}>
-              <Text style={[styles.sectionTitle, styles.flex]}>
-                {familyChecklist ? checklistFamily || "Lista de espécies" : "Famílias"}
-              </Text>
-              <Pressable
-                accessibilityRole="button"
-                accessibilityLabel={familyChecklist ? "Voltar às famílias" : "Abrir lista de espécies"}
-                onPress={() => {
-                  setFamilyQuery("");
-                  setChecklistFamily(null);
-                  setFamilyChecklist((value) => !value);
-                }}
-                style={styles.familyChecklistButton}
-              >
-                <Text style={styles.familyChecklistButtonText}>
-                  {familyChecklist ? "‹ Famílias" : "Lista de espécies ›"}
-                </Text>
-              </Pressable>
-            </View>
-            <TextInput
-              accessibilityLabel={familyChecklist ? "Buscar espécies ou famílias" : "Buscar famílias"}
-              placeholder={familyChecklist ? "Buscar espécie ou família..." : "Buscar família..."}
-              placeholderTextColor={palette.muted}
-              value={familyQuery}
-              onChangeText={setFamilyQuery}
-              style={styles.input}
-            />
-          </View>
-          {familyChecklist ? (
-            <SpeciesChecklist catalog={catalog} query={familyQuery} family={checklistFamily} onOpen={openPlant}
-              onOpenFamily={selectFamily} />
-          ) : <FlatList
-            data={familyEntries.filter(
-              (family) =>
-                family.name
-                  .toLocaleLowerCase("pt-BR")
-                  .includes(familyQuery.trim().toLocaleLowerCase("pt-BR")),
-            )}
-            keyExtractor={(family) => family.name}
-            extraData={saved.familyFilter}
-            contentContainerStyle={styles.familyIndexContent}
-            ListHeaderComponent={
-              <Pressable
-                accessibilityRole="button"
-                accessibilityLabel="Mostrar todas as famílias"
-                accessibilityState={{ selected: !saved.familyFilter }}
-                onPress={() => {
-                  setChecklistFamily(null);
-                  setFamilyQuery("");
-                  setFamilyChecklist(true);
-                }}
-                style={[
-                  styles.familyIndexRow,
-                  !saved.familyFilter && styles.familyIndexSelected,
-                ]}
-              >
-                <Text style={[styles.name, styles.flex]}>
-                  Todas as famílias
-                </Text>
-                <Text style={styles.muted}>
-                  {speciesRows.length} espécies
-                </Text>
-                <Text style={styles.familyIndexIndicator}>
-                  {!saved.familyFilter ? "✓" : "›"}
-                </Text>
-              </Pressable>
-            }
-            renderItem={({ item }) => (
-              <Pressable
-                accessibilityRole="button"
-                accessibilityLabel={`Ver espécies de ${item.name}`}
-                accessibilityState={{
-                  selected: saved.familyFilter === item.name,
-                }}
-                onPress={() => {
-                  setChecklistFamily(item.name);
-                  setFamilyQuery("");
-                  setFamilyChecklist(true);
-                }}
-                style={[
-                  styles.familyIndexRow,
-                  saved.familyFilter === item.name &&
-                    styles.familyIndexSelected,
-                ]}
-              >
-                <Text style={[styles.name, styles.flex]}>{item.name}</Text>
-                <Text style={styles.muted}>
-                  {item.speciesCount} espécies
-                </Text>
-                <Text style={styles.familyIndexIndicator}>
-                  {saved.familyFilter === item.name ? "✓" : "›"}
-                </Text>
-              </Pressable>
-            )}
-            ListEmptyComponent={<Empty text="Nenhuma família encontrada." />}
-          />}
-        </View>
+        <View style={styles.flex} />
       ) : (
         <View
           style={styles.flex}
@@ -473,12 +407,8 @@ function Guide() {
           <View style={styles.searchRow}>
             <View style={styles.searchInputShell}>
               <TextInput
-                accessibilityLabel="Buscar plantas"
-                placeholder={
-                  saved.familyFilter
-                    ? "Buscar planta..."
-                    : "Digite o nome da planta aqui..."
-                }
+                accessibilityLabel="Buscar plantas ou unidades de conservação"
+                placeholder="Buscar planta ou unidade…"
                 placeholderTextColor={palette.muted}
                 value={query}
                 onChangeText={setQuery}
@@ -495,17 +425,19 @@ function Guide() {
                   <Text style={styles.searchClearText}>×</Text>
                 </Pressable>
               )}
-              {!!saved.familyFilter && (
+              {(saved.familyFilter || habitat || guideScope) && (
                 <View style={styles.searchFilterPill}>
                   <Text style={styles.searchFilterText} numberOfLines={1}>
-                    {saved.familyFilter}
+                    {saved.familyFilter || habitat || guideScope?.label}
                   </Text>
                   <Pressable
                     accessibilityRole="button"
-                    accessibilityLabel="Remover filtro de família"
-                    onPress={() =>
-                      setSaved((value) => ({ ...value, familyFilter: null }))
-                    }
+                    accessibilityLabel="Remover filtro do guia"
+                    onPress={() => {
+                      setSaved((value) => ({ ...value, familyFilter: null }));
+                      setHabitat("");
+                      setGuideScope(null);
+                    }}
                     hitSlop={8}
                     style={styles.searchFilterClear}
                   >
@@ -515,14 +447,6 @@ function Guide() {
               )}
             </View>
           </View>
-          {!!habitat && (
-            <View style={styles.activeHabitat}>
-              <Chip
-                text="Floresta ombrófila ×"
-                onPress={() => setHabitat("")}
-              />
-            </View>
-          )}
           {saved.advanced ? (
             <SectionList
               sections={sections}
@@ -540,7 +464,7 @@ function Guide() {
                   onPress={() => openPlant(item)}
                 >
                   <View style={styles.rowArt}>
-                    <PlantArtwork plant={item} compact />
+                    <PlantArtwork plant={item} photo={getMainPhoto(item, saved.mainPhoto)} compact />
                   </View>
                   <View style={styles.flex}>
                     <Text
@@ -580,7 +504,7 @@ function Guide() {
             <FlatList
               key={`grid-${gridCardSize}`}
               numColumns={3}
-              extraData={saved.principalName}
+              extraData={saved}
               data={visible}
               keyExtractor={(p) => p.id}
               contentContainerStyle={styles.grid}
@@ -596,7 +520,7 @@ function Guide() {
                   testID={`plant-grid-${item.id}`}
                   onPress={() => openPlant(item)}
                 >
-                  <PlantArtwork plant={item} compact flush />
+                  <PlantArtwork plant={item} photo={getMainPhoto(item, saved.mainPhoto)} compact flush />
                   <View style={styles.gridLabelWrap}>
                     <Text
                       style={[
@@ -620,12 +544,25 @@ function Guide() {
           )}
         </View>
       )}
-      {detail && (
+      {hydrated && (
+        <View style={[styles.detailOverlay, (tab !== "families" || settings) && styles.hidden]}
+          accessibilityElementsHidden={Boolean(detail)} importantForAccessibility={detail ? "no-hide-descendants" : "auto"}>
+          <CatalogBrowser state={browser} dispatch={dispatchBrowser} rows={browserRows} allRows={speciesRows}
+            families={familyEntries} units={unitEntries} onOpen={openPlant} onGuide={openSelectionInGuide}
+            onTabChange={changeBrowserTab} />
+        </View>
+      )}
+      {detail && !settings && (
         <View style={styles.detailOverlay}>
           <PlantProfile
             key={detail.id}
             plant={detail}
             principalName={saved.principalName}
+            mainPhoto={saved.mainPhoto}
+            onPrevious={detailPosition > 0
+              ? () => setDetailId(detailSequence[detailPosition - 1].id) : undefined}
+            onNext={detailPosition >= 0 && detailPosition < detailSequence.length - 1
+              ? () => setDetailId(detailSequence[detailPosition + 1].id) : undefined}
             relatedPlants={catalog.plants.filter((p) => p.genus === detail.genus && isProfile(p))}
             onOpenPlant={(plant) => {
               setDetailHistory((history) => [...history, detail.id]);
@@ -634,6 +571,7 @@ function Guide() {
           />
         </View>
       )}
+      {tabLoading && <View style={styles.tabLoadingOverlay}><LoadingBrand /></View>}
       </View>
       <SafeAreaView edges={["bottom"]} style={styles.navSafe}>
         <View style={styles.nav}>
@@ -651,11 +589,14 @@ function Guide() {
               accessibilityLabel={item.label}
               style={styles.navItem}
               onPress={() => {
-                setDetailId(null);
-                setDetailHistory([]);
-                setSettings(false);
-                setGuideReturnTab(null);
-                setTab(item.id);
+                if (tab === item.id && !detail && !settings) return;
+                withTabLoading(() => {
+                  setDetailId(null);
+                  setDetailHistory([]);
+                  setSettings(false);
+                  restoreGuide();
+                  setTab(item.id);
+                });
               }}
             >
               <View
@@ -674,6 +615,13 @@ function Guide() {
         </View>
       </SafeAreaView>
     </SafeAreaView>
+  );
+}
+function LoadingBrand() {
+  return (
+    <View style={styles.loadingBrand} accessibilityRole="progressbar" accessibilityLabel="Carregando Plantas do Rio de Janeiro">
+      <View style={styles.loadingLogo}><BrandLeafIcon size={52} color={palette.pine} /></View>
+    </View>
   );
 }
 function PlantArtwork({
@@ -706,7 +654,7 @@ function PlantArtwork({
         />
       ) : (
         <View style={styles.placeholder}>
-          <LeafIcon size={compact ? 36 : 84} color={palette.pine} />
+          <BrandLeafIcon size={compact ? 36 : 84} color={palette.pine} />
           {!compact && <Text style={styles.muted}>Foto em preparação</Text>}
         </View>
       )}
@@ -827,6 +775,7 @@ function openUrl(url: string) {
 }
 
 const styles = StyleSheet.create({
+  hidden: { display: "none" },
   safe: { flex: 1, backgroundColor: palette.sand },
   statusBarSafe: { backgroundColor: "#000000" },
   flex: { flex: 1 },
@@ -858,7 +807,12 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   content: { padding: 16, gap: 14, paddingBottom: 30 },
-  loading: { flex: 1 },
+  habitatRow: { minHeight: 58, flexDirection: "row", alignItems: "center", borderBottomWidth: 1, borderBottomColor: palette.border, gap: 12 },
+  habitatName: { flex: 1, color: palette.ink, fontSize: 16, lineHeight: 22, fontWeight: "600" },
+  habitatArrow: { color: palette.pine, fontSize: 25 },
+  tabLoadingOverlay: { ...StyleSheet.absoluteFillObject, zIndex: 5, backgroundColor: palette.paper },
+  loadingBrand: { flex: 1, alignItems: "center", justifyContent: "center", backgroundColor: palette.paper },
+  loadingLogo: { width: 84, height: 84, alignItems: "center", justifyContent: "center", borderRadius: 18, backgroundColor: palette.white },
   searchRow: {
     backgroundColor: palette.moss,
     paddingHorizontal: 8,
@@ -1126,7 +1080,11 @@ const styles = StyleSheet.create({
     color: palette.pine,
     fontSize: 18,
   },
-  legendRow: { flexDirection: "row", alignItems: "center", gap: 10 },
+  photoChoices: { flexDirection: "row", flexWrap: "wrap" },
+  photoChoice: { width: "25%", minHeight: 92, paddingVertical: 10, alignItems: "center", justifyContent: "center", gap: 5, borderWidth: 1, borderColor: "transparent" },
+  photoChoiceSelected: { backgroundColor: palette.moss, borderColor: palette.pine },
+  photoChoiceLabel: { color: palette.ink, fontSize: 11, textAlign: "center" },
+  photoChoiceCheck: { color: palette.pine, fontSize: 12, lineHeight: 14 },
   setting: { flexDirection: "row", alignItems: "center", gap: 12 },
   empty: { padding: 30, gap: 12, alignItems: "center" },
   locked: { opacity: 0.55 },

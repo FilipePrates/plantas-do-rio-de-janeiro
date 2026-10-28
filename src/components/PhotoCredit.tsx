@@ -13,8 +13,9 @@ export function PhotoCredit({ photo }: { photo: PlantPhoto }) {
   return (
     <>
       <Pressable accessibilityRole="button" accessibilityLabel={`Créditos da foto de ${photo.creator}, ${license}`}
-        onPress={() => setVisible(true)} style={styles.trigger}>
-        <Text style={styles.triggerText} numberOfLines={2}>{photo.creator} · {license} ⓘ</Text>
+        onPress={() => setVisible(true)} hitSlop={10} style={styles.trigger}>
+        <Text style={[styles.triggerText, { flexShrink: 1 }]} numberOfLines={1}>{photo.creator}</Text>
+        <Text style={styles.triggerText}> · {license} ⓘ</Text>
       </Pressable>
       <Modal visible={visible} transparent animationType="fade" onRequestClose={() => setVisible(false)}>
         <View style={styles.backdrop}>
@@ -45,8 +46,8 @@ export function PhotoCredit({ photo }: { photo: PlantPhoto }) {
 }
 
 const styles = StyleSheet.create({
-  trigger: { minHeight: 44, justifyContent: "center" },
-  triggerText: { color: palette.paper, fontSize: 11, lineHeight: 15 },
+  trigger: { minHeight: 20, flexDirection: "row", alignItems: "center" },
+  triggerText: { color: palette.paper, fontSize: 9, lineHeight: 12 },
   backdrop: { flex: 1, backgroundColor: "rgba(0,0,0,0.6)", justifyContent: "center", alignItems: "center", padding: 24 },
   panel: { backgroundColor: palette.paper, maxWidth: 540, width: "100%", maxHeight: "85%" },
   content: { padding: 24, gap: 16 },
