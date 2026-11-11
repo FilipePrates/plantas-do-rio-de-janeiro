@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/205140866",
+  "photo": {
+    "id": 362665090,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362665090/square.jpeg",
+    "attribution": "(c) Nicolás Lavandero, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Nicolás Lavandero",
+  "observation": {
+    "id": 205140866,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 508831,
+      "name": "Aechmea weilbachii"
+    },
+    "observerLogin": "nico_lavandero"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362665090/large.jpeg",
+    "sha256": "23a1eb335330c1e70c13ccc0709bd1a792f97d8199a5a2b6f74ea714fe56de23",
+    "retrievedAt": "2026-11-11T08:12:46Z"
+  }
+}

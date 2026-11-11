@@ -1,0 +1,543 @@
+{
+  "date": "2026-11-11",
+  "mediaBudgetBytes": 10485760,
+  "workbookSha256": "cc0b057a2215cbde4d70758eb75d355ac26bb6a64357d946d55b5f8bb1b89bb5",
+  "actions": [
+    {
+      "id": "geonoma-elegans",
+      "scientificName": "Geonoma elegans",
+      "action": "promoted-reference",
+      "workbookRow": null,
+      "sources": [
+        {
+          "title": "Henderson (2011). A revision of Geonoma (Arecaceae). Phytotaxa 17. Morfologia e variação.",
+          "url": "https://phytotaxa.mapress.com/pt/article/download/phytotaxa.17.1.1/21492",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "geonoma-pohliana",
+      "scientificName": "Geonoma pohliana",
+      "action": "promoted-reference",
+      "workbookRow": null,
+      "sources": [
+        {
+          "title": "Henderson (2011). A revision of Geonoma (Arecaceae). Phytotaxa 17. Morfologia e variação.",
+          "url": "https://phytotaxa.mapress.com/pt/article/download/phytotaxa.17.1.1/21492",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "sparattosperma-leucanthum",
+      "scientificName": "Sparattosperma leucanthum",
+      "action": "promoted-reference",
+      "workbookRow": 376,
+      "sources": [
+        {
+          "title": "Flora Neotropica / Flora do Brasil: Sparattosperma leucanthum. Descrição disponibilizada no World Flora Online.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000779743",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "clusia-hilariana",
+      "scientificName": "Clusia hilariana",
+      "action": "promoted-reference",
+      "workbookRow": 516,
+      "sources": [
+        {
+          "title": "Flora of Espírito Santo: Clusiaceae (2023). Tratamento morfológico.",
+          "url": "https://www.scielo.br/j/rod/a/4qY5t4CNsZ8VZmVDSs5yYNS/?lang=en",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "sinningia-speciosa",
+      "scientificName": "Sinningia speciosa",
+      "action": "promoted-reference",
+      "workbookRow": null,
+      "sources": [
+        {
+          "title": "Flora do Brasil: Sinningia speciosa. Morfologia disponibilizada no World Flora Online.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000497309",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "lecythis-lanceolata",
+      "scientificName": "Lecythis lanceolata",
+      "action": "promoted-reference",
+      "workbookRow": 1289,
+      "sources": [
+        {
+          "title": "ESALQ/USP. Lecythis lanceolata, sapucaia-branca. Caracterização botânica.",
+          "url": "https://www.esalq.usp.br/d-plant/node/2730",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "inga-maritima",
+      "scientificName": "Inga maritima",
+      "action": "promoted-reference",
+      "workbookRow": 981,
+      "sources": [
+        {
+          "title": "Flora of Espírito Santo: Inga (2022). Chave e descrição de Inga maritima.",
+          "url": "https://www.scielo.br/j/rod/a/J9wnpXNpYJqxbNqdrszhL5k/",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "virola-bicuhyba",
+      "scientificName": "Virola bicuhyba",
+      "action": "promoted-reference",
+      "workbookRow": 1831,
+      "sources": [
+        {
+          "title": "Quintanilha & Lobão (2017). Flora do Rio de Janeiro: Myristicaceae. Chave e descrições.",
+          "url": "https://www.scielo.br/j/rod/a/9bRBWGnwM5sBKfpYCf4QynN/?format=html&lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "cololobus-rupestris",
+      "scientificName": "Cololobus rupestris",
+      "action": "promoted-reference",
+      "workbookRow": 308,
+      "sources": [
+        {
+          "title": "CNCFlora/JBRJ (2012). Cololobus rupestris. Caracteres morfológicos; categoria histórica não transposta para a ficha.",
+          "url": "https://proflora.jbrj.gov.br/html/Cololobus%20rupestris_2012.html",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "bathysa-australis",
+      "scientificName": "Bathysa australis",
+      "action": "promoted-reference",
+      "workbookRow": 2433,
+      "sources": [
+        {
+          "title": "Rubiaceae da Serra Negra, Minas Gerais, Brasil (2014). Descrição e reconhecimento de Bathysa australis.",
+          "url": "https://www.scielo.br/j/rod/a/ZX87WGG48FqVwtrY4FqSwKD/?format=html&lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "myrceugenia-myrcioides",
+      "scientificName": "Myrceugenia myrcioides",
+      "action": "promoted-reference",
+      "workbookRow": 1938,
+      "sources": [
+        {
+          "title": "Wagner & Fiaschi (2020). Myrtaceae from the Atlantic forest subtropical highlands of São Joaquim National Park. Morfologia.",
+          "url": "https://www.scielo.br/j/rod/a/dsHSX9ZcDJwNZcG88VGZR6R/?format=html",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "byrsonima-microphylla",
+      "scientificName": "Byrsonima microphylla",
+      "action": "promoted-reference",
+      "workbookRow": 1311,
+      "sources": [
+        {
+          "title": "Biologia reprodutiva de espécies simpátricas de Malpighiaceae em dunas costeiras da Bahia (2006). Morfologia floral e visitantes.",
+          "url": "https://www.scielo.br/j/rbb/a/JxFxDx3zFTR4xqLYhSTXBcx/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "tabebuia-cassinoides",
+      "scientificName": "Tabebuia cassinoides",
+      "action": "promoted-reference",
+      "workbookRow": 377,
+      "sources": [
+        {
+          "title": "Carvalho (2003). Caixeta: Tabebuia cassinoides. Espécies Arbóreas Brasileiras, Embrapa Florestas.",
+          "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1139717/1/Especies-Arboreas-Brasileiras-vol-1-Caixeta.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "avicennia-schaueriana",
+      "scientificName": "Avicennia schaueriana",
+      "action": "promoted-reference",
+      "workbookRow": 24,
+      "sources": [
+        {
+          "title": "Acanthaceae no Parque Estadual Restinga de Bertioga (2019). Tratamento de Avicennia schaueriana.",
+          "url": "https://www.scielo.br/j/hoehnea/a/nH8vVJMgVnz9Fjp79JN3VBK",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "melanopsidium-nigrum",
+      "scientificName": "Melanopsidium nigrum",
+      "action": "promoted-reference",
+      "workbookRow": 2517,
+      "sources": [
+        {
+          "title": "Gomes et al. (2026). Propagação de Melanopsidium nigrum como estratégia de resgate de germoplasma. UENF/UFRJ/GNA/Reserva Caruara.",
+          "url": "https://esg.gna.com.br/assets/documents/documentos_balizadores/11_artigos/boletim-melanopsidium-nigrum.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "nematanthus-brasiliensis",
+      "scientificName": "Nematanthus brasiliensis",
+      "action": "promoted-reference",
+      "workbookRow": null,
+      "sources": [
+        {
+          "title": "Wiehler & Chautems. Nematanthus: caracteres do gênero. Reimpresso em The Gloxinian, 3º trimestre de 2003.",
+          "url": "https://www.gesneriadsociety.org/wp-content/uploads/2016/08/Glox-3rd-qtr-03.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": []
+    },
+    {
+      "id": "chrysobalanus-icaco",
+      "scientificName": "Chrysobalanus icaco",
+      "action": "new-species",
+      "workbookRow": 481,
+      "sources": [
+        {
+          "title": "University of Florida/IFAS. Cocoplum (Chrysobalanus icaco): Identification and Uses. Morfologia.",
+          "url": "https://ask.ifas.ufl.edu/publication/EP553",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 97780,
+          "observationId": 63653
+        },
+        {
+          "photoId": 191925073,
+          "observationId": 113608459
+        }
+      ]
+    },
+    {
+      "id": "jacaratia-spinosa",
+      "scientificName": "Jacaratia spinosa",
+      "action": "new-species",
+      "workbookRow": 439,
+      "sources": [
+        {
+          "title": "Carvalho (2006). Jaracatiá: Jacaratia spinosa. Espécies Arbóreas Brasileiras 2. Embrapa Florestas.",
+          "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/item/232466/1/Especies-Arboreas-Brasileiras-vol-2-Jaracatia.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 59867931,
+          "observationId": 37543276
+        },
+        {
+          "photoId": 505478464,
+          "observationId": 281392584
+        }
+      ]
+    },
+    {
+      "id": "carpotroche-brasiliensis",
+      "scientificName": "Carpotroche brasiliensis",
+      "action": "new-species",
+      "workbookRow": 42,
+      "sources": [
+        {
+          "title": "Ácidos ciclopentênicos do óleo da sapucainha (2009). Química Nova 32. Introdução: morfologia dos frutos; usos terapêuticos históricos não adotados.",
+          "url": "https://www.scielo.br/j/qn/a/JLcPtLQf9HbWPVDsXqqp8Ht/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 413153212,
+          "observationId": 232545433
+        },
+        {
+          "photoId": 707969943,
+          "observationId": 386666460
+        }
+      ]
+    },
+    {
+      "id": "centrolobium-tomentosum",
+      "scientificName": "Centrolobium tomentosum",
+      "action": "new-species",
+      "workbookRow": 861,
+      "sources": [
+        {
+          "title": "Jardim Botânico/UFSM (2018). Araribá: Centrolobium tomentosum. Caracterização de folhas, flores e sâmaras.",
+          "url": "https://www.ufsm.br/orgaos-suplementares/jardim-botanico/2018/05/08/arariba-jardim-botanico",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 429160847,
+          "observationId": 240849996
+        },
+        {
+          "photoId": 355062966,
+          "observationId": 201169727
+        }
+      ]
+    },
+    {
+      "id": "swartzia-langsdorffii",
+      "scientificName": "Swartzia langsdorffii",
+      "action": "new-species",
+      "workbookRow": 808,
+      "sources": [
+        {
+          "title": "Lima (1995). Leguminosas da Flora Fluminensis de Vellozo. Acta Botanica Brasilica 9. Caracteres de Swartzia langsdorffii.",
+          "url": "https://www.scielo.br/j/abb/a/8p9bCGNGnHPPjMHV5Ln5kFg/?format=pdf&lang=pt",
+          "retrievedAt": "2026-11-11"
+        },
+        {
+          "title": "Physical and chemical evaluation of Swartzia langsdorffii fruits (2025). Brazilian Journal of Food Technology. Morfologia e ausência de evidência de uso alimentar humano.",
+          "url": "https://www.scielo.br/j/bjft/a/6HvmWD73zbKzWqtjJVxhRVx/?format=html",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 610223325,
+          "observationId": 335860887
+        },
+        {
+          "photoId": 556516392,
+          "observationId": 308467378
+        }
+      ]
+    },
+    {
+      "id": "erythrina-verna",
+      "scientificName": "Erythrina verna",
+      "action": "new-species",
+      "workbookRow": 819,
+      "sources": [
+        {
+          "title": "Parrini & Raposo (2008). Associação entre aves e flores de duas espécies de Erythrina na Mata Atlântica. Observações de campo.",
+          "url": "https://www.scielo.br/scielo.php?lng=en&nrm=iso&pid=S0073-47212008000100015&script=sci_arttext&tlng=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 740706335,
+          "observationId": 403428680
+        }
+      ]
+    },
+    {
+      "id": "pleroma-heteromallum",
+      "scientificName": "Pleroma heteromallum",
+      "action": "new-species",
+      "workbookRow": 1686,
+      "sources": [
+        {
+          "title": "Embrapa (2021). Documentos 501, p. 76: Pleroma heteromallum. Caracterização botânica.",
+          "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1133904/1/Cpact-Documento-501.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 133410389,
+          "observationId": 81343116
+        },
+        {
+          "photoId": 157084663,
+          "observationId": 94678295
+        }
+      ]
+    },
+    {
+      "id": "solanum-cernuum",
+      "scientificName": "Solanum cernuum",
+      "action": "new-species",
+      "workbookRow": 2890,
+      "sources": [
+        {
+          "title": "Lafetá (2002). Espécies lenhosas de Solanum (Solanaceae) na Reserva Biológica de Santa Cândida, Juiz de Fora, Minas Gerais. Hoehnea 29:133–149. Descrição de S. cernuum.",
+          "url": "https://smastr16.blob.core.windows.net/hoehnea/2015/07/292_T07_20_07_2015.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 402581947,
+          "observationId": 226967619
+        },
+        {
+          "photoId": 52687324,
+          "observationId": 33541855
+        }
+      ]
+    },
+    {
+      "id": "brunfelsia-pauciflora",
+      "scientificName": "Brunfelsia pauciflora",
+      "action": "new-species",
+      "workbookRow": 2854,
+      "sources": [
+        {
+          "title": "Flora do Brasil 2020. Brunfelsia: descrição de B. pauciflora. JBRJ.",
+          "url": "https://monografiasfloradobrasil.jbrj.gov.br/brunfelsia.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 264323898,
+          "observationId": 153068124
+        }
+      ]
+    },
+    {
+      "id": "pavonia-multiflora",
+      "scientificName": "Pavonia multiflora",
+      "action": "new-species",
+      "workbookRow": 1377,
+      "sources": [
+        {
+          "title": "Flora Mesoamericana: Pavonia multiflora. Morfologia disponibilizada no World Flora Online.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0001077946",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 340017772,
+          "observationId": 193553051
+        },
+        {
+          "photoId": 505663252,
+          "observationId": 281491446
+        }
+      ]
+    },
+    {
+      "id": "stifftia-chrysantha",
+      "scientificName": "Stifftia chrysantha",
+      "action": "new-species",
+      "workbookRow": 225,
+      "sources": [
+        {
+          "title": "Roque (2020). Stifftieae. Flora do Brasil 2020, JBRJ. Descrições de Stifftia chrysantha e S. fruticosa.",
+          "url": "https://monografiasfloradobrasil.jbrj.gov.br/stifftieae.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 651787401,
+          "observationId": 357362087
+        },
+        {
+          "photoId": 736143011,
+          "observationId": 401102291
+        }
+      ]
+    },
+    {
+      "id": "stifftia-fruticosa",
+      "scientificName": "Stifftia fruticosa",
+      "action": "new-species",
+      "workbookRow": 226,
+      "sources": [
+        {
+          "title": "Roque (2020). Stifftieae. Flora do Brasil 2020, JBRJ. Descrições de Stifftia chrysantha e S. fruticosa.",
+          "url": "https://monografiasfloradobrasil.jbrj.gov.br/stifftieae.pdf",
+          "retrievedAt": "2026-11-11"
+        },
+        {
+          "title": "CNCFlora/JBRJ (2012). Stifftia fruticosa: nomes populares e caracteres. Categoria histórica não transposta para a ficha.",
+          "url": "https://proflora.jbrj.gov.br/html/Stifftia%20fruticosa_2012.html",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 713847551,
+          "observationId": 389697348
+        }
+      ]
+    },
+    {
+      "id": "eriotheca-pentaphylla",
+      "scientificName": "Eriotheca pentaphylla",
+      "action": "new-species",
+      "workbookRow": 1355,
+      "sources": [
+        {
+          "title": "Duarte (2020). Eriotheca. Flora do Brasil 2020, JBRJ. Descrição de E. pentaphylla.",
+          "url": "https://monografiasfloradobrasil.jbrj.gov.br/eriotheca.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ],
+      "selectedPhotos": [
+        {
+          "photoId": 676287054,
+          "observationId": 370199721
+        }
+      ]
+    }
+  ],
+  "deferred": {
+    "Cordia superba": "Sem imagem elegível ou conjunto visual menos convincente que a seleção; nenhum novo arquivo incorporado.",
+    "Tabernaemontana laeta": "Sem imagem elegível ou conjunto visual menos convincente que a seleção; nenhum novo arquivo incorporado.",
+    "Lecythis lurida": "Sem imagem elegível ou conjunto visual menos convincente que a seleção; nenhum novo arquivo incorporado.",
+    "Pachira glabra": "Sem imagem elegível ou conjunto visual menos convincente que a seleção; nenhum novo arquivo incorporado.",
+    "Chloroleucon tortum": "Sem imagem elegível ou conjunto visual menos convincente que a seleção; nenhum novo arquivo incorporado.",
+    "Miconia mirabilis": "Sem imagem elegível ou conjunto visual menos convincente que a seleção; nenhum novo arquivo incorporado.",
+    "Brunfelsia uniflora": "Sem imagem elegível ou conjunto visual menos convincente que a seleção; nenhum novo arquivo incorporado.",
+    "Brunfelsia brasiliensis": "Sem imagem elegível ou conjunto visual menos convincente que a seleção; nenhum novo arquivo incorporado.",
+    "Talipariti pernambucense": "Sem imagem elegível ou conjunto visual menos convincente que a seleção; nenhum novo arquivo incorporado."
+  },
+  "review": "All new text/photos remain draft; photo markers remain unknown. Existing photo objects preserved exactly.",
+  "excludedAlternates": [
+    {
+      "photoId": 686882216,
+      "scientificName": "Stifftia fruticosa",
+      "reason": "Segundo enquadramento semelhante; omitir para priorizar diversidade dentro de 10 MiB."
+    }
+  ]
+}

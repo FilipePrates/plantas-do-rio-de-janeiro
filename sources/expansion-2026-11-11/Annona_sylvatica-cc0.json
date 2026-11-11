@@ -1,0 +1,2011 @@
+{
+  "url": "https://api.inaturalist.org/v1/observations?taxon_name=Annona+sylvatica&photo_license=cc0&quality_grade=research&captive=false&per_page=8&order_by=votes",
+  "retrievedAt": "2026-11-11T08:02:45Z",
+  "responseSha256": "208d4c88c797f67d8229bd1f1182b274fc416ca40aaa2450ae795088e5a7a998",
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 8,
+    "results": [
+      {
+        "quality_grade": "research",
+        "time_observed_at": "2024-02-24T18:34:00-03:00",
+        "taxon_geoprivacy": "open",
+        "annotations": [],
+        "uuid": "17dddcea-5a88-4941-82f5-e4779c95a790",
+        "observed_on_details": {
+          "date": "2024-02-24",
+          "day": 24,
+          "month": 2,
+          "year": 2024,
+          "hour": 18,
+          "week": 8
+        },
+        "id": 200513798,
+        "cached_votes_total": 0,
+        "identifications_most_agree": true,
+        "created_at_details": {
+          "date": "2024-02-26",
+          "day": 26,
+          "month": 2,
+          "year": 2024,
+          "hour": 10,
+          "week": 9
+        },
+        "species_guess": "Araticum-do-mato",
+        "identifications_most_disagree": false,
+        "tags": [],
+        "positional_accuracy": 565,
+        "comments_count": 0,
+        "site_id": 1,
+        "created_time_zone": "America/Sao_Paulo",
+        "license_code": "cc0",
+        "observed_time_zone": "America/Sao_Paulo",
+        "quality_metrics": [],
+        "public_positional_accuracy": 565,
+        "reviewed_by": [
+          2431441,
+          8803815
+        ],
+        "oauth_application_id": null,
+        "flags": [],
+        "created_at": "2024-02-26T10:55:13-03:00",
+        "description": null,
+        "time_zone_offset": "-03:00",
+        "project_ids_with_curator_id": [],
+        "observed_on": "2024-02-24",
+        "observed_on_string": "2024/02/24 18:34",
+        "updated_at": "2025-04-29T03:41:57-03:00",
+        "sounds": [],
+        "place_ids": [
+          6878,
+          9470,
+          24214,
+          56773,
+          66741,
+          82256,
+          97389,
+          180136,
+          184033,
+          203116
+        ],
+        "captive": false,
+        "taxon": {
+          "provisional": false,
+          "is_active": true,
+          "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377/1669363/69974",
+          "min_species_ancestry": "48460,47126,211194,47125,47124,50898,50899,1669377,1669363,69974,1044481",
+          "endemic": false,
+          "iconic_taxon_id": 47126,
+          "min_species_taxon_id": 1044481,
+          "threatened": false,
+          "rank_level": 10,
+          "introduced": false,
+          "native": true,
+          "parent_id": 69974,
+          "name": "Annona sylvatica",
+          "rank": "species",
+          "extinct": false,
+          "id": 1044481,
+          "ancestor_ids": [
+            48460,
+            47126,
+            211194,
+            47125,
+            47124,
+            50898,
+            50899,
+            1669377,
+            1669363,
+            69974,
+            1044481
+          ],
+          "created_at": "2020-03-07T15:12:12+00:00",
+          "default_photo": {
+            "id": 110608581,
+            "license_code": "cc-by-nc",
+            "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+            "original_dimensions": {
+              "height": 1536,
+              "width": 2048
+            },
+            "flags": [],
+            "attribution_name": "Luís A. Funez",
+            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/medium.jpeg"
+          },
+          "taxon_changes_count": 1,
+          "taxon_schemes_count": 1,
+          "observations_count": 107,
+          "photos_locked": false,
+          "universal_search_rank": 107,
+          "flag_counts": {
+            "resolved": 0,
+            "unresolved": 0
+          },
+          "current_synonymous_taxon_ids": null,
+          "atlas_id": null,
+          "complete_species_count": null,
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Annona_sylvatica",
+          "iconic_taxon_name": "Plantae"
+        },
+        "ident_taxon_ids": [
+          48460,
+          47126,
+          211194,
+          47125,
+          47124,
+          50898,
+          50899,
+          1669377,
+          1669363,
+          69974,
+          1044481
+        ],
+        "outlinks": [
+          {
+            "source": "GBIF",
+            "url": "http://www.gbif.org/occurrence/5139926954"
+          }
+        ],
+        "faves_count": 0,
+        "ofvs": [],
+        "num_identification_agreements": 1,
+        "preferences": {
+          "prefers_community_taxon": null
+        },
+        "identification_disagreements_count": 0,
+        "comments": [],
+        "map_scale": null,
+        "uri": "https://www.inaturalist.org/observations/200513798",
+        "project_ids": [],
+        "community_taxon_id": 1044481,
+        "geojson": {
+          "type": "Point",
+          "coordinates": [
+            -52.5375529597,
+            -28.273544964
+          ]
+        },
+        "owners_identification_from_vision": false,
+        "identifications_count": 1,
+        "obscured": false,
+        "num_identification_disagreements": 0,
+        "geoprivacy": null,
+        "location": "-28.273544964,-52.5375529597",
+        "votes": [],
+        "spam": false,
+        "user": {
+          "id": 2431441,
+          "login": "fmiudo",
+          "spam": false,
+          "suspended": false,
+          "created_at": "2019-11-10T18:32:42+00:00",
+          "site_id": 1,
+          "preferences": {},
+          "login_autocomplete": "fmiudo",
+          "login_exact": "fmiudo",
+          "name": "Fernando Sessegolo",
+          "name_autocomplete": "Fernando Sessegolo",
+          "orcid": null,
+          "icon": "https://static.inaturalist.org/attachments/users/icons/2431441/fbccc68be73e3cbf332d8ad406a7f779-thumb.jpeg?1767304940",
+          "observations_count": 12228,
+          "identifications_count": 25086,
+          "journal_posts_count": 10,
+          "activity_count": 37324,
+          "species_count": 4064,
+          "annotated_observations_count": 32840,
+          "universal_search_rank": 12228,
+          "roles": [
+            "curator"
+          ],
+          "icon_url": "https://static.inaturalist.org/attachments/users/icons/2431441/fbccc68be73e3cbf332d8ad406a7f779-medium.jpeg?1767304940"
+        },
+        "mappable": true,
+        "identifications_some_agree": true,
+        "project_ids_without_curator_id": [],
+        "place_guess": "Passo Fundo - RS, Brasil",
+        "identifications": [
+          {
+            "id": 454754035,
+            "uuid": "de8dc184-4c1d-43be-a6b9-fb24ddc09821",
+            "user": {
+              "id": 2431441,
+              "login": "fmiudo",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2019-11-10T18:32:42+00:00",
+              "login_autocomplete": "fmiudo",
+              "login_exact": "fmiudo",
+              "name": "Fernando Sessegolo",
+              "name_autocomplete": "Fernando Sessegolo",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/2431441/fbccc68be73e3cbf332d8ad406a7f779-thumb.jpeg?1767304940",
+              "observations_count": 12228,
+              "identifications_count": 25086,
+              "journal_posts_count": 10,
+              "activity_count": 37324,
+              "species_count": 4064,
+              "annotated_observations_count": 32840,
+              "universal_search_rank": 12228,
+              "roles": [
+                "curator"
+              ],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/2431441/fbccc68be73e3cbf332d8ad406a7f779-medium.jpeg?1767304940"
+            },
+            "created_at": "2024-02-26T13:55:13+00:00",
+            "created_at_details": {
+              "date": "2024-02-26",
+              "day": 26,
+              "month": 2,
+              "year": 2024,
+              "hour": 13,
+              "week": 9
+            },
+            "body": null,
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": true,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": null,
+            "previous_observation_taxon_id": 1044481,
+            "spam": false,
+            "taxon_id": 1044481,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1044481,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                50898,
+                50899,
+                1669377,
+                1669363,
+                69974
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1044481,
+              "name": "Annona sylvatica",
+              "parent_id": 69974,
+              "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377/1669363/69974",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,50898,50899,1669377,1669363,69974,1044481",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-03-07T15:12:12+00:00",
+              "default_photo": {
+                "id": 110608581,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/medium.jpeg"
+              },
+              "taxon_changes_count": 1,
+              "taxon_schemes_count": 1,
+              "observations_count": 107,
+              "photos_locked": false,
+              "universal_search_rank": 107,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Annona_sylvatica",
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125062316,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 50898,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 16050587,
+                    "license_code": null,
+                    "attribution": "(c) Joshua Smith, all rights reserved, uploaded by Joshua Smith",
+                    "url": "https://static.inaturalist.org/photos/16050587/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Joshua Smith",
+                    "square_url": "https://static.inaturalist.org/photos/16050587/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/16050587/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 523716,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Magnoliales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "magnolias, nutmegs, and allies"
+                },
+                {
+                  "id": 50899,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899
+                  ],
+                  "is_active": true,
+                  "name": "Annonaceae",
+                  "parent_id": 50898,
+                  "ancestry": "48460/47126/211194/47125/47124/50898",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 11501,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) Philip Bouchard, some rights reserved (CC BY-NC-ND)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11501/square.jpg",
+                    "original_dimensions": {
+                      "height": 1180,
+                      "width": 1608
+                    },
+                    "flags": [],
+                    "attribution_name": "Philip Bouchard",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11501/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11501/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 157984,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Annonaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "custard-apples"
+                },
+                {
+                  "id": 1669377,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899,
+                    1669377
+                  ],
+                  "is_active": true,
+                  "name": "Annonoideae",
+                  "parent_id": 50899,
+                  "ancestry": "48460/47126/211194/47125/47124/50898/50899",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6570611,
+                    "license_code": null,
+                    "attribution": "(c) jprekop, all rights reserved, uploaded by jprekop",
+                    "url": "https://static.inaturalist.org/photos/6570611/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1367,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "jprekop",
+                    "square_url": "https://static.inaturalist.org/photos/6570611/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/6570611/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 138502,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Annonoideae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 1669363,
+                  "rank": "tribe",
+                  "rank_level": 25,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899,
+                    1669377,
+                    1669363
+                  ],
+                  "is_active": true,
+                  "name": "Annoneae",
+                  "parent_id": 1669377,
+                  "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 198742211,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Apipa, some rights reserved (CC BY-NC), uploaded by Apipa",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198742211/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1365
+                    },
+                    "flags": [],
+                    "attribution_name": "Apipa",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198742211/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198742211/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 122757,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Annonoideae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 69974,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899,
+                    1669377,
+                    1669363,
+                    69974
+                  ],
+                  "is_active": true,
+                  "name": "Annona",
+                  "parent_id": 1669363,
+                  "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377/1669363",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 29200458,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) David W K Foster, some rights reserved (CC BY-NC-ND), uploaded by David W K Foster",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29200458/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "David W K Foster",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29200458/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29200458/medium.jpeg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 39786,
+                  "flag_counts": {
+                    "resolved": 14,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Annona",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "custard apples"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 1044481,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                50898,
+                50899,
+                1669377,
+                1669363,
+                69974,
+                1044481
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1044481,
+              "name": "Annona sylvatica",
+              "parent_id": 69974,
+              "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377/1669363/69974",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,50898,50899,1669377,1669363,69974,1044481",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-03-07T15:12:12+00:00",
+              "default_photo": {
+                "id": 110608581,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/medium.jpeg"
+              },
+              "taxon_changes_count": 1,
+              "taxon_schemes_count": 1,
+              "observations_count": 107,
+              "photos_locked": false,
+              "universal_search_rank": 107,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Annona_sylvatica",
+              "iconic_taxon_name": "Plantae"
+            }
+          },
+          {
+            "id": 622536806,
+            "uuid": "73304167-90c9-4ab5-877f-85585c3213a0",
+            "user": {
+              "id": 8803815,
+              "login": "paulo_celso_cunha",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2024-11-29T19:21:33+00:00",
+              "login_autocomplete": "paulo_celso_cunha",
+              "login_exact": "paulo_celso_cunha",
+              "name": "Paulo C. O. Cunha",
+              "name_autocomplete": "Paulo C. O. Cunha",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/8803815/9136f6b8ff099826e438b8608dfa4831-thumb.jpeg?1732989263",
+              "observations_count": 6736,
+              "identifications_count": 6209,
+              "journal_posts_count": 0,
+              "activity_count": 12945,
+              "species_count": 1656,
+              "annotated_observations_count": 208,
+              "universal_search_rank": 6736,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/8803815/9136f6b8ff099826e438b8608dfa4831-medium.jpeg?1732989263"
+            },
+            "created_at": "2025-04-29T06:41:57+00:00",
+            "created_at_details": {
+              "date": "2025-04-29",
+              "day": 29,
+              "month": 4,
+              "year": 2025,
+              "hour": 6,
+              "week": 18
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 1044481,
+            "spam": false,
+            "taxon_id": 1044481,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1044481,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                50898,
+                50899,
+                1669377,
+                1669363,
+                69974
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1044481,
+              "name": "Annona sylvatica",
+              "parent_id": 69974,
+              "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377/1669363/69974",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,50898,50899,1669377,1669363,69974,1044481",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-03-07T15:12:12+00:00",
+              "default_photo": {
+                "id": 110608581,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/medium.jpeg"
+              },
+              "taxon_changes_count": 1,
+              "taxon_schemes_count": 1,
+              "observations_count": 107,
+              "photos_locked": false,
+              "universal_search_rank": 107,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Annona_sylvatica",
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125062316,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 50898,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 16050587,
+                    "license_code": null,
+                    "attribution": "(c) Joshua Smith, all rights reserved, uploaded by Joshua Smith",
+                    "url": "https://static.inaturalist.org/photos/16050587/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Joshua Smith",
+                    "square_url": "https://static.inaturalist.org/photos/16050587/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/16050587/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 523716,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Magnoliales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "magnolias, nutmegs, and allies"
+                },
+                {
+                  "id": 50899,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899
+                  ],
+                  "is_active": true,
+                  "name": "Annonaceae",
+                  "parent_id": 50898,
+                  "ancestry": "48460/47126/211194/47125/47124/50898",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 11501,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) Philip Bouchard, some rights reserved (CC BY-NC-ND)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11501/square.jpg",
+                    "original_dimensions": {
+                      "height": 1180,
+                      "width": 1608
+                    },
+                    "flags": [],
+                    "attribution_name": "Philip Bouchard",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11501/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11501/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 157984,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Annonaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "custard-apples"
+                },
+                {
+                  "id": 1669377,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899,
+                    1669377
+                  ],
+                  "is_active": true,
+                  "name": "Annonoideae",
+                  "parent_id": 50899,
+                  "ancestry": "48460/47126/211194/47125/47124/50898/50899",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6570611,
+                    "license_code": null,
+                    "attribution": "(c) jprekop, all rights reserved, uploaded by jprekop",
+                    "url": "https://static.inaturalist.org/photos/6570611/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1367,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "jprekop",
+                    "square_url": "https://static.inaturalist.org/photos/6570611/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/6570611/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 138502,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Annonoideae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 1669363,
+                  "rank": "tribe",
+                  "rank_level": 25,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899,
+                    1669377,
+                    1669363
+                  ],
+                  "is_active": true,
+                  "name": "Annoneae",
+                  "parent_id": 1669377,
+                  "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 198742211,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Apipa, some rights reserved (CC BY-NC), uploaded by Apipa",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198742211/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1365
+                    },
+                    "flags": [],
+                    "attribution_name": "Apipa",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198742211/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198742211/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 122757,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Annonoideae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 69974,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899,
+                    1669377,
+                    1669363,
+                    69974
+                  ],
+                  "is_active": true,
+                  "name": "Annona",
+                  "parent_id": 1669363,
+                  "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377/1669363",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 29200458,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) David W K Foster, some rights reserved (CC BY-NC-ND), uploaded by David W K Foster",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29200458/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "David W K Foster",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29200458/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29200458/medium.jpeg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 39786,
+                  "flag_counts": {
+                    "resolved": 14,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Annona",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "custard apples"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 1044481,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                50898,
+                50899,
+                1669377,
+                1669363,
+                69974,
+                1044481
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1044481,
+              "name": "Annona sylvatica",
+              "parent_id": 69974,
+              "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377/1669363/69974",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,50898,50899,1669377,1669363,69974,1044481",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-03-07T15:12:12+00:00",
+              "default_photo": {
+                "id": 110608581,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/medium.jpeg"
+              },
+              "taxon_changes_count": 1,
+              "taxon_schemes_count": 1,
+              "observations_count": 107,
+              "photos_locked": false,
+              "universal_search_rank": 107,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Annona_sylvatica",
+              "iconic_taxon_name": "Plantae"
+            }
+          }
+        ],
+        "project_observations": [],
+        "observation_photos": [
+          {
+            "id": 329456899,
+            "position": 0,
+            "uuid": "66caad90-43d3-48e3-8483-b5cd45cdbded",
+            "photo_id": 353783600,
+            "photo": {
+              "id": 353783600,
+              "license_code": "cc0",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1363
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353783600/square.jpg",
+              "attribution": "no rights reserved",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          }
+        ],
+        "photos": [
+          {
+            "id": 353783600,
+            "license_code": "cc0",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1363
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353783600/square.jpg",
+            "attribution": "no rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        ],
+        "faves": [],
+        "non_owner_ids": [
+          {
+            "id": 622536806,
+            "uuid": "73304167-90c9-4ab5-877f-85585c3213a0",
+            "user": {
+              "id": 8803815,
+              "login": "paulo_celso_cunha",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2024-11-29T19:21:33+00:00",
+              "login_autocomplete": "paulo_celso_cunha",
+              "login_exact": "paulo_celso_cunha",
+              "name": "Paulo C. O. Cunha",
+              "name_autocomplete": "Paulo C. O. Cunha",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/8803815/9136f6b8ff099826e438b8608dfa4831-thumb.jpeg?1732989263",
+              "observations_count": 6736,
+              "identifications_count": 6209,
+              "journal_posts_count": 0,
+              "activity_count": 12945,
+              "species_count": 1656,
+              "annotated_observations_count": 208,
+              "universal_search_rank": 6736,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/8803815/9136f6b8ff099826e438b8608dfa4831-medium.jpeg?1732989263"
+            },
+            "created_at": "2025-04-29T06:41:57+00:00",
+            "created_at_details": {
+              "date": "2025-04-29",
+              "day": 29,
+              "month": 4,
+              "year": 2025,
+              "hour": 6,
+              "week": 18
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 1044481,
+            "spam": false,
+            "taxon_id": 1044481,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1044481,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                50898,
+                50899,
+                1669377,
+                1669363,
+                69974
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1044481,
+              "name": "Annona sylvatica",
+              "parent_id": 69974,
+              "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377/1669363/69974",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,50898,50899,1669377,1669363,69974,1044481",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-03-07T15:12:12+00:00",
+              "default_photo": {
+                "id": 110608581,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/medium.jpeg"
+              },
+              "taxon_changes_count": 1,
+              "taxon_schemes_count": 1,
+              "observations_count": 107,
+              "photos_locked": false,
+              "universal_search_rank": 107,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Annona_sylvatica",
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125062316,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 50898,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 16050587,
+                    "license_code": null,
+                    "attribution": "(c) Joshua Smith, all rights reserved, uploaded by Joshua Smith",
+                    "url": "https://static.inaturalist.org/photos/16050587/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Joshua Smith",
+                    "square_url": "https://static.inaturalist.org/photos/16050587/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/16050587/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 523716,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Magnoliales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "magnolias, nutmegs, and allies"
+                },
+                {
+                  "id": 50899,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899
+                  ],
+                  "is_active": true,
+                  "name": "Annonaceae",
+                  "parent_id": 50898,
+                  "ancestry": "48460/47126/211194/47125/47124/50898",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 11501,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) Philip Bouchard, some rights reserved (CC BY-NC-ND)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11501/square.jpg",
+                    "original_dimensions": {
+                      "height": 1180,
+                      "width": 1608
+                    },
+                    "flags": [],
+                    "attribution_name": "Philip Bouchard",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11501/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11501/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 157984,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Annonaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "custard-apples"
+                },
+                {
+                  "id": 1669377,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899,
+                    1669377
+                  ],
+                  "is_active": true,
+                  "name": "Annonoideae",
+                  "parent_id": 50899,
+                  "ancestry": "48460/47126/211194/47125/47124/50898/50899",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6570611,
+                    "license_code": null,
+                    "attribution": "(c) jprekop, all rights reserved, uploaded by jprekop",
+                    "url": "https://static.inaturalist.org/photos/6570611/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1367,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "jprekop",
+                    "square_url": "https://static.inaturalist.org/photos/6570611/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/6570611/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 138502,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Annonoideae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 1669363,
+                  "rank": "tribe",
+                  "rank_level": 25,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899,
+                    1669377,
+                    1669363
+                  ],
+                  "is_active": true,
+                  "name": "Annoneae",
+                  "parent_id": 1669377,
+                  "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 198742211,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Apipa, some rights reserved (CC BY-NC), uploaded by Apipa",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198742211/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1365
+                    },
+                    "flags": [],
+                    "attribution_name": "Apipa",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198742211/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198742211/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 122757,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Annonoideae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 69974,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    50898,
+                    50899,
+                    1669377,
+                    1669363,
+                    69974
+                  ],
+                  "is_active": true,
+                  "name": "Annona",
+                  "parent_id": 1669363,
+                  "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377/1669363",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 29200458,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) David W K Foster, some rights reserved (CC BY-NC-ND), uploaded by David W K Foster",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29200458/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "David W K Foster",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29200458/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29200458/medium.jpeg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 39786,
+                  "flag_counts": {
+                    "resolved": 14,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Annona",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "custard apples"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 1044481,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                50898,
+                50899,
+                1669377,
+                1669363,
+                69974,
+                1044481
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1044481,
+              "name": "Annona sylvatica",
+              "parent_id": 69974,
+              "ancestry": "48460/47126/211194/47125/47124/50898/50899/1669377/1669363/69974",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,50898,50899,1669377,1669363,69974,1044481",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-03-07T15:12:12+00:00",
+              "default_photo": {
+                "id": 110608581,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110608581/medium.jpeg"
+              },
+              "taxon_changes_count": 1,
+              "taxon_schemes_count": 1,
+              "observations_count": 107,
+              "photos_locked": false,
+              "universal_search_rank": 107,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Annona_sylvatica",
+              "iconic_taxon_name": "Plantae"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

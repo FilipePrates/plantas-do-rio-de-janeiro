@@ -1,0 +1,60 @@
+61|-|Ramo trepador aderido ao tronco, com folhas inteiras em diferentes alturas.
+62|-|Folhagem de planta apoiada no tronco, com nervuras claras bem visíveis.
+63|-|Folha de base recortada, com superfície brilhante e nervuras claras.
+64|wholePlant|Aspecto da planta junto ao solo, com pecíolos longos e folhas de base recortada.
+65|-|-
+66|wholePlant|Planta trepadora no tronco, com folhas recortadas de tamanhos diferentes.
+67|leaf|Folha recortada vista contra a luz, destacando o contorno dos lobos.
+68|-|-
+69|-|-
+70|wholePlant|Aspecto da trepadeira entre os ramos da vegetação, com folhas pendentes.
+71|leaf|Folhas estreitas e compridas distribuídas junto ao tronco.
+72|root|Raízes e eixos da trepadeira junto ao tronco, vistos sob a folhagem.
+73|wholePlant,root|Planta aderida ao tronco, com folhas longas e raízes pendentes.
+74|leaf|Folhas de base sagitada e pecíolos compridos sobre o chão da mata.
+75|leaf|Folhas de contorno sagitado vistas de perto na sombra da mata.
+76|flower|Conjunto de inflorescências claras junto ao caule aderido ao tronco.
+77|leaf|Folhas inteiras e brilhantes, com pecíolos espessados visíveis junto à base.
+78|wholePlant|Aspecto da planta sobre o tronco, entre outras epífitas.
+79|wholePlant|Roseta sobre o tronco, com folhas largas e pecíolos grossos.
+80|leaf|Folhas cordiformes com nervuras claras e superfície marcada por sulcos.
+81|leaf|Folhas de base cordiforme vistas de cima, com nervuras irradiando do pecíolo.
+82|leaf|Folhas largas e brilhantes junto ao tronco, mostrando o relevo das nervuras.
+83|leaf|Folha profundamente recortada, com lobos estreitos ao longo da lâmina.
+84|leaf|Folha de lobos largos, com a nervura central bem destacada.
+85|leaf|Folha recortada em numerosos lobos estreitos, vista de cima.
+86|flower|Espata clara aberta, expondo o espádice.
+87|leaf|Ramo fino sustentado à mão, com folhas pequenas e alongadas.
+88|wholePlant|Aspecto da trepadeira subindo pelo tronco, com folhas em diferentes alturas.
+89|leaf|Folha grande de base cordiforme, sustentada à mão para comparação de tamanho.
+90|wholePlant|Planta no sub-bosque, com folhas largas elevadas em pecíolos compridos.
+91|flower|Pequenas flores esverdeadas reunidas na extremidade do pedúnculo.
+92|wholePlant|Aspecto do indivíduo no sub-bosque, com folhas de contornos variados.
+93|-|Palmeira vista à distância, com estipe alto e copa de folhas arqueadas.
+94|-|Detalhe do estipe, com numerosas projeções longas e pontiagudas.
+95|-|Conjunto de palmeiras baixas crescendo entre as rochas.
+96|-|Touceira de folhas arqueadas, com as bases reunidas perto do solo.
+97|-|-
+98|-|-
+99|wholePlant|Aspecto da palmeira, com folhas pinadas arqueadas próximas ao solo.
+100|fruit|Pequeno grupo de frutos verdes entre as pinas da folha.
+101|fruit|Frutos abertos sobre a mão, mostrando o interior e a casca verde-amarelada.
+102|-|Inflorescência compacta de ramos curtos e densos, parcialmente envolvida pela bráctea.
+103|-|Vista aproximada da inflorescência entre as bases das folhas e o estipe espinhoso.
+104|-|Palmeira de estipe alto, vista da base até a copa.
+105|wholePlant|Palmeira de folhas grandes e pinadas, com as bases próximas ao chão da mata.
+106|flower|Inflorescência clara e compacta entre as bases das folhas.
+107|fruit|Frutos castanhos a alaranjados agrupados junto à base da palmeira.
+108|-|Frutos escuros sob a bráctea aberta, ao lado do estipe coberto de espinhos.
+109|flower|Inflorescência ainda envolvida pela bráctea fechada, de superfície eriçada.
+110|-|-
+111|-|-
+112|-|-
+113|-|-
+114|wholePlant|Palmeira de pequeno porte, com folhas de divisões irregulares.
+115|wholePlant|Aspecto da palmeira no sub-bosque, com folhas arqueadas e segmentos largos.
+116|wholePlant|Palmeira no interior da mata, mostrando a disposição dos segmentos das folhas.
+117|fruit|Frutos claros e escuros em ramificações avermelhadas, junto ao tronco.
+118|flower|Pequenas flores claras distribuídas ao longo do eixo, com a mão como referência de escala.
+119|-|Inflorescência de eixos finos e pendentes, com pequenas estruturas florais distribuídas ao longo deles.
+120|-|Palmeira de estipe delgado e copa de folhas pinadas, vista no ambiente da mata.

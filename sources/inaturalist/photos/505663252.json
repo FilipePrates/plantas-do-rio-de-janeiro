@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/281491446",
+  "photo": {
+    "id": 505663252,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1024,
+      "height": 683
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505663252/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "NINA WENÓLI",
+  "observation": {
+    "id": 281491446,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 332683,
+      "name": "Pavonia multiflora"
+    },
+    "observerLogin": "ninawenoli"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505663252/large.jpg",
+    "sha256": "7f99b14f2486de5a711f13bfa03122e551f0cbddff69e183f86eda2ac45f77a7",
+    "retrievedAt": "2026-11-11T08:49:03.251Z"
+  }
+}

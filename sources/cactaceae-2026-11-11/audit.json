@@ -1,0 +1,620 @@
+{
+  "date": "2026-11-11",
+  "baselineSha256": "c5a420d3cb242a6a436fc8da019c23f9b064261018cbc764b5997ae8fdc0bd71",
+  "catalogSha256": "2a6ee0701dbd3b17f844a8a3fd99fba9afca7657eed7a5a889aeec14e5acfe9e",
+  "addedPlantIds": [
+    "brasiliopuntia-brasiliensis",
+    "coleocephalocereus-fluminensis",
+    "opuntia-monacantha",
+    "pereskia-grandifolia",
+    "pereskia-aculeata",
+    "pilosocereus-arrabidae",
+    "pilosocereus-brasiliensis",
+    "pilosocereus-ulei",
+    "melocactus-violaceus",
+    "schlumbergera-truncata",
+    "rhipsalis-paradoxa",
+    "rhipsalis-pachyptera",
+    "lepismium-cruciforme",
+    "hatiora-salicornioides"
+  ],
+  "updatedProfiles": [
+    {
+      "plantId": "cereus-fernambucensis",
+      "before": {
+        "description": "Cacto ramificado de restingas e afloramentos rochosos. Os caules verdes têm costelas longitudinais, e as flores apresentam um tubo comprido.",
+        "identification": "Observe as fileiras de espinhos e os frutos alongados, que se abrem por fendas. No Rio de Janeiro há subespécies com frutos rosados ou amarelos; a cor não deve ser generalizada para toda a ficha.",
+        "ecology": "Restinga; Afloramentos rochosos.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cereus fernambucensis (FB6613)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cereus_fernambucensis",
+            "retrievedAt": "2026-10-16T22:05:16Z"
+          },
+          {
+            "title": "Rodriguésia · Flora do Rio de Janeiro: Cactaceae",
+            "url": "https://www.scielo.br/j/rod/a/MNrS9zS6HNxwLG9JKt9kTqG/?format=html&lang=pt",
+            "retrievedAt": "2026-10-17T19:38:50.466023Z"
+          }
+        ],
+        "reviewStatus": "reviewed",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas."
+      },
+      "after": {
+        "description": "Cacto ramificado de caules verdes e costelados, que podem crescer eretos, inclinados ou se espalhar sobre a areia. Espinhos surgem em aréolas dispostas ao longo das costelas. As flores são grandes e alongadas, com tubo comprido; os frutos carnosos se abrem por fendas e expõem polpa clara com sementes escuras.",
+        "identification": "Observe o hábito, as costelas e a abertura dos frutos, além do tubo floral. A flora fluminense de 2020 tratou plantas de frutos rosados e amarelos como subespécies; o serviço atual da Flora e Funga reconhece Cereus sericifer separadamente, enquanto outras bases mantêm o tratamento de subespécie. Por isso, a cor do fruto não deve ser generalizada nem usada sozinha para decidir a identificação.",
+        "ecology": "Participa da vegetação de restinga, em solos arenosos, e de ambientes rochosos conforme o tratamento taxonômico adotado. Os caules podem formar moitas entre outros arbustos. A variedade de posições dos ramos deve ser considerada ao interpretar uma foto: a mesma espécie não apresenta sempre a silhueta ereta de um mandacaru adulto.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cereus fernambucensis (FB6613)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cereus_fernambucensis",
+            "retrievedAt": "2026-10-16T22:05:16Z"
+          },
+          {
+            "title": "Rodriguésia · Flora do Rio de Janeiro: Cactaceae",
+            "url": "https://www.scielo.br/j/rod/a/MNrS9zS6HNxwLG9JKt9kTqG/?format=html&lang=pt",
+            "retrievedAt": "2026-10-17T19:38:50.466023Z"
+          },
+          {
+            "title": "Revisão morfológica específica consultada em 11/11/2026.",
+            "url": "https://www.scielo.br/j/rod/a/MNrS9zS6HNxwLG9JKt9kTqG/?lang=pt",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas. Revisão de Cactaceae de 11/11/2026: descrição, identificação e ecologia ampliadas com fontes específicas; todos os metadados e bytes das fotografias anteriores preservados. Texto alterado em rascunho para nova revisão humana."
+      }
+    },
+    {
+      "plantId": "epiphyllum-phyllanthus",
+      "before": {
+        "description": "Cacto nativo de florestas úmidas e restingas. Pode crescer sobre troncos e galhos, como epífita.",
+        "identification": "",
+        "ecology": "Áreas alteradas; Campos de altitude; Campos de várzea; Matas ciliares e de galeria; Florestas de terra firme; Florestas de várzea; Florestas estacionais semideciduais; Florestas úmidas; Florestas com araucárias; Manguezal; Palmeiral; Restinga.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Epiphyllum phyllanthus (FB1512)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Epiphyllum_phyllanthus",
+            "retrievedAt": "2026-10-16T22:05:21Z"
+          }
+        ],
+        "reviewStatus": "reviewed",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas."
+      },
+      "after": {
+        "description": "Cacto de ramos longos, com porções basais cilíndricas e segmentos terminais achatados, de margem suavemente recortada. As flores claras se destacam pelo tubo muito comprido e abrem à noite. Os frutos são alongados e podem adquirir coloração vermelha a magenta.",
+        "identification": "As estruturas achatadas são caules, chamados cladódios, e não folhas. Procure as aréolas espaçadas nas reentrâncias da margem e observe o tubo floral, longo e estreito. Flores claras e grandes aparecem em vários cactos cultivados; o formato do ramo e do tubo deve ser considerado junto da procedência e das estruturas reprodutivas.",
+        "ecology": "É epífita em florestas úmidas, crescendo sobre troncos e galhos. O suporte pode ficar escondido sob os ramos pendentes. Essa forma de crescimento explica sua presença na mata e em restingas arborizadas, sem exigir que o ambiente tenha o aspecto seco normalmente associado aos cactos.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Epiphyllum phyllanthus (FB1512)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Epiphyllum_phyllanthus",
+            "retrievedAt": "2026-10-16T22:05:21Z"
+          },
+          {
+            "title": "Revisão morfológica específica consultada em 11/11/2026.",
+            "url": "https://www.worldfloraonline.org/taxon/wfo-0000670206",
+            "retrievedAt": "2026-11-11"
+          },
+          {
+            "title": "Freitas, Calvente & Gonzaga (2020). Flora do Rio de Janeiro: Cactaceae.",
+            "url": "https://www.scielo.br/j/rod/a/MNrS9zS6HNxwLG9JKt9kTqG/?lang=pt",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas. Revisão de Cactaceae de 11/11/2026: descrição, identificação e ecologia ampliadas com fontes específicas; todos os metadados e bytes das fotografias anteriores preservados. Texto alterado em rascunho para nova revisão humana."
+      }
+    },
+    {
+      "plantId": "rhipsalis-teres",
+      "before": {
+        "description": "Cacto nativo de florestas úmidas e restingas. Pode crescer sobre troncos e galhos, como epífita e sobre rochas.",
+        "identification": "",
+        "ecology": "Matas ciliares e de galeria; Florestas estacionais semideciduais; Florestas úmidas; Florestas com araucárias; Restinga.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Rhipsalis teres (FB1734)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Rhipsalis_teres",
+            "retrievedAt": "2026-10-16T22:05:19Z"
+          }
+        ],
+        "reviewStatus": "reviewed",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas."
+      },
+      "after": {
+        "description": "Cacto florestal de ramos finos e cilíndricos, articulados e muito ramificados. As flores pequenas, brancas, surgem nas laterais dos segmentos; os frutos são arredondados, claros a rosados. O conjunto costuma formar uma massa pendente sobre o suporte.",
+        "identification": "Examine o formato cilíndrico e a organização das ramificações, além da posição lateral das flores. Os ramos verdes são caules fotossintetizantes. A espécie inclui formas com espessura e disposição diferentes dos segmentos; essa variação não deve ser transformada automaticamente em várias espécies. Outros Rhipsalis também têm ramos finos, de modo que flores e frutos ajudam na comparação.",
+        "ecology": "Cresce como epífita ou sobre rochas em ambientes da Mata Atlântica. Os ramos podem ficar misturados a bromélias, samambaias e outras epífitas. Uma fotografia apenas de caules pendentes pode mostrar o hábito sem fornecer todos os caracteres necessários para uma confirmação de espécie.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Rhipsalis teres (FB1734)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Rhipsalis_teres",
+            "retrievedAt": "2026-10-16T22:05:19Z"
+          },
+          {
+            "title": "Revisão morfológica específica consultada em 11/11/2026.",
+            "url": "https://worldfloraonline.org/taxon/wfo-0000399799",
+            "retrievedAt": "2026-11-11"
+          },
+          {
+            "title": "Freitas, Calvente & Gonzaga (2020). Flora do Rio de Janeiro: Cactaceae.",
+            "url": "https://www.scielo.br/j/rod/a/MNrS9zS6HNxwLG9JKt9kTqG/?lang=pt",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas. Revisão de Cactaceae de 11/11/2026: descrição, identificação e ecologia ampliadas com fontes específicas; todos os metadados e bytes das fotografias anteriores preservados. Texto alterado em rascunho para nova revisão humana."
+      }
+    }
+  ],
+  "newPhotos": [
+    {
+      "plantId": "brasiliopuntia-brasiliensis",
+      "scientificName": "Brasiliopuntia brasiliensis",
+      "photoId": 246576758,
+      "bytes": 396094,
+      "licenseCode": "cc0",
+      "previewNumber": 1,
+      "visualInspection": true,
+      "caption": "Cladódios achatados e alongados nas extremidades dos ramos, mostrando as aréolas na superfície.",
+      "markers": [
+        "unknown"
+      ]
+    },
+    {
+      "plantId": "brasiliopuntia-brasiliensis",
+      "scientificName": "Brasiliopuntia brasiliensis",
+      "photoId": 755791607,
+      "bytes": 331706,
+      "licenseCode": "cc0",
+      "previewNumber": 4,
+      "visualInspection": true,
+      "caption": "Fruto amarelo e arredondado entre os cladódios verdes, com pequenas aréolas na casca.",
+      "markers": [
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "brasiliopuntia-brasiliensis",
+      "scientificName": "Brasiliopuntia brasiliensis",
+      "photoId": 487498263,
+      "bytes": 227150,
+      "licenseCode": "cc-by",
+      "previewNumber": 7,
+      "visualInspection": true,
+      "caption": "Porte arbóreo, com tronco e ramos grossos cilíndricos sustentando segmentos achatados nas extremidades.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "coleocephalocereus-fluminensis",
+      "scientificName": "Coleocephalocereus fluminensis",
+      "photoId": 757871411,
+      "bytes": 1348674,
+      "licenseCode": "cc0",
+      "previewNumber": 12,
+      "visualInspection": true,
+      "caption": "Cacto jovem ramificado, com caules verdes costelados sobre uma superfície rochosa.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "coleocephalocereus-fluminensis",
+      "scientificName": "Coleocephalocereus fluminensis",
+      "photoId": 463840049,
+      "bytes": 895899,
+      "licenseCode": "cc0",
+      "previewNumber": 14,
+      "visualInspection": true,
+      "caption": "Pequeno fruto rosado saindo da região densamente coberta de lã e cerdas.",
+      "markers": [
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "coleocephalocereus-fluminensis",
+      "scientificName": "Coleocephalocereus fluminensis",
+      "photoId": 145449358,
+      "bytes": 363544,
+      "licenseCode": "cc-by",
+      "previewNumber": 16,
+      "visualInspection": true,
+      "caption": "Caule colunar junto à rocha, com uma faixa lateral densa de cerdas acobreadas.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "opuntia-monacantha",
+      "scientificName": "Opuntia monacantha",
+      "photoId": 584001911,
+      "bytes": 987091,
+      "licenseCode": "cc0",
+      "previewNumber": 19,
+      "visualInspection": true,
+      "caption": "Arbusto de cladódios achatados, com flores amarelas na vegetação aberta.",
+      "markers": [
+        "wholePlant",
+        "flower"
+      ]
+    },
+    {
+      "plantId": "opuntia-monacantha",
+      "scientificName": "Opuntia monacantha",
+      "photoId": 461693795,
+      "bytes": 1015375,
+      "licenseCode": "cc0",
+      "previewNumber": 23,
+      "visualInspection": true,
+      "caption": "Flor amarela aberta na extremidade de um cladódio verde.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "opuntia-monacantha",
+      "scientificName": "Opuntia monacantha",
+      "photoId": 380881273,
+      "bytes": 535298,
+      "licenseCode": "cc-by",
+      "previewNumber": 26,
+      "visualInspection": true,
+      "caption": "Frutos verdes e rosados distribuídos junto aos cladódios espinhosos.",
+      "markers": [
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "pereskia-grandifolia",
+      "scientificName": "Pereskia grandifolia",
+      "photoId": 83283393,
+      "bytes": 452550,
+      "licenseCode": "cc0",
+      "previewNumber": 30,
+      "visualInspection": true,
+      "caption": "Flores rosadas de centro amarelo, botões e folhas verdadeiras no mesmo ramo.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "pereskia-grandifolia",
+      "scientificName": "Pereskia grandifolia",
+      "photoId": 107399679,
+      "bytes": 439774,
+      "licenseCode": "cc0",
+      "previewNumber": 33,
+      "visualInspection": true,
+      "caption": "Ramo com espinhos retos e folhas simples de margem inteira.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "pereskia-aculeata",
+      "scientificName": "Pereskia aculeata",
+      "photoId": 174253155,
+      "bytes": 168895,
+      "licenseCode": "cc0",
+      "previewNumber": 39,
+      "visualInspection": true,
+      "caption": "Flor clara com numerosos estames entre folhas verdes de margem inteira.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "pereskia-aculeata",
+      "scientificName": "Pereskia aculeata",
+      "photoId": 581962446,
+      "bytes": 328355,
+      "licenseCode": "cc0",
+      "previewNumber": 42,
+      "visualInspection": true,
+      "caption": "Frutos alaranjados arredondados, agrupados entre as folhas.",
+      "markers": [
+        "fruit",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "pilosocereus-arrabidae",
+      "scientificName": "Pilosocereus arrabidae",
+      "photoId": 583084515,
+      "bytes": 912249,
+      "licenseCode": "cc0",
+      "previewNumber": 47,
+      "visualInspection": true,
+      "caption": "Moita de caules colunares ramificados, em meio à vegetação baixa.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "pilosocereus-arrabidae",
+      "scientificName": "Pilosocereus arrabidae",
+      "photoId": 583084077,
+      "bytes": 656515,
+      "licenseCode": "cc0",
+      "previewNumber": 50,
+      "visualInspection": true,
+      "caption": "Fruto verde junto ao caule costelado, com os restos escurecidos da flor na extremidade.",
+      "markers": [
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "pilosocereus-brasiliensis",
+      "scientificName": "Pilosocereus brasiliensis",
+      "photoId": 484111000,
+      "bytes": 487035,
+      "licenseCode": "cc0",
+      "previewNumber": 55,
+      "visualInspection": true,
+      "caption": "Cacto ramificado sobre rocha exposta, visto com a paisagem costeira ao fundo.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "pilosocereus-brasiliensis",
+      "scientificName": "Pilosocereus brasiliensis",
+      "photoId": 120653484,
+      "bytes": 244359,
+      "licenseCode": "cc-by",
+      "previewNumber": 59,
+      "visualInspection": true,
+      "caption": "Caules costelados com pelos claros concentrados na região próxima ao ápice.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "pilosocereus-ulei",
+      "scientificName": "Pilosocereus ulei",
+      "photoId": 566555783,
+      "bytes": 120200,
+      "licenseCode": "cc0",
+      "previewNumber": 61,
+      "visualInspection": true,
+      "caption": "Detalhe da lã branca e das cerdas junto ao ápice de um ramo costelado.",
+      "markers": [
+        "unknown"
+      ]
+    },
+    {
+      "plantId": "pilosocereus-ulei",
+      "scientificName": "Pilosocereus ulei",
+      "photoId": 168259479,
+      "bytes": 239518,
+      "licenseCode": "cc-by",
+      "previewNumber": 62,
+      "visualInspection": true,
+      "caption": "Conjunto de colunas ramificadas na encosta, com o mar ao fundo.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "melocactus-violaceus",
+      "scientificName": "Melocactus violaceus",
+      "photoId": 703454294,
+      "bytes": 396568,
+      "licenseCode": "cc-by",
+      "previewNumber": 65,
+      "visualInspection": true,
+      "caption": "Cacto globoso com cefálio no topo e dois frutos alongados de cor rosa intensa.",
+      "markers": [
+        "wholePlant",
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "melocactus-violaceus",
+      "scientificName": "Melocactus violaceus",
+      "photoId": 740384265,
+      "bytes": 434599,
+      "licenseCode": "cc-by",
+      "previewNumber": 67,
+      "visualInspection": true,
+      "caption": "Indivíduo jovem de corpo arredondado e costelado, parcialmente enterrado na areia.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "schlumbergera-truncata",
+      "scientificName": "Schlumbergera truncata",
+      "photoId": 649833266,
+      "bytes": 945098,
+      "licenseCode": "cc0",
+      "previewNumber": 69,
+      "visualInspection": true,
+      "caption": "Ramos articulados pendentes entre a vegetação, com flores magenta nas extremidades.",
+      "markers": [
+        "wholePlant",
+        "flower"
+      ]
+    },
+    {
+      "plantId": "schlumbergera-truncata",
+      "scientificName": "Schlumbergera truncata",
+      "photoId": 641661055,
+      "bytes": 710926,
+      "licenseCode": "cc0",
+      "previewNumber": 70,
+      "visualInspection": true,
+      "caption": "Flores magenta de tubo alongado nas pontas dos segmentos achatados, junto a um suporte artificial.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "rhipsalis-paradoxa",
+      "scientificName": "Rhipsalis paradoxa",
+      "photoId": 756067439,
+      "bytes": 705072,
+      "licenseCode": "cc0",
+      "previewNumber": 78,
+      "visualInspection": true,
+      "caption": "Pequenos frutos brancos nas laterais dos ramos pendentes e angulosos.",
+      "markers": [
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "rhipsalis-paradoxa",
+      "scientificName": "Rhipsalis paradoxa",
+      "photoId": 757991965,
+      "bytes": 1131401,
+      "licenseCode": "cc0",
+      "previewNumber": 80,
+      "visualInspection": true,
+      "caption": "Longos ramos articulados descendo pelo tronco que serve de suporte.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "rhipsalis-pachyptera",
+      "scientificName": "Rhipsalis pachyptera",
+      "photoId": 664034572,
+      "bytes": 598383,
+      "licenseCode": "cc0",
+      "previewNumber": 87,
+      "visualInspection": true,
+      "caption": "Flores brancas abertas e botões amarelados nos recortes dos segmentos largos e achatados.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "rhipsalis-pachyptera",
+      "scientificName": "Rhipsalis pachyptera",
+      "photoId": 408316230,
+      "bytes": 690941,
+      "licenseCode": "cc0",
+      "previewNumber": 88,
+      "visualInspection": true,
+      "caption": "Cacto epífito com segmentos largos e recortados, apoiado no tronco de uma árvore.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "lepismium-cruciforme",
+      "scientificName": "Lepismium cruciforme",
+      "photoId": 735540418,
+      "bytes": 602037,
+      "licenseCode": "cc0",
+      "previewNumber": 98,
+      "visualInspection": true,
+      "caption": "Ramos pendentes, alguns avermelhados, espalhados sobre a casca do tronco.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "lepismium-cruciforme",
+      "scientificName": "Lepismium cruciforme",
+      "photoId": 71207853,
+      "bytes": 269683,
+      "licenseCode": "cc0",
+      "previewNumber": 99,
+      "visualInspection": true,
+      "caption": "Frutos magenta entre ramos verdes e avermelhados de margens recortadas.",
+      "markers": [
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "lepismium-cruciforme",
+      "scientificName": "Lepismium cruciforme",
+      "photoId": 376368420,
+      "bytes": 444776,
+      "licenseCode": "cc-by",
+      "previewNumber": 102,
+      "visualInspection": true,
+      "caption": "Ave junto aos frutos rosados distribuídos pelos caules pendentes.",
+      "markers": [
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "hatiora-salicornioides",
+      "scientificName": "Hatiora salicornioides",
+      "photoId": 392521711,
+      "bytes": 978843,
+      "licenseCode": "cc0",
+      "previewNumber": 103,
+      "visualInspection": true,
+      "caption": "Planta ramificada sobre o tronco, com segmentos estreitos e frutos claros nas extremidades.",
+      "markers": [
+        "wholePlant",
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "hatiora-salicornioides",
+      "scientificName": "Hatiora salicornioides",
+      "photoId": 392521784,
+      "bytes": 904694,
+      "licenseCode": "cc0",
+      "previewNumber": 104,
+      "visualInspection": true,
+      "caption": "Frutos brancos a rosados na ponta dos segmentos em forma de pequena garrafa.",
+      "markers": [
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "hatiora-salicornioides",
+      "scientificName": "Hatiora salicornioides",
+      "photoId": 154212728,
+      "bytes": 95182,
+      "licenseCode": "cc-by",
+      "previewNumber": 112,
+      "visualInspection": true,
+      "caption": "Pequena flor amarelo-alaranjada na extremidade do segmento, com os dedos como referência de escala.",
+      "markers": [
+        "flower"
+      ]
+    }
+  ],
+  "originalMediaBytesAdded": 19058484,
+  "deferred": [
+    {
+      "name": "Cereus hildmannianus",
+      "reason": "A fonte taxonômica fluminense de 2020 questiona o voucher histórico; mantido fora desta seleção para resolver o conflito explicitamente, sem alterar a planilha."
+    },
+    {
+      "name": "Cereus sericifer",
+      "reason": "Nenhuma foto elegível localizada sob o nome exato; tratamentos taxonômicos diferem quanto à categoria de espécie/subespécie."
+    },
+    {
+      "name": "Schlumbergera russelliana",
+      "reason": "Única observação elegível tinha flores pouco destacadas; seleção adiada por qualidade visual."
+    }
+  ],
+  "galleryFirstPhotoIds": {
+    "brasiliopuntia-brasiliensis": 755791607,
+    "coleocephalocereus-fluminensis": 757871411,
+    "opuntia-monacantha": 461693795,
+    "pereskia-grandifolia": 83283393,
+    "pereskia-aculeata": 174253155,
+    "pilosocereus-arrabidae": 583084077,
+    "pilosocereus-brasiliensis": 484111000,
+    "pilosocereus-ulei": 168259479,
+    "melocactus-violaceus": 703454294,
+    "schlumbergera-truncata": 641661055,
+    "rhipsalis-paradoxa": 756067439,
+    "rhipsalis-pachyptera": 664034572,
+    "lepismium-cruciforme": 71207853,
+    "hatiora-salicornioides": 392521784
+  }
+}

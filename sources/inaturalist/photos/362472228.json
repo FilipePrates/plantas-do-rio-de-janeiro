@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/205030634",
+  "photo": {
+    "id": 362472228,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362472228/square.jpg",
+    "attribution": "(c) Alexandre Magno, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Alexandre Magno",
+  "observation": {
+    "id": 205030634,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1143015,
+      "name": "Philodendron hastatum"
+    },
+    "observerLogin": "alexandremagno"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362472228/large.jpg",
+    "sha256": "a38647ff5d0eb6df132f87ee2fd511c864f5e7df99908025c1bffcb9840ccf16",
+    "retrievedAt": "2026-11-11T08:13:43Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/88179132",
+  "photo": {
+    "id": 145449358,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/145449358/square.jpeg",
+    "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Victor Farjalla Pontes",
+  "observation": {
+    "id": 88179132,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 438325,
+      "name": "Coleocephalocereus fluminensis"
+    },
+    "observerLogin": "vfarjalla"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/145449358/large.jpeg",
+    "sha256": "682c6cec4e2760b720f3a14e1f85c65ed22bf37b4092986f5b953868c65e1582",
+    "retrievedAt": "2026-11-11T17:16:22Z"
+  }
+}

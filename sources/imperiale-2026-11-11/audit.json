@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-11",
+  "addedPlantId": "martiusella-imperialis",
+  "acceptedName": "Martiusella imperialis",
+  "synonym": "Chrysophyllum imperiale",
+  "photoId": 413138563,
+  "licenseCode": "cc0",
+  "visualReview": "Direct inspection of the downloaded full photo; AI annotations remain draft.",
+  "newPhotoBytes": 1297335,
+  "previousEntries": 372,
+  "entries": 373,
+  "baselineSha256": "b67ac33f0de50b4be1ca20b24f47d2d43151ab40a2d3fd247d1df3aa75190c6b",
+  "catalogSha256": "c5a420d3cb242a6a436fc8da019c23f9b064261018cbc764b5997ae8fdc0bd71"
+}

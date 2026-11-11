@@ -1,0 +1,60 @@
+361|-|-
+362|-|-
+363|-|-
+364|-|Tronco com casca dividida em placas e saliências longitudinais.
+365|-|Detalhe da superfície do tronco, com placas destacadas e áreas claras expostas.
+366|flower|Flor branca de margem ondulada, com numerosos estames amarelos.
+367|fruit,seed|Fruto aberto, com arilo amarelo envolvendo a semente e casca espessa.
+368|wholePlant,flower|Planta no sub-bosque com folhas largas e pequenos grupos de flores amarelas.
+369|flower|Pequenas flores amarelas de tubo curto, agrupadas junto ao ramo.
+370|flower|Flor pendente de corola amarela com marcas avermelhadas e cálice rosado.
+371|flower|Flor vista de frente, mostrando a abertura ampla da corola e suas manchas escuras.
+372|wholePlant,flower|Ramo com folhas em pares e flores pendentes em pedicelos longos.
+373|-|Flores tubulares alaranjadas agrupadas no alto do ramo.
+374|-|Planta apoiada no tronco, com pequenas flores alaranjadas ao lado de uma bromélia.
+375|flower|Flor arroxeada de corola ampla, acompanhada por cálices persistentes acima das folhas.
+376|wholePlant,flower|Roseta de folhas pilosas com flor arroxeada elevada sobre a folhagem.
+377|wholePlant,flower|Planta florida junto ao barranco, mostrando a disposição das folhas e o pedicelo comprido.
+378|flower,leaf|Flor tubular vermelha entre folhas verdes de superfície marcada por nervuras.
+379|leaf|Face inferior esbranquiçada das folhas, com nervuras bem destacadas.
+380|flower,leaf|Ramo com folhas em pares e flores tubulares vermelhas nas axilas.
+381|-|-
+382|-|-
+383|-|-
+384|-|Inflorescência ereta com brácteas vermelhas entre folhas largas.
+385|-|Planta com folhas grandes e inflorescência vermelha erguida entre os pecíolos.
+386|fruit|Frutos azulados agrupados no interior de brácteas envelhecidas.
+387|-|Inflorescência de brácteas vermelhas projetada para fora da folhagem.
+388|flower|Pequenas flores claras em inflorescência ramificada, entre folhas alongadas.
+389|leaf|Folhas alongadas com nervuras laterais visíveis e pequenas marcas na superfície.
+390|wholePlant|Árvore vista de baixo, com copa densa e tronco parcialmente encoberto pela vegetação.
+391|leaf|Folhas alongadas vistas na copa, com nervuras realçadas pela luz.
+392|leaf|Ramos da copa com folhas de diferentes tonalidades, fotografados à distância.
+393|leaf|Folhas reunidas na ponta do ramo, vistas pela face superior.
+394|leaf|Face inferior das folhas, com nervura central clara e danos na lâmina.
+395|leaf|Detalhe da extremidade do ramo, com folhas novas e bases dos pecíolos.
+396|leaf|Ramo com folhas e estruturas engrossadas, possivelmente galhas; confirmar antes de interpretar como frutos.
+397|-|Inflorescência ramificada com pequenos botões e flores amareladas.
+398|-|Frutos lenhosos sobre a mão, com formato alongado e abertura circular na extremidade.
+399|fruit,seed|Frutos lenhosos secos ao lado de sementes aladas, dispostos sobre fundo claro.
+400|-|Árvore de grande porte vista de baixo, com tronco alto e copa ramificada.
+401|flower|Ramos com flores claras de centro amarelado entre as folhas.
+402|wholePlant,flower|Copa arredondada com grupos de flores claras distribuídos entre a folhagem.
+403|fruit|Grande fruto lenhoso aberto, ainda preso ao ramo, com a cavidade interna exposta.
+404|leaf|Folhagem da copa, com folhas alongadas e brilhantes vistas de perto.
+405|fruit,leaf|Fruto lenhoso ainda fechado entre as folhas da copa.
+406|-|Fruto lenhoso aberto sustentado à mão, mostrando a parede espessa e a abertura sem a tampa.
+407|-|Frutos lenhosos abertos ainda nos ramos, vistos por baixo da copa.
+408|flower|Inflorescência com flores rosadas e claras entre folhas pequenas e arredondadas.
+409|fruit,leaf|Pequenos frutos vermelhos ainda presos ao ramo, junto às folhas arredondadas.
+410|leaf|Folhas pequenas de contorno arredondado, com nervuras claras e margem inteira.
+411|-|Flor rosada de pétalas compridas e centro claro, junto às folhas compostas.
+412|-|Tronco e copa ramificada em vista ampla, com pouca folhagem neste enquadramento.
+413|-|-
+414|flower|Flores de pétalas castanho-amareladas e muitos estames, com restos florais secos ao redor.
+415|-|Flor rosada de pétalas onduladas, com numerosos estames claros no centro.
+416|-|Ramos com folhas de face inferior clara e numerosos botões florais.
+417|flower|Conjuntos florais com numerosas bractéolas vermelhas e estreitas ao redor das estruturas tubulares.
+418|flower,leaf|Ramo com folhas alongadas e conjuntos florais avermelhados nas pontas.
+419|flower|Flores de longos estames brancos entre botões alongados e cálices verdes persistentes.
+420|flower|Ramos quase sem folhas, com flores de estames claros, botões e restos florais escurecidos.

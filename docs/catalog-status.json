@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-28T19:29:32.319Z",
-  "entries": 311,
-  "profiles": 123,
-  "checklistOnly": 188,
-  "representedSpecies": 452,
-  "families": 65,
+  "generatedAt": "2026-11-11T17:17:42.161Z",
+  "entries": 387,
+  "profiles": 225,
+  "checklistOnly": 162,
+  "representedSpecies": 508,
+  "families": 67,
   "invasiveEntries": 5,
   "groupedGenera": [
     {
       "genus": "Anthurium",
-      "nativeRioStateAtlanticForestSpecies": 44,
-      "terrestrialSpecies": 34
+      "nativeRioStateAtlanticForestSpecies": 36,
+      "terrestrialSpecies": 31
     },
     {
       "genus": "Philodendron",
-      "nativeRioStateAtlanticForestSpecies": 29,
-      "terrestrialSpecies": 5
+      "nativeRioStateAtlanticForestSpecies": 20,
+      "terrestrialSpecies": 4
     },
     {
       "genus": "Eugenia",
-      "nativeRioStateAtlanticForestSpecies": 39,
-      "terrestrialSpecies": 39
+      "nativeRioStateAtlanticForestSpecies": 36,
+      "terrestrialSpecies": 36
     },
     {
       "genus": "Myrcia",
@@ -28,10 +28,10 @@
       "terrestrialSpecies": 33
     }
   ],
-  "cc0Photos": 325,
-  "ccByPhotos": 112,
-  "illustratedEntries": 186,
+  "cc0Photos": 445,
+  "ccByPhotos": 188,
+  "illustratedEntries": 262,
   "missingPhotos": [],
-  "draftEntries": 184,
-  "draftPhotos": 160
+  "draftEntries": 279,
+  "draftPhotos": 568
 }

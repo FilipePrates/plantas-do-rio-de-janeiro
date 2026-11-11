@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/330224146",
+  "photo": {
+    "id": 598760971,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598760971/square.jpg",
+    "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Pablo Cauã da Silva Toledo",
+  "observation": {
+    "id": 330224146,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1442577,
+      "name": "Eugenia bunchosiifolia"
+    },
+    "observerLogin": "pablocauapc"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598760971/large.jpg",
+    "sha256": "dec08be3638bb02bf44d382f93a4a5df65e4eb70ad784753b9686155d38a38e4",
+    "retrievedAt": "2026-11-11T08:14:59Z"
+  }
+}

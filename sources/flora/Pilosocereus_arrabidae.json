@@ -1,0 +1,181 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Pilosocereus_arrabidae",
+  "retrievedAt": "2026-11-11T17:03:46Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 1643,
+        "scientificname": "Pilosocereus arrabidae (Lem.) Byles & G.D.Rowley",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Pilosocereus",
+        "specificepithet": "arrabidae",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Lem.) Byles & G.D.Rowley",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Pilosocereus Byles & G.D.Rowley;Pilosocereus arrabidae (Lem.) Byles & G.D.Rowley",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1643>http://floradobrasil2015.jbrj.gov.br/FB1643</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1643\">https://floradobrasil2020.jbrj.gov.br/FB1643</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Hunt, D., Taylor, N. &amp;amp; Graham, C. 2006. The New Cactus Lexicon, Text. dh books, Milborne Port.\r\nTaylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\nZappi, D. 1994. Pilosocereus (Cactaceae). The genus in Brazil. In D. Hunt &amp;amp; N.P. Taylor (eds.) Succulent Plant Research. Milborne Port, D. Hunt, vol. 3, p. 1&amp;acirc;&amp;euro;&amp;ldquo;160.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n&amp;nbsp;",
+        "parentnameusage": "Pilosocereus Byles & G.D.Rowley",
+        "parentnameusageid": 1642,
+        "originalnameusageid": "617985",
+        "namepublishedin": ". Succ. J. Gr. Brit. 19: 66. 1957",
+        "namepublishedinyear": "1957",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1643",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB1643>. Acesso em: 11 nov. 2026.",
+        "modified": "2025-01-14 09:51:26.469"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto"
+        ],
+        "habitat": [
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Restinga",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "facheiro-da-praia",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Nordeste do Brasil"
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Byles & Rowley,. Succ. J. Gr. Brit.,19: 66.,1957"
+        },
+        {
+          "reference": "Fl. bras.,vol. 4 part. 2,"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 1452,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cereus macrogonus K.Schum."
+        },
+        {
+          "relatedresourceid": 617983,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cactus hexagonus Vell."
+        },
+        {
+          "relatedresourceid": 617984,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cactus heptagonus Vell."
+        },
+        {
+          "relatedresourceid": 617986,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Cephalocereus arrabidae (Lem.) Britton & Rose"
+        },
+        {
+          "relatedresourceid": 617990,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Pilocereus virens sensu Ule"
+        },
+        {
+          "relatedresourceid": 617991,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cephalocereus exerens (K.Schum.) Rose"
+        },
+        {
+          "relatedresourceid": 635112,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Pilocereus vollii Backeb."
+        },
+        {
+          "relatedresourceid": 635776,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Pilocereus virens C.F.Först. ex K.Schum."
+        },
+        {
+          "relatedresourceid": 617985,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Pilocereus arrabidae Lem."
+        },
+        {
+          "relatedresourceid": 596160,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cereus warmingii K.Schum."
+        },
+        {
+          "relatedresourceid": 617859,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Pseudopilocereus arrabidae (Lem.) Buxb."
+        },
+        {
+          "relatedresourceid": 633694,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Cereus arrabidae (Lem.) A.Berger"
+        },
+        {
+          "relatedresourceid": 617989,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Pilocereus exerens K.Schum."
+        },
+        {
+          "relatedresourceid": 635788,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Pilocereus virens Lem."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "D.A. Folli 1472",
+          "collectioncode": "CVRD",
+          "catalognumber": "CVRD003542",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CVRD003542",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

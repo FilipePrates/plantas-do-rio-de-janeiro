@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/121443620",
+  "photo": {
+    "id": 205502744,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1796,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/205502744/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "andré",
+  "observation": {
+    "id": 121443620,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 84592,
+      "name": "Philodendron pedatum"
+    },
+    "observerLogin": "limarrudandre"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/205502744/large.jpg",
+    "sha256": "15a67925794efd8722fee5f381c8bd1971fc56e77787ed2f8eadac5f3a697a12",
+    "retrievedAt": "2026-11-11T08:11:45Z"
+  }
+}

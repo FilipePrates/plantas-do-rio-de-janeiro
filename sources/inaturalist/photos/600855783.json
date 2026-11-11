@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/331242157",
+  "photo": {
+    "id": 600855783,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1638,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600855783/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Paulo Mascaretti",
+  "observation": {
+    "id": 331242157,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 847548,
+      "name": "Wittrockia superba"
+    },
+    "observerLogin": "paulomascaretti"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600855783/large.jpg",
+    "sha256": "38497fadadafecc63851cfc5132ae641e4d5d87ed80ce95ef918079af474ea52",
+    "retrievedAt": "2026-11-11T08:10:56Z"
+  }
+}

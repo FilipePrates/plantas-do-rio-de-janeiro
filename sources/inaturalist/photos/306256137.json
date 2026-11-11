@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/176175572",
+  "photo": {
+    "id": 306256137,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306256137/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Frank Thomas Sautter",
+  "observation": {
+    "id": 176175572,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 706009,
+      "name": "Tillandsia tricholepis"
+    },
+    "observerLogin": "ftsautter"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306256137/large.jpeg",
+    "sha256": "b42eee26d8bc3c28e21a916941aa337b58cf58b395e0fba688867c387634277b",
+    "retrievedAt": "2026-11-11T08:10:41Z"
+  }
+}

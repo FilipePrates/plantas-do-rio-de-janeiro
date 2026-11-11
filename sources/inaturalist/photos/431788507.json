@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/242210489",
+  "photo": {
+    "id": 431788507,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/431788507/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Paulo Mascaretti",
+  "observation": {
+    "id": 242210489,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 880677,
+      "name": "Philodendron appendiculatum"
+    },
+    "observerLogin": "paulomascaretti"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/431788507/large.jpeg",
+    "sha256": "d967db5c83ac10c72b2b2792b21845cedbcaf93a3eeed665b335c12bc9168e3e",
+    "retrievedAt": "2026-11-11T08:11:24Z"
+  }
+}

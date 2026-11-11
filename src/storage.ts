@@ -24,7 +24,7 @@ export interface SavedState {
 export const defaultState: SavedState = {
   advanced: false,
   alphabetical: false,
-  photosOnly: false,
+  photosOnly: true,
   principalName: "common",
   mainPhoto: "default",
   familyFilter: null,
@@ -77,7 +77,7 @@ export async function loadState(
   return {
     advanced: value.advanced,
     alphabetical: value.alphabetical,
-    photosOnly: value.photosOnly === true,
+    photosOnly: typeof value.photosOnly === "boolean" ? value.photosOnly : defaultState.photosOnly,
     principalName:
       value.principalName === "scientific" ? "scientific" : "common",
     mainPhoto: normalizeMainPhoto(value.mainPhoto),

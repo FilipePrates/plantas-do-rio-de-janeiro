@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/271040662",
+  "photo": {
+    "id": 487498263,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487498263/square.jpeg",
+    "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "agujaceratops",
+  "observation": {
+    "id": 271040662,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 184567,
+      "name": "Brasiliopuntia brasiliensis"
+    },
+    "observerLogin": "agujaceratops"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487498263/large.jpeg",
+    "sha256": "f70a4e10d6eeb631873c382fcd1cbdb5a20a43cd748165367cc094a1061b6e48",
+    "retrievedAt": "2026-11-11T17:16:22Z"
+  }
+}

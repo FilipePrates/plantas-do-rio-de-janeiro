@@ -1,0 +1,1744 @@
+{
+  "url": "https://api.inaturalist.org/v1/observations?taxon_name=Garcinia+gardneriana&photo_license=cc0&quality_grade=research&captive=false&per_page=8&order_by=votes",
+  "retrievedAt": "2026-11-11T08:02:38Z",
+  "responseSha256": "b6f1494786027637dddbbfeeaca55ce8d9dc7370807ca3d1c0e9dbf545f95d85",
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 8,
+    "results": [
+      {
+        "quality_grade": "research",
+        "time_observed_at": "2022-11-16T16:07:00-04:00",
+        "taxon_geoprivacy": "open",
+        "uuid": "9e42681e-dfd2-4910-9276-9a0af93ccd87",
+        "observed_on_details": {
+          "date": "2022-11-16",
+          "day": 16,
+          "month": 11,
+          "year": 2022,
+          "hour": 16,
+          "week": 46
+        },
+        "id": 143745493,
+        "cached_votes_total": 0,
+        "identifications_most_agree": true,
+        "created_at_details": {
+          "date": "2022-12-05",
+          "day": 5,
+          "month": 12,
+          "year": 2022,
+          "hour": 16,
+          "week": 49
+        },
+        "species_guess": "Garcinia gardneriana",
+        "identifications_most_disagree": false,
+        "tags": [],
+        "positional_accuracy": null,
+        "comments_count": 0,
+        "site_id": 2,
+        "created_time_zone": "America/La_Paz",
+        "license_code": "cc-by-nc",
+        "observed_time_zone": "America/La_Paz",
+        "quality_metrics": [],
+        "public_positional_accuracy": null,
+        "reviewed_by": [
+          1588354,
+          2659807,
+          6295986
+        ],
+        "oauth_application_id": null,
+        "flags": [],
+        "created_at": "2022-12-05T16:47:24-04:00",
+        "description": null,
+        "time_zone_offset": "-04:00",
+        "project_ids_with_curator_id": [],
+        "observed_on": "2022-11-16",
+        "observed_on_string": "2022/11/16 4:07 PM",
+        "updated_at": "2022-12-06T11:43:12-04:00",
+        "sounds": [],
+        "place_ids": [
+          6783,
+          13327,
+          27157,
+          56773,
+          66741,
+          82256,
+          97389,
+          122176,
+          129303,
+          180819,
+          211043
+        ],
+        "captive": false,
+        "taxon": {
+          "is_active": true,
+          "ancestry": "48460/47126/211194/47125/47124/51820/49585/1597018/123002",
+          "min_species_ancestry": "48460,47126,211194,47125,47124,51820,49585,1597018,123002,1080463",
+          "endemic": false,
+          "iconic_taxon_id": 47126,
+          "min_species_taxon_id": 1080463,
+          "threatened": false,
+          "rank_level": 10,
+          "introduced": false,
+          "native": true,
+          "parent_id": 123002,
+          "name": "Garcinia gardneriana",
+          "rank": "species",
+          "extinct": false,
+          "id": 1080463,
+          "ancestor_ids": [
+            48460,
+            47126,
+            211194,
+            47125,
+            47124,
+            51820,
+            49585,
+            1597018,
+            123002,
+            1080463
+          ],
+          "provisional": false,
+          "created_at": "2020-05-14T13:39:54+00:00",
+          "default_photo": {
+            "id": 72747887,
+            "license_code": "cc-by",
+            "attribution": "(c) Alex Popovkin, Bahia, Brazil, some rights reserved (CC BY)",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/square.jpg",
+            "original_dimensions": {
+              "height": 900,
+              "width": 1600
+            },
+            "flags": [],
+            "attribution_name": "Alex Popovkin, Bahia, Brazil",
+            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/square.jpg",
+            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/medium.jpg"
+          },
+          "taxon_changes_count": 1,
+          "taxon_schemes_count": 0,
+          "observations_count": 156,
+          "photos_locked": false,
+          "universal_search_rank": 156,
+          "flag_counts": {
+            "resolved": 0,
+            "unresolved": 0
+          },
+          "current_synonymous_taxon_ids": null,
+          "atlas_id": null,
+          "complete_species_count": null,
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Garcinia_gardneriana",
+          "iconic_taxon_name": "Plantae"
+        },
+        "ident_taxon_ids": [
+          48460,
+          47126,
+          211194,
+          47125,
+          47124,
+          51820,
+          49585,
+          1597018,
+          123002,
+          1080463
+        ],
+        "outlinks": [
+          {
+            "source": "GBIF",
+            "url": "http://www.gbif.org/occurrence/3988600215"
+          }
+        ],
+        "faves_count": 0,
+        "ofvs": [],
+        "num_identification_agreements": 1,
+        "preferences": {
+          "prefers_community_taxon": null
+        },
+        "identification_disagreements_count": 0,
+        "comments": [],
+        "map_scale": null,
+        "uri": "https://www.inaturalist.org/observations/143745493",
+        "project_ids": [],
+        "community_taxon_id": 1080463,
+        "geojson": {
+          "type": "Point",
+          "coordinates": [
+            -67.4773111111,
+            -15.4590111111
+          ]
+        },
+        "owners_identification_from_vision": false,
+        "identifications_count": 1,
+        "obscured": false,
+        "num_identification_disagreements": 0,
+        "geoprivacy": null,
+        "location": "-15.4590111111,-67.4773111111",
+        "votes": [],
+        "spam": false,
+        "user": {
+          "id": 1588354,
+          "login": "alfredo_f_fuentes",
+          "spam": false,
+          "suspended": false,
+          "created_at": "2019-04-08T00:52:21+00:00",
+          "site_id": 2,
+          "preferences": {},
+          "login_autocomplete": "alfredo_f_fuentes",
+          "login_exact": "alfredo_f_fuentes",
+          "name": "Alfredo F. Fuentes Claros",
+          "name_autocomplete": "Alfredo F. Fuentes Claros",
+          "orcid": "https://orcid.org/0000-0003-4848-4182",
+          "icon": "https://static.inaturalist.org/attachments/users/icons/1588354/thumb.jpg?1711828487",
+          "observations_count": 11233,
+          "identifications_count": 23164,
+          "journal_posts_count": 0,
+          "activity_count": 34397,
+          "species_count": 2950,
+          "annotated_observations_count": 3,
+          "universal_search_rank": 11233,
+          "roles": [
+            "curator"
+          ],
+          "icon_url": "https://static.inaturalist.org/attachments/users/icons/1588354/medium.jpg?1711828487"
+        },
+        "mappable": true,
+        "identifications_some_agree": true,
+        "project_ids_without_curator_id": [],
+        "place_guess": "Nor Yungas, La Paz, Bolivia",
+        "identifications": [
+          {
+            "id": 318665106,
+            "uuid": "38a13e44-5d31-4f8c-9b29-b628735cfa8a",
+            "user": {
+              "id": 2659807,
+              "login": "alffer",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2020-03-21T03:19:36+00:00",
+              "login_autocomplete": "alffer",
+              "login_exact": "alffer",
+              "name": null,
+              "name_autocomplete": null,
+              "orcid": null,
+              "icon": null,
+              "observations_count": 2,
+              "identifications_count": 850,
+              "journal_posts_count": 0,
+              "activity_count": 852,
+              "species_count": 2,
+              "annotated_observations_count": 0,
+              "universal_search_rank": 2,
+              "roles": [],
+              "site_id": 2,
+              "icon_url": null
+            },
+            "created_at": "2022-12-06T15:42:35+00:00",
+            "created_at_details": {
+              "date": "2022-12-06",
+              "day": 6,
+              "month": 12,
+              "year": 2022,
+              "hour": 15,
+              "week": 49
+            },
+            "body": null,
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": null,
+            "previous_observation_taxon_id": null,
+            "spam": false,
+            "taxon_id": 1080463,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1080463,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                51820,
+                49585,
+                1597018,
+                123002
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1080463,
+              "name": "Garcinia gardneriana",
+              "parent_id": 123002,
+              "ancestry": "48460/47126/211194/47125/47124/51820/49585/1597018/123002",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,51820,49585,1597018,123002,1080463",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-05-14T13:39:54+00:00",
+              "default_photo": {
+                "id": 72747887,
+                "license_code": "cc-by",
+                "attribution": "(c) Alex Popovkin, Bahia, Brazil, some rights reserved (CC BY)",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/square.jpg",
+                "original_dimensions": {
+                  "height": 900,
+                  "width": 1600
+                },
+                "flags": [],
+                "attribution_name": "Alex Popovkin, Bahia, Brazil",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/medium.jpg"
+              },
+              "taxon_changes_count": 1,
+              "taxon_schemes_count": 0,
+              "observations_count": 156,
+              "photos_locked": false,
+              "universal_search_rank": 156,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Garcinia_gardneriana",
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125062316,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 51820,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820
+                  ],
+                  "is_active": true,
+                  "name": "Malpighiales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 57932018,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Joey Santore, some rights reserved (CC BY-NC), uploaded by Joey Santore",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57932018/square.jpg",
+                    "original_dimensions": {
+                      "height": 1080,
+                      "width": 1620
+                    },
+                    "flags": [],
+                    "attribution_name": "Joey Santore",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57932018/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57932018/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 5486547,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Malpighiales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Nances, Willows, and Allies"
+                },
+                {
+                  "id": 49585,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820,
+                    49585
+                  ],
+                  "is_active": true,
+                  "name": "Clusiaceae",
+                  "parent_id": 51820,
+                  "ancestry": "48460/47126/211194/47125/47124/51820",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 255166349,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Pedro Quinellato Dantas, some rights reserved (CC BY), uploaded by Pedro Quinellato Dantas",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255166349/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Pedro Quinellato Dantas",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255166349/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255166349/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 40566,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Clusiaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "attorney tree family"
+                },
+                {
+                  "id": 1597018,
+                  "rank": "tribe",
+                  "rank_level": 25,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820,
+                    49585,
+                    1597018
+                  ],
+                  "is_active": true,
+                  "name": "Garcinieae",
+                  "parent_id": 49585,
+                  "ancestry": "48460/47126/211194/47125/47124/51820/49585",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 159818106,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Pravin V Vishe, some rights reserved (CC BY-NC), uploaded by Pravin V Vishe",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159818106/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1407,
+                      "width": 1956
+                    },
+                    "flags": [],
+                    "attribution_name": "Pravin V Vishe",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159818106/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159818106/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 12959,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Clusiaceae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 123002,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820,
+                    49585,
+                    1597018,
+                    123002
+                  ],
+                  "is_active": true,
+                  "name": "Garcinia",
+                  "parent_id": 1597018,
+                  "ancestry": "48460/47126/211194/47125/47124/51820/49585/1597018",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 131257830,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by 葉子",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131257830/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "葉子",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131257830/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131257830/medium.jpeg"
+                  },
+                  "taxon_changes_count": 2,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 12952,
+                  "flag_counts": {
+                    "resolved": 33,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Garcinia",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "garcinias"
+                }
+              ]
+            }
+          },
+          {
+            "id": 318665225,
+            "uuid": "cc976039-7b65-4c6c-8fd6-5c63b81e5c41",
+            "user": {
+              "id": 1588354,
+              "login": "alfredo_f_fuentes",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2019-04-08T00:52:21+00:00",
+              "login_autocomplete": "alfredo_f_fuentes",
+              "login_exact": "alfredo_f_fuentes",
+              "name": "Alfredo F. Fuentes Claros",
+              "name_autocomplete": "Alfredo F. Fuentes Claros",
+              "orcid": "https://orcid.org/0000-0003-4848-4182",
+              "icon": "https://static.inaturalist.org/attachments/users/icons/1588354/thumb.jpg?1711828487",
+              "observations_count": 11233,
+              "identifications_count": 23164,
+              "journal_posts_count": 0,
+              "activity_count": 34397,
+              "species_count": 2950,
+              "annotated_observations_count": 3,
+              "universal_search_rank": 11233,
+              "roles": [
+                "curator"
+              ],
+              "site_id": 2,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/1588354/medium.jpg?1711828487"
+            },
+            "created_at": "2022-12-06T15:43:12+00:00",
+            "created_at_details": {
+              "date": "2022-12-06",
+              "day": 6,
+              "month": 12,
+              "year": 2022,
+              "hour": 15,
+              "week": 49
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": true,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 1080463,
+            "spam": false,
+            "taxon_id": 1080463,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1080463,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                51820,
+                49585,
+                1597018,
+                123002
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1080463,
+              "name": "Garcinia gardneriana",
+              "parent_id": 123002,
+              "ancestry": "48460/47126/211194/47125/47124/51820/49585/1597018/123002",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,51820,49585,1597018,123002,1080463",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-05-14T13:39:54+00:00",
+              "default_photo": {
+                "id": 72747887,
+                "license_code": "cc-by",
+                "attribution": "(c) Alex Popovkin, Bahia, Brazil, some rights reserved (CC BY)",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/square.jpg",
+                "original_dimensions": {
+                  "height": 900,
+                  "width": 1600
+                },
+                "flags": [],
+                "attribution_name": "Alex Popovkin, Bahia, Brazil",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/medium.jpg"
+              },
+              "taxon_changes_count": 1,
+              "taxon_schemes_count": 0,
+              "observations_count": 156,
+              "photos_locked": false,
+              "universal_search_rank": 156,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Garcinia_gardneriana",
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125062316,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 51820,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820
+                  ],
+                  "is_active": true,
+                  "name": "Malpighiales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 57932018,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Joey Santore, some rights reserved (CC BY-NC), uploaded by Joey Santore",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57932018/square.jpg",
+                    "original_dimensions": {
+                      "height": 1080,
+                      "width": 1620
+                    },
+                    "flags": [],
+                    "attribution_name": "Joey Santore",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57932018/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57932018/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 5486547,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Malpighiales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Nances, Willows, and Allies"
+                },
+                {
+                  "id": 49585,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820,
+                    49585
+                  ],
+                  "is_active": true,
+                  "name": "Clusiaceae",
+                  "parent_id": 51820,
+                  "ancestry": "48460/47126/211194/47125/47124/51820",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 255166349,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Pedro Quinellato Dantas, some rights reserved (CC BY), uploaded by Pedro Quinellato Dantas",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255166349/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Pedro Quinellato Dantas",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255166349/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255166349/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 40566,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Clusiaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "attorney tree family"
+                },
+                {
+                  "id": 1597018,
+                  "rank": "tribe",
+                  "rank_level": 25,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820,
+                    49585,
+                    1597018
+                  ],
+                  "is_active": true,
+                  "name": "Garcinieae",
+                  "parent_id": 49585,
+                  "ancestry": "48460/47126/211194/47125/47124/51820/49585",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 159818106,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Pravin V Vishe, some rights reserved (CC BY-NC), uploaded by Pravin V Vishe",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159818106/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1407,
+                      "width": 1956
+                    },
+                    "flags": [],
+                    "attribution_name": "Pravin V Vishe",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159818106/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159818106/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 12959,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Clusiaceae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 123002,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820,
+                    49585,
+                    1597018,
+                    123002
+                  ],
+                  "is_active": true,
+                  "name": "Garcinia",
+                  "parent_id": 1597018,
+                  "ancestry": "48460/47126/211194/47125/47124/51820/49585/1597018",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 131257830,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by 葉子",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131257830/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "葉子",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131257830/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131257830/medium.jpeg"
+                  },
+                  "taxon_changes_count": 2,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 12952,
+                  "flag_counts": {
+                    "resolved": 33,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Garcinia",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "garcinias"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 1080463,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                51820,
+                49585,
+                1597018,
+                123002,
+                1080463
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1080463,
+              "name": "Garcinia gardneriana",
+              "parent_id": 123002,
+              "ancestry": "48460/47126/211194/47125/47124/51820/49585/1597018/123002",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,51820,49585,1597018,123002,1080463",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-05-14T13:39:54+00:00",
+              "default_photo": {
+                "id": 72747887,
+                "license_code": "cc-by",
+                "attribution": "(c) Alex Popovkin, Bahia, Brazil, some rights reserved (CC BY)",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/square.jpg",
+                "original_dimensions": {
+                  "height": 900,
+                  "width": 1600
+                },
+                "flags": [],
+                "attribution_name": "Alex Popovkin, Bahia, Brazil",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/medium.jpg"
+              },
+              "taxon_changes_count": 1,
+              "taxon_schemes_count": 0,
+              "observations_count": 156,
+              "photos_locked": false,
+              "universal_search_rank": 156,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Garcinia_gardneriana",
+              "iconic_taxon_name": "Plantae"
+            }
+          }
+        ],
+        "project_observations": [],
+        "observation_photos": [
+          {
+            "id": 230077351,
+            "position": 0,
+            "uuid": "d67fe390-6fa9-43d2-94e3-9294d22c188d",
+            "photo_id": 246576542,
+            "photo": {
+              "id": 246576542,
+              "license_code": "cc0",
+              "original_dimensions": {
+                "width": 1536,
+                "height": 2048
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246576542/square.jpg",
+              "attribution": "no rights reserved",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          }
+        ],
+        "photos": [
+          {
+            "id": 246576542,
+            "license_code": "cc0",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246576542/square.jpg",
+            "attribution": "no rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        ],
+        "faves": [],
+        "non_owner_ids": [
+          {
+            "id": 318665106,
+            "uuid": "38a13e44-5d31-4f8c-9b29-b628735cfa8a",
+            "user": {
+              "id": 2659807,
+              "login": "alffer",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2020-03-21T03:19:36+00:00",
+              "login_autocomplete": "alffer",
+              "login_exact": "alffer",
+              "name": null,
+              "name_autocomplete": null,
+              "orcid": null,
+              "icon": null,
+              "observations_count": 2,
+              "identifications_count": 850,
+              "journal_posts_count": 0,
+              "activity_count": 852,
+              "species_count": 2,
+              "annotated_observations_count": 0,
+              "universal_search_rank": 2,
+              "roles": [],
+              "site_id": 2,
+              "icon_url": null
+            },
+            "created_at": "2022-12-06T15:42:35+00:00",
+            "created_at_details": {
+              "date": "2022-12-06",
+              "day": 6,
+              "month": 12,
+              "year": 2022,
+              "hour": 15,
+              "week": 49
+            },
+            "body": null,
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": null,
+            "previous_observation_taxon_id": null,
+            "spam": false,
+            "taxon_id": 1080463,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1080463,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                51820,
+                49585,
+                1597018,
+                123002
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1080463,
+              "name": "Garcinia gardneriana",
+              "parent_id": 123002,
+              "ancestry": "48460/47126/211194/47125/47124/51820/49585/1597018/123002",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,51820,49585,1597018,123002,1080463",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-05-14T13:39:54+00:00",
+              "default_photo": {
+                "id": 72747887,
+                "license_code": "cc-by",
+                "attribution": "(c) Alex Popovkin, Bahia, Brazil, some rights reserved (CC BY)",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/square.jpg",
+                "original_dimensions": {
+                  "height": 900,
+                  "width": 1600
+                },
+                "flags": [],
+                "attribution_name": "Alex Popovkin, Bahia, Brazil",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747887/medium.jpg"
+              },
+              "taxon_changes_count": 1,
+              "taxon_schemes_count": 0,
+              "observations_count": 156,
+              "photos_locked": false,
+              "universal_search_rank": 156,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Garcinia_gardneriana",
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125062316,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 51820,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820
+                  ],
+                  "is_active": true,
+                  "name": "Malpighiales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 57932018,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Joey Santore, some rights reserved (CC BY-NC), uploaded by Joey Santore",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57932018/square.jpg",
+                    "original_dimensions": {
+                      "height": 1080,
+                      "width": 1620
+                    },
+                    "flags": [],
+                    "attribution_name": "Joey Santore",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57932018/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57932018/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 5486547,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Malpighiales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Nances, Willows, and Allies"
+                },
+                {
+                  "id": 49585,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820,
+                    49585
+                  ],
+                  "is_active": true,
+                  "name": "Clusiaceae",
+                  "parent_id": 51820,
+                  "ancestry": "48460/47126/211194/47125/47124/51820",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 255166349,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Pedro Quinellato Dantas, some rights reserved (CC BY), uploaded by Pedro Quinellato Dantas",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255166349/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Pedro Quinellato Dantas",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255166349/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255166349/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 40566,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Clusiaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "attorney tree family"
+                },
+                {
+                  "id": 1597018,
+                  "rank": "tribe",
+                  "rank_level": 25,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820,
+                    49585,
+                    1597018
+                  ],
+                  "is_active": true,
+                  "name": "Garcinieae",
+                  "parent_id": 49585,
+                  "ancestry": "48460/47126/211194/47125/47124/51820/49585",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 159818106,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Pravin V Vishe, some rights reserved (CC BY-NC), uploaded by Pravin V Vishe",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159818106/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1407,
+                      "width": 1956
+                    },
+                    "flags": [],
+                    "attribution_name": "Pravin V Vishe",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159818106/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159818106/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 12959,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Clusiaceae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 123002,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    51820,
+                    49585,
+                    1597018,
+                    123002
+                  ],
+                  "is_active": true,
+                  "name": "Garcinia",
+                  "parent_id": 1597018,
+                  "ancestry": "48460/47126/211194/47125/47124/51820/49585/1597018",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 131257830,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by 葉子",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131257830/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "葉子",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131257830/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131257830/medium.jpeg"
+                  },
+                  "taxon_changes_count": 2,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 12952,
+                  "flag_counts": {
+                    "resolved": 33,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Garcinia",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "garcinias"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

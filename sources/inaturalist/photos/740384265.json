@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/403257879",
+  "photo": {
+    "id": 740384265,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/740384265/square.jpg",
+    "attribution": "(c) Henrique Nogueira, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Henrique Nogueira",
+  "observation": {
+    "id": 403257879,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 440372,
+      "name": "Melocactus violaceus"
+    },
+    "observerLogin": "herpetonogueira"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/740384265/large.jpg",
+    "sha256": "263e9c920dab528ba4e0a67469dc032c29b47789b595fecc9ac15119cd951e19",
+    "retrievedAt": "2026-11-11T17:16:22Z"
+  }
+}

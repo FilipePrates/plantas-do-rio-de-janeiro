@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/98389994",
+  "photo": {
+    "id": 163798949,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163798949/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Carlos Henrique Russi",
+  "observation": {
+    "id": 98389994,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 804829,
+      "name": "Nidularium procerum"
+    },
+    "observerLogin": "carloshrussi"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163798949/large.jpeg",
+    "sha256": "180e5e0426fdb1cbf7302fddee2d92a1886ac904b6ecbbe73d16b5090d7f1fcc",
+    "retrievedAt": "2026-11-11T08:10:04Z"
+  }
+}

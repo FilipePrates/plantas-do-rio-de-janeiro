@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/229499865",
+  "photo": {
+    "id": 407380707,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1200,
+      "height": 800
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407380707/square.jpg",
+    "attribution": "(c) Bruno Siqueira, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Bruno Siqueira",
+  "observation": {
+    "id": 229499865,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 498351,
+      "name": "Aechmea gracilis"
+    },
+    "observerLogin": "siquinho"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407380707/large.jpg",
+    "sha256": "ce4e0110062a73267a300a6c216892711e5b18dd10d777a798d967e51f359bd3",
+    "retrievedAt": "2026-11-11T08:12:35Z"
+  }
+}

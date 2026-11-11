@@ -1,9 +1,11 @@
-import React, { useEffect, useMemo, useReducer, useRef, useState } from "react";
+import React, { memo, useCallback, useDeferredValue, useEffect, useMemo, useReducer, useRef, useState } from "react";
 import {
+  ActivityIndicator,
   BackHandler,
   FlatList,
   Image,
   Linking,
+  Platform,
   Pressable,
   ScrollView,
   SectionList,
@@ -27,7 +29,6 @@ import {
   SettingsIcon,
 } from "./src/components/icons";
 import {
-  matchesPlant,
   markerLabels,
   parseCatalog,
   representedSpeciesCount,
@@ -39,15 +40,19 @@ import catalogJson from "./src/data/plants.json";
 import { plantImages } from "./src/data/plant-images";
 import { plantThumbnails } from "./src/data/plant-thumbnails";
 import { defaultState, loadState, saveState } from "./src/storage";
+import type { SavedState } from "./src/storage";
+import { createPlantSearch } from "./src/plantSearch.mjs";
 import { palette } from "./src/theme";
 import { PlantProfile } from "./src/components/PlantProfile";
 import { PlantPhotoMarker } from "./src/components/PlantPhotoMarkers";
 import { CatalogBrowser } from "./src/components/CatalogBrowser";
+import { DesktopGallerySize } from "./src/components/DesktopGallerySize";
 import { browserReducer, initialBrowserState, filterBrowserRows, conservationUnitIndex } from "./src/catalogBrowser.mjs";
 import type { BrowserSection } from "./src/catalogBrowser.mjs";
 import { formatPlantNameForWrap, getPlantName, getMainPhoto, mainPhotoKinds } from "./src/presentation.mjs";
 
 const catalog = parseCatalog(catalogJson);
+const prepareGuideSearch = createPlantSearch(catalog.plants);
 const allIds = new Set(catalog.plants.map((p) => p.id));
 const profiles = catalog.plants.filter(isProfile);
 const byName = [...catalog.plants].sort((a, b) =>
@@ -106,10 +111,18 @@ function Guide() {
   const [detailSequence, setDetailSequence] = useState<Plant[]>([]);
   const [settings, setSettings] = useState(false);
   const [query, setQuery] = useState("");
+  const resultQuery = useDeferredValue(query);
+  const searchPending = query !== resultQuery;
   const [habitat, setHabitat] = useState("");
   const { width } = useWindowDimensions();
   const [guideWidth, setGuideWidth] = useState(width);
-  const gridCardSize = Math.max(1, (guideWidth - 4) / 3);
+  const desktop = Platform.OS === "web" && width >= 1024;
+  const [tileSize, setTileSize] = useState(112);
+  const availableWidth = Math.min(guideWidth, width);
+  const gridColumns = desktop ? Math.max(3, Math.ceil((availableWidth - 26) / (tileSize + 6))) : 3;
+  const gridCardSize = Math.max(1, desktop
+    ? (availableWidth - 32 - (gridColumns - 1) * 6) / gridColumns
+    : (availableWidth - 4) / 3);
   const [saved, setSaved] = useState(defaultState);
   const [hydrated, setHydrated] = useState(false);
   const [storageError, setStorageError] = useState("");
@@ -154,8 +167,9 @@ function Guide() {
     return () => handler.remove();
   }, [detailId, detailHistory, settings, tab, guideReturn, browser]);
   const visible = useMemo(
-    () =>
-      (saved.alphabetical
+    () => {
+      const matchesQuery = prepareGuideSearch(resultQuery);
+      return (saved.alphabetical
         ? saved.principalName === "scientific"
           ? byScientificName
           : byName
@@ -163,17 +177,18 @@ function Guide() {
       ).filter(
         (plant) =>
           (!guideScope || guideScope.plantIds.includes(plant.id)) &&
-          matchesPlant(plant, query) &&
+          matchesQuery(plant) &&
           (!saved.photosOnly || plant.photos.length > 0) &&
           (!saved.familyFilter || plant.family === saved.familyFilter) &&
           (!habitat || plant.habitats.includes(habitat)),
-      ),
+      );
+    },
     [
       saved.alphabetical,
       saved.principalName,
       saved.familyFilter,
       saved.photosOnly,
-      query,
+      resultQuery,
       habitat,
       guideScope,
     ],
@@ -191,11 +206,11 @@ function Guide() {
     }
     return [...groups].map(([title, data]) => ({ title, data }));
   }, [visible, saved.alphabetical, saved.principalName]);
-  function openPlant(plant: Plant, sequence = visible) {
+  const openPlant = useCallback((plant: Plant, sequence = visible) => {
     setDetailSequence(sequence);
     setDetailHistory([]);
     setDetailId(plant.id);
-  }
+  }, [visible]);
   function rememberGuide() {
     setGuideReturn({ tab, query, habitat, familyFilter: saved.familyFilter, scope: guideScope });
   }
@@ -253,7 +268,7 @@ function Guide() {
     <SafeAreaView style={styles.safe} edges={["left", "right"]}>
       <StatusBar barStyle="light-content" backgroundColor="#000000" />
       <SafeAreaView edges={["top"]} style={styles.statusBarSafe}>
-        <View style={styles.header}>
+        <View style={[styles.header, desktop && styles.desktopHeader]}>
           {isSubscreen || (tab === "guide" && guideReturn) || (tab === "families" && browser.section === "species" && browser.origin) ? (
             <IconButton label="Voltar" icon={BackIcon} onPress={goBack} light />
           ) : tab === "guide" ? (
@@ -404,8 +419,8 @@ function Guide() {
           accessibilityElementsHidden={Boolean(detail)}
           importantForAccessibility={detail ? "no-hide-descendants" : "auto"}
         >
-          <View style={styles.searchRow}>
-            <View style={styles.searchInputShell}>
+          <View style={[styles.searchRow, desktop && styles.desktopToolbar]}>
+            <View style={[styles.searchInputShell, desktop && styles.desktopSearch]}>
               <TextInput
                 accessibilityLabel="Buscar plantas ou unidades de conservação"
                 placeholder="Buscar planta ou unidade…"
@@ -414,6 +429,11 @@ function Guide() {
                 onChangeText={setQuery}
                 style={styles.searchInput}
               />
+              {searchPending && (
+                <View style={styles.searchProgress} accessibilityRole="progressbar" accessibilityLabel="Atualizando resultados" testID="guide-search-loading">
+                  <ActivityIndicator size="small" color={palette.muted} />
+                </View>
+              )}
               {!!query && (
                 <Pressable
                   accessibilityRole="button"
@@ -446,8 +466,99 @@ function Guide() {
                 </View>
               )}
             </View>
+            {desktop && !saved.advanced && <DesktopGallerySize value={tileSize} columns={gridColumns} onChange={setTileSize} />}
           </View>
-          {saved.advanced ? (
+          <View style={styles.flex} accessibilityState={{ busy: searchPending }}>
+            <GuideResults visible={visible} sections={sections} saved={saved} gridCardSize={gridCardSize} gridColumns={gridColumns} desktop={desktop} openPlant={openPlant} />
+          </View>
+        </View>
+      )}
+      {hydrated && (
+        <View style={[styles.detailOverlay, (tab !== "families" || settings) && styles.hidden]}
+          accessibilityElementsHidden={Boolean(detail)} importantForAccessibility={detail ? "no-hide-descendants" : "auto"}>
+          <CatalogBrowser state={browser} dispatch={dispatchBrowser} rows={browserRows} allRows={speciesRows}
+            families={familyEntries} units={unitEntries} onOpen={openPlant} onGuide={openSelectionInGuide}
+            onTabChange={changeBrowserTab} />
+        </View>
+      )}
+      {detail && !settings && (
+        <View style={styles.detailOverlay}>
+          <PlantProfile
+            key={detail.id}
+            plant={detail}
+            principalName={saved.principalName}
+            mainPhoto={saved.mainPhoto}
+            onPrevious={detailPosition > 0
+              ? () => setDetailId(detailSequence[detailPosition - 1].id) : undefined}
+            onNext={detailPosition >= 0 && detailPosition < detailSequence.length - 1
+              ? () => setDetailId(detailSequence[detailPosition + 1].id) : undefined}
+            relatedPlants={catalog.plants.filter((p) => p.genus === detail.genus && isProfile(p))}
+            onOpenPlant={(plant) => {
+              setDetailHistory((history) => [...history, detail.id]);
+              setDetailId(plant.id);
+            }}
+          />
+        </View>
+      )}
+      {tabLoading && <View style={styles.tabLoadingOverlay}><LoadingBrand /></View>}
+      </View>
+      <SafeAreaView edges={["bottom"]} style={styles.navSafe}>
+        <View style={[styles.nav, desktop && styles.desktopNav]}>
+          {(
+            [
+              { id: "families", label: "Famílias", icon: ListIcon },
+              { id: "guide", label: "Guia", icon: BookIcon },
+              { id: "habitats", label: "Fitofisionomias", icon: LeafIcon },
+            ] as const
+          ).map((item) => (
+            <Pressable
+              key={item.id}
+              accessibilityRole="tab"
+              accessibilityState={{ selected: tab === item.id }}
+              accessibilityLabel={item.label}
+              style={[styles.navItem, desktop && styles.desktopNavItem]}
+              onPress={() => {
+                if (tab === item.id && !detail && !settings) return;
+                withTabLoading(() => {
+                  setDetailId(null);
+                  setDetailHistory([]);
+                  setSettings(false);
+                  restoreGuide();
+                  setTab(item.id);
+                });
+              }}
+            >
+              <View
+                style={[
+                  styles.navIconWrap,
+                  desktop && styles.desktopNavIcon,
+                  tab === item.id && styles.navSelected,
+                ]}
+              >
+                <item.icon
+                  size={25}
+                  color={tab === item.id ? palette.pine : palette.muted}
+                />
+                {desktop && <Text style={[styles.desktopNavLabel, tab === item.id && styles.desktopNavLabelSelected]}>{item.label}</Text>}
+              </View>
+            </Pressable>
+          ))}
+        </View>
+      </SafeAreaView>
+    </SafeAreaView>
+  );
+}
+const GuideResults = memo(function GuideResults({ visible, sections, saved, gridCardSize, gridColumns, desktop, openPlant }: {
+  visible: Plant[];
+  sections: { title: string; data: Plant[] }[];
+  saved: SavedState;
+  gridCardSize: number;
+  gridColumns: number;
+  desktop: boolean;
+  openPlant: (plant: Plant) => void;
+}) {
+  return (
+saved.advanced ? (
             <SectionList
               sections={sections}
               keyExtractor={(p) => p.id}
@@ -502,17 +613,19 @@ function Guide() {
             />
           ) : (
             <FlatList
-              key={`grid-${gridCardSize}`}
-              numColumns={3}
+              key={`grid-${desktop}-${gridColumns}`}
+              numColumns={gridColumns}
+              initialNumToRender={desktop ? gridColumns * 8 : 12}
               extraData={saved}
               data={visible}
               keyExtractor={(p) => p.id}
-              contentContainerStyle={styles.grid}
-              columnWrapperStyle={styles.gridRow}
+              contentContainerStyle={[styles.grid, desktop && styles.desktopGrid]}
+              columnWrapperStyle={[styles.gridRow, desktop && styles.desktopGridRow]}
               renderItem={({ item }) => (
                 <Pressable
                   style={[
                     styles.gridCard,
+                    desktop && styles.desktopGridCard,
                     { width: gridCardSize, height: gridCardSize },
                   ]}
                   accessibilityRole="button"
@@ -529,6 +642,7 @@ function Guide() {
                           styles.italicName,
                       ]}
                       textBreakStrategy="simple"
+                      numberOfLines={desktop ? 2 : undefined}
                       android_hyphenationFrequency="none"
                     >
                       {formatPlantNameForWrap(
@@ -541,82 +655,10 @@ function Guide() {
               )}
               ListEmptyComponent={<Empty text="Nenhuma planta encontrada." />}
             />
-          )}
-        </View>
-      )}
-      {hydrated && (
-        <View style={[styles.detailOverlay, (tab !== "families" || settings) && styles.hidden]}
-          accessibilityElementsHidden={Boolean(detail)} importantForAccessibility={detail ? "no-hide-descendants" : "auto"}>
-          <CatalogBrowser state={browser} dispatch={dispatchBrowser} rows={browserRows} allRows={speciesRows}
-            families={familyEntries} units={unitEntries} onOpen={openPlant} onGuide={openSelectionInGuide}
-            onTabChange={changeBrowserTab} />
-        </View>
-      )}
-      {detail && !settings && (
-        <View style={styles.detailOverlay}>
-          <PlantProfile
-            key={detail.id}
-            plant={detail}
-            principalName={saved.principalName}
-            mainPhoto={saved.mainPhoto}
-            onPrevious={detailPosition > 0
-              ? () => setDetailId(detailSequence[detailPosition - 1].id) : undefined}
-            onNext={detailPosition >= 0 && detailPosition < detailSequence.length - 1
-              ? () => setDetailId(detailSequence[detailPosition + 1].id) : undefined}
-            relatedPlants={catalog.plants.filter((p) => p.genus === detail.genus && isProfile(p))}
-            onOpenPlant={(plant) => {
-              setDetailHistory((history) => [...history, detail.id]);
-              setDetailId(plant.id);
-            }}
-          />
-        </View>
-      )}
-      {tabLoading && <View style={styles.tabLoadingOverlay}><LoadingBrand /></View>}
-      </View>
-      <SafeAreaView edges={["bottom"]} style={styles.navSafe}>
-        <View style={styles.nav}>
-          {(
-            [
-              { id: "families", label: "Famílias", icon: ListIcon },
-              { id: "guide", label: "Guia", icon: BookIcon },
-              { id: "habitats", label: "Fitofisionomias", icon: LeafIcon },
-            ] as const
-          ).map((item) => (
-            <Pressable
-              key={item.id}
-              accessibilityRole="tab"
-              accessibilityState={{ selected: tab === item.id }}
-              accessibilityLabel={item.label}
-              style={styles.navItem}
-              onPress={() => {
-                if (tab === item.id && !detail && !settings) return;
-                withTabLoading(() => {
-                  setDetailId(null);
-                  setDetailHistory([]);
-                  setSettings(false);
-                  restoreGuide();
-                  setTab(item.id);
-                });
-              }}
-            >
-              <View
-                style={[
-                  styles.navIconWrap,
-                  tab === item.id && styles.navSelected,
-                ]}
-              >
-                <item.icon
-                  size={25}
-                  color={tab === item.id ? palette.pine : palette.muted}
-                />
-              </View>
-            </Pressable>
-          ))}
-        </View>
-      </SafeAreaView>
-    </SafeAreaView>
+          )
   );
-}
+});
+
 function LoadingBrand() {
   return (
     <View style={styles.loadingBrand} accessibilityRole="progressbar" accessibilityLabel="Carregando Plantas do Rio de Janeiro">
@@ -800,6 +842,17 @@ const styles = StyleSheet.create({
     fontWeight: "800",
   },
   headerSubtitle: { fontSize: 14, color: "rgba(255,255,255,0.86)" },
+  desktopHeader: { minHeight: 68, paddingVertical: 6, paddingHorizontal: 20 },
+  desktopToolbar: { flexDirection: "row", alignItems: "center", gap: 24, paddingHorizontal: 16, paddingVertical: 12, backgroundColor: palette.sand },
+  desktopSearch: { flex: 1, borderWidth: 1, borderColor: palette.border, borderRadius: 12 },
+  desktopGrid: { paddingHorizontal: 16, paddingTop: 0, paddingBottom: 16, gap: 6, backgroundColor: palette.sand },
+  desktopGridRow: { gap: 6 },
+  desktopGridCard: { borderRadius: 6 },
+  desktopNav: { justifyContent: "center", gap: 12, paddingVertical: 8 },
+  desktopNavItem: { flex: 0 },
+  desktopNavIcon: { width: "auto", height: 40, paddingHorizontal: 22, flexDirection: "row", gap: 9, borderRadius: 12 },
+  desktopNavLabel: { color: palette.muted, fontSize: 13, fontWeight: "600" },
+  desktopNavLabelSelected: { color: palette.pine },
   iconButton: {
     minWidth: 44,
     minHeight: 44,
@@ -818,6 +871,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 8,
     paddingVertical: 6,
   },
+  searchProgress: { width: 22, alignItems: "center", justifyContent: "center" },
   searchInputShell: {
     backgroundColor: palette.paper,
     borderRadius: 10,

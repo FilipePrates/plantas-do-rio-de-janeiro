@@ -1,0 +1,53 @@
+# Photo preview number | visible structures | individual visual description (draft)
+4|leaf|Folhas opostas de mangue-preto, com pequenos cristais claros na superfície; a imagem mostra a lâmina e sua nervura central.
+6|flower,leaf|Flores claras de mangue-preto reunidas na ponta do ramo, entre folhas verdes de margem inteira.
+7|wholePlant|Mangue-preto de copa densa e ramificada na margem da área alagada, visto no conjunto da paisagem.
+8|fruit,leaf|Frutos castanhos de angelim-da-praia entre as folhas compostas; os folíolos se distribuem ao longo do eixo de cada folha.
+10|fruit,leaf|Frutos brancos de babosa-branca nas pontas dos ramos, junto às folhas verdes de nervuras marcadas.
+15|flower,leaf|Flor branca de babosa-branca, com corola ampla e enrugada, acompanhada de folhas simples.
+16|wholePlant,bark|Guapuruvu adulto com tronco alto e copa concentrada no alto; a vista destaca a arquitetura da árvore e a superfície do tronco.
+18|fruit,seed|Sementes de guapuruvu ao lado da parte papirácea do fruto, dispostas sobre uma superfície para mostrar suas formas.
+20|flower,wholePlant|Copa de guapuruvu coberta por flores amarelas, vista de baixo contra o céu.
+24|leaf|Folha de jatobá formada por dois folíolos assimétricos, de margem inteira e superfície verde brilhante.
+27|fruit|Fruto castanho de jatobá em detalhe, mostrando a casca rígida e a forma alongada.
+30|flower,leaf|Flores amarelas de murici na extremidade do ramo, com um besouro sobre a inflorescência e folhas ao redor.
+31|flower,leaf|Ramo de murici com folhas simples e flores amarelas, mostrando o conjunto da inflorescência.
+36|fruit,seed,leaf|Frutos abertos de olho-de-cabra expõem sementes vermelhas e pretas; folhas compostas aparecem junto aos ramos.
+39|leaf|Folíolos de olho-de-cabra vistos de perto, com destaque para a face inferior, a nervura central e as nervuras laterais.
+41|flower,leaf|Flor branca de pata-de-vaca com pétalas estreitas e alongadas; ao lado, as folhas apresentam dois lobos característicos.
+47|leaf|Folhas bilobadas de pata-de-vaca no ramo, mostrando a abertura entre os lobos e os espinhos junto aos nós.
+52|leaf|Ramos de quixabeira com folhas simples e espinhos, vistos contra a luz que evidencia as nervuras.
+54|fruit,leaf|Frutos verdes e arredondados de quixabeira nas axilas das folhas, ainda presos ao ramo.
+55|fruit,leaf|Cápsulas secas e aladas de Begonia arborescens junto a folhas assimétricas de margem serrilhada.
+57|flower,leaf|Begonia convolvulacea com inflorescências claras e numerosas, acima das folhas de contorno lobado.
+60|wholePlant,leaf|Begonia convolvulacea apoiada no tronco, mostrando ramos trepadores e folhas largas de base recortada.
+65|flower,leaf|Pequenas flores claras de Begonia cucullata entre folhas verdes, carnosas e assimétricas.
+66|wholePlant,leaf,flower|Begonia cucullata em ambiente úmido, com ramos baixos, folhas arredondadas e pequenas flores claras.
+69|flower|Flor de Begonia fischeri em detalhe, com tépalas claras e numerosos estames amarelos no centro.
+71|flower,fruit,leaf|Ramo piloso de Begonia fischeri com folhas assimétricas, flores claras e cápsulas aladas em desenvolvimento.
+75|flower|Flores pequenas de Begonia hirtella suspensas por pedicelos rosados, com estames amarelos bem visíveis.
+78|leaf|Folha de Begonia hirtella apoiada na mão, mostrando a base assimétrica, os pelos e os pequenos dentes da margem.
+83|leaf|Folha alongada e assimétrica de Begonia maculata, com manchas prateadas arredondadas sobre o fundo verde.
+87|flower|Flores claras de Begonia maculata vistas de perto, mostrando as tépalas e os centros amarelos.
+90|leaf|Folha larga de Begonia reniformis com nervuras que irradiam do pecíolo e lobos pouco profundos.
+92|wholePlant,leaf|Ramos de Begonia solananthera apoiados sobre o barranco, com folhas pequenas distribuídas ao longo dos caules.
+93|leaf|Folhas pequenas de Begonia solananthera em detalhe, mostrando o contorno ovado e a superfície verde brilhante.
+94|flower,leaf|Ramo de Begonia ulmifolia com pequenas flores claras no alto e folhas alongadas de margem serrilhada.
+95|leaf|Folha de Begonia ulmifolia em detalhe, com nervuras marcadas, pelos e margem serrilhada.
+97|wholePlant,leaf|Begonia angulata no sub-bosque, com ramos eretos e folhas assimétricas distribuídas pelos nós.
+98|flower|Flor branca de Begonia angulata com tépalas de borda recortada e estames amarelos no centro.
+101|leaf|Microgramma vacciniifolia espalhada sobre a casca de uma árvore, com pequenas frondes e rizomas rastejantes visíveis.
+102|leaf|Frondes simples de Microgramma vacciniifolia presas ao rizoma sobre o tronco; não são folhas de uma trepadeira com flores.
+107|wholePlant,leaf|Samambaia Phlebodium decumanum crescendo no tronco de uma palmeira, com frondes grandes e profundamente divididas.
+108|leaf|Face inferior de uma fronde de Phlebodium decumanum com numerosos soros arredondados; são estruturas com esporângios, não sementes.
+115|flower,leaf|Inflorescência de Cyperus ligularis com grupos densos de espiguetas e pequenas estruturas florais claras projetadas para fora.
+117|wholePlant,leaf|Touceira de Cyperus ligularis com folhas estreitas na base e inflorescências castanhas no alto dos caules.
+121|leaf|Folhas alternas de Piper aduncum, com base desigual e nervuras laterais curvas bem visíveis.
+122|flower,leaf|Espigas claras e curvadas de Piper aduncum acima das folhas; cada espiga reúne numerosas flores muito pequenas.
+123|wholePlant,leaf|Arbusto de Piper aduncum visto no conjunto, com ramos folhosos nas bordas da vegetação.
+128|flower,leaf|Peperomia obtusifolia sobre o tronco, com folhas espessas e uma espiga ereta de flores muito pequenas.
+131|leaf|Folhas carnosas de Peperomia obtusifolia junto ao caule rastejante, com contorno arredondado e superfície brilhante.
+137|flower|Flor de Echinodorus grandiflorus com três pétalas brancas e centro amarelo, ao lado de botões ainda fechados.
+141|wholePlant,leaf,flower|Echinodorus grandiflorus na margem da água, mostrando folhas largas na base e haste alta com flores claras.
+147|leaf|Folha de Begonia luxurians profundamente dividida em segmentos estreitos que irradiam do pecíolo; a mão ajuda a mostrar a escala.
+149|flower|Inflorescência de Begonia luxurians com muitas flores claras e centros amarelos, em uma haste ramificada.

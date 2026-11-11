@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/240849996",
+  "photo": {
+    "id": 429160847,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429160847/square.jpeg",
+    "attribution": "(c) Emma Walker, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Emma Walker",
+  "observation": {
+    "id": 240849996,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 524366,
+      "name": "Centrolobium tomentosum"
+    },
+    "observerLogin": "emma96"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429160847/large.jpeg",
+    "sha256": "574966ccace3151a1176a4587c0dab6b5e7d803006358bd5a72c0716fe6aea4a",
+    "retrievedAt": "2026-11-11T08:48:31.146Z"
+  }
+}

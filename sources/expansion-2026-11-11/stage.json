@@ -1,0 +1,619 @@
+{
+  "date": "2026-11-11",
+  "staged": [
+    {
+      "id": "aechmea-gracilis",
+      "scientificName": "Aechmea gracilis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "organos"
+      ]
+    },
+    {
+      "id": "aechmea-pectinata",
+      "scientificName": "Aechmea pectinata",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "organos"
+      ]
+    },
+    {
+      "id": "aechmea-ramosa",
+      "scientificName": "Aechmea ramosa",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-ramosa"
+      ]
+    },
+    {
+      "id": "aechmea-ornata",
+      "scientificName": "Aechmea ornata",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-ornata"
+      ]
+    },
+    {
+      "id": "aechmea-weilbachii",
+      "scientificName": "Aechmea weilbachii",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "organos"
+      ]
+    },
+    {
+      "id": "neoregelia-johannis",
+      "scientificName": "Neoregelia johannis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "ffesp"
+      ]
+    },
+    {
+      "id": "neoregelia-concentrica",
+      "scientificName": "Neoregelia concentrica",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "ffesp"
+      ]
+    },
+    {
+      "id": "nidularium-procerum",
+      "scientificName": "Nidularium procerum",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "ffesp"
+      ]
+    },
+    {
+      "id": "vriesea-neoglutinosa",
+      "scientificName": "Vriesea neoglutinosa",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "massambaba"
+      ]
+    },
+    {
+      "id": "vriesea-ensiformis",
+      "scientificName": "Vriesea ensiformis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-ensiformis"
+      ]
+    },
+    {
+      "id": "vriesea-inflata",
+      "scientificName": "Vriesea inflata",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-inflata"
+      ]
+    },
+    {
+      "id": "vriesea-longicaulis",
+      "scientificName": "Vriesea longicaulis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-longicaulis"
+      ]
+    },
+    {
+      "id": "vriesea-scalaris",
+      "scientificName": "Vriesea scalaris",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "scalaris"
+      ]
+    },
+    {
+      "id": "tillandsia-geminiflora",
+      "scientificName": "Tillandsia geminiflora",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "juiz"
+      ]
+    },
+    {
+      "id": "tillandsia-recurvata",
+      "scientificName": "Tillandsia recurvata",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-recurvata"
+      ]
+    },
+    {
+      "id": "tillandsia-tricholepis",
+      "scientificName": "Tillandsia tricholepis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-tricholepis"
+      ]
+    },
+    {
+      "id": "quesnelia-liboniana",
+      "scientificName": "Quesnelia liboniana",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "organos"
+      ]
+    },
+    {
+      "id": "quesnelia-lateralis",
+      "scientificName": "Quesnelia lateralis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "organos"
+      ]
+    },
+    {
+      "id": "quesnelia-marmorata",
+      "scientificName": "Quesnelia marmorata",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-marmorata"
+      ]
+    },
+    {
+      "id": "billbergia-zebrina",
+      "scientificName": "Billbergia zebrina",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-zebrina"
+      ]
+    },
+    {
+      "id": "wittrockia-superba",
+      "scientificName": "Wittrockia superba",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-superba"
+      ]
+    },
+    {
+      "id": "alcantarea-regina",
+      "scientificName": "Alcantarea regina",
+      "family": "Bromeliaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-regina"
+      ]
+    },
+    {
+      "id": "neoregelia-spectabilis",
+      "scientificName": "Neoregelia spectabilis",
+      "family": "Bromeliaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-spectabilis"
+      ]
+    },
+    {
+      "id": "nidularium-fulgens",
+      "scientificName": "Nidularium fulgens",
+      "family": "Bromeliaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-fulgens"
+      ]
+    },
+    {
+      "id": "anthurium-scandens",
+      "scientificName": "Anthurium scandens",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ]
+    },
+    {
+      "id": "anthurium-harrisii",
+      "scientificName": "Anthurium harrisii",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "living"
+      ]
+    },
+    {
+      "id": "anthurium-intermedium",
+      "scientificName": "Anthurium intermedium",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ]
+    },
+    {
+      "id": "anthurium-solitarium",
+      "scientificName": "Anthurium solitarium",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ]
+    },
+    {
+      "id": "anthurium-comtum",
+      "scientificName": "Anthurium comtum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ]
+    },
+    {
+      "id": "anthurium-longifolium",
+      "scientificName": "Anthurium longifolium",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "powo-longifolium"
+      ]
+    },
+    {
+      "id": "anthurium-parasiticum",
+      "scientificName": "Anthurium parasiticum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ]
+    },
+    {
+      "id": "anthurium-microphyllum",
+      "scientificName": "Anthurium microphyllum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ]
+    },
+    {
+      "id": "philodendron-appendiculatum",
+      "scientificName": "Philodendron appendiculatum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-appendiculatum"
+      ]
+    },
+    {
+      "id": "philodendron-bipennifolium",
+      "scientificName": "Philodendron bipennifolium",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-bipennifolium"
+      ]
+    },
+    {
+      "id": "philodendron-cordatum",
+      "scientificName": "Philodendron cordatum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "living"
+      ]
+    },
+    {
+      "id": "philodendron-crassinervium",
+      "scientificName": "Philodendron crassinervium",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-crassinervium"
+      ]
+    },
+    {
+      "id": "philodendron-martianum",
+      "scientificName": "Philodendron martianum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "living"
+      ]
+    },
+    {
+      "id": "philodendron-pedatum",
+      "scientificName": "Philodendron pedatum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-pedatum"
+      ]
+    },
+    {
+      "id": "philodendron-hastatum",
+      "scientificName": "Philodendron hastatum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-hastatum"
+      ]
+    },
+    {
+      "id": "philodendron-ornatum",
+      "scientificName": "Philodendron ornatum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "living"
+      ]
+    },
+    {
+      "id": "philodendron-propinquum",
+      "scientificName": "Philodendron propinquum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-propinquum"
+      ]
+    },
+    {
+      "id": "campomanesia-guaviroba",
+      "scientificName": "Campomanesia guaviroba",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-guaviroba"
+      ]
+    },
+    {
+      "id": "campomanesia-guazumifolia",
+      "scientificName": "Campomanesia guazumifolia",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "embrapa-sete"
+      ]
+    },
+    {
+      "id": "myrciaria-floribunda",
+      "scientificName": "Myrciaria floribunda",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "myrciaria"
+      ]
+    },
+    {
+      "id": "myrciaria-glazioviana",
+      "scientificName": "Myrciaria glazioviana",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "cabeludinha"
+      ]
+    },
+    {
+      "id": "myrciaria-tenella",
+      "scientificName": "Myrciaria tenella",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "myrciaria"
+      ]
+    },
+    {
+      "id": "plinia-rivularis",
+      "scientificName": "Plinia rivularis",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "plinia"
+      ]
+    },
+    {
+      "id": "myrrhinium-atropurpureum",
+      "scientificName": "Myrrhinium atropurpureum",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "myrrhinium"
+      ]
+    },
+    {
+      "id": "manilkara-subsericea",
+      "scientificName": "Manilkara subsericea",
+      "family": "Sapotaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-manilkara"
+      ]
+    },
+    {
+      "id": "eugenia-astringens",
+      "scientificName": "Eugenia astringens",
+      "family": "Myrtaceae",
+      "action": "split-genus",
+      "fromGroup": "eugenia-spp",
+      "sourceKeys": [
+        "flora-astringens"
+      ]
+    },
+    {
+      "id": "eugenia-candolleana",
+      "scientificName": "Eugenia candolleana",
+      "family": "Myrtaceae",
+      "action": "split-genus",
+      "fromGroup": "eugenia-spp",
+      "sourceKeys": [
+        "flora-candolleana"
+      ]
+    },
+    {
+      "id": "eugenia-punicifolia",
+      "scientificName": "Eugenia punicifolia",
+      "family": "Myrtaceae",
+      "action": "split-genus",
+      "fromGroup": "eugenia-spp",
+      "sourceKeys": [
+        "flora-punicifolia"
+      ]
+    },
+    {
+      "id": "garcinia-brasiliensis",
+      "scientificName": "Garcinia brasiliensis",
+      "family": "Clusiaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "clusiaceae"
+      ]
+    },
+    {
+      "id": "garcinia-gardneriana",
+      "scientificName": "Garcinia gardneriana",
+      "family": "Clusiaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "clusiaceae"
+      ]
+    },
+    {
+      "id": "annona-sylvatica",
+      "scientificName": "Annona sylvatica",
+      "family": "Annonaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-sylvatica"
+      ]
+    },
+    {
+      "id": "annona-cacans",
+      "scientificName": "Annona cacans",
+      "family": "Annonaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-cacans"
+      ]
+    },
+    {
+      "id": "annona-dolabripetala",
+      "scientificName": "Annona dolabripetala",
+      "family": "Annonaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-dolabripetala"
+      ]
+    },
+    {
+      "id": "annona-mucosa",
+      "scientificName": "Annona mucosa",
+      "family": "Annonaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-mucosa"
+      ]
+    },
+    {
+      "id": "inga-vera",
+      "scientificName": "Inga vera",
+      "family": "Fabaceae",
+      "action": "enriched-profile",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-vera"
+      ]
+    },
+    {
+      "id": "inga-sessilis",
+      "scientificName": "Inga sessilis",
+      "family": "Fabaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-sessilis"
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "scientificName": "Philodendron alternans",
+      "reason": "Sem fotografia elegível confirmada nesta rodada; manter a representação anterior, se existente."
+    },
+    {
+      "scientificName": "Eugenia sulcata",
+      "reason": "Sem fotografia elegível confirmada nesta rodada; manter a representação anterior, se existente."
+    },
+    {
+      "scientificName": "Chrysophyllum gonocarpum",
+      "reason": "Sem fotografia elegível confirmada nesta rodada; manter a representação anterior, se existente."
+    }
+  ]
+}

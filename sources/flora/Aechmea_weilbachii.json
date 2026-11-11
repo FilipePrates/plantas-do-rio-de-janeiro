@@ -1,0 +1,428 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Aechmea_weilbachii",
+  "retrievedAt": "2026-11-11T07:59:40Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5884,
+        "scientificname": "Aechmea weilbachii Didr.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "weilbachii",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Didr.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea weilbachii Didr.",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5884>http://floradobrasil2015.jbrj.gov.br/FB5884</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5884\">https://floradobrasil2020.jbrj.gov.br/FB5884</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea Ruiz & Pav.",
+        "parentnameusageid": 5753,
+        "originalnameusageid": null,
+        "namepublishedin": "Ann. Sci. Nat., Bot. IV, 2: 375 1854",
+        "namepublishedinyear": "1854",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5884",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB5884>. Acesso em: 11 nov. 2026.",
+        "modified": "2020-12-20 14:35:23.685"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Didrichsen,Ann. Sci. Nat., Bot.,IV, 2: 375,1854"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 46863,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Quesnelia glaziovii Baker"
+        },
+        {
+          "relatedresourceid": 46462,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Lamprococcus weilbachii (Didr.) É.Morren"
+        },
+        {
+          "relatedresourceid": 45678,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea weilbachii var. pendula E.Pereira & Moutinho"
+        },
+        {
+          "relatedresourceid": 45660,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea subinermis Baker"
+        },
+        {
+          "relatedresourceid": 46447,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Lamprococcus laurentianus K.Koch"
+        },
+        {
+          "relatedresourceid": 45675,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea weilbachea Carrière"
+        },
+        {
+          "relatedresourceid": 45677,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea weilbachii var. leodiensis André"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "G. Martinelli 8469",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00122457",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CEPEC00122457",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 18567",
+          "collectioncode": "P",
+          "catalognumber": "P02176112",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P02176112",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 8469",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00122457",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226572845",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 18567",
+          "collectioncode": "P",
+          "catalognumber": "P02176112",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227929159",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 45676,
+        "scientificname": "Aechmea weilbachii var. albipetala Leme & A.F.Costa",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "weilbachii",
+        "infraspecificepithet": "albipetala",
+        "scientificnameauthorship": "Leme & A.F.Costa",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea weilbachii Didr.;Aechmea weilbachii var. albipetala Leme & A.F.Costa",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45676>http://floradobrasil2015.jbrj.gov.br/FB45676</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45676\">https://floradobrasil2020.jbrj.gov.br/FB45676</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea weilbachii Didr.",
+        "parentnameusageid": 5884,
+        "originalnameusageid": null,
+        "namepublishedin": "Bromélia 1: 25 1994",
+        "namepublishedinyear": "1994",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45676",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45676>. Acesso em: 11 nov. 2026.",
+        "modified": "2020-05-24 15:32:22.711"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Leme, E.M.C. & Costa, A.F.,Bromélia,1: 25,1994"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "Andrea Costa et al 494",
+          "collectioncode": "RB",
+          "catalognumber": "RB01405060",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB01405060",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Andrea Costa et al 494",
+          "collectioncode": "RB",
+          "catalognumber": "RB01405060",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=285170216",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 45677,
+        "scientificname": "Aechmea weilbachii var. leodiensis André",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "weilbachii",
+        "infraspecificepithet": "leodiensis",
+        "scientificnameauthorship": "André",
+        "acceptednameusage": "Aechmea weilbachii Didr.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea weilbachii Didr.;Aechmea weilbachii var. leodiensis André",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45677>http://floradobrasil2015.jbrj.gov.br/FB45677</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45677\">https://floradobrasil2020.jbrj.gov.br/FB45677</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea weilbachii Didr.",
+        "parentnameusageid": 5884,
+        "originalnameusageid": null,
+        "namepublishedin": "Rev. Hort. [Paris]. 95: 31 1887",
+        "namepublishedinyear": "1887",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45677",
+        "acceptednameusageid": 5884,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45677>. Acesso em: 11 nov. 2026.",
+        "modified": "2020-11-29 20:03:27.057"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Rev. Hort. [Paris].,95: 31,1887"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5884,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea weilbachii Didr."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 45678,
+        "scientificname": "Aechmea weilbachii var. pendula E.Pereira & Moutinho",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "weilbachii",
+        "infraspecificepithet": "pendula",
+        "scientificnameauthorship": "E.Pereira & Moutinho",
+        "acceptednameusage": "Aechmea weilbachii Didr.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea weilbachii Didr.;Aechmea weilbachii var. pendula E.Pereira & Moutinho",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45678>http://floradobrasil2015.jbrj.gov.br/FB45678</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45678\">https://floradobrasil2020.jbrj.gov.br/FB45678</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea weilbachii Didr.",
+        "parentnameusageid": 5884,
+        "originalnameusageid": null,
+        "namepublishedin": "Bradea 3: 214 1981",
+        "namepublishedinyear": "1981",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45678",
+        "acceptednameusageid": 5884,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45678>. Acesso em: 11 nov. 2026.",
+        "modified": "2020-11-29 20:03:12.871"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Bradea,3: 214,1981"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5884,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea weilbachii Didr."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 119944,
+        "scientificname": "Aechmea weilbachii Didr. var. weilbachii",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "weilbachii",
+        "infraspecificepithet": "weilbachii",
+        "scientificnameauthorship": "Didr.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea weilbachii Didr.;Aechmea weilbachii Didr. var. weilbachii",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB119944>http://floradobrasil2015.jbrj.gov.br/FB119944</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB119944\">https://floradobrasil2020.jbrj.gov.br/FB119944</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea weilbachii Didr.",
+        "parentnameusageid": 5884,
+        "originalnameusageid": null,
+        "namepublishedin": "Ann. Sci. Nat. ser. 4 2:375 1854",
+        "namepublishedinyear": "1854",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB119944",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB119944>. Acesso em: 11 nov. 2026.",
+        "modified": "2020-05-24 15:50:30.507"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Didrichsen,Ann. Sci. Nat. ser. 4,2:375,1854"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "Costa, A. 10",
+          "collectioncode": "RB",
+          "catalognumber": "RB00171417",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283833202",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Costa, A. 10",
+          "collectioncode": "K",
+          "catalognumber": "K000322221",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000322221",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Costa, A. 10",
+          "collectioncode": "RB",
+          "catalognumber": "RB00171417",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00171417",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Costa, A. 10",
+          "collectioncode": "K",
+          "catalognumber": "K000322221",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227600053",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

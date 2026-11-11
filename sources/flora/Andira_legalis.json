@@ -1,0 +1,143 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Andira_legalis",
+  "retrievedAt": "2026-11-11T17:38:28Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 29444,
+        "scientificname": "Andira legalis (Vell.) Toledo",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Fabales",
+        "family": "Fabaceae",
+        "genus": "Andira",
+        "specificepithet": "legalis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Vell.) Toledo",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Fabaceae Lindl.;Andira Lam.;Andira legalis (Vell.) Toledo",
+        "source": "Pennington, T. 2015. Andira in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB29444>http://floradobrasil2015.jbrj.gov.br/FB29444</a>)<br><br>Ramos, G., Cardoso, D.B.O.S., Pennington, R.T. 2020. Andira in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB29444\">https://floradobrasil2020.jbrj.gov.br/FB29444</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 10pt;&quot;&gt;Pennington, R.T. 2003. Monograph of &lt;em&gt;Andira&lt;/em&gt; (Leguminosae-Papilionoideae). Systematic Botany Monographs. Vol. 64. 143 pp.&lt;/span&gt;",
+        "parentnameusage": "Andira Lam.",
+        "parentnameusageid": 22786,
+        "originalnameusageid": "623721",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB29444",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Ramos, G., Cardoso, D.B.O.S., Pennington, R.T. Andira in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB29444>. Acesso em: 11 nov. 2026.",
+        "modified": "2022-08-23 11:04:35.764"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AL",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Árvore"
+        ],
+        "habitat": [
+          "Terrícola"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "angelim preto",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Bahia"
+        },
+        {
+          "vernacularname": "angelim roxo",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Bahia"
+        },
+        {
+          "vernacularname": "angelim coco",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": "Rio de Janeiro"
+        }
+      ],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 105097,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Andira frondosa Mart. ex Benth."
+        },
+        {
+          "relatedresourceid": 623721,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Lumbricidia legalis Vell."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

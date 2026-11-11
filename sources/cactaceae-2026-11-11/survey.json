@@ -1,0 +1,381 @@
+{
+  "Brasiliopuntia brasiliensis": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1430,
+    "profile": {
+      "lifeForm": [
+        "Arbusto",
+        "Árvore",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Decidual",
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Floresta Ombrófila Mista",
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "cc0": 9,
+    "cc-by": 50
+  },
+  "Cereus hildmannianus": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1444,
+    "profile": {
+      "lifeForm": [
+        "Arbusto",
+        "Árvore",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Decidual",
+        "Floresta Estacional Semidecidual",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "cc0": 41,
+    "cc-by": 191
+  },
+  "Cereus sericifer": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 633228,
+    "profile": {
+      "lifeForm": [
+        "Arbusto",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "cc0": 0,
+    "cc-by": 0
+  },
+  "Coleocephalocereus fluminensis": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1475,
+    "profile": {
+      "lifeForm": [
+        "Arbusto",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "cc0": 24,
+    "cc-by": 36
+  },
+  "Opuntia monacantha": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1616,
+    "profile": {
+      "lifeForm": [
+        "Arbusto",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Campo rupestre",
+        "Carrasco",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "cc0": 74,
+    "cc-by": 379
+  },
+  "Pereskia grandifolia": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1636,
+    "profile": {
+      "lifeForm": [
+        "Arbusto",
+        "Árvore"
+      ],
+      "habitat": [
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Área Antrópica",
+        "Floresta Ciliar ou Galeria",
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Floresta Ombrófila Mista"
+      ]
+    },
+    "cc0": 11,
+    "cc-by": 20
+  },
+  "Pereskia aculeata": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1633,
+    "profile": {
+      "lifeForm": [
+        "Liana/volúvel/trepadeira"
+      ],
+      "habitat": [
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Caatinga (stricto sensu)",
+        "Floresta Ciliar ou Galeria",
+        "Floresta Estacional Decidual",
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Floresta Ombrófila Mista",
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "cc0": 14,
+    "cc-by": 75
+  },
+  "Pilosocereus arrabidae": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1643,
+    "profile": {
+      "lifeForm": [
+        "Arbusto"
+      ],
+      "habitat": [
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "cc0": 7,
+    "cc-by": 60
+  },
+  "Pilosocereus brasiliensis": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1649,
+    "profile": {
+      "lifeForm": [
+        "Arbusto",
+        "Liana/volúvel/trepadeira"
+      ],
+      "habitat": [
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Perenifólia",
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "cc0": 2,
+    "cc-by": 11
+  },
+  "Pilosocereus ulei": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 6627,
+    "profile": {
+      "lifeForm": [
+        "Arbusto",
+        "Árvore"
+      ],
+      "habitat": [
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "cc0": 2,
+    "cc-by": 21
+  },
+  "Melocactus violaceus": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1591,
+    "profile": {
+      "lifeForm": [
+        "Subarbusto",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Campo rupestre",
+        "Restinga"
+      ]
+    },
+    "cc0": 1,
+    "cc-by": 47
+  },
+  "Schlumbergera truncata": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1743,
+    "profile": {
+      "lifeForm": [
+        "Erva",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "cc0": 3,
+    "cc-by": 13
+  },
+  "Schlumbergera russelliana": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1742,
+    "profile": {
+      "lifeForm": [
+        "Erva",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Campo de Altitude",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "cc0": 1,
+    "cc-by": 0
+  },
+  "Rhipsalis paradoxa": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1719,
+    "profile": {
+      "lifeForm": [
+        "Erva",
+        "Subarbusto",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "cc0": 4,
+    "cc-by": 37
+  },
+  "Rhipsalis pachyptera": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1718,
+    "profile": {
+      "lifeForm": [
+        "Subarbusto",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "cc0": 4,
+    "cc-by": 42
+  },
+  "Lepismium cruciforme": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1554,
+    "profile": {
+      "lifeForm": [
+        "Erva",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Ciliar ou Galeria",
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Floresta Ombrófila Mista",
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "cc0": 25,
+    "cc-by": 111
+  },
+  "Hatiora salicornioides": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1547,
+    "profile": {
+      "lifeForm": [
+        "Erva",
+        "Subarbusto",
+        "Suculenta"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Campo de Altitude",
+        "Campo rupestre",
+        "Floresta Ciliar ou Galeria",
+        "Floresta Estacional Perenifólia",
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Floresta Ombrófila Mista"
+      ]
+    },
+    "cc0": 5,
+    "cc-by": 48
+  }
+}

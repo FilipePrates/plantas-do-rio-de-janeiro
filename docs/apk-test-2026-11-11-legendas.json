@@ -1,0 +1,28 @@
+{
+  "apk": "plantas-rio-2026-11-11-legendas-teste.apk",
+  "bytes": 357816769,
+  "sha256": "65b330e66706670d5c354c20959dafc005f3dffa55a890ec0186915586cbc666",
+  "catalogSha256": "b67ac33f0de50b4be1ca20b24f47d2d43151ab40a2d3fd247d1df3aa75190c6b",
+  "entries": 372,
+  "illustratedProfiles": 210,
+  "originalPhotos": 599,
+  "thumbnails": 599,
+  "allPhotoAndThumbnailBytesVerified": true,
+  "selectedNewSpeciesInEmbeddedBundle": true,
+  "architectures": [
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "deviceRuntimeTested": false,
+  "uniqueCurrentCaptionsVerified": 599,
+  "allCurrentCaptionsInEmbeddedBundle": true,
+  "packageId": "br.com.avesdosbrasis.plantasdorio",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "minSdk": 24,
+  "targetSdk": 36,
+  "signatureVerified": true,
+  "signatureScheme": "v2",
+  "buildDate": "2026-11-11",
+  "representedSpecies": 493
+}

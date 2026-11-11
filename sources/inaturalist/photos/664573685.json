@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/364056860",
+  "photo": {
+    "id": 664573685,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664573685/square.jpg",
+    "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Pablo Cauã da Silva Toledo",
+  "observation": {
+    "id": 364056860,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1066146,
+      "name": "Anthurium harrisii"
+    },
+    "observerLogin": "pablocauapc"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664573685/large.jpg",
+    "sha256": "a261e569a5e6e2a89a3884eb169c2790b2910bafed0bb2590ecbfa85a49c22de",
+    "retrievedAt": "2026-11-11T08:13:24Z"
+  }
+}

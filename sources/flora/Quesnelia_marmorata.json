@@ -1,0 +1,157 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Quesnelia_marmorata",
+  "retrievedAt": "2026-11-11T08:01:57Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 6346,
+        "scientificname": "Quesnelia marmorata (Lem.) R.W.Read",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Quesnelia",
+        "specificepithet": "marmorata",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Lem.) R.W.Read",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Quesnelia Gaudich.;Quesnelia marmorata (Lem.) R.W.Read",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB6346>http://floradobrasil2015.jbrj.gov.br/FB6346</a>)<br><br>Oliveira, F.M.C., Tardivo, R.C. 2020. Quesnelia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB6346\">https://floradobrasil2020.jbrj.gov.br/FB6346</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Quesnelia Gaudich.",
+        "parentnameusageid": 6335,
+        "originalnameusageid": "45906",
+        "namepublishedin": "J. Bromeliad Soc. 15: 25 1965",
+        "namepublishedinyear": "1965",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB6346",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2022-06-22 12:08:19.542"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Perenifólia",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "J. Bromeliad Soc.,15: 25,1965"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 46861,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Quesnelia effusa Lindm."
+        },
+        {
+          "relatedresourceid": 45906,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Billbergia marmorata Lem."
+        },
+        {
+          "relatedresourceid": 45590,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Aechmea marmorata (Lem.) Mez"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Giordano, L.C. 2105",
+          "collectioncode": "RB",
+          "catalognumber": "RB00266616",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283966388",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gomes, J.M.L. 2731",
+          "collectioncode": "VIES",
+          "catalognumber": "VIES022930",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=100617237",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.P. Fontana 2465",
+          "collectioncode": "RB",
+          "catalognumber": "RB00562279",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284439538",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Gomes, J.M.L. 2731",
+          "collectioncode": "VIES",
+          "catalognumber": "VIES022930",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/VIES022930",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Giordano, L.C. 2105",
+          "collectioncode": "RB",
+          "catalognumber": "RB00266616",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00266616",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "A.P. Fontana 2465",
+          "collectioncode": "RB",
+          "catalognumber": "RB00562279",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00562279",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

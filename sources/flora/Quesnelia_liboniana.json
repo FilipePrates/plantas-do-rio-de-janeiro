@@ -1,0 +1,160 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Quesnelia_liboniana",
+  "retrievedAt": "2026-11-11T08:01:43Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 6345,
+        "scientificname": "Quesnelia liboniana (De Jongle) Mez",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Quesnelia",
+        "specificepithet": "liboniana",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(De Jongle) Mez",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Quesnelia Gaudich.;Quesnelia liboniana (De Jongle) Mez",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB6345>http://floradobrasil2015.jbrj.gov.br/FB6345</a>)<br><br>Oliveira, F.M.C., Tardivo, R.C. 2020. Quesnelia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB6345\">https://floradobrasil2020.jbrj.gov.br/FB6345</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).N&amp;atilde;o citada na flora de SP, mas com um material no RB procedente de SP",
+        "parentnameusage": "Quesnelia Gaudich.",
+        "parentnameusageid": 6335,
+        "originalnameusageid": "45899",
+        "namepublishedin": "Bot. Arch. 1: 66 1922",
+        "namepublishedinyear": "1922",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB6345",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2022-06-22 12:04:27.228"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Perenifólia"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Mez, C.,Bot. Arch.,1: 66,1922"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 45899,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Billbergia liboniana De Jonghe"
+        },
+        {
+          "relatedresourceid": 46870,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Quesnelia tillandsioides Mez"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "J.M.A. Braga 5395",
+          "collectioncode": "RB",
+          "catalognumber": "RB00706397",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284716160",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "D. Sucre 3577",
+          "collectioncode": "RB",
+          "catalognumber": "RB00266325",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283965740",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.A.Lira Neto 705",
+          "collectioncode": "RB",
+          "catalognumber": "RB00706398",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284716162",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.A.Lira Neto 705",
+          "collectioncode": "RB",
+          "catalognumber": "RB00706398",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284716164",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.A.Lira Neto 705",
+          "collectioncode": "RB",
+          "catalognumber": "RB00706398",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00706398",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "J.M.A. Braga 5395",
+          "collectioncode": "RB",
+          "catalognumber": "RB00706397",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00706397",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "D. Sucre 3577",
+          "collectioncode": "RB",
+          "catalognumber": "RB00266325",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00266325",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/338374566",
+  "photo": {
+    "id": 615340126,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615340126/square.jpg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 338374566,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 563846,
+      "name": "Annona cacans"
+    },
+    "observerLogin": "bariza"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615340126/large.jpg",
+    "sha256": "bd52a12975eb62fc055831435c73cec853c828e7b2899e5122ef5b280186062c",
+    "retrievedAt": "2026-11-11T08:14:07Z"
+  }
+}

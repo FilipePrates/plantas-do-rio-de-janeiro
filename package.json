@@ -10,6 +10,7 @@
     "android": "expo run:android",
     "ios": "expo run:ios",
     "android:prebuild": "expo prebuild --platform android --no-install",
+    "android:apk:windows": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/build-test-apk.ps1",
     "ios:prebuild": "expo prebuild --platform ios --no-install",
     "typecheck": "tsc --noEmit",
     "test": "node --test tests/*.test.mjs",

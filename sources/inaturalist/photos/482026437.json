@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/268179760",
+  "photo": {
+    "id": 482026437,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 899,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482026437/square.jpeg",
+    "attribution": "(c) Paulo C. O. Cunha, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Paulo C. O. Cunha",
+  "observation": {
+    "id": 268179760,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1044481,
+      "name": "Annona sylvatica"
+    },
+    "observerLogin": "paulo_celso_cunha"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482026437/large.jpeg",
+    "sha256": "7147167d01f7ff3a1b9db9d756a1ddee2be7209f158dc72bc2269b572ce1d9ab",
+    "retrievedAt": "2026-11-11T08:14:02Z"
+  }
+}

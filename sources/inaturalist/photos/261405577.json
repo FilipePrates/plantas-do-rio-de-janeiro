@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/151496928",
+  "photo": {
+    "id": 261405577,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261405577/square.jpg",
+    "attribution": "(c) Cajá-manga, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Cajá-manga",
+  "observation": {
+    "id": 151496928,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1044481,
+      "name": "Annona sylvatica"
+    },
+    "observerLogin": "caja-manga"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261405577/large.jpg",
+    "sha256": "ecf57a8856c1ccbd373e7eeceb12c0a3b979c800e6f0a210b68619145038dcbe",
+    "retrievedAt": "2026-11-11T08:14:01Z"
+  }
+}

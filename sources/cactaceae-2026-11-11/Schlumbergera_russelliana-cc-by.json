@@ -1,0 +1,9 @@
+{
+  "url": "https://api.inaturalist.org/v1/observations?taxon_name=Schlumbergera+russelliana&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes&locale=en",
+  "data": {
+    "total_results": 0,
+    "page": 1,
+    "per_page": 30,
+    "results": []
+  }
+}

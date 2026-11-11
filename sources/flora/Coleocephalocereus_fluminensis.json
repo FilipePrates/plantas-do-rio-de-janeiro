@@ -1,0 +1,398 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Coleocephalocereus_fluminensis",
+  "retrievedAt": "2026-11-11T17:03:15Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 1475,
+        "scientificname": "Coleocephalocereus fluminensis (Miq.) Backeb.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Coleocephalocereus",
+        "specificepithet": "fluminensis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Miq.) Backeb.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Coleocephalocereus Backeb.;Coleocephalocereus fluminensis (Miq.) Backeb.",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1475>http://floradobrasil2015.jbrj.gov.br/FB1475</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1475\">https://floradobrasil2020.jbrj.gov.br/FB1475</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Taylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\nHunt, D., Taylor, N. &amp;amp; Graham, C. 2006. The New Cactus Lexicon, Text. dh books, Milborne Port.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n&amp;nbsp;\r\n.",
+        "parentnameusage": "Coleocephalocereus Backeb.",
+        "parentnameusageid": 1470,
+        "originalnameusageid": "633688",
+        "namepublishedin": "Blätt. Kakteenf. 1938(6): unpaged [22] (1938 ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1475",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB1475>. Acesso em: 11 nov. 2026.",
+        "modified": "2025-02-09 12:02:22.279"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [
+        {
+          "vernacularname": "cacto-cabeludo",
+          "language_vernacularname": "PORTUGUES",
+          "locality_vernacularname": null
+        }
+      ],
+      "reference": [
+        {
+          "reference": "Backeberg, C.,Blätt. Kakteenf.,1938(6): unpaged [22] (1938,"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 1477,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Coleocephalocereus fluminensis (Miq.) Backeb. subsp. fluminensis"
+        },
+        {
+          "relatedresourceid": 127982,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Coleocephalocereus diersianus P.J.Braun & Esteves"
+        },
+        {
+          "relatedresourceid": 636101,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cereus melocactus (Vell.) A.Berger"
+        },
+        {
+          "relatedresourceid": 1433,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cephalocereus melocactus K.Schum."
+        },
+        {
+          "relatedresourceid": 633688,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Cereus fluminensis Miq."
+        },
+        {
+          "relatedresourceid": 633689,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Cephalocereus fluminensis (Miq.) Britton & Rose"
+        },
+        {
+          "relatedresourceid": 633690,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Coleocephalocereus fluminensis subsp. paulensis (F.Ritter) P.J.Braun & Esteves"
+        },
+        {
+          "relatedresourceid": 633691,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Coleocephalocereus paulensis F.Ritter"
+        },
+        {
+          "relatedresourceid": 633692,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Coleocephalocereus fluminensis var. paulensis (F.Ritter) P.J.Braun"
+        },
+        {
+          "relatedresourceid": 634772,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Leocereus paulensis Speg."
+        },
+        {
+          "relatedresourceid": 636073,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cactus melocactus Vell."
+        },
+        {
+          "relatedresourceid": 636099,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Cereus melocactus Vell."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "D.C. Zappi 469",
+          "collectioncode": "UEC",
+          "catalognumber": "UEC041394",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/UEC041394",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 2844",
+          "collectioncode": "RB",
+          "catalognumber": "RB00063331",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00063331",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 2844",
+          "collectioncode": "RB",
+          "catalognumber": "RB00063331",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284576694",
+          "locality": "RJ",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 1476,
+        "scientificname": "Coleocephalocereus fluminensis subsp. decumbens (F.Ritter) N.P.Taylor & Zappi",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Coleocephalocereus",
+        "specificepithet": "fluminensis",
+        "infraspecificepithet": "decumbens",
+        "scientificnameauthorship": "(F.Ritter) N.P.Taylor & Zappi",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Coleocephalocereus Backeb.;Coleocephalocereus fluminensis (Miq.) Backeb.;Coleocephalocereus fluminensis subsp. decumbens (F.Ritter) N.P.Taylor & Zappi",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1476>http://floradobrasil2015.jbrj.gov.br/FB1476</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1476\">https://floradobrasil2020.jbrj.gov.br/FB1476</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Taylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\nHunt, D., Taylor, N. &amp;amp; Graham, C. 2006. The New Cactus Lexicon, Text. dh books, Milborne Port.",
+        "parentnameusage": "Coleocephalocereus fluminensis (Miq.) Backeb.",
+        "parentnameusageid": 1475,
+        "originalnameusageid": "127983",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1476",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB1476>. Acesso em: 11 nov. 2026.",
+        "modified": "2024-11-05 12:19:23.27"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "habitat": [
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Cactaceae Consensus Init.,3: 7.,1997"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 127983,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Coleocephalocereus decumbens F.Ritter"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 1477,
+        "scientificname": "Coleocephalocereus fluminensis (Miq.) Backeb. subsp. fluminensis",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Coleocephalocereus",
+        "specificepithet": "fluminensis",
+        "infraspecificepithet": "fluminensis",
+        "scientificnameauthorship": "(Miq.) Backeb.",
+        "acceptednameusage": "Coleocephalocereus fluminensis (Miq.) Backeb.",
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Coleocephalocereus Backeb.;Coleocephalocereus fluminensis (Miq.) Backeb.;Coleocephalocereus fluminensis (Miq.) Backeb. subsp. fluminensis",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1477>http://floradobrasil2015.jbrj.gov.br/FB1477</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1477\">https://floradobrasil2020.jbrj.gov.br/FB1477</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Taylor, N. &amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.Hunt, D., Taylor, N. &amp; Graham, C. 2006. The New Cactus Lexicon, Text. dh books, Milborne Port.",
+        "parentnameusage": "Coleocephalocereus fluminensis (Miq.) Backeb.",
+        "parentnameusageid": 1475,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1477",
+        "acceptednameusageid": 1475,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB1477>. Acesso em: 11 nov. 2026.",
+        "modified": "2024-11-05 12:19:16.706"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Blätt. Kakteenf.,1938(6): unpaged [22],1938"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 1475,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Coleocephalocereus fluminensis (Miq.) Backeb."
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 633690,
+        "scientificname": "Coleocephalocereus fluminensis subsp. paulensis (F.Ritter) P.J.Braun & Esteves",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Coleocephalocereus",
+        "specificepithet": "fluminensis",
+        "infraspecificepithet": "paulensis",
+        "scientificnameauthorship": "(F.Ritter) P.J.Braun & Esteves",
+        "acceptednameusage": "Coleocephalocereus fluminensis (Miq.) Backeb.",
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Coleocephalocereus Backeb.;Coleocephalocereus fluminensis (Miq.) Backeb.;Coleocephalocereus fluminensis subsp. paulensis (F.Ritter) P.J.Braun & Esteves",
+        "source": "",
+        "parentnameusage": "Coleocephalocereus fluminensis (Miq.) Backeb.",
+        "parentnameusageid": 1475,
+        "originalnameusageid": "633691",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB633690",
+        "acceptednameusageid": 1475,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB633690>. Acesso em: 11 nov. 2026.",
+        "modified": "2024-11-05 12:19:30.158"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 1475,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Coleocephalocereus fluminensis (Miq.) Backeb."
+        },
+        {
+          "relatedresourceid": 633691,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Coleocephalocereus paulensis F.Ritter"
+        },
+        {
+          "relatedresourceid": 633692,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Coleocephalocereus fluminensis var. paulensis (F.Ritter) P.J.Braun"
+        }
+      ],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 633692,
+        "scientificname": "Coleocephalocereus fluminensis var. paulensis (F.Ritter) P.J.Braun",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Coleocephalocereus",
+        "specificepithet": "fluminensis",
+        "infraspecificepithet": "paulensis",
+        "scientificnameauthorship": "(F.Ritter) P.J.Braun",
+        "acceptednameusage": "Coleocephalocereus fluminensis (Miq.) Backeb.",
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Coleocephalocereus Backeb.;Coleocephalocereus fluminensis (Miq.) Backeb.;Coleocephalocereus fluminensis var. paulensis (F.Ritter) P.J.Braun",
+        "source": "",
+        "parentnameusage": "Coleocephalocereus fluminensis (Miq.) Backeb.",
+        "parentnameusageid": 1475,
+        "originalnameusageid": "633691",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB633692",
+        "acceptednameusageid": 1475,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB633692>. Acesso em: 11 nov. 2026.",
+        "modified": "2024-11-05 12:19:35.146"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 1475,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Coleocephalocereus fluminensis (Miq.) Backeb."
+        },
+        {
+          "relatedresourceid": 633691,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Coleocephalocereus paulensis F.Ritter"
+        },
+        {
+          "relatedresourceid": 633690,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Coleocephalocereus fluminensis subsp. paulensis (F.Ritter) P.J.Braun & Esteves"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

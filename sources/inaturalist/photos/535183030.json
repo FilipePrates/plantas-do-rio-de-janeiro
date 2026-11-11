@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/297179105",
+  "photo": {
+    "id": 535183030,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535183030/square.jpg",
+    "attribution": "(c) Celso Henrique Varela Rios, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Celso Henrique Varela Rios",
+  "observation": {
+    "id": 297179105,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1262179,
+      "name": "Anthurium sellowianum"
+    },
+    "observerLogin": "celsobio"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535183030/large.jpg",
+    "sha256": "c75730941decc9f06d683ac70c604b27d71bcc509c564510138000ac4cd62876",
+    "retrievedAt": "2026-11-11T08:14:48Z"
+  }
+}

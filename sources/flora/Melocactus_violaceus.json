@@ -1,0 +1,585 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Melocactus_violaceus",
+  "retrievedAt": "2026-11-11T17:04:05Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 1591,
+        "scientificname": "Melocactus violaceus Pfeiff.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Melocactus",
+        "specificepithet": "violaceus",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Pfeiff.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Melocactus Link & Otto;Melocactus violaceus Pfeiff.",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1591>http://floradobrasil2015.jbrj.gov.br/FB1591</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1591\">https://floradobrasil2020.jbrj.gov.br/FB1591</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Taylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\nTaylor, N.P. 1991. The genus Melocactus in Central and South America. Bradleya 9:1-80.\r\nTaylor, N.P., Telhe, M.C., Olsthoorn, G., Lowry, M., Pereira, F.O. &amp;amp; Zappi, D.C. 2025. A taxonomic update for Melocactus in Eastern Brazil. Bradleya 43: 99-119.",
+        "parentnameusage": "Melocactus Link & Otto",
+        "parentnameusageid": 1558,
+        "originalnameusageid": null,
+        "namepublishedin": "Allg. Gartenzeitung (Otto & Dietrich) 3: 313. 1835",
+        "namepublishedinyear": "1835",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1591",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2025-12-04 12:25:59.506"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AL",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Subarbusto",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Campo rupestre",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Pfeiffer, H.,Allg. Gartenzeitung (Otto & Dietrich),3: 313.,1835"
+        },
+        {
+          "reference": "Fl. bras.,vol 4 part. 2,"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 597341,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Melocactus depressus Haw."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "E.A. Rocha 568",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00085377",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CEPEC00085377",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "E.A. Rocha 568",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00085377",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226447035",
+          "locality": "BA",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 1592,
+        "scientificname": "Melocactus violaceus subsp. margaritaceus N.P.Taylor",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Melocactus",
+        "specificepithet": "violaceus",
+        "infraspecificepithet": "margaritaceus",
+        "scientificnameauthorship": "N.P.Taylor",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Melocactus Link & Otto;Melocactus violaceus Pfeiff.;Melocactus violaceus subsp. margaritaceus N.P.Taylor",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1592>http://floradobrasil2015.jbrj.gov.br/FB1592</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1592\">https://floradobrasil2020.jbrj.gov.br/FB1592</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Taylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\n&amp;nbsp;\r\nTaylor, N.P. 1991. The genus Melocactus in Central and South America. Bradleya 9:1-80.",
+        "parentnameusage": "Melocactus violaceus Pfeiff.",
+        "parentnameusageid": 1591,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1592",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2025-05-02 15:43:54.934"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AL",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Subarbusto",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Bradea,9: 57, plate 19.,1991"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 599621,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Melocactus pentacetrus Lem."
+        },
+        {
+          "relatedresourceid": 634831,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Melocactus ellemeetii Miq."
+        },
+        {
+          "relatedresourceid": 78044,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Melocactus margaritaceus Rizzini"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Rizzini, C.T. s/n",
+          "collectioncode": "RB",
+          "catalognumber": "RB00537916",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00537916",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Rizzini, C.T. s/n",
+          "collectioncode": "RB",
+          "catalognumber": "RB00537916",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284394232",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 1593,
+        "scientificname": "Melocactus violaceus subsp. ritteri N.P.Taylor",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Melocactus",
+        "specificepithet": "violaceus",
+        "infraspecificepithet": "ritteri",
+        "scientificnameauthorship": "N.P.Taylor",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Melocactus Link & Otto;Melocactus violaceus Pfeiff.;Melocactus violaceus subsp. ritteri N.P.Taylor",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1593>http://floradobrasil2015.jbrj.gov.br/FB1593</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1593\">https://floradobrasil2020.jbrj.gov.br/FB1593</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Taylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\n&amp;nbsp;\r\nTaylor, N.P. 1991. The genus Melocactus in Central and South America. Bradleya 9:1-80.",
+        "parentnameusage": "Melocactus violaceus Pfeiff.",
+        "parentnameusageid": 1591,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1593",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2024-10-04 13:39:39.53"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Caatinga"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Subarbusto",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Campo rupestre",
+          "Carrasco"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Bradea,9: 57.,1991"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "N. P. Taylor 1583",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00051211",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226446883",
+          "locality": "BA",
+          "typestatus": null
+        },
+        {
+          "recordedby": "N. P. Taylor 1583",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00051211",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CEPEC00051211",
+          "locality": "BA",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 1594,
+        "scientificname": "Melocactus violaceus Pfeiff. subsp. violaceus",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Melocactus",
+        "specificepithet": "violaceus",
+        "infraspecificepithet": "violaceus",
+        "scientificnameauthorship": "Pfeiff.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Melocactus Link & Otto;Melocactus violaceus Pfeiff.;Melocactus violaceus Pfeiff. subsp. violaceus",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1594>http://floradobrasil2015.jbrj.gov.br/FB1594</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1594\">https://floradobrasil2020.jbrj.gov.br/FB1594</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Taylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\n&amp;nbsp;\r\nTaylor, N.P. 1991. The genus Melocactus in Central and South America. Bradleya 9:1-80.",
+        "parentnameusage": "Melocactus violaceus Pfeiff.",
+        "parentnameusageid": 1591,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1594",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2025-05-02 15:43:50.807"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PB",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RN",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-CE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Subarbusto",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Carrasco",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Allg. Gartenzeitung (Otto & Dietrich),3: 313.,1835"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 600605,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Melocactus goniodacanthus Lem."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Siqueira, G.S. 661",
+          "collectioncode": "CVRD",
+          "catalognumber": "CVRD013441",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CVRD013441",
+          "locality": "ES",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 633474,
+        "scientificname": "Melocactus violaceus subsp. natalensis P.J.Braun & Esteves",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Melocactus",
+        "specificepithet": "violaceus",
+        "infraspecificepithet": "natalensis",
+        "scientificnameauthorship": "P.J.Braun & Esteves",
+        "acceptednameusage": "Melocactus natalensis (P.J.Braun & Esteves) N.P.Taylor",
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Melocactus Link & Otto;Melocactus violaceus Pfeiff.;Melocactus violaceus subsp. natalensis P.J.Braun & Esteves",
+        "source": "Taylor, N.P., Telhe, M.C., Olsthoorn, G., Lowry, M., Pereira, F.O. &amp;amp; Zappi, D.C. 2025. A taxonomic update for Melocactus in Eastern Brazil. Bradleya 43: 99-119.",
+        "parentnameusage": "Melocactus violaceus Pfeiff.",
+        "parentnameusageid": 1591,
+        "originalnameusageid": "639639",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB633474",
+        "acceptednameusageid": 639639,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2025-12-04 12:42:04.008"
+      },
+      "distribuition": [],
+      "specie_profile": {
+        "vegetationType": [
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Braun & Esteves,Cactus and Succulent Journal,69: 71,1997"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 639639,
+          "relationshipofresource": "É sinônimo BASIONIMO",
+          "scientificname": "Melocactus natalensis (P.J.Braun & Esteves) N.P.Taylor"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

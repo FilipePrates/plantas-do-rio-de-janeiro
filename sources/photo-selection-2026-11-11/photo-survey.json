@@ -1,0 +1,5011 @@
+{
+  "Chrysobalanus icaco": {
+    "scientificName": "Chrysobalanus icaco",
+    "workbookRow": 481,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 113608459,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 191925073,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191925073/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 63653,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 97780,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1392
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97780/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 348724542,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 636043939,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1152,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636043939/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 373895896,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 683354155,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683354155/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 373895896,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 683354150,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683354150/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 373895896,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 683354158,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683354158/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 92849501,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 153798841,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153798841/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 92849501,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 153798872,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153798872/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 92849501,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 153798909,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153798909/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 163671241,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 283108609,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283108609/square.jpeg",
+          "attribution": "(c) Lucas Kaminski, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 163671241,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 283108649,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283108649/square.jpeg",
+          "attribution": "(c) Lucas Kaminski, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 163671241,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 283108692,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283108692/square.jpeg",
+          "attribution": "(c) Lucas Kaminski, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 163671241,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 283108727,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283108727/square.jpeg",
+          "attribution": "(c) Lucas Kaminski, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 164829022,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 285243569,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/285243569/square.jpg",
+          "attribution": "(c) Annie Weissman, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 59621660,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 95273902,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 618,
+            "height": 800
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95273902/square.jpg",
+          "attribution": "(c) loisfraser, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 381440225,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 698020426,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/698020426/square.jpg",
+          "attribution": "(c) David Weisenbeck, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 381440225,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 698020510,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/698020510/square.jpg",
+          "attribution": "(c) David Weisenbeck, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 256914497,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 460745887,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1542,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460745887/square.jpeg",
+          "attribution": "(c) markandrews1, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 256914497,
+        "taxonId": 160544,
+        "taxonName": "Chrysobalanus icaco",
+        "photo": {
+          "id": 460745912,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1542,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460745912/square.jpeg",
+          "attribution": "(c) markandrews1, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Chrysobalanus+icaco&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:36:44Z",
+        "matchingObservations": 111
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Chrysobalanus+icaco&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:36:46Z",
+        "matchingObservations": 394
+      }
+    ],
+    "complete": true
+  },
+  "Jacaratia spinosa": {
+    "scientificName": "Jacaratia spinosa",
+    "workbookRow": 439,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 139783734,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 239152761,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1152,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239152761/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 139783734,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 239152782,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1152,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239152782/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 139783734,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 239152803,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 900,
+            "height": 1600
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239152803/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 281392584,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 505478464,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505478464/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 281392584,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 505478302,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505478302/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176333531,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 306549880,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306549880/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 176333531,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 306549937,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306549937/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 406346622,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 746544496,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1490
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/746544496/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 406346622,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 746544954,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1336
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/746544954/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 126559137,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 214746762,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214746762/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 189243593,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 331405379,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1532,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331405379/square.jpg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 189243593,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 331405518,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1532,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331405518/square.jpg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 37543276,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 59867931,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1362
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59867931/square.jpeg",
+          "attribution": "(c) B. Phalan, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 37543276,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 59865556,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59865556/square.jpg",
+          "attribution": "(c) B. Phalan, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 37543276,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 59865572,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1365,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59865572/square.jpg",
+          "attribution": "(c) B. Phalan, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 32970630,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 51746923,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51746923/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 32970630,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 51746994,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51746994/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 339812194,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 618244601,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1365,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618244601/square.jpg",
+          "attribution": "(c) Paulo C. O. Cunha, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 339812194,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 618244633,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1365,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618244633/square.jpg",
+          "attribution": "(c) Paulo C. O. Cunha, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 70155431,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 113994290,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113994290/square.jpeg",
+          "attribution": "(c) B. Phalan, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 70155431,
+        "taxonId": 556969,
+        "taxonName": "Jacaratia spinosa",
+        "photo": {
+          "id": 113994306,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113994306/square.jpeg",
+          "attribution": "(c) B. Phalan, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Jacaratia+spinosa&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:36:49Z",
+        "matchingObservations": 5
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Jacaratia+spinosa&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:36:52Z",
+        "matchingObservations": 16
+      }
+    ],
+    "complete": true
+  },
+  "Cordia superba": {
+    "scientificName": "Cordia superba",
+    "workbookRow": 564,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 261145222,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 469096063,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1152,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469096063/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 261145222,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 469096087,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469096087/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 261145222,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 469096076,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469096076/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 261145222,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 469096080,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469096080/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 197848451,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 348567833,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348567833/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 197848451,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 348567853,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348567853/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 197848451,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 348568118,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348568118/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 197848451,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 348639791,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348639791/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 22744,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 40946,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1600,
+            "height": 900
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40946/square.jpg",
+          "attribution": "(c) Alex Popovkin, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 203145606,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 358877647,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358877647/square.jpeg",
+          "attribution": "(c) Clarice Dorocinski, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 261486250,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 469781377,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469781377/square.jpg",
+          "attribution": "(c) Alexandre Magno, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 261486250,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 469781396,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469781396/square.jpg",
+          "attribution": "(c) Alexandre Magno, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 261486250,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 469781448,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469781448/square.jpg",
+          "attribution": "(c) Alexandre Magno, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 261486250,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 469781475,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469781475/square.jpg",
+          "attribution": "(c) Alexandre Magno, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 261486250,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 469781527,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469781527/square.jpg",
+          "attribution": "(c) Alexandre Magno, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 293054353,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 527433354,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527433354/square.jpg",
+          "attribution": "(c) Emma Walker, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 293054353,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 527433368,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527433368/square.jpg",
+          "attribution": "(c) Emma Walker, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 293054353,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 527433412,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527433412/square.jpg",
+          "attribution": "(c) Emma Walker, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 293054353,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 527433420,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527433420/square.jpg",
+          "attribution": "(c) Emma Walker, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 31187833,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 48786836,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48786836/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 31187833,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 48786801,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48786801/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 31187833,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 48786792,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48786792/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 31187833,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 48786750,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48786750/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 31187833,
+        "taxonId": 83908,
+        "taxonName": "Cordia superba",
+        "photo": {
+          "id": 48786715,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48786715/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Cordia+superba&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:36:55Z",
+        "matchingObservations": 2
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Cordia+superba&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:36:57Z",
+        "matchingObservations": 8
+      }
+    ],
+    "complete": true
+  },
+  "Tabernaemontana laeta": {
+    "scientificName": "Tabernaemontana laeta",
+    "workbookRow": 129,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 290307439,
+        "taxonId": 898799,
+        "taxonName": "Tabernaemontana laeta",
+        "photo": {
+          "id": 522223702,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1532,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522223702/square.jpg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Tabernaemontana+laeta&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:00Z",
+        "matchingObservations": 2
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Tabernaemontana+laeta&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:02Z",
+        "matchingObservations": 1
+      }
+    ],
+    "complete": true
+  },
+  "Lecythis lurida": {
+    "scientificName": "Lecythis lurida",
+    "workbookRow": 1290,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Lecythis+lurida&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:04Z",
+        "matchingObservations": 0
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Lecythis+lurida&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:06Z",
+        "matchingObservations": 0
+      }
+    ],
+    "complete": true
+  },
+  "Eriotheca pentaphylla": {
+    "scientificName": "Eriotheca pentaphylla",
+    "workbookRow": 1355,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 370199721,
+        "taxonId": 1318310,
+        "taxonName": "Eriotheca pentaphylla",
+        "photo": {
+          "id": 676287054,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/676287054/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 370199721,
+        "taxonId": 1318310,
+        "taxonName": "Eriotheca pentaphylla",
+        "photo": {
+          "id": 676287085,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/676287085/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 370199721,
+        "taxonId": 1318310,
+        "taxonName": "Eriotheca pentaphylla",
+        "photo": {
+          "id": 676287120,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/676287120/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 370199721,
+        "taxonId": 1318310,
+        "taxonName": "Eriotheca pentaphylla",
+        "photo": {
+          "id": 676287166,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/676287166/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 370199721,
+        "taxonId": 1318310,
+        "taxonName": "Eriotheca pentaphylla",
+        "photo": {
+          "id": 676287228,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/676287228/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 370199721,
+        "taxonId": 1318310,
+        "taxonName": "Eriotheca pentaphylla",
+        "photo": {
+          "id": 676287273,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/676287273/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eriotheca+pentaphylla&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:08Z",
+        "matchingObservations": 1
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eriotheca+pentaphylla&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:10Z",
+        "matchingObservations": 0
+      }
+    ],
+    "complete": true
+  },
+  "Pachira glabra": {
+    "scientificName": "Pachira glabra",
+    "workbookRow": 1420,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 213190512,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 376754425,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/376754425/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 400457597,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 734872088,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/734872088/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 339293350,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 617194972,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617194972/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 339293350,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 617194992,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617194992/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 339293350,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 617195317,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617195317/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 225695006,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 400184290,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/400184290/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 236095457,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 419978223,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/419978223/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 236095457,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 419978215,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/419978215/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 33872475,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 53247586,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1394,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53247586/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 223115885,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 395292171,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395292171/square.jpeg",
+          "attribution": "(c) Daniel Schelesky, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 223115885,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 395307500,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395307500/square.jpeg",
+          "attribution": "(c) Daniel Schelesky, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 223115885,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 395307608,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395307608/square.jpeg",
+          "attribution": "(c) Daniel Schelesky, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 223115885,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 395307750,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395307750/square.jpeg",
+          "attribution": "(c) Daniel Schelesky, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 149894385,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 258367947,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 921
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258367947/square.jpeg",
+          "attribution": "(c) Karen Eichholz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 149894385,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 258367967,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 921
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258367967/square.jpeg",
+          "attribution": "(c) Karen Eichholz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 137587577,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 235012627,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1125
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/235012627/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 138334639,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 236414936,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1125
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236414936/square.jpg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 138334639,
+        "taxonId": 346408,
+        "taxonName": "Pachira glabra",
+        "photo": {
+          "id": 236414956,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1125
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236414956/square.jpg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pachira+glabra&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:13Z",
+        "matchingObservations": 12
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pachira+glabra&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:16Z",
+        "matchingObservations": 32
+      }
+    ],
+    "complete": true
+  },
+  "Carpotroche brasiliensis": {
+    "scientificName": "Carpotroche brasiliensis",
+    "workbookRow": 42,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 232545433,
+        "taxonId": 1395796,
+        "taxonName": "Carpotroche brasiliensis",
+        "photo": {
+          "id": 413153212,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1024,
+            "height": 1024
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413153212/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 386666460,
+        "taxonId": 1395796,
+        "taxonName": "Carpotroche brasiliensis",
+        "photo": {
+          "id": 707969943,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/707969943/square.jpg",
+          "attribution": "(c) Gabriel Jovêncio Ribeiro, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 386666460,
+        "taxonId": 1395796,
+        "taxonName": "Carpotroche brasiliensis",
+        "photo": {
+          "id": 707969907,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/707969907/square.jpg",
+          "attribution": "(c) Gabriel Jovêncio Ribeiro, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Carpotroche+brasiliensis&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:18Z",
+        "matchingObservations": 1
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Carpotroche+brasiliensis&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:20Z",
+        "matchingObservations": 1
+      }
+    ],
+    "complete": true
+  },
+  "Chloroleucon tortum": {
+    "scientificName": "Chloroleucon tortum",
+    "workbookRow": 790,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 189874334,
+        "taxonId": 190536,
+        "taxonName": "Chloroleucon tortum",
+        "photo": {
+          "id": 332721707,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332721707/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 189874334,
+        "taxonId": 190536,
+        "taxonName": "Chloroleucon tortum",
+        "photo": {
+          "id": 332721711,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332721711/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 189874334,
+        "taxonId": 190536,
+        "taxonName": "Chloroleucon tortum",
+        "photo": {
+          "id": 332721713,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332721713/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Chloroleucon+tortum&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:23Z",
+        "matchingObservations": 1
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Chloroleucon+tortum&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:24Z",
+        "matchingObservations": 0
+      }
+    ],
+    "complete": true
+  },
+  "Centrolobium tomentosum": {
+    "scientificName": "Centrolobium tomentosum",
+    "workbookRow": 861,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 201169727,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 355062966,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355062966/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 201169727,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 355063026,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355063026/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 240849996,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 429160847,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429160847/square.jpeg",
+          "attribution": "(c) Emma Walker, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 240849996,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 429160802,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429160802/square.jpeg",
+          "attribution": "(c) Emma Walker, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 240849996,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 429160828,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429160828/square.jpeg",
+          "attribution": "(c) Emma Walker, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 240849996,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 429160869,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429160869/square.jpeg",
+          "attribution": "(c) Emma Walker, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 240849996,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 429160880,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429160880/square.jpeg",
+          "attribution": "(c) Emma Walker, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 290307449,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 522223755,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1532,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522223755/square.jpg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 198210080,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 349299411,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349299411/square.jpg",
+          "attribution": "(c) Denis Zabin, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 198210080,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 349299418,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1638
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349299418/square.jpg",
+          "attribution": "(c) Denis Zabin, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 290956376,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 523443988,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2000,
+            "height": 1500
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523443988/square.jpg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 171863579,
+        "taxonId": 524366,
+        "taxonName": "Centrolobium tomentosum",
+        "photo": {
+          "id": 298271168,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/298271168/square.jpeg",
+          "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Centrolobium+tomentosum&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:27Z",
+        "matchingObservations": 1
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Centrolobium+tomentosum&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:30Z",
+        "matchingObservations": 9
+      }
+    ],
+    "complete": true
+  },
+  "Swartzia langsdorffii": {
+    "scientificName": "Swartzia langsdorffii",
+    "workbookRow": 808,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 406169641,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 746185442,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1638,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/746185442/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 406169641,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 746185490,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1638,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/746185490/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 335860887,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 610223325,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610223325/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 335860887,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 610223340,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610223340/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 335860887,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 610223356,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610223356/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 335860887,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 610223375,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1365,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610223375/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 335860887,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 610223379,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1365,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610223379/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 335860887,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 610223394,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1365,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610223394/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 337563473,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 613673288,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613673288/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 337563473,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 613673348,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613673348/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 337563473,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 613673291,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613673291/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 337563473,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 613673299,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613673299/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 337563473,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 613673246,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613673246/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 308467378,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 556516392,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556516392/square.jpg",
+          "attribution": "(c) Denis Zabin, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 308467378,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 556516454,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556516454/square.jpg",
+          "attribution": "(c) Denis Zabin, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 308467378,
+        "taxonId": 569843,
+        "taxonName": "Swartzia langsdorffii",
+        "photo": {
+          "id": 556516502,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556516502/square.jpg",
+          "attribution": "(c) Denis Zabin, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Swartzia+langsdorffii&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:32Z",
+        "matchingObservations": 3
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Swartzia+langsdorffii&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:35Z",
+        "matchingObservations": 1
+      }
+    ],
+    "complete": true
+  },
+  "Erythrina verna": {
+    "scientificName": "Erythrina verna",
+    "workbookRow": 819,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 314214346,
+        "taxonId": 548337,
+        "taxonName": "Erythrina verna",
+        "photo": {
+          "id": 567480839,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1152,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/567480839/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 403428680,
+        "taxonId": 548337,
+        "taxonName": "Erythrina verna",
+        "photo": {
+          "id": 740706335,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1638
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/740706335/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 32498210,
+        "taxonId": 548337,
+        "taxonName": "Erythrina verna",
+        "photo": {
+          "id": 50976258,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50976258/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 32498210,
+        "taxonId": 548337,
+        "taxonName": "Erythrina verna",
+        "photo": {
+          "id": 50976268,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1152
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50976268/square.jpg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Erythrina+verna&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:38Z",
+        "matchingObservations": 2
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Erythrina+verna&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:40Z",
+        "matchingObservations": 1
+      }
+    ],
+    "complete": true
+  },
+  "Pleroma heteromallum": {
+    "scientificName": "Pleroma heteromallum",
+    "workbookRow": 1686,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 221632455,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 392497235,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392497235/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 221632455,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 392497202,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392497202/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 94678295,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 157084663,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157084663/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 94678295,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 157084670,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157084670/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 94678295,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 157084684,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157084684/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 374914558,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 685324886,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1542,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685324886/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 292048911,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 525514789,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525514789/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 292048911,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 525514804,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525514804/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 292048911,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 525514847,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525514847/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 81343116,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 133410389,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1685,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133410389/square.jpg",
+          "attribution": "(c) desertnaturalist, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 146236748,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 251370673,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251370673/square.jpeg",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 146236748,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 251370696,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251370696/square.jpeg",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 146236748,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 251370682,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251370682/square.jpeg",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 207774668,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 367543766,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/367543766/square.jpg",
+          "attribution": "(c) Bruno Siqueira, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 96348967,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 160056616,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160056616/square.jpg",
+          "attribution": "(c) René Boe Sørensen, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 147836780,
+        "taxonId": 1117609,
+        "taxonName": "Pleroma heteromallum",
+        "photo": {
+          "id": 254460402,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254460402/square.jpeg",
+          "attribution": "(c) Guy Babineau, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pleroma+heteromallum&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:43Z",
+        "matchingObservations": 29
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pleroma+heteromallum&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:46Z",
+        "matchingObservations": 48
+      }
+    ],
+    "complete": true
+  },
+  "Miconia mirabilis": {
+    "scientificName": "Miconia mirabilis",
+    "workbookRow": 1608,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 331985603,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 602380249,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602380249/square.jpg",
+          "attribution": "(c) Emmett Serrano, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 296410304,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 533705471,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533705471/square.jpg",
+          "attribution": "(c) Andrew Conboy, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 296410304,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 533705473,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533705473/square.jpg",
+          "attribution": "(c) Andrew Conboy, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 357038721,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 651155251,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651155251/square.jpg",
+          "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 357038721,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 651155291,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651155291/square.jpg",
+          "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 357038721,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 651155250,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651155250/square.jpg",
+          "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 340917163,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 620497582,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620497582/square.jpg",
+          "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 340917163,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 620497585,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620497585/square.jpg",
+          "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 340917163,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 620497583,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620497583/square.jpg",
+          "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 340917163,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 620497581,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620497581/square.jpg",
+          "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 357279284,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 651619913,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651619913/square.jpg",
+          "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 357279284,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 651619903,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651619903/square.jpg",
+          "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 357279284,
+        "taxonId": 285592,
+        "taxonName": "Miconia mirabilis",
+        "photo": {
+          "id": 651619906,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651619906/square.jpg",
+          "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Miconia+mirabilis&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:48Z",
+        "matchingObservations": 0
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Miconia+mirabilis&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:51Z",
+        "matchingObservations": 12
+      }
+    ],
+    "complete": true
+  },
+  "Solanum cernuum": {
+    "scientificName": "Solanum cernuum",
+    "workbookRow": 2890,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 226967619,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 402581947,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402581947/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 226967619,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 402581922,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402581922/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 226967619,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 402581921,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402581921/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 226967619,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 402581961,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402581961/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 226967619,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 402581875,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402581875/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 226967619,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 402581872,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402581872/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 292073795,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 525560589,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525560589/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 292073795,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 525560606,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525560606/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 292073795,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 525560618,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525560618/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 292073795,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 525560626,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525560626/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 292073795,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 525560631,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525560631/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 292073795,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 525560680,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525560680/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 282627062,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 507786436,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1542,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507786436/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 282627062,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 507786460,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1542,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507786460/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 248275152,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 443575977,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443575977/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 248275152,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 443575974,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1365,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443575974/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 248275152,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 443576061,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443576061/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 248275152,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 443576085,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443576085/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 248275152,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 443576019,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443576019/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 248275152,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 443576180,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1365
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443576180/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 248275152,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 443576220,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1365,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443576220/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 233585989,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 415133755,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415133755/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 233585989,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 415133721,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415133721/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 233585989,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 415133720,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415133720/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 233585989,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 415133725,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415133725/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 233585989,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 415133696,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415133696/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 233585989,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 415133697,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415133697/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 233585989,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 415133694,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1500,
+            "height": 1200
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415133694/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 33541855,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 52687324,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52687324/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 248692219,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 444414527,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444414527/square.jpeg",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 248692219,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 444414479,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444414479/square.jpeg",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 5308817,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 6573832,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6573832/square.jpg",
+          "attribution": "(c) B. Phalan, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 5308817,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 10284512,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1356
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10284512/square.jpeg",
+          "attribution": "(c) B. Phalan, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 266843452,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 479411041,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479411041/square.jpeg",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 266843452,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 479411017,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479411017/square.jpeg",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 266843452,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 479411015,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479411015/square.jpeg",
+          "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 246412487,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 439866496,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439866496/square.jpeg",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 246412487,
+        "taxonId": 559746,
+        "taxonName": "Solanum cernuum",
+        "photo": {
+          "id": 439866522,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439866522/square.jpeg",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Solanum+cernuum&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:53Z",
+        "matchingObservations": 9
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Solanum+cernuum&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:56Z",
+        "matchingObservations": 7
+      }
+    ],
+    "complete": true
+  },
+  "Brunfelsia uniflora": {
+    "scientificName": "Brunfelsia uniflora",
+    "workbookRow": 2855,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 32430168,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 50862847,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50862847/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 32430168,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 50862866,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50862866/square.jpeg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 212696819,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 375864123,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2000,
+            "height": 1500
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/375864123/square.jpg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 319175162,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 576929170,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/576929170/square.jpg",
+          "attribution": "(c) Arthur Bruck, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 319175162,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 576929224,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/576929224/square.jpg",
+          "attribution": "(c) Arthur Bruck, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 29806655,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 46537312,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46537312/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 311561514,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 562439125,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562439125/square.jpg",
+          "attribution": "(c) Arthur Bruck, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 311561514,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 562439152,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562439152/square.jpg",
+          "attribution": "(c) Arthur Bruck, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 311561514,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 562439191,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562439191/square.jpg",
+          "attribution": "(c) Arthur Bruck, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 311561514,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 562439225,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562439225/square.jpg",
+          "attribution": "(c) Arthur Bruck, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 11224534,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 15926316,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15926316/square.jpg",
+          "attribution": "(c) Magucination Guzmán, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 11224534,
+        "taxonId": 491268,
+        "taxonName": "Brunfelsia uniflora",
+        "photo": {
+          "id": 15926083,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15926083/square.jpg",
+          "attribution": "(c) Magucination Guzmán, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Brunfelsia+uniflora&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:37:59Z",
+        "matchingObservations": 1
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Brunfelsia+uniflora&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:01Z",
+        "matchingObservations": 8
+      }
+    ],
+    "complete": true
+  },
+  "Brunfelsia pauciflora": {
+    "scientificName": "Brunfelsia pauciflora",
+    "workbookRow": 2854,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 153068124,
+        "taxonId": 343971,
+        "taxonName": "Brunfelsia pauciflora",
+        "photo": {
+          "id": 264323898,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264323898/square.jpg",
+          "attribution": "(c) Mark Richman, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 153068124,
+        "taxonId": 343971,
+        "taxonName": "Brunfelsia pauciflora",
+        "photo": {
+          "id": 264323917,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264323917/square.jpg",
+          "attribution": "(c) Mark Richman, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 153068124,
+        "taxonId": 343971,
+        "taxonName": "Brunfelsia pauciflora",
+        "photo": {
+          "id": 264323948,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264323948/square.jpg",
+          "attribution": "(c) Mark Richman, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 153068124,
+        "taxonId": 343971,
+        "taxonName": "Brunfelsia pauciflora",
+        "photo": {
+          "id": 264323976,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264323976/square.jpg",
+          "attribution": "(c) Mark Richman, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 142896957,
+        "taxonId": 343971,
+        "taxonName": "Brunfelsia pauciflora",
+        "photo": {
+          "id": 245057858,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1531,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245057858/square.jpeg",
+          "attribution": "(c) Ben Costamagna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 142896957,
+        "taxonId": 343971,
+        "taxonName": "Brunfelsia pauciflora",
+        "photo": {
+          "id": 245057867,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1531,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245057867/square.jpeg",
+          "attribution": "(c) Ben Costamagna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 142896957,
+        "taxonId": 343971,
+        "taxonName": "Brunfelsia pauciflora",
+        "photo": {
+          "id": 245057874,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1531,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245057874/square.jpeg",
+          "attribution": "(c) Ben Costamagna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 142896957,
+        "taxonId": 343971,
+        "taxonName": "Brunfelsia pauciflora",
+        "photo": {
+          "id": 245057895,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1531,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245057895/square.jpeg",
+          "attribution": "(c) Ben Costamagna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 33371953,
+        "taxonId": 343971,
+        "taxonName": "Brunfelsia pauciflora",
+        "photo": {
+          "id": 52410338,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52410338/square.jpeg",
+          "attribution": "(c) Guillermo J. Fadul R., some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 60793983,
+        "taxonId": 343971,
+        "taxonName": "Brunfelsia pauciflora",
+        "photo": {
+          "id": 97231871,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97231871/square.jpeg",
+          "attribution": "(c) Sabarni Sarker, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 92933890,
+        "taxonId": 343971,
+        "taxonName": "Brunfelsia pauciflora",
+        "photo": {
+          "id": 153950252,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153950252/square.jpeg",
+          "attribution": "(c) Anthony Batista, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Brunfelsia+pauciflora&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:03Z",
+        "matchingObservations": 0
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Brunfelsia+pauciflora&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:06Z",
+        "matchingObservations": 15
+      }
+    ],
+    "complete": true
+  },
+  "Brunfelsia brasiliensis": {
+    "scientificName": "Brunfelsia brasiliensis",
+    "workbookRow": 2851,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Brunfelsia+brasiliensis&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:08Z",
+        "matchingObservations": 0
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Brunfelsia+brasiliensis&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:10Z",
+        "matchingObservations": 0
+      }
+    ],
+    "complete": true
+  },
+  "Talipariti pernambucense": {
+    "scientificName": "Talipariti pernambucense",
+    "workbookRow": 1436,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Talipariti+pernambucense&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:13Z",
+        "matchingObservations": 6
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Talipariti+pernambucense&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:16Z",
+        "matchingObservations": 42
+      }
+    ],
+    "complete": true
+  },
+  "Pavonia multiflora": {
+    "scientificName": "Pavonia multiflora",
+    "workbookRow": 1377,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 281491446,
+        "taxonId": 332683,
+        "taxonName": "Pavonia multiflora",
+        "photo": {
+          "id": 505663252,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505663252/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 193553051,
+        "taxonId": 332683,
+        "taxonName": "Pavonia multiflora",
+        "photo": {
+          "id": 340017772,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340017772/square.jpeg",
+          "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 193553051,
+        "taxonId": 332683,
+        "taxonName": "Pavonia multiflora",
+        "photo": {
+          "id": 340017676,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340017676/square.jpeg",
+          "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 193553051,
+        "taxonId": 332683,
+        "taxonName": "Pavonia multiflora",
+        "photo": {
+          "id": 340017635,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340017635/square.jpeg",
+          "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 193553051,
+        "taxonId": 332683,
+        "taxonName": "Pavonia multiflora",
+        "photo": {
+          "id": 340017642,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340017642/square.jpeg",
+          "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pavonia+multiflora&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:18Z",
+        "matchingObservations": 1
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Pavonia+multiflora&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:20Z",
+        "matchingObservations": 1
+      }
+    ],
+    "complete": true
+  },
+  "Stifftia chrysantha": {
+    "scientificName": "Stifftia chrysantha",
+    "workbookRow": 225,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 317053643,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 572873448,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572873448/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 317053643,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 572873496,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572873496/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 317053643,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 572873562,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 1153,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572873562/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 401102291,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 736143011,
+          "license_code": "cc0",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1639
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/736143011/square.jpg",
+          "attribution": "no rights reserved",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 357362087,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 651787401,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1360
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651787401/square.jpg",
+          "attribution": "(c) aacocucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 357362087,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 651787441,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1360
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651787441/square.jpg",
+          "attribution": "(c) aacocucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 357362087,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 651787465,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1360
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651787465/square.jpg",
+          "attribution": "(c) aacocucci, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 202601954,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 357823063,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 774,
+            "height": 1032
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357823063/square.jpeg",
+          "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 223602432,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 396202786,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396202786/square.jpeg",
+          "attribution": "(c) Lucas Mantelo Cruz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 223602432,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 396202820,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396202820/square.jpeg",
+          "attribution": "(c) Lucas Mantelo Cruz, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 29271452,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 45671107,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45671107/square.jpeg",
+          "attribution": "(c) Stan Rullman, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 29271452,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 45671104,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45671104/square.jpeg",
+          "attribution": "(c) Stan Rullman, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 71457261,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 116334934,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116334934/square.jpeg",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 71457261,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 116334915,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116334915/square.jpeg",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 71457261,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 116334936,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116334936/square.jpeg",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 71457261,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 116334946,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116334946/square.jpeg",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 71457261,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 116334939,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1536,
+            "height": 2048
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116334939/square.jpeg",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 71457261,
+        "taxonId": 431648,
+        "taxonName": "Stifftia chrysantha",
+        "photo": {
+          "id": 116334956,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116334956/square.jpeg",
+          "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Stifftia+chrysantha&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:23Z",
+        "matchingObservations": 2
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Stifftia+chrysantha&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:26Z",
+        "matchingObservations": 27
+      }
+    ],
+    "complete": true
+  },
+  "Stifftia fruticosa": {
+    "scientificName": "Stifftia fruticosa",
+    "workbookRow": 226,
+    "scopeAuthority": "Supplied workbook, per user instruction; no new Rio occurrence checks.",
+    "photos": [
+      {
+        "observationId": 389697348,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 713847551,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847551/square.jpg",
+          "attribution": "(c) topeuna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 389697348,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 713847463,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847463/square.jpg",
+          "attribution": "(c) topeuna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 389697348,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 713847559,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847559/square.jpg",
+          "attribution": "(c) topeuna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 389697348,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 713847491,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847491/square.jpg",
+          "attribution": "(c) topeuna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 389697348,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 713847479,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1944,
+            "height": 1458
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847479/square.jpg",
+          "attribution": "(c) topeuna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 389697348,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 713847484,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1985,
+            "height": 1489
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847484/square.jpg",
+          "attribution": "(c) topeuna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 389697348,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 713847532,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847532/square.jpg",
+          "attribution": "(c) topeuna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 389697348,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 713847527,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847527/square.jpg",
+          "attribution": "(c) topeuna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 389697348,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 713847524,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847524/square.jpg",
+          "attribution": "(c) topeuna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 389697348,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 713847501,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847501/square.jpg",
+          "attribution": "(c) topeuna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 389697348,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 713847548,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847548/square.jpg",
+          "attribution": "(c) topeuna, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 375713497,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 686882216,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/686882216/square.jpg",
+          "attribution": "(c) Lucas Kaminski, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 375713497,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 686882383,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/686882383/square.jpg",
+          "attribution": "(c) Lucas Kaminski, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      },
+      {
+        "observationId": 375713497,
+        "taxonId": 912358,
+        "taxonName": "Stifftia fruticosa",
+        "photo": {
+          "id": 686882385,
+          "license_code": "cc-by",
+          "original_dimensions": {
+            "width": 1080,
+            "height": 1920
+          },
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/686882385/square.jpg",
+          "attribution": "(c) Lucas Kaminski, some rights reserved (CC BY)",
+          "flags": [],
+          "moderator_actions": [],
+          "hidden": false
+        }
+      }
+    ],
+    "queries": [
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Stifftia+fruticosa&photo_license=cc0&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:28Z",
+        "matchingObservations": 0
+      },
+      {
+        "url": "https://api.inaturalist.org/v1/observations?taxon_name=Stifftia+fruticosa&photo_license=cc-by&quality_grade=research&captive=false&per_page=5&order_by=votes",
+        "retrievedAt": "2026-11-11T08:38:30Z",
+        "matchingObservations": 2
+      }
+    ],
+    "complete": true
+  }
+}

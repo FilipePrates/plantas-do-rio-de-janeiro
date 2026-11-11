@@ -1,0 +1,6895 @@
+{
+  "Aechmea bromeliifolia": {
+    "scientificName": "Aechmea bromeliifolia",
+    "workbookRow": null,
+    "eligible": false,
+    "complete": true,
+    "reason": "Exact accepted native BR-RJ / Atlantic Forest combination not confirmed; do not add."
+  },
+  "Aechmea gracilis": {
+    "scientificName": "Aechmea gracilis",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5814,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 322824883,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 584061652,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 299399316,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 539388099,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 299399316,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 539388163,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 299399316,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 539388267,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 299399316,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 539388312,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 229499865,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 407380707,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 299398703,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 539387039,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 299398703,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 539387088,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 299398703,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 539387139,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 220230615,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 389896089,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 220230615,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 389896124,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 220230615,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 389896164,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 185219106,
+        "taxonName": "Aechmea gracilis",
+        "photoId": 323444023,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 5
+    },
+    "complete": true
+  },
+  "Aechmea pectinata": {
+    "scientificName": "Aechmea pectinata",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5853,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 106123756,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 178216413,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 106123756,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 178216412,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 251348414,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 449719432,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 277502545,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 498261921,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 277502545,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 498261951,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 331457299,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 601301236,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 151883161,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 262130515,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 152541001,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 263342119,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 152541001,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 263342090,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 152541001,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 263342075,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 277502562,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 498262065,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 334088956,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 606628586,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 334088956,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 606628601,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 67595041,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 109247464,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 67595041,
+        "taxonName": "Aechmea pectinata",
+        "photoId": 109247577,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 8
+    },
+    "complete": true
+  },
+  "Aechmea ramosa": {
+    "scientificName": "Aechmea ramosa",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5865,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 343127520,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 624967655,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 361552748,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 659842135,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 361552748,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 659842182,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 361552748,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 659842222,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704184,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998901,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704184,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998904,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704187,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998930,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 352257662,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 642904131,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 352257662,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 642904106,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 349205550,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 636988340,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 349205550,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 636988339,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704183,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998621,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704183,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998622,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704183,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998620,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704183,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998572,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704183,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998697,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704183,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998692,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704183,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998586,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704183,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998547,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 238704183,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 424998565,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 370729204,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 677284164,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 370729204,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 677284160,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 370729204,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 677284186,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 352257601,
+        "taxonName": "Aechmea ramosa",
+        "photoId": 642903063,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 11
+    },
+    "complete": true
+  },
+  "Aechmea ornata": {
+    "scientificName": "Aechmea ornata",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5850,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Floresta Ombrófila Mista",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 403875354,
+        "taxonName": "Aechmea ornata",
+        "photoId": 741602390,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 403875354,
+        "taxonName": "Aechmea ornata",
+        "photoId": 741602487,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 403875354,
+        "taxonName": "Aechmea ornata",
+        "photoId": 741602816,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 403875354,
+        "taxonName": "Aechmea ornata",
+        "photoId": 741602869,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 403875354,
+        "taxonName": "Aechmea ornata",
+        "photoId": 741602908,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 403875354,
+        "taxonName": "Aechmea ornata",
+        "photoId": 741602953,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 156882962,
+        "taxonName": "Aechmea ornata",
+        "photoId": 271317885,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 197648405,
+        "taxonName": "Aechmea ornata",
+        "photoId": 348165688,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 197648405,
+        "taxonName": "Aechmea ornata",
+        "photoId": 348165657,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 197648405,
+        "taxonName": "Aechmea ornata",
+        "photoId": 348165684,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 197648405,
+        "taxonName": "Aechmea ornata",
+        "photoId": 348165676,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 197648405,
+        "taxonName": "Aechmea ornata",
+        "photoId": 348165677,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 162884431,
+        "taxonName": "Aechmea ornata",
+        "photoId": 281674040,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 162884431,
+        "taxonName": "Aechmea ornata",
+        "photoId": 281674008,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 162884431,
+        "taxonName": "Aechmea ornata",
+        "photoId": 281674107,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 145954217,
+        "taxonName": "Aechmea ornata",
+        "photoId": 250819623,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 145954217,
+        "taxonName": "Aechmea ornata",
+        "photoId": 250819631,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 145954217,
+        "taxonName": "Aechmea ornata",
+        "photoId": 250819639,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 145954217,
+        "taxonName": "Aechmea ornata",
+        "photoId": 250819620,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 145954217,
+        "taxonName": "Aechmea ornata",
+        "photoId": 250819644,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 145954217,
+        "taxonName": "Aechmea ornata",
+        "photoId": 250819612,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 164549031,
+        "taxonName": "Aechmea ornata",
+        "photoId": 284717337,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 164549031,
+        "taxonName": "Aechmea ornata",
+        "photoId": 284717368,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 164549031,
+        "taxonName": "Aechmea ornata",
+        "photoId": 284717397,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 164549031,
+        "taxonName": "Aechmea ornata",
+        "photoId": 284717425,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 164549031,
+        "taxonName": "Aechmea ornata",
+        "photoId": 284717460,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 164549031,
+        "taxonName": "Aechmea ornata",
+        "photoId": 284717487,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 400854404,
+        "taxonName": "Aechmea ornata",
+        "photoId": 735664915,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 400854404,
+        "taxonName": "Aechmea ornata",
+        "photoId": 735664967,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 400854404,
+        "taxonName": "Aechmea ornata",
+        "photoId": 735665020,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 228488445,
+        "taxonName": "Aechmea ornata",
+        "photoId": 405463324,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 384402175,
+        "taxonName": "Aechmea ornata",
+        "photoId": 703647115,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 384402175,
+        "taxonName": "Aechmea ornata",
+        "photoId": 703647127,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 142253080,
+        "taxonName": "Aechmea ornata",
+        "photoId": 243850305,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 142253080,
+        "taxonName": "Aechmea ornata",
+        "photoId": 243850318,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307651566,
+        "taxonName": "Aechmea ornata",
+        "photoId": 554936472,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 3,
+      "cc-by": 26
+    },
+    "complete": true
+  },
+  "Aechmea sphaerocephala": {
+    "scientificName": "Aechmea sphaerocephala",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5872,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 0
+    },
+    "complete": true
+  },
+  "Aechmea weilbachii": {
+    "scientificName": "Aechmea weilbachii",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5884,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 205140866,
+        "taxonName": "Aechmea weilbachii",
+        "photoId": 362665090,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 205140866,
+        "taxonName": "Aechmea weilbachii",
+        "photoId": 362665092,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 205140866,
+        "taxonName": "Aechmea weilbachii",
+        "photoId": 362665118,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 205140866,
+        "taxonName": "Aechmea weilbachii",
+        "photoId": 362665124,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 205140866,
+        "taxonName": "Aechmea weilbachii",
+        "photoId": 362665150,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 184750518,
+        "taxonName": "Aechmea weilbachii",
+        "photoId": 322525801,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 301033974,
+        "taxonName": "Aechmea weilbachii",
+        "photoId": 542436167,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 301033974,
+        "taxonName": "Aechmea weilbachii",
+        "photoId": 542436229,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 27976809,
+        "taxonName": "Aechmea weilbachii",
+        "photoId": 43579794,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 7234205,
+        "taxonName": "Aechmea weilbachii",
+        "photoId": 9342502,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 5
+    },
+    "complete": true
+  },
+  "Neoregelia johannis": {
+    "scientificName": "Neoregelia johannis",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6172,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 133831555,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 228019548,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 133831555,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 228019446,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 133831555,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 228019406,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 42402246,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 67324053,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 42402246,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 67324280,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 133830180,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 228015886,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 133830180,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 228016012,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 129038782,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 219239492,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 49346253,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 78332780,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 144677011,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 248363434,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 144677011,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 248363443,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 144677011,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 248363452,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 348101441,
+        "taxonName": "Neoregelia johannis",
+        "photoId": 634804670,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 3,
+      "cc-by": 4
+    },
+    "complete": true
+  },
+  "Neoregelia concentrica": {
+    "scientificName": "Neoregelia concentrica",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6152,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 65204294,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 104910928,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 65204294,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 104910936,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 65204294,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 104910990,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 65204294,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 104910996,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 347288959,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 633193648,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 67587589,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 109234537,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 330606998,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 599545422,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 330606998,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 599545446,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 330606998,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 599545460,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 335214459,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 609049214,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 192923425,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 338789767,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 137593172,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 235020609,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 138054904,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 235841190,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 102216041,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 170807086,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 102216041,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 170807438,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 102216041,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 170807439,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 102216041,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 170807442,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 102216041,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 170807444,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 102216041,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 170807448,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 102216041,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 170807453,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 330549657,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 599427255,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 330549657,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 599427264,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 330549657,
+        "taxonName": "Neoregelia concentrica",
+        "photoId": 599427276,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 2,
+      "cc-by": 8
+    },
+    "complete": true
+  },
+  "Neoregelia sarmentosa": {
+    "scientificName": "Neoregelia sarmentosa",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6215,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 0
+    },
+    "complete": true
+  },
+  "Neoregelia pauciflora": {
+    "scientificName": "Neoregelia pauciflora",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6200,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 335957343,
+        "taxonName": "Neoregelia pauciflora",
+        "photoId": 610416708,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 335957343,
+        "taxonName": "Neoregelia pauciflora",
+        "photoId": 610416733,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 335957343,
+        "taxonName": "Neoregelia pauciflora",
+        "photoId": 610416751,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 1
+    },
+    "complete": true
+  },
+  "Nidularium innocentii": {
+    "scientificName": "Nidularium innocentii",
+    "workbookRow": null,
+    "eligible": false,
+    "complete": true,
+    "reason": "Exact accepted native BR-RJ / Atlantic Forest combination not confirmed; do not add."
+  },
+  "Nidularium procerum": {
+    "scientificName": "Nidularium procerum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6265,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Manguezal",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 268640661,
+        "taxonName": "Nidularium procerum",
+        "photoId": 482900460,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 268640661,
+        "taxonName": "Nidularium procerum",
+        "photoId": 482900236,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 268640661,
+        "taxonName": "Nidularium procerum",
+        "photoId": 482900256,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 268640661,
+        "taxonName": "Nidularium procerum",
+        "photoId": 482900138,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 268640661,
+        "taxonName": "Nidularium procerum",
+        "photoId": 482900195,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 98389986,
+        "taxonName": "Nidularium procerum",
+        "photoId": 163798377,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 98389994,
+        "taxonName": "Nidularium procerum",
+        "photoId": 163798949,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 98389994,
+        "taxonName": "Nidularium procerum",
+        "photoId": 163798974,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 70117238,
+        "taxonName": "Nidularium procerum",
+        "photoId": 113924575,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 362832086,
+        "taxonName": "Nidularium procerum",
+        "photoId": 662214566,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 186529854,
+        "taxonName": "Nidularium procerum",
+        "photoId": 325996362,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 379248784,
+        "taxonName": "Nidularium procerum",
+        "photoId": 693700430,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 379248784,
+        "taxonName": "Nidularium procerum",
+        "photoId": 693700431,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 225716353,
+        "taxonName": "Nidularium procerum",
+        "photoId": 400213774,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 225716353,
+        "taxonName": "Nidularium procerum",
+        "photoId": 400213606,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 225716353,
+        "taxonName": "Nidularium procerum",
+        "photoId": 400213608,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 279087187,
+        "taxonName": "Nidularium procerum",
+        "photoId": 501136123,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 225716333,
+        "taxonName": "Nidularium procerum",
+        "photoId": 400212001,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 225716333,
+        "taxonName": "Nidularium procerum",
+        "photoId": 400212012,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 225716333,
+        "taxonName": "Nidularium procerum",
+        "photoId": 400211998,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 280392324,
+        "taxonName": "Nidularium procerum",
+        "photoId": 503583447,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 401409688,
+        "taxonName": "Nidularium procerum",
+        "photoId": 736753664,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 401409688,
+        "taxonName": "Nidularium procerum",
+        "photoId": 736753709,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 4,
+      "cc-by": 12
+    },
+    "complete": true
+  },
+  "Vriesea botafogensis": {
+    "scientificName": "Vriesea botafogensis",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6434,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 4,
+      "cc-by": 0
+    },
+    "complete": true
+  },
+  "Vriesea neoglutinosa": {
+    "scientificName": "Vriesea neoglutinosa",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6511,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 184765914,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 322567440,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 184765914,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 322567515,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 184765914,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 322567558,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 184765914,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 322567740,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 190693487,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 334348826,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 258081672,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 462973905,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 258081672,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 462973837,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 258081672,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 462973845,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 258081672,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 462973834,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 231315349,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 410815905,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 311189596,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 561734970,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 311189596,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 561734977,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 311189596,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 561734987,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 124142993,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 210387490,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 124142993,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 210387534,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 393929836,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 722080556,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 393929836,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 722080543,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 394745573,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 723709946,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145584647,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145584604,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145584560,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145584461,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145584509,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145584696,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145584769,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145584840,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145584913,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585029,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585043,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251850,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585107,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251851,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585221,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251851,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585314,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251851,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585336,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251851,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585378,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251851,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585386,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251851,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585278,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251851,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585461,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251851,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585450,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 88251851,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 145585513,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 96129156,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 159650532,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 96129156,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 159650561,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 96129156,
+        "taxonName": "Vriesea neoglutinosa",
+        "photoId": 159650596,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 3,
+      "cc-by": 8
+    },
+    "complete": true
+  },
+  "Vriesea fosteriana": {
+    "scientificName": "Vriesea fosteriana",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6465,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 249386856,
+        "taxonName": "Vriesea fosteriana",
+        "photoId": 445789901,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 252078956,
+        "taxonName": "Vriesea fosteriana",
+        "photoId": 451173371,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 252078956,
+        "taxonName": "Vriesea fosteriana",
+        "photoId": 451173368,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 2
+    },
+    "complete": true
+  },
+  "Vriesea philippocoburgii": {
+    "scientificName": "Vriesea philippocoburgii",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6526,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 10,
+      "cc-by": 96
+    },
+    "complete": true
+  },
+  "Vriesea ensiformis": {
+    "scientificName": "Vriesea ensiformis",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6457,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 186063172,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 325072491,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 344238867,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 627193691,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 344238867,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 627322499,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 392998376,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 720275953,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 362832096,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 662214725,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 362832096,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 662214727,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 116173313,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 196074211,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 116173313,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 196075079,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 152078907,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 262485779,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 152078907,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 262485793,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 152078907,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 262485808,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 152078907,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 262485828,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 152078907,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 262485851,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 169812254,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 294437519,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 158116538,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 273301937,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 158116538,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 273302128,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 158116538,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 273405012,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307651544,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 554935231,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307651544,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 554935244,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307651544,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 554935218,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 297179331,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 535183432,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 297179331,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 535183502,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 152073055,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 262474545,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 152073055,
+        "taxonName": "Vriesea ensiformis",
+        "photoId": 262474625,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 3,
+      "cc-by": 52
+    },
+    "complete": true
+  },
+  "Vriesea inflata": {
+    "scientificName": "Vriesea inflata",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6484,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 186061607,
+        "taxonName": "Vriesea inflata",
+        "photoId": 325067657,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 229272151,
+        "taxonName": "Vriesea inflata",
+        "photoId": 406947186,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 186056992,
+        "taxonName": "Vriesea inflata",
+        "photoId": 325060773,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 186063168,
+        "taxonName": "Vriesea inflata",
+        "photoId": 325072470,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 200302904,
+        "taxonName": "Vriesea inflata",
+        "photoId": 353354206,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 164522631,
+        "taxonName": "Vriesea inflata",
+        "photoId": 284669078,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 167773899,
+        "taxonName": "Vriesea inflata",
+        "photoId": 290679752,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 362832091,
+        "taxonName": "Vriesea inflata",
+        "photoId": 662214662,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 362832091,
+        "taxonName": "Vriesea inflata",
+        "photoId": 662214665,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 108455328,
+        "taxonName": "Vriesea inflata",
+        "photoId": 182603081,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 108455328,
+        "taxonName": "Vriesea inflata",
+        "photoId": 182603785,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 200302841,
+        "taxonName": "Vriesea inflata",
+        "photoId": 353353959,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 235916719,
+        "taxonName": "Vriesea inflata",
+        "photoId": 419621529,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 320979619,
+        "taxonName": "Vriesea inflata",
+        "photoId": 580424178,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 4,
+      "cc-by": 15
+    },
+    "complete": true
+  },
+  "Vriesea longicaulis": {
+    "scientificName": "Vriesea longicaulis",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6497,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 165383970,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 286275173,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 239078712,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 425732015,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 239078712,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 425732055,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 239078712,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 425732056,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 239078712,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 425732063,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 234800830,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 417476425,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 234800830,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 417476370,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 234800830,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 417476329,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 234800830,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 417476391,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 291530063,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 524531346,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 291530063,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 524531433,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 203044241,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 358683132,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 203044241,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 358683155,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 203044241,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 358683192,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198760518,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 350387138,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198760518,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 350387144,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198760518,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 350387153,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198760518,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 350387159,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198760518,
+        "taxonName": "Vriesea longicaulis",
+        "photoId": 350387171,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 6
+    },
+    "complete": true
+  },
+  "Vriesea scalaris": {
+    "scientificName": "Vriesea scalaris",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6554,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 278137693,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 499405308,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 278137693,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 499405289,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 361244078,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 659251301,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 361244078,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 659251335,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149185415,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 257025738,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149185415,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 257025754,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149185415,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 257025717,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149185415,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 257025727,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 361269572,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 659300041,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 361269572,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 659300629,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 361269572,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 659300681,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 36538071,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 57762935,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 151970622,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 262293097,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 151970622,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 262293134,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 151970622,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 262293116,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 152078899,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 262485539,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 148219694,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 255201067,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 148219694,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 255201055,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 148219694,
+        "taxonName": "Vriesea scalaris",
+        "photoId": 255201094,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 12
+    },
+    "complete": true
+  },
+  "Tillandsia aeranthos": {
+    "scientificName": "Tillandsia aeranthos",
+    "workbookRow": null,
+    "eligible": false,
+    "complete": true,
+    "reason": "Exact accepted native BR-RJ / Atlantic Forest combination not confirmed; do not add."
+  },
+  "Tillandsia geminiflora": {
+    "scientificName": "Tillandsia geminiflora",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6376,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 363202551,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 662963956,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 302446029,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 545065123,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 322506892,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 583436917,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 313976271,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 567050431,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 322166972,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 582756747,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 198104081,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 349085822,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 198104081,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 349085838,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 198104081,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 349085863,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 198104081,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 349085873,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 300772650,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 541947158,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 309122205,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 557778352,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 93099100,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 154249645,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 93099100,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 154249663,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 93099100,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 154249703,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 93099100,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 154249732,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 93099100,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 154249744,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 189240227,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 331444048,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 243680787,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 434551543,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 180938708,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 315267681,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 95667931,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 158844633,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 209900340,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 371361739,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 209900340,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 371361824,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 186458413,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 325855329,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 186458413,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 325855358,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 246061695,
+        "taxonName": "Tillandsia geminiflora",
+        "photoId": 439198484,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 85,
+      "cc-by": 126
+    },
+    "complete": true
+  },
+  "Tillandsia recurvata": {
+    "scientificName": "Tillandsia recurvata",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6399,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Área Antrópica",
+        "Caatinga (stricto sensu)",
+        "Campo rupestre",
+        "Cerrado (lato sensu)",
+        "Floresta Ciliar ou Galeria",
+        "Floresta Estacional Decidual",
+        "Floresta Estacional Semidecidual",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 194088035,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 341066710,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 24732179,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 38247696,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 200851502,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 354442114,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 200851502,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 354442127,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 202736156,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 358092399,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 39097091,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 62034322,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 39097091,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 62034321,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 270531230,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 486535015,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 270531230,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 486535860,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 75993531,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 124341903,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 75993531,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 124341950,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 27484536,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 42769574,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 31292703,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 48963688,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 265314302,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 476539910,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 201696387,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 356072906,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 69281943,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 112391936,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 69281943,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 112391957,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 69281943,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 112391976,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 69281943,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 112391925,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 69281943,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 112391919,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 69281943,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 112391907,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 67882699,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 109789028,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 330978911,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 600306411,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 292680403,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 526718464,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 359775213,
+        "taxonName": "Tillandsia recurvata",
+        "photoId": 656453306,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 584,
+      "cc-by": 2713
+    },
+    "complete": true
+  },
+  "Tillandsia tricholepis": {
+    "scientificName": "Tillandsia tricholepis",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6411,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Área Antrópica",
+        "Caatinga (stricto sensu)",
+        "Cerrado (lato sensu)",
+        "Floresta Ciliar ou Galeria",
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 259331406,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 465504878,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 176175572,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 306256137,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 281761321,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 506174413,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 244579398,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 445800584,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 259242625,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 465322193,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 322027328,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 582480603,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 226967630,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 402583996,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 226967630,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 402583967,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 320960233,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 580387946,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 277847917,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 498885470,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 252883516,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 452739674,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 97470461,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 162108485,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 153195669,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 264562059,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 153195669,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 264562013,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 153195669,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 264562035,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 153195669,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 264561942,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 153195669,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 264561968,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 153195669,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 264561913,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 153195669,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 264561993,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 153195669,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 264561892,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 83578589,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 137280080,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 133113800,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 226687941,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 168581301,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 292178257,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 168581301,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 292178284,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 337265200,
+        "taxonName": "Tillandsia tricholepis",
+        "photoId": 613062969,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 39,
+      "cc-by": 209
+    },
+    "complete": true
+  },
+  "Quesnelia liboniana": {
+    "scientificName": "Quesnelia liboniana",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6345,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Perenifólia"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 323095690,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 584590585,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 64663462,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 103991483,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 64663462,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 103993185,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 100823119,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 168309312,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 325274497,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 588893189,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 325274497,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 588893186,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 202602009,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 357823161,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 234624204,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 417111935,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 234624204,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 417111977,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 234624204,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 417111985,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 102216047,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 170811087,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 102216047,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 170811068,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 325735605,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 589804545,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 325735605,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 589804536,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 375899345,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 687237757,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 294471585,
+        "taxonName": "Quesnelia liboniana",
+        "photoId": 530014835,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 2,
+      "cc-by": 9
+    },
+    "complete": true
+  },
+  "Quesnelia lateralis": {
+    "scientificName": "Quesnelia lateralis",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6344,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 64846858,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 104319249,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 64846858,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 104319264,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 64846858,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 104319272,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 171125275,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 296909537,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 171125275,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 296909670,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 171125275,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 296909893,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 171125275,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 296910080,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 171125275,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 298946965,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 171125275,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 298947002,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 171125275,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 298947039,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 171125275,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 298947070,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 234800824,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 417476110,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 183447765,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 320053002,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 183447765,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 320053035,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 183447765,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 320053063,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 183447765,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 320053089,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 183447765,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 320053109,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 183447765,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 320053136,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 183447765,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 320053172,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 183447765,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 320053197,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 200302876,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 353354096,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 200302876,
+        "taxonName": "Quesnelia lateralis",
+        "photoId": 353354108,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 4
+    },
+    "complete": true
+  },
+  "Quesnelia marmorata": {
+    "scientificName": "Quesnelia marmorata",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6346,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Perenifólia",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 257082005,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 461097186,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 257082005,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 461097198,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 189964070,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 332987290,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 164665058,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 284934607,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 164665058,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 284934650,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 164665058,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 284934699,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 145888607,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 250690455,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 145888607,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 250690464,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 236640553,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 421023162,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 236640553,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 421023203,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 133829938,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 228018379,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 133829938,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 228018433,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 205141025,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 362675282,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 205141025,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 362675287,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 334127628,
+        "taxonName": "Quesnelia marmorata",
+        "photoId": 606704504,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 11
+    },
+    "complete": true
+  },
+  "Quesnelia strobilispica": {
+    "scientificName": "Quesnelia strobilispica",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6349,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 2,
+      "cc-by": 1
+    },
+    "complete": true
+  },
+  "Billbergia zebrina": {
+    "scientificName": "Billbergia zebrina",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5954,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Ciliar ou Galeria",
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Floresta Ombrófila Mista"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 156662652,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 270916464,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 410898065,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 755794624,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 203653476,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 359847772,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 203653476,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 359848363,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 234081108,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 416083816,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 234081108,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 416083838,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 339722465,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 618059264,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 339722465,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 618059227,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 326208448,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 590761950,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 412610102,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 759257456,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 355661830,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 648600115,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 131006789,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 222876319,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 131006789,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 222876372,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 386591370,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 707845001,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 36654049,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 57968895,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 36654049,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 57968919,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 392904510,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 720104645,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 386554982,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 707775252,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 386554982,
+        "taxonName": "Billbergia zebrina",
+        "photoId": 707775410,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 5,
+      "cc-by": 31
+    },
+    "complete": true
+  },
+  "Billbergia sanderiana": {
+    "scientificName": "Billbergia sanderiana",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5949,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 143082797,
+        "taxonName": "Billbergia sanderiana",
+        "photoId": 245368953,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 1
+    },
+    "complete": true
+  },
+  "Wittrockia superba": {
+    "scientificName": "Wittrockia superba",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 6584,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 331242157,
+        "taxonName": "Wittrockia superba",
+        "photoId": 600855783,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 212792974,
+        "taxonName": "Wittrockia superba",
+        "photoId": 376009688,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 360061599,
+        "taxonName": "Wittrockia superba",
+        "photoId": 656992176,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 360061599,
+        "taxonName": "Wittrockia superba",
+        "photoId": 656992266,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 100822719,
+        "taxonName": "Wittrockia superba",
+        "photoId": 168303794,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 120327391,
+        "taxonName": "Wittrockia superba",
+        "photoId": 203410100,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 317126832,
+        "taxonName": "Wittrockia superba",
+        "photoId": 573006859,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 310068660,
+        "taxonName": "Wittrockia superba",
+        "photoId": 559571986,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 310068660,
+        "taxonName": "Wittrockia superba",
+        "photoId": 559572029,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 276813162,
+        "taxonName": "Wittrockia superba",
+        "photoId": 497017583,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 151973986,
+        "taxonName": "Wittrockia superba",
+        "photoId": 262299771,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 151973986,
+        "taxonName": "Wittrockia superba",
+        "photoId": 262299792,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 151973986,
+        "taxonName": "Wittrockia superba",
+        "photoId": 262299738,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 28
+    },
+    "complete": true
+  },
+  "Garcinia brasiliensis": {
+    "scientificName": "Garcinia brasiliensis",
+    "workbookRow": 523,
+    "eligible": true,
+    "floraId": 6851,
+    "attributes": {
+      "lifeForm": [
+        "Arbusto",
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 141406292,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 242246058,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 141406292,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 242245299,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 141392907,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 242218577,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 141392907,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 242218598,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 141392907,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 242218625,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 141392907,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 242218649,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 126418253,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 214495221,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 126418253,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 214495245,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 390000210,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 714444642,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 390000210,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 714444645,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 390000210,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 714444651,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 390000210,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 714444648,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 390000210,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 714444650,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 199400878,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 351636112,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 199400878,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 351635990,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 199400878,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 351635996,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 199400878,
+        "taxonName": "Garcinia brasiliensis",
+        "photoId": 351636002,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 4,
+      "cc-by": 1
+    },
+    "complete": true
+  },
+  "Garcinia gardneriana": {
+    "scientificName": "Garcinia gardneriana",
+    "workbookRow": 524,
+    "eligible": true,
+    "floraId": 6853,
+    "attributes": {
+      "lifeForm": [
+        "Arbusto",
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ciliar ou Galeria",
+        "Floresta de Terra Firme",
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 143745493,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 246576542,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 254265619,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 455399026,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 254265619,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 455399041,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 254265619,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 455399055,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 332881937,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 604220704,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 249435096,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 445883893,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 249435096,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 445883895,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 268013197,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 481706115,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 164101781,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 283897301,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 169834647,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 294478338,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 169834647,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 294478341,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 169834647,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 294478363,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 169834647,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 294478391,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 169834647,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 294478523,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 169834647,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 294478632,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 169834647,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 294478827,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 169834647,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 294478874,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 169834647,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 294478966,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 151497587,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 261406575,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149126339,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 256921806,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149126339,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 256921824,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149126339,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 256921839,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149126339,
+        "taxonName": "Garcinia gardneriana",
+        "photoId": 256921841,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 8
+    },
+    "complete": true
+  },
+  "Annona sylvatica": {
+    "scientificName": "Annona sylvatica",
+    "workbookRow": 69,
+    "eligible": true,
+    "floraId": 110263,
+    "attributes": {
+      "lifeForm": [
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ciliar ou Galeria",
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Floresta Ombrófila Mista"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 200513798,
+        "taxonName": "Annona sylvatica",
+        "photoId": 353783600,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 151496928,
+        "taxonName": "Annona sylvatica",
+        "photoId": 261405577,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 151496928,
+        "taxonName": "Annona sylvatica",
+        "photoId": 261405581,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 268179760,
+        "taxonName": "Annona sylvatica",
+        "photoId": 482026437,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 107532598,
+        "taxonName": "Annona sylvatica",
+        "photoId": 180875511,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 107532598,
+        "taxonName": "Annona sylvatica",
+        "photoId": 180875521,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 107532598,
+        "taxonName": "Annona sylvatica",
+        "photoId": 181315573,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 107532598,
+        "taxonName": "Annona sylvatica",
+        "photoId": 181315593,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 107532598,
+        "taxonName": "Annona sylvatica",
+        "photoId": 181315594,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 316570039,
+        "taxonName": "Annona sylvatica",
+        "photoId": 571970906,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 316570039,
+        "taxonName": "Annona sylvatica",
+        "photoId": 571970949,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 316570039,
+        "taxonName": "Annona sylvatica",
+        "photoId": 571971035,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 316570039,
+        "taxonName": "Annona sylvatica",
+        "photoId": 571971086,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 316570039,
+        "taxonName": "Annona sylvatica",
+        "photoId": 571971129,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 316570039,
+        "taxonName": "Annona sylvatica",
+        "photoId": 571971166,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 316570039,
+        "taxonName": "Annona sylvatica",
+        "photoId": 571971205,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 4
+    },
+    "complete": true
+  },
+  "Annona cacans": {
+    "scientificName": "Annona cacans",
+    "workbookRow": 103,
+    "eligible": true,
+    "floraId": 117069,
+    "attributes": {
+      "lifeForm": [
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 146488727,
+        "taxonName": "Annona cacans",
+        "photoId": 251860678,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 146488727,
+        "taxonName": "Annona cacans",
+        "photoId": 251860656,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 146488727,
+        "taxonName": "Annona cacans",
+        "photoId": 251860646,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 146488727,
+        "taxonName": "Annona cacans",
+        "photoId": 251860665,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 146488727,
+        "taxonName": "Annona cacans",
+        "photoId": 251860729,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 208943563,
+        "taxonName": "Annona cacans",
+        "photoId": 369717290,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 208943563,
+        "taxonName": "Annona cacans",
+        "photoId": 369717289,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 208943563,
+        "taxonName": "Annona cacans",
+        "photoId": 369717287,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 338374566,
+        "taxonName": "Annona cacans",
+        "photoId": 615340126,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 338374566,
+        "taxonName": "Annona cacans",
+        "photoId": 615340112,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 338374566,
+        "taxonName": "Annona cacans",
+        "photoId": 615340111,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 338374566,
+        "taxonName": "Annona cacans",
+        "photoId": 615340109,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 146423998,
+        "taxonName": "Annona cacans",
+        "photoId": 251734557,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 146423998,
+        "taxonName": "Annona cacans",
+        "photoId": 251734619,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 146423998,
+        "taxonName": "Annona cacans",
+        "photoId": 251734547,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 146423998,
+        "taxonName": "Annona cacans",
+        "photoId": 251734590,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 146423998,
+        "taxonName": "Annona cacans",
+        "photoId": 251734571,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 146423998,
+        "taxonName": "Annona cacans",
+        "photoId": 251734602,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 344328253,
+        "taxonName": "Annona cacans",
+        "photoId": 627370497,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 344328253,
+        "taxonName": "Annona cacans",
+        "photoId": 627370588,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 344328253,
+        "taxonName": "Annona cacans",
+        "photoId": 627370644,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 165052339,
+        "taxonName": "Annona cacans",
+        "photoId": 285653848,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 165052339,
+        "taxonName": "Annona cacans",
+        "photoId": 285653945,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 165052339,
+        "taxonName": "Annona cacans",
+        "photoId": 285653905,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 165052339,
+        "taxonName": "Annona cacans",
+        "photoId": 285653861,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 194461230,
+        "taxonName": "Annona cacans",
+        "photoId": 341822824,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 194461230,
+        "taxonName": "Annona cacans",
+        "photoId": 341822796,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 194461230,
+        "taxonName": "Annona cacans",
+        "photoId": 341822790,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 194461230,
+        "taxonName": "Annona cacans",
+        "photoId": 341822830,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 194461230,
+        "taxonName": "Annona cacans",
+        "photoId": 341822821,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 194461230,
+        "taxonName": "Annona cacans",
+        "photoId": 341822844,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 194461230,
+        "taxonName": "Annona cacans",
+        "photoId": 341822842,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 194461230,
+        "taxonName": "Annona cacans",
+        "photoId": 341822787,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 7
+    },
+    "complete": true
+  },
+  "Annona dolabripetala": {
+    "scientificName": "Annona dolabripetala",
+    "workbookRow": 64,
+    "eligible": true,
+    "floraId": 110241,
+    "attributes": {
+      "lifeForm": [
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 5487887,
+        "taxonName": "Annona dolabripetala",
+        "photoId": 6760351,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 1
+    },
+    "complete": true
+  },
+  "Annona mucosa": {
+    "scientificName": "Annona mucosa",
+    "workbookRow": 67,
+    "eligible": true,
+    "floraId": 110252,
+    "attributes": {
+      "lifeForm": [
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Área Antrópica",
+        "Floresta de Terra Firme",
+        "Floresta de Várzea"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 124177505,
+        "taxonName": "Annona mucosa",
+        "photoId": 210448427,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 227580399,
+        "taxonName": "Annona mucosa",
+        "photoId": 403746859,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 158073584,
+        "taxonName": "Annona mucosa",
+        "photoId": 273232960,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 103906194,
+        "taxonName": "Annona mucosa",
+        "photoId": 174024531,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 103906194,
+        "taxonName": "Annona mucosa",
+        "photoId": 174024503,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 103906194,
+        "taxonName": "Annona mucosa",
+        "photoId": 174024476,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 103906194,
+        "taxonName": "Annona mucosa",
+        "photoId": 174024488,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 395396258,
+        "taxonName": "Annona mucosa",
+        "photoId": 724997915,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 64414689,
+        "taxonName": "Annona mucosa",
+        "photoId": 103556259,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 64414689,
+        "taxonName": "Annona mucosa",
+        "photoId": 103556247,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 64414689,
+        "taxonName": "Annona mucosa",
+        "photoId": 103556240,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 64414689,
+        "taxonName": "Annona mucosa",
+        "photoId": 103556228,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 35871052,
+        "taxonName": "Annona mucosa",
+        "photoId": 56620717,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 35871052,
+        "taxonName": "Annona mucosa",
+        "photoId": 56620704,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 35871052,
+        "taxonName": "Annona mucosa",
+        "photoId": 56620692,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 35871052,
+        "taxonName": "Annona mucosa",
+        "photoId": 56620683,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 35871052,
+        "taxonName": "Annona mucosa",
+        "photoId": 56620673,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 106685423,
+        "taxonName": "Annona mucosa",
+        "photoId": 179263177,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 106685423,
+        "taxonName": "Annona mucosa",
+        "photoId": 179263211,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 331480973,
+        "taxonName": "Annona mucosa",
+        "photoId": 601346367,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 331480973,
+        "taxonName": "Annona mucosa",
+        "photoId": 601346368,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149950118,
+        "taxonName": "Annona mucosa",
+        "photoId": 258471298,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 316311081,
+        "taxonName": "Annona mucosa",
+        "photoId": 571483067,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 316311081,
+        "taxonName": "Annona mucosa",
+        "photoId": 571483132,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 134296685,
+        "taxonName": "Annona mucosa",
+        "photoId": 228888362,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 4,
+      "cc-by": 15
+    },
+    "complete": true
+  },
+  "Pouteria psammophila": {
+    "scientificName": "Pouteria psammophila",
+    "workbookRow": 2810,
+    "eligible": true,
+    "floraId": 14514,
+    "attributes": {
+      "lifeForm": [
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 0
+    },
+    "complete": true
+  },
+  "Pouteria reticulata": {
+    "scientificName": "Pouteria reticulata",
+    "workbookRow": 2811,
+    "eligible": true,
+    "floraId": 14515,
+    "attributes": {
+      "lifeForm": [
+        "Arbusto",
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Carrasco",
+        "Cerrado (lato sensu)",
+        "Floresta Ciliar ou Galeria",
+        "Floresta Estacional Decidual",
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 149391421,
+        "taxonName": "Pouteria reticulata",
+        "photoId": 257418113,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149391421,
+        "taxonName": "Pouteria reticulata",
+        "photoId": 257418602,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149391421,
+        "taxonName": "Pouteria reticulata",
+        "photoId": 257418609,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149391421,
+        "taxonName": "Pouteria reticulata",
+        "photoId": 257418612,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149391421,
+        "taxonName": "Pouteria reticulata",
+        "photoId": 257418616,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149391421,
+        "taxonName": "Pouteria reticulata",
+        "photoId": 257418622,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 35646012,
+        "taxonName": "Pouteria reticulata",
+        "photoId": 56228529,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 2
+    },
+    "complete": true
+  },
+  "Chrysophyllum gonocarpum": {
+    "scientificName": "Chrysophyllum gonocarpum",
+    "workbookRow": null,
+    "eligible": false,
+    "complete": true,
+    "reason": "Exact accepted native BR-RJ / Atlantic Forest combination not confirmed; do not add."
+  },
+  "Inga vera": {
+    "scientificName": "Inga vera",
+    "workbookRow": 830,
+    "eligible": true,
+    "floraId": 23039,
+    "attributes": {
+      "lifeForm": [
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Área Antrópica",
+        "Campo Limpo",
+        "Campo rupestre",
+        "Cerrado (lato sensu)",
+        "Floresta de Igapó",
+        "Floresta de Terra Firme",
+        "Floresta de Várzea",
+        "Floresta Estacional Semidecidual"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 2,
+    "complete": true
+  },
+  "Inga sessilis": {
+    "scientificName": "Inga sessilis",
+    "workbookRow": 937,
+    "eligible": true,
+    "floraId": 83263,
+    "attributes": {
+      "lifeForm": [
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Área Antrópica",
+        "Campo rupestre",
+        "Cerrado (lato sensu)",
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Floresta Ombrófila Mista"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 160718098,
+        "taxonName": "Inga sessilis",
+        "photoId": 277743862,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 160718098,
+        "taxonName": "Inga sessilis",
+        "photoId": 277743877,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 172616697,
+        "taxonName": "Inga sessilis",
+        "photoId": 299681893,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 172616697,
+        "taxonName": "Inga sessilis",
+        "photoId": 299681895,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 172616697,
+        "taxonName": "Inga sessilis",
+        "photoId": 299681861,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 205830060,
+        "taxonName": "Inga sessilis",
+        "photoId": 363977647,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 205830060,
+        "taxonName": "Inga sessilis",
+        "photoId": 363977648,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 205830060,
+        "taxonName": "Inga sessilis",
+        "photoId": 363977650,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 33237719,
+        "taxonName": "Inga sessilis",
+        "photoId": 52188589,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 353974695,
+        "taxonName": "Inga sessilis",
+        "photoId": 645799006,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 353974695,
+        "taxonName": "Inga sessilis",
+        "photoId": 645799110,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 353974695,
+        "taxonName": "Inga sessilis",
+        "photoId": 645799243,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 153570894,
+        "taxonName": "Inga sessilis",
+        "photoId": 265257930,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 153570894,
+        "taxonName": "Inga sessilis",
+        "photoId": 265257914,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 6
+    },
+    "complete": true
+  },
+  "Anthurium scandens": {
+    "scientificName": "Anthurium scandens",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 4971,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 3,
+    "complete": true
+  },
+  "Anthurium harrisii": {
+    "scientificName": "Anthurium harrisii",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 4934,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 345939471,
+        "taxonName": "Anthurium harrisii",
+        "photoId": 630520913,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 345939471,
+        "taxonName": "Anthurium harrisii",
+        "photoId": 630651920,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 364056860,
+        "taxonName": "Anthurium harrisii",
+        "photoId": 664573685,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 290004399,
+        "taxonName": "Anthurium harrisii",
+        "photoId": 521628175,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 2
+    },
+    "complete": true
+  },
+  "Anthurium intermedium": {
+    "scientificName": "Anthurium intermedium",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 4938,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 260665238,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 468149430,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260665238,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 468149444,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260665238,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 468149476,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260665238,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 468149491,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260665244,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 468149762,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 258684578,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 464182961,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 197970585,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 348819336,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 197970585,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 348819344,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 197970585,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 348819359,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 252204410,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 451430272,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 252204410,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 451430289,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 258072653,
+        "taxonName": "Anthurium intermedium",
+        "photoId": 462950565,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 3,
+      "cc-by": 3
+    },
+    "complete": true
+  },
+  "Anthurium solitarium": {
+    "scientificName": "Anthurium solitarium",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 4975,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 252392579,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 451809554,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 252392579,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 451809827,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 252392579,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 451809866,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 252392579,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 451809935,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 252392579,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 451809996,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 252392579,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 451810064,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 252392579,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 451810103,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 401094108,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 736136442,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 252393000,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 451810483,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 252393000,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 451810586,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 252393000,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 451810656,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 401102836,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 736149472,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 401102095,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 736142215,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 201178808,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 355081997,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 296115544,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 533154618,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 296115544,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 533154682,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 387737555,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 710042727,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 387737555,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 710042788,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 387737555,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 710042840,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 345476898,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 629604812,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 345476898,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 629604813,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 386832973,
+        "taxonName": "Anthurium solitarium",
+        "photoId": 708300212,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 5,
+      "cc-by": 5
+    },
+    "complete": true
+  },
+  "Anthurium comtum": {
+    "scientificName": "Anthurium comtum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 4924,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 361317677,
+        "taxonName": "Anthurium comtum",
+        "photoId": 659396231,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 361317677,
+        "taxonName": "Anthurium comtum",
+        "photoId": 659396278,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 1
+    },
+    "complete": true
+  },
+  "Anthurium longifolium": {
+    "scientificName": "Anthurium longifolium",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 4948,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 229591351,
+        "taxonName": "Anthurium longifolium",
+        "photoId": 407553935,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 229591351,
+        "taxonName": "Anthurium longifolium",
+        "photoId": 407554181,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 229591351,
+        "taxonName": "Anthurium longifolium",
+        "photoId": 407554229,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 229591351,
+        "taxonName": "Anthurium longifolium",
+        "photoId": 407554269,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 229591351,
+        "taxonName": "Anthurium longifolium",
+        "photoId": 407554324,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 3
+    },
+    "complete": true
+  },
+  "Anthurium parasiticum": {
+    "scientificName": "Anthurium parasiticum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 4963,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 222859635,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 394825156,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 222859635,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 394825275,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 222859635,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 394825362,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 222859635,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 394825474,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 222859635,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 394826111,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 386632348,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 707918510,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 386632348,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 707918588,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 386632348,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 707918649,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 197602195,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 348077215,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 197602195,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 348077233,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 197602195,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 348077271,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 260799424,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 468417662,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 260799424,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 468417669,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 260799424,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 468417686,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 260799424,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 468417694,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 260799424,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 468417703,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 193522574,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 339960734,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 193522574,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 339960772,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198047692,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 348973737,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198047692,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 348973769,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198047692,
+        "taxonName": "Anthurium parasiticum",
+        "photoId": 348973773,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 2,
+      "cc-by": 4
+    },
+    "complete": true
+  },
+  "Anthurium sellowianum": {
+    "scientificName": "Anthurium sellowianum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 4972,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 297179105,
+        "taxonName": "Anthurium sellowianum",
+        "photoId": 535183030,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 297179105,
+        "taxonName": "Anthurium sellowianum",
+        "photoId": 535183083,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 297179105,
+        "taxonName": "Anthurium sellowianum",
+        "photoId": 535183136,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 297177076,
+        "taxonName": "Anthurium sellowianum",
+        "photoId": 535178962,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 297177076,
+        "taxonName": "Anthurium sellowianum",
+        "photoId": 535179025,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 297177076,
+        "taxonName": "Anthurium sellowianum",
+        "photoId": 535179171,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 112892326,
+        "taxonName": "Anthurium sellowianum",
+        "photoId": 190720105,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 112892326,
+        "taxonName": "Anthurium sellowianum",
+        "photoId": 190720558,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 112892326,
+        "taxonName": "Anthurium sellowianum",
+        "photoId": 190720560,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307651553,
+        "taxonName": "Anthurium sellowianum",
+        "photoId": 554935748,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 4
+    },
+    "complete": true
+  },
+  "Anthurium urvilleanum": {
+    "scientificName": "Anthurium urvilleanum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 4979,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 260435305,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 467694975,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260435305,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 467694978,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 258684543,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 464182181,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260435281,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 467693755,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260435281,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 467693774,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 258850504,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 464523281,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 258850504,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 464523295,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843327,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843315,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843328,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843353,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843265,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843292,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843267,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843303,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843321,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843332,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843361,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843364,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843369,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843393,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389695285,
+        "taxonName": "Anthurium urvilleanum",
+        "photoId": 713843365,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 3,
+      "cc-by": 2
+    },
+    "complete": true
+  },
+  "Anthurium microphyllum": {
+    "scientificName": "Anthurium microphyllum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 4957,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 260665205,
+        "taxonName": "Anthurium microphyllum",
+        "photoId": 468148495,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260665205,
+        "taxonName": "Anthurium microphyllum",
+        "photoId": 468148502,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 314838989,
+        "taxonName": "Anthurium microphyllum",
+        "photoId": 568679422,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 311189551,
+        "taxonName": "Anthurium microphyllum",
+        "photoId": 561734829,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 311189551,
+        "taxonName": "Anthurium microphyllum",
+        "photoId": 561734858,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 306160305,
+        "taxonName": "Anthurium microphyllum",
+        "photoId": 552094002,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 306160305,
+        "taxonName": "Anthurium microphyllum",
+        "photoId": 552093939,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 306160305,
+        "taxonName": "Anthurium microphyllum",
+        "photoId": 552093964,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 306160305,
+        "taxonName": "Anthurium microphyllum",
+        "photoId": 552093988,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 2,
+      "cc-by": 2
+    },
+    "complete": true
+  },
+  "Philodendron appendiculatum": {
+    "scientificName": "Philodendron appendiculatum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5021,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Hemiepífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 2,
+    "complete": true
+  },
+  "Philodendron bipennifolium": {
+    "scientificName": "Philodendron bipennifolium",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5022,
+    "attributes": {
+      "lifeForm": [
+        "Erva",
+        "Liana/volúvel/trepadeira"
+      ],
+      "habitat": [
+        "Hemiepífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 302094056,
+        "taxonName": "Philodendron bipennifolium",
+        "photoId": 544406742,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 153317947,
+        "taxonName": "Philodendron bipennifolium",
+        "photoId": 264791243,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 153317947,
+        "taxonName": "Philodendron bipennifolium",
+        "photoId": 264791227,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 153317947,
+        "taxonName": "Philodendron bipennifolium",
+        "photoId": 264791225,
+        "licenseCode": "cc0"
+      }
+    ],
+    "existingPhotos": 1,
+    "matchingObservations": {
+      "cc0": 2,
+      "cc-by": 0
+    },
+    "complete": true
+  },
+  "Philodendron cordatum": {
+    "scientificName": "Philodendron cordatum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5029,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Hemiepífita",
+        "Rupícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 2,
+    "complete": true
+  },
+  "Philodendron crassinervium": {
+    "scientificName": "Philodendron crassinervium",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5030,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 269260023,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 484110342,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 258081623,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 462972050,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 258081623,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 462972057,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 316147237,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 571156052,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 316147237,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 571155983,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260426113,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 467679065,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260426113,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 467678968,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 255871559,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 458634889,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 255871559,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 458634900,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 255871559,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 458635291,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 212972674,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 376356197,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 325129012,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 588611780,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 325129012,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 588611795,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 325129012,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 588611806,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 325129012,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 588611833,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 325129012,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 588611850,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 325129012,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 588611869,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 325129012,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 588611894,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 11550757,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 16492885,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 11550757,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 16492900,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 377931980,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 691168309,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 377931980,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 691168352,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 377931980,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 691168385,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 298007969,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 536748249,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 298007969,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 536748289,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 298007969,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 536748320,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 298007969,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 536748375,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 298007969,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 536748409,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 299399228,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 539387972,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 299399228,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 539388000,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 299399228,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 539388046,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 230709379,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 409673619,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 230709379,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 409673615,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 230709379,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 409673770,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 297165013,
+        "taxonName": "Philodendron crassinervium",
+        "photoId": 535155968,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 5,
+      "cc-by": 23
+    },
+    "complete": true
+  },
+  "Philodendron martianum": {
+    "scientificName": "Philodendron martianum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5046,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Hemiepífita",
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 408267268,
+        "taxonName": "Philodendron martianum",
+        "photoId": 750442973,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 389689438,
+        "taxonName": "Philodendron martianum",
+        "photoId": 713832256,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389689438,
+        "taxonName": "Philodendron martianum",
+        "photoId": 713832253,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389689438,
+        "taxonName": "Philodendron martianum",
+        "photoId": 713832261,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389689438,
+        "taxonName": "Philodendron martianum",
+        "photoId": 713832265,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389689438,
+        "taxonName": "Philodendron martianum",
+        "photoId": 713832279,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 389689438,
+        "taxonName": "Philodendron martianum",
+        "photoId": 713832220,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 313191131,
+        "taxonName": "Philodendron martianum",
+        "photoId": 565534289,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 345772367,
+        "taxonName": "Philodendron martianum",
+        "photoId": 630182451,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 184843337,
+        "taxonName": "Philodendron martianum",
+        "photoId": 322708520,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 105859837,
+        "taxonName": "Philodendron martianum",
+        "photoId": 177716111,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 105859837,
+        "taxonName": "Philodendron martianum",
+        "photoId": 177716626,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 105859837,
+        "taxonName": "Philodendron martianum",
+        "photoId": 177717131,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 231219614,
+        "taxonName": "Philodendron martianum",
+        "photoId": 410627483,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 333691413,
+        "taxonName": "Philodendron martianum",
+        "photoId": 605816380,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149185411,
+        "taxonName": "Philodendron martianum",
+        "photoId": 257011058,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 149185411,
+        "taxonName": "Philodendron martianum",
+        "photoId": 257011038,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 11
+    },
+    "complete": true
+  },
+  "Philodendron pedatum": {
+    "scientificName": "Philodendron pedatum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5054,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Hemiepífita"
+      ],
+      "vegetationType": [
+        "Campinarana",
+        "Floresta Ciliar ou Galeria",
+        "Floresta de Terra Firme",
+        "Floresta de Várzea",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 386108411,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 706917054,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 121443595,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 205501961,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 121443595,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 205501932,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 121443620,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 205502744,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 188241625,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 329408023,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 188241625,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 329408039,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 335958069,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 610418040,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 335958069,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 610418012,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 335958069,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 610418034,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 335958069,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 610418058,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 335958069,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 610418067,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 376983525,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 689329131,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 376983525,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 689329329,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 376983525,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 689329374,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 335523214,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 609542713,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 335523214,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 609542744,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 98299205,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 163622379,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 271077507,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 487569153,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 271077507,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 487569219,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 271077507,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 487569202,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 197643847,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 348157470,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 197643847,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 348157494,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 204922240,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 362267019,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 197604976,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 348082569,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 99698918,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 166255006,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 313678073,
+        "taxonName": "Philodendron pedatum",
+        "photoId": 566480390,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 6,
+      "cc-by": 63
+    },
+    "complete": true
+  },
+  "Philodendron hastatum": {
+    "scientificName": "Philodendron hastatum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5038,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Hemiepífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 259647418,
+        "taxonName": "Philodendron hastatum",
+        "photoId": 466135153,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 259647418,
+        "taxonName": "Philodendron hastatum",
+        "photoId": 466135180,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260435303,
+        "taxonName": "Philodendron hastatum",
+        "photoId": 467694956,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 260435303,
+        "taxonName": "Philodendron hastatum",
+        "photoId": 467694968,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 205030634,
+        "taxonName": "Philodendron hastatum",
+        "photoId": 362472228,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 205030634,
+        "taxonName": "Philodendron hastatum",
+        "photoId": 362472287,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 205030634,
+        "taxonName": "Philodendron hastatum",
+        "photoId": 362472310,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 306156170,
+        "taxonName": "Philodendron hastatum",
+        "photoId": 552085869,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 396869264,
+        "taxonName": "Philodendron hastatum",
+        "photoId": 727837834,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 2,
+      "cc-by": 3
+    },
+    "complete": true
+  },
+  "Philodendron ornatum": {
+    "scientificName": "Philodendron ornatum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5052,
+    "attributes": {
+      "lifeForm": [
+        "Erva",
+        "Liana/volúvel/trepadeira"
+      ],
+      "habitat": [
+        "Hemiepífita"
+      ],
+      "vegetationType": [
+        "Floresta Ciliar ou Galeria",
+        "Floresta de Igapó",
+        "Floresta de Várzea",
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 401094121,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 736136553,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 121443597,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 205502057,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 121443597,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 205502086,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 401102074,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 736141923,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 401102074,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 736141918,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 401094104,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 736136422,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 368277074,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 672628253,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 361307267,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 659364688,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 106003650,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 177987163,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 106003650,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 177987160,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 106003650,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 177987148,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 188097348,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 329106900,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 188097348,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 329106934,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 188097348,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 329106986,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 329492908,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 597267518,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 214011342,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 378197759,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 99305266,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 165515406,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 99305266,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 165515422,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198838662,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 350539525,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198838662,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 350539542,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198838662,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 350539561,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 198838662,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 350539580,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 11791538,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 16865917,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 11791538,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 16865871,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 11791538,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 16865769,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 408354232,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 750618086,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 408354232,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 750618162,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 408354232,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 750618255,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 275639945,
+        "taxonName": "Philodendron ornatum",
+        "photoId": 495227026,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 7,
+      "cc-by": 42
+    },
+    "complete": true
+  },
+  "Philodendron propinquum": {
+    "scientificName": "Philodendron propinquum",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5055,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Hemiepífita"
+      ],
+      "vegetationType": [
+        "Floresta Estacional Semidecidual",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 331958307,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 602320889,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 331958307,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 602320900,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 331958307,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 602320877,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 307789931,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555213636,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307789931,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555213716,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307789931,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555213819,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 252204412,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 451430397,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 252204412,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 451430407,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 374883242,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 685267736,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 374883242,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 685267746,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 364300617,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 665019503,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307761065,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555159495,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307761065,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555159727,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307761065,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555159778,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307761065,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555159810,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307761065,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555159856,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 295158587,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 531319499,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 331178967,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 600723837,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307765186,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555166346,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307765186,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555166604,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307765186,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555166659,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307765186,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555166715,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307765186,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555166767,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 307765186,
+        "taxonName": "Philodendron propinquum",
+        "photoId": 555166821,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 15
+    },
+    "complete": true
+  },
+  "Philodendron alternans": {
+    "scientificName": "Philodendron alternans",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 5019,
+    "attributes": {
+      "lifeForm": [
+        "Erva",
+        "Liana/volúvel/trepadeira"
+      ],
+      "habitat": [
+        "Hemiepífita"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 0
+    },
+    "complete": true
+  },
+  "Eugenia astringens": {
+    "scientificName": "Eugenia astringens",
+    "workbookRow": 2032,
+    "eligible": true,
+    "floraId": 25824,
+    "attributes": {
+      "lifeForm": [
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 286340936,
+        "taxonName": "Eugenia astringens",
+        "photoId": 514759392,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 286340936,
+        "taxonName": "Eugenia astringens",
+        "photoId": 514759612,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 286340936,
+        "taxonName": "Eugenia astringens",
+        "photoId": 514759761,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 286340936,
+        "taxonName": "Eugenia astringens",
+        "photoId": 514760096,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 286340936,
+        "taxonName": "Eugenia astringens",
+        "photoId": 514760285,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 345461200,
+        "taxonName": "Eugenia astringens",
+        "photoId": 629581960,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 345461200,
+        "taxonName": "Eugenia astringens",
+        "photoId": 629581888,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 345461200,
+        "taxonName": "Eugenia astringens",
+        "photoId": 629581895,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 345461200,
+        "taxonName": "Eugenia astringens",
+        "photoId": 629581962,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 345461200,
+        "taxonName": "Eugenia astringens",
+        "photoId": 629581898,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 345461200,
+        "taxonName": "Eugenia astringens",
+        "photoId": 629581961,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 282206050,
+        "taxonName": "Eugenia astringens",
+        "photoId": 506991183,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 282206050,
+        "taxonName": "Eugenia astringens",
+        "photoId": 506991177,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 282206050,
+        "taxonName": "Eugenia astringens",
+        "photoId": 506991184,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 400017812,
+        "taxonName": "Eugenia astringens",
+        "photoId": 733962782,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 400017812,
+        "taxonName": "Eugenia astringens",
+        "photoId": 733962835,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 86758575,
+        "taxonName": "Eugenia astringens",
+        "photoId": 142976082,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 86758575,
+        "taxonName": "Eugenia astringens",
+        "photoId": 142976104,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 86758575,
+        "taxonName": "Eugenia astringens",
+        "photoId": 142976128,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 290780406,
+        "taxonName": "Eugenia astringens",
+        "photoId": 523121686,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 290780406,
+        "taxonName": "Eugenia astringens",
+        "photoId": 523121726,
+        "licenseCode": "cc-by"
+      },
+      {
+        "observationId": 290780406,
+        "taxonName": "Eugenia astringens",
+        "photoId": 523121771,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 1,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 5
+    },
+    "complete": true
+  },
+  "Eugenia sulcata": {
+    "scientificName": "Eugenia sulcata",
+    "workbookRow": 1921,
+    "eligible": true,
+    "floraId": 10551,
+    "attributes": {
+      "lifeForm": [
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 0
+    },
+    "complete": true
+  },
+  "Eugenia candolleana": {
+    "scientificName": "Eugenia candolleana",
+    "workbookRow": 1856,
+    "eligible": true,
+    "floraId": 10364,
+    "attributes": {
+      "lifeForm": [
+        "Arbusto",
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Campo de Altitude",
+        "Campo rupestre",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [
+      {
+        "observationId": 202651643,
+        "taxonName": "Eugenia candolleana",
+        "photoId": 357936088,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 202651643,
+        "taxonName": "Eugenia candolleana",
+        "photoId": 357936149,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 202651643,
+        "taxonName": "Eugenia candolleana",
+        "photoId": 357936210,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 202651643,
+        "taxonName": "Eugenia candolleana",
+        "photoId": 357936270,
+        "licenseCode": "cc0"
+      },
+      {
+        "observationId": 406639719,
+        "taxonName": "Eugenia candolleana",
+        "photoId": 747134226,
+        "licenseCode": "cc-by"
+      }
+    ],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 1,
+      "cc-by": 1
+    },
+    "complete": true
+  },
+  "Eugenia copacabanensis": {
+    "scientificName": "Eugenia copacabanensis",
+    "workbookRow": 1863,
+    "eligible": true,
+    "floraId": 10377,
+    "attributes": {
+      "lifeForm": [
+        "Árvore"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 0
+    },
+    "complete": true
+  },
+  "Eugenia punicifolia": {
+    "scientificName": "Eugenia punicifolia",
+    "workbookRow": 1910,
+    "eligible": true,
+    "floraId": 10515,
+    "attributes": {
+      "lifeForm": [
+        "Arbusto",
+        "Subarbusto"
+      ],
+      "habitat": [
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Caatinga (stricto sensu)",
+        "Campinarana",
+        "Campo rupestre",
+        "Cerrado (lato sensu)",
+        "Floresta Estacional Semidecidual",
+        "Restinga",
+        "Vegetação Sobre Afloramentos Rochosos"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 2,
+    "complete": true
+  },
+  "Aechmea lingulata": {
+    "scientificName": "Aechmea lingulata",
+    "workbookRow": null,
+    "eligible": true,
+    "floraId": 16569,
+    "attributes": {
+      "lifeForm": [
+        "Erva"
+      ],
+      "habitat": [
+        "Epífita",
+        "Rupícola",
+        "Terrícola"
+      ],
+      "vegetationType": [
+        "Floresta de Terra Firme",
+        "Floresta de Várzea",
+        "Floresta Ombrófila (= Floresta Pluvial)",
+        "Restinga"
+      ]
+    },
+    "photos": [],
+    "existingPhotos": 0,
+    "matchingObservations": {
+      "cc0": 0,
+      "cc-by": 18
+    },
+    "complete": true
+  }
+}

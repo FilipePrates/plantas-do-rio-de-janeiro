@@ -1,0 +1,173 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Aechmea_pectinata",
+  "retrievedAt": "2026-11-11T07:59:11Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5853,
+        "scientificname": "Aechmea pectinata Baker",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "pectinata",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Baker",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea pectinata Baker",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5853>http://floradobrasil2015.jbrj.gov.br/FB5853</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5853\">https://floradobrasil2020.jbrj.gov.br/FB5853</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -36.0px; font: 12.0px Helvetica;&quot;&gt;&lt;strong&gt;Reitz, R.&lt;/strong&gt; 1983. Bromeli&amp;aacute;ceas e a mal&amp;aacute;ria - brom&amp;eacute;lia end&amp;ecirc;mica. Herb&amp;aacute;rio Barbosa Itaja&amp;iacute;.\r\n&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -36.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp;\r\n&lt;strong&gt;Wendt T. 1997.&lt;/strong&gt; A Review of the subgenus &lt;em&gt;Pothuava&lt;/em&gt; (Baker) Baker of &lt;em&gt;Aechmea&lt;/em&gt; Ruiz &amp;amp; Pav. (Bromeliaceae) in Brazil. &lt;em&gt;Botanical Journal of the Linnean Society&lt;/em&gt; 125: 245-271.\r\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;",
+        "parentnameusage": "Aechmea Ruiz & Pav.",
+        "parentnameusageid": 5753,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5853",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB5853>. Acesso em: 11 nov. 2026.",
+        "modified": "2020-01-01 15:33:00.59"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Baker, J.G.,J. Bot.,17: 233,1879"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 46820,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Pothuava pectinata (Baker) L.B.Sm. & W.J.Kress"
+        },
+        {
+          "relatedresourceid": 46084,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Chevaliera crocophylla É.Morren"
+        },
+        {
+          "relatedresourceid": 45503,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea armata Lindm."
+        },
+        {
+          "relatedresourceid": 45531,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea crocophylla (É.Morren) Baker"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "G. Martinelli 15847",
+          "collectioncode": "RB",
+          "catalognumber": "RB00141161",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283788990",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 15847",
+          "collectioncode": "RB",
+          "catalognumber": "RB00141161",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283788992",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 15847",
+          "collectioncode": "RB",
+          "catalognumber": "RB00141161",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283788988",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "W.J. Burchell 3594",
+          "collectioncode": "K",
+          "catalognumber": "K000322200",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000322200",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "G. Martinelli 15847",
+          "collectioncode": "RB",
+          "catalognumber": "RB00141161",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00141161",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "W.J. Burchell 3594",
+          "collectioncode": "K",
+          "catalognumber": "K000322200",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227600021",
+          "locality": null,
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

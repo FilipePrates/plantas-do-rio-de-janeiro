@@ -1,0 +1,60 @@
+1|flower,leaf|Pequenas flores claras e botões agrupados entre folhas espessas.
+2|fruit|Frutos fora do ramo, alguns abertos, mostrando a diferença entre a cobertura externa e o interior.
+3|root|Raízes respiratórias emergindo do sedimento sob os ramos do manguezal.
+4|fruit|Fruto aberto, mostrando as cristas da casca e o interior amarelado.
+5|fruit,leaf|Frutos de superfície recortada presos aos ramos, entre folhas alongadas.
+6|-|-
+7|-|-
+8|-|-
+9|-|Frutos amarelos sustentados à mão. A observação está identificada como Spondias mombin; conferir sua atribuição a esta ficha.
+10|fruit,leaf|Ramos com frutos amarelos a alaranjados entre folhas compostas. A observação está identificada como Spondias mombin; conferir sua atribuição a esta ficha.
+11|fruit,leaf|Ramo com pequenos frutos verdes e folhas vistas de perto.
+12|-|Folha composta estendida, mostrando os folíolos distribuídos ao longo do eixo.
+13|flower,fruit|Flor de pétalas espessas e pequeno fruto verde no mesmo ramo.
+14|leaf|Ramo visto contra a luz, mostrando a disposição das folhas e suas margens.
+15|bark|Trecho do tronco com casca marcada por sulcos longitudinais.
+16|flower,leaf|Flores pendentes de pétalas claras entre as folhas do ramo.
+17|fruit|Frutos amarelos a alaranjados, com numerosas projeções na superfície.
+18|flower|Flor de pétalas espessas e esverdeadas, vista de lado.
+19|fruit|Fruto verde de superfície saliente ainda preso à planta.
+20|leaf|Ramos da copa vistos contra o céu, com folhas pendentes.
+21|fruit|Fruto cortado ao meio, mostrando o interior amarelado e os segmentos da casca.
+22|fruit|Pequenos frutos abertos sobre a mão, com a porção central clara exposta.
+23|leaf|Ramo com folhas estreitas, aproximado da mão para comparação de tamanho.
+24|bark|Trecho do tronco delgado, com superfície castanho-avermelhada e manchas claras.
+25|bark|Tronco no interior da mata, em vista mais afastada.
+26|-|Flores amarelas de garganta tubular entre as folhas do ramo.
+27|wholePlant,flower|Vista do conjunto de ramos, com flores amarelas destacadas na vegetação.
+28|flower|Extremidade de ramo com pequenas flores claras e botões agrupados.
+29|fruit|Fruto seco achatado, ainda fechado, sobre a serapilheira.
+30|fruit|Fruto seco aberto, com a face interna clara exposta.
+31|flower,leaf|Flor branca de garganta amarelada junto às folhas estreitas.
+32|flower,leaf|Ramo florido sustentado à mão, mostrando a disposição das folhas.
+33|flower,leaf|Ramos floridos crescendo junto à superfície rochosa.
+34|leaf|Folhas alongadas junto ao solo, com perfurações e áreas danificadas.
+35|-|Rosetas de folhas compridas crescendo na fenda de uma rocha.
+36|-|Espádice alongado, com espata estreita junto à base.
+37|flower,leaf|Folhas alongadas e duas inflorescências erguidas em pedúnculos finos.
+38|flower,leaf|Inflorescência erguida entre folhas alongadas, vista sobre a serapilheira.
+39|wholePlant|Aspecto da planta no solo da mata, com folhas reunidas em roseta.
+40|leaf|Folhas largas com danos na lâmina, vistas de cima sobre a serapilheira.
+41|leaf|Lâmina foliar alongada, mostrando a nervura central e pequenas perfurações.
+42|flower|Espádice alongado e arroxeado ao lado da espata estreita.
+43|leaf|Folhas estreitas e compridas, arqueadas para baixo.
+44|wholePlant|Planta no barranco, com folhas longas pendendo sobre a vegetação.
+45|leaf|Vista mais próxima das lâminas estreitas e do feixe de folhas.
+46|leaf|Folhas pequenas e largas em planta apoiada entre ramos.
+47|leaf|Folhas curtas e largas, vistas em planta apoiada no tronco.
+48|flower|Espádice comprido junto à espata estreita, com a folhagem ao fundo.
+49|leaf|Folha larga sustentada à mão, mostrando o contorno da lâmina e as nervuras.
+50|flower,leaf|Folhas e inflorescências eretas no mesmo indivíduo, junto ao solo.
+51|-|-
+52|-|-
+53|-|-
+54|-|-
+55|wholePlant|Várias rosetas de folhas eretas distribuídas entre os ramos.
+56|wholePlant|Planta apoiada na bifurcação do tronco, com folhas partindo de uma base compacta.
+57|leaf|Folhas verdes em torno do caule, com lâminas de tamanhos diferentes.
+58|wholePlant|Roseta no chão da mata, com folhas compridas e nervuras visíveis.
+59|leaf|Folha alongada sustentada à mão, mostrando a nervura central e a superfície brilhante.
+60|-|Folhas inteiras e brilhantes em ramos próximos ao solo.

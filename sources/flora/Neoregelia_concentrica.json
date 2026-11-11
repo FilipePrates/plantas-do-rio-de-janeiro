@@ -1,0 +1,193 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Neoregelia_concentrica",
+  "retrievedAt": "2026-11-11T07:59:54Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 6152,
+        "scientificname": "Neoregelia concentrica (Vell.) L.B.Sm.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Neoregelia",
+        "specificepithet": "concentrica",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Vell.) L.B.Sm.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Neoregelia L.B.Sm.;Neoregelia concentrica (Vell.) L.B.Sm.",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB6152>http://floradobrasil2015.jbrj.gov.br/FB6152</a>)<br><br>Kessous, I.M., Almeida, M.M. 2020. Neoregelia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB6152\">https://floradobrasil2020.jbrj.gov.br/FB6152</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Neoregelia L.B.Sm.",
+        "parentnameusageid": 6131,
+        "originalnameusageid": "46993",
+        "namepublishedin": "Contr. Gray Herb. 104: 78 1934",
+        "namepublishedinyear": "1934",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB6152",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Kessous, I.M., Almeida, M.M. Neoregelia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB6152>. Acesso em: 11 nov. 2026.",
+        "modified": "2022-06-22 10:44:27.762"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "L.B. Sm.,Contr. Gray Herb.,104: 78,1934"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 45991,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Bromelia concentrica (Vell.) Beer"
+        },
+        {
+          "relatedresourceid": 46568,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Nidularium laurentii Regel"
+        },
+        {
+          "relatedresourceid": 46541,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Nidularium concentricum (Vell.) Mez"
+        },
+        {
+          "relatedresourceid": 46411,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Karatas laurentii (Regel) Antoine"
+        },
+        {
+          "relatedresourceid": 46523,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Nidularium acanthocrater var. plutonis É.Morren"
+        },
+        {
+          "relatedresourceid": 46524,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Nidularium acanthocrater var. proserpinae É.Morren"
+        },
+        {
+          "relatedresourceid": 46522,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Nidularium acanthocrater É.Morren"
+        },
+        {
+          "relatedresourceid": 46388,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Karatas acanthocrater (É.Morren) Antoine"
+        },
+        {
+          "relatedresourceid": 45805,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aregelia concentrica var. daemoniorum É.Morren ex Mez"
+        },
+        {
+          "relatedresourceid": 45806,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aregelia concentrica var. plutonis Mez"
+        },
+        {
+          "relatedresourceid": 45807,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aregelia concentrica var. proserpinae Mez"
+        },
+        {
+          "relatedresourceid": 45804,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Aregelia concentrica (Vell.) Mez"
+        },
+        {
+          "relatedresourceid": 45818,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aregelia laurentii (Regel) Mez"
+        },
+        {
+          "relatedresourceid": 46993,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Tillandsia concentrica Vell."
+        },
+        {
+          "relatedresourceid": 46879,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Regelia acanthocrater (É.Morren) Lindm."
+        },
+        {
+          "relatedresourceid": 46889,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Regelia laurentii (Regel) Lindm."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "G. Martinelli 1716",
+          "collectioncode": "RB",
+          "catalognumber": "RB00352581",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00352581",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000322190",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000322190",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Martinelli 1716",
+          "collectioncode": "RB",
+          "catalognumber": "RB00352581",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284073518",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": null,
+          "collectioncode": "K",
+          "catalognumber": "K000322190",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227599997",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+# Preview number | individual photo markers | visually authored caption
+1|unknown|Cladódios achatados e alongados nas extremidades dos ramos, mostrando as aréolas na superfície.
+4|fruit|Fruto amarelo e arredondado entre os cladódios verdes, com pequenas aréolas na casca.
+7|wholePlant|Porte arbóreo, com tronco e ramos grossos cilíndricos sustentando segmentos achatados nas extremidades.
+12|wholePlant|Cacto jovem ramificado, com caules verdes costelados sobre uma superfície rochosa.
+14|fruit|Pequeno fruto rosado saindo da região densamente coberta de lã e cerdas.
+16|wholePlant|Caule colunar junto à rocha, com uma faixa lateral densa de cerdas acobreadas.
+19|wholePlant,flower|Arbusto de cladódios achatados, com flores amarelas na vegetação aberta.
+23|flower|Flor amarela aberta na extremidade de um cladódio verde.
+26|fruit|Frutos verdes e rosados distribuídos junto aos cladódios espinhosos.
+30|flower,leaf|Flores rosadas de centro amarelo, botões e folhas verdadeiras no mesmo ramo.
+33|leaf|Ramo com espinhos retos e folhas simples de margem inteira.
+39|flower,leaf|Flor clara com numerosos estames entre folhas verdes de margem inteira.
+42|fruit,leaf|Frutos alaranjados arredondados, agrupados entre as folhas.
+47|wholePlant|Moita de caules colunares ramificados, em meio à vegetação baixa.
+50|fruit|Fruto verde junto ao caule costelado, com os restos escurecidos da flor na extremidade.
+55|wholePlant|Cacto ramificado sobre rocha exposta, visto com a paisagem costeira ao fundo.
+59|wholePlant|Caules costelados com pelos claros concentrados na região próxima ao ápice.
+61|unknown|Detalhe da lã branca e das cerdas junto ao ápice de um ramo costelado.
+62|wholePlant|Conjunto de colunas ramificadas na encosta, com o mar ao fundo.
+65|wholePlant,fruit|Cacto globoso com cefálio no topo e dois frutos alongados de cor rosa intensa.
+67|wholePlant|Indivíduo jovem de corpo arredondado e costelado, parcialmente enterrado na areia.
+69|wholePlant,flower|Ramos articulados pendentes entre a vegetação, com flores magenta nas extremidades.
+70|flower|Flores magenta de tubo alongado nas pontas dos segmentos achatados, junto a um suporte artificial.
+78|fruit|Pequenos frutos brancos nas laterais dos ramos pendentes e angulosos.
+80|wholePlant|Longos ramos articulados descendo pelo tronco que serve de suporte.
+87|flower|Flores brancas abertas e botões amarelados nos recortes dos segmentos largos e achatados.
+88|wholePlant|Cacto epífito com segmentos largos e recortados, apoiado no tronco de uma árvore.
+98|wholePlant|Ramos pendentes, alguns avermelhados, espalhados sobre a casca do tronco.
+99|fruit|Frutos magenta entre ramos verdes e avermelhados de margens recortadas.
+102|fruit|Ave junto aos frutos rosados distribuídos pelos caules pendentes.
+103|wholePlant,fruit|Planta ramificada sobre o tronco, com segmentos estreitos e frutos claros nas extremidades.
+104|fruit|Frutos brancos a rosados na ponta dos segmentos em forma de pequena garrafa.
+112|flower|Pequena flor amarelo-alaranjada na extremidade do segmento, com os dedos como referência de escala.

@@ -1,0 +1,141 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Schlumbergera_russelliana",
+  "retrievedAt": "2026-11-11T17:04:18Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 1742,
+        "scientificname": "Schlumbergera russelliana (Hook.) Britton & Rose",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Schlumbergera",
+        "specificepithet": "russelliana",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Hook.) Britton & Rose",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Schlumbergera Lem.;Schlumbergera russelliana (Hook.) Britton & Rose",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1742>http://floradobrasil2015.jbrj.gov.br/FB1742</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1742\">https://floradobrasil2020.jbrj.gov.br/FB1742</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).arthlott, W. &amp;amp; Taylor, N.P. 1995. Notes towards a monograph of Rhipsalideae (Cactaceae). Bradleya 13: 43&amp;acirc;&amp;euro;&amp;ldquo;79.\r\n&amp;nbsp;\r\nTaylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\nTaylor, N. &amp;amp; Zappi, D. 1995. Herbarium records. in McMillan, A.J.S. &amp;amp; Horobin, J.F. Christmas cacti (Schlumbergera). Succulent Plant Research 4: 80-81.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\nTaylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\nHunt, D., Taylor, N. &amp;amp; Graham, C. 2006. The New Cactus Lexicon, Text. dh books, Milborne Port.",
+        "parentnameusage": "Schlumbergera Lem.",
+        "parentnameusageid": 1737,
+        "originalnameusageid": "1513",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1742",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB1742>. Acesso em: 11 nov. 2026.",
+        "modified": "2025-01-18 13:14:26.84"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Epífita"
+        ],
+        "vegetationType": [
+          "Campo de Altitude",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Contr. U.S. Natl. Herb.,16: 261.,1913"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 1513,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Epiphyllum russellianum Hook."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "R. Schnell 8297",
+          "collectioncode": "P",
+          "catalognumber": "P05249254",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227934053",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Gardner 429",
+          "collectioncode": "K",
+          "catalognumber": "K000250531",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227576883",
+          "locality": "RJ",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Hunt, Dr. 6484",
+          "collectioncode": "K",
+          "catalognumber": "K000250529",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227123926",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Hunt, Dr. 6484",
+          "collectioncode": "K",
+          "catalognumber": "K000250530",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227123928",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. Schnell 8297",
+          "collectioncode": "P",
+          "catalognumber": "P05249254",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P05249254",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Hunt, Dr. 6484",
+          "collectioncode": "K",
+          "catalognumber": "K000250530",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000250530",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Hunt, Dr. 6484",
+          "collectioncode": "K",
+          "catalognumber": "K000250529",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000250529",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "G. Gardner 429",
+          "collectioncode": "K",
+          "catalognumber": "K000250531",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000250531",
+          "locality": "RJ",
+          "typestatus": "typus"
+        }
+      ]
+    }
+  ]
+}

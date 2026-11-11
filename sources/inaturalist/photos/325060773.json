@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/186056992",
+  "photo": {
+    "id": 325060773,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1500,
+      "height": 1200
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325060773/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Paula Romano",
+  "observation": {
+    "id": 186056992,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 545102,
+      "name": "Vriesea inflata"
+    },
+    "observerLogin": "paularomano"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325060773/large.jpeg",
+    "sha256": "180a4fc0b3996074ed6981590653781c185d09fa435dbb64fce71474f6270f16",
+    "retrievedAt": "2026-11-11T08:10:20Z"
+  }
+}

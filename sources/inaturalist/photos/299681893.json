@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/172616697",
+  "photo": {
+    "id": 299681893,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1534
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299681893/square.jpeg",
+    "attribution": "(c) vinicius_s_domingues, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "vinicius_s_domingues",
+  "observation": {
+    "id": 172616697,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 464440,
+      "name": "Inga sessilis"
+    },
+    "observerLogin": "vinicius_s_domingues"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299681893/large.jpeg",
+    "sha256": "4e8072f187f9a4c86cf467c056f56f010e8429fd781e283a1fc44b1004b45c73",
+    "retrievedAt": "2026-11-11T08:14:14Z"
+  }
+}

@@ -1,0 +1,60 @@
+121|-|Palmeira na encosta, com folhas pinadas formando uma copa arqueada.
+122|-|Bráctea aberta e eixos pendentes, com poucos frutos ainda presos.
+123|wholePlant,leaf|Plântula de palmeira com folhas estreitas e pregueadas, junto à serapilheira.
+124|wholePlant|Palmeira jovem de folhas finas, fotografada ao lado de uma estrutura de madeira.
+125|-|-
+126|-|-
+127|-|-
+128|wholePlant|Palmeira de estipe delgado, com a copa acima das folhas mais próximas ao solo.
+129|wholePlant|Copa de folhas pinadas e arqueadas, vista em palmeira de estipe fino.
+130|flower|Capítulos de pequenas flores rosadas reunidos na extremidade do ramo.
+131|leaf|Folhas alongadas distribuídas ao longo do ramo, com nervuras claras visíveis.
+132|wholePlant,flower|Planta florida junto à rocha, mostrando a ramificação e os capítulos rosados.
+133|flower|Capítulo alaranjado visto de lado, com flores tubulares entre numerosas cerdas.
+134|fruit|Capítulo após a floração, com o pápus alaranjado expandido; as cerdas não são pétalas.
+135|fruit|Capítulo com pápus rosado bem desenvolvido e invólucro de brácteas sobrepostas.
+136|wholePlant,flower|Árvore em floração, com a copa coberta por flores amarelas.
+137|-|Muda com folhas compostas, fotografada junto ao piso.
+138|wholePlant,flower|Árvore com a copa coberta por flores rosadas, vista à distância.
+139|-|Tronco e ramos grossos vistos de baixo, mostrando a casca marcada por sulcos.
+140|wholePlant,flower|Copa florida de cor amarela destacada acima da vegetação.
+141|wholePlant,flower|Árvore florida vista contra o céu, com flores amarelas distribuídas pelos ramos.
+142|-|Flores tubulares lilases, com a abertura e os lobos vistos de perto.
+143|-|Ramos com grupos de flores lilases entre a folhagem.
+144|bark|Casca do tronco em detalhe, com sulcos e faixas de coloração mais clara.
+145|bark|Tronco visto de baixo, mostrando a textura da casca em direção à copa.
+146|flower|Flores claras com bordas franjadas e linhas rosadas na garganta.
+147|leaf|Folha composta com cinco folíolos partindo do mesmo ponto.
+148|fruit|Cápsulas compridas e estreitas pendendo dos ramos entre as folhas.
+149|flower|Flor branca de tubo amarelado, vista de frente.
+150|leaf|Ramo com folhas simples, de lâminas inteiras e nervuras secundárias bem marcadas.
+151|leaf|Face inferior da folha, com a nervura central e as nervuras laterais em evidência.
+152|wholePlant,flower|Árvore florida na mata, destacando-se pela copa de flores brancas.
+153|-|Inflorescência rosada e ramificada acima das folhas estreitas.
+154|wholePlant,flower|Roseta apoiada nos galhos, com inflorescência rosada acima das folhas.
+155|-|Conjunto de brácteas rosadas na ponta do pedúnculo da inflorescência.
+156|-|Roseta no tronco de uma árvore, com inflorescência rosada projetada para fora.
+157|flower|Inflorescência delicada, com eixos rosados e pequenas flores de pétalas azuladas.
+158|fruit|Frutos verdes alongados em eixo fino, com restos secos das flores nas pontas.
+159|flower|Detalhe das flores azuladas entre brácteas rosadas.
+160|-|Inflorescência compacta entre grandes brácteas vermelhas e pontiagudas.
+161|wholePlant|Roseta presa ao tronco, com haste reprodutiva arqueada para fora.
+162|flower|Inflorescência compacta no alto de uma haste com brácteas vermelhas, entre folhas espinhosas.
+163|fruit|Frutos verdes agrupados em uma infrutescência alongada, com restos secos das flores.
+164|fruit|Detalhe dos frutos verdes, com sépalas e projeções pontiagudas persistentes.
+165|wholePlant|Planta com estrutura reprodutiva compacta acima da roseta e escamas claras no pedúnculo.
+166|wholePlant|Roseta sobre o tronco, com folhas longas e arqueadas, algumas avermelhadas.
+167|wholePlant|Roseta de folhas largas e serrilhadas, com uma estrutura reprodutiva compacta no centro.
+168|flower|Inflorescência ramificada, com pequenas flores amarelas sobre eixos avermelhados.
+169|unknown|Eixo reprodutivo avermelhado e suas ramificações, vistos contra a luz; a fase não está nítida neste enquadramento.
+170|flower|Detalhe das flores amarelas e dos botões verdes, sobre ramificações vermelhas.
+171|fruit|Frutos verdes de pontas escuras distribuídos ao longo de ramificações avermelhadas.
+172|wholePlant,flower|Planta apoiada entre os ramos, com inflorescência avermelhada erguida acima das folhas.
+173|flower|Inflorescência rosada com pequenas flores azuladas, vista entre as folhas da roseta.
+174|unknown|Detalhe dos eixos reprodutivos avermelhados e das estruturas claras persistentes. As flores roxas pertencem à vegetação vizinha.
+175|wholePlant|Aspecto da bromélia entre arbustos, com as hastes reprodutivas acima da roseta.
+176|-|Rosetas de folhas longas e largas crescendo sobre a encosta.
+177|-|Inflorescência ramificada acima das folhas, fotografada contra o céu.
+178|wholePlant|Planta inteira na encosta rochosa, com haste reprodutiva alta e ramificada e estruturas persistentes escurecidas.
+179|-|Roseta vista de cima, com folhas largas de coloração verde e avermelhada.
+180|wholePlant|Bromélias apoiadas na encosta rochosa, com rosetas de folhas longas e hastes reprodutivas.

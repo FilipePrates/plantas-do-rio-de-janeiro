@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/100823119",
+  "photo": {
+    "id": 168309312,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1197,
+      "height": 1600
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168309312/square.jpeg",
+    "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Diogo Luiz",
+  "observation": {
+    "id": 100823119,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 779160,
+      "name": "Quesnelia liboniana"
+    },
+    "observerLogin": "diogoluiz"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168309312/large.jpeg",
+    "sha256": "dee3c7804b64e27e58e6fe50065067795d1e6541198a3e0ce83ec4ef35b6e548",
+    "retrievedAt": "2026-11-11T08:13:06Z"
+  }
+}

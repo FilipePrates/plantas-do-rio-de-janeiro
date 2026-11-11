@@ -1,0 +1,169 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Vriesea_fosteriana",
+  "retrievedAt": "2026-11-11T08:00:34Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 6465,
+        "scientificname": "Vriesea fosteriana L.B.Sm.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Vriesea",
+        "specificepithet": "fosteriana",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "L.B.Sm.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Vriesea Lindl.;Vriesea fosteriana L.B.Sm.",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB6465>http://floradobrasil2015.jbrj.gov.br/FB6465</a>)<br><br>Costa, A.F., Moura, R.L., Neves, B., Machado, T.M., Kessous, I.M., Uribbe, F.P., Couto, D.R., Gomes-da-Silva, J. 2020. Vriesea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB6465\">https://floradobrasil2020.jbrj.gov.br/FB6465</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Moura, R.&amp;nbsp; 2011. Revis&amp;atilde;o taxon&amp;ocirc;mica do grupo Vriesea platynema Gauch. (Bromeliaceae). Tese de Doutorado. Museu Nacional, Universidade Federal do Rio de Janeiro.",
+        "parentnameusage": "Vriesea Lindl.",
+        "parentnameusageid": 6414,
+        "originalnameusageid": null,
+        "namepublishedin": "Arq. Bot. Estado Sao Paulo II, 1: 116 1943",
+        "namepublishedinyear": "1943",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB6465",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2020-12-28 13:09:34.613"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Smith, L.B.,Arq. Bot. Estado Sao Paulo,II, 1: 116,1943"
+        },
+        {
+          "reference": "Reitz, R.,Sellowia,17: 41-44,1965"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 47271,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Vriesea fosteriana var. seideliana Reitz"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "Hatschbach, G. 58543",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM156958",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBM156958",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Foster, M.B. 947",
+          "collectioncode": "SP",
+          "catalognumber": "SP001824",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/SP001824",
+          "locality": "ES",
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Hatschbach, G. 58543",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM156958",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229497707",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Hatschbach, G. 58543",
+          "collectioncode": "MBM",
+          "catalognumber": "MBM156958",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=229497709",
+          "locality": "ES",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 47271,
+        "scientificname": "Vriesea fosteriana var. seideliana Reitz",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Vriesea",
+        "specificepithet": "fosteriana",
+        "infraspecificepithet": "seideliana",
+        "scientificnameauthorship": "Reitz",
+        "acceptednameusage": "Vriesea fosteriana L.B.Sm.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Vriesea Lindl.;Vriesea fosteriana L.B.Sm.;Vriesea fosteriana var. seideliana Reitz",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB47271>http://floradobrasil2015.jbrj.gov.br/FB47271</a>)<br><br>Costa, A.F., Moura, R.L., Neves, B., Machado, T.M., Kessous, I.M., Uribbe, F.P., Couto, D.R., Gomes-da-Silva, J. 2020. Vriesea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB47271\">https://floradobrasil2020.jbrj.gov.br/FB47271</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Vriesea fosteriana L.B.Sm.",
+        "parentnameusageid": 6465,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB47271",
+        "acceptednameusageid": 6465,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2010-02-22 14:31:56.591586"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": ",Sellowia,17: 41,1965"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 6465,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Vriesea fosteriana L.B.Sm."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

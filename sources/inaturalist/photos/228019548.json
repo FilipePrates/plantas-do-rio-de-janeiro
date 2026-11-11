@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/133831555",
+  "photo": {
+    "id": 228019548,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/228019548/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Paula Romano",
+  "observation": {
+    "id": 133831555,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 552439,
+      "name": "Neoregelia johannis"
+    },
+    "observerLogin": "paularomano"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/228019548/large.jpeg",
+    "sha256": "962d45c48c7c51a67d7573266f25853391925e98a78bb0d550cac5ab6f8dacae",
+    "retrievedAt": "2026-11-11T08:09:53Z"
+  }
+}

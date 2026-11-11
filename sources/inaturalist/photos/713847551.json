@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/389697348",
+  "photo": {
+    "id": 713847551,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847551/square.jpg",
+    "attribution": "(c) topeuna, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "topeuna",
+  "observation": {
+    "id": 389697348,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 912358,
+      "name": "Stifftia fruticosa"
+    },
+    "observerLogin": "topeuna"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713847551/large.jpg",
+    "sha256": "6fdf44ed8205c7487137b6034beca07ec9e4c244a9e0fa5a459a5eeaea0df2ca",
+    "retrievedAt": "2026-11-11T08:49:12.170Z"
+  }
+}

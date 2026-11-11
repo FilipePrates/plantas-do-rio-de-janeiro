@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/308467378",
+  "photo": {
+    "id": 556516392,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556516392/square.jpg",
+    "attribution": "(c) Denis Zabin, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Denis Zabin",
+  "observation": {
+    "id": 308467378,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 569843,
+      "name": "Swartzia langsdorffii"
+    },
+    "observerLogin": "deniszabin"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556516392/large.jpg",
+    "sha256": "6cecc4c3fa84c4169b3a2ca401c129447c6ce1ba45506fa9c3df6914d9e74f8d",
+    "retrievedAt": "2026-11-11T08:48:40.276Z"
+  }
+}

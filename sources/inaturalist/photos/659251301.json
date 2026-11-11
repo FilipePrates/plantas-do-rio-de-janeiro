@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/361244078",
+  "photo": {
+    "id": 659251301,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 923,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659251301/square.jpg",
+    "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Marcio Santos Ferreira",
+  "observation": {
+    "id": 361244078,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 431732,
+      "name": "Vriesea scalaris"
+    },
+    "observerLogin": "marcio_santos_ferreira"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659251301/large.jpg",
+    "sha256": "7854b5e5dc8c3390b750518a0e2408c6a2439bacc5bc6668a4f1401fa87c0066",
+    "retrievedAt": "2026-11-11T08:13:02Z"
+  }
+}

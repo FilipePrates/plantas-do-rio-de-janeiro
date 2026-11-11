@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/258081623",
+  "photo": {
+    "id": 462972050,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1370
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462972050/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "filipeprates",
+  "observation": {
+    "id": 258081623,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 701655,
+      "name": "Philodendron crassinervium"
+    },
+    "observerLogin": "filipeprates"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462972050/large.jpg",
+    "sha256": "57c7b3208660475fe210e94f58dadab679f967776596952df16a42d0cdb96c75",
+    "retrievedAt": "2026-11-11T08:11:36Z"
+  }
+}

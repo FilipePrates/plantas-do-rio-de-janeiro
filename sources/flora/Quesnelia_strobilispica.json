@@ -1,0 +1,165 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Quesnelia_strobilispica",
+  "retrievedAt": "2026-11-11T08:02:03Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 6349,
+        "scientificname": "Quesnelia strobilispica Wawra",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Quesnelia",
+        "specificepithet": "strobilispica",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Wawra",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Quesnelia Gaudich.;Quesnelia strobilispica Wawra",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB6349>http://floradobrasil2015.jbrj.gov.br/FB6349</a>)<br><br>Oliveira, F.M.C., Tardivo, R.C. 2020. Quesnelia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB6349\">https://floradobrasil2020.jbrj.gov.br/FB6349</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Quesnelia Gaudich.",
+        "parentnameusageid": 6335,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB6349",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br>",
+        "modified": "2022-06-22 12:16:54.971"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 34453,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Quesnelia blanda (Schott ex Beer) Mez"
+        },
+        {
+          "relatedresourceid": 45984,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Bromelia blanda Schott ex Beer"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "C.M. Vieira 941",
+          "collectioncode": "RB",
+          "catalognumber": "RB00269429",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00269429",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Vieira, C.M. 969",
+          "collectioncode": "RB",
+          "catalognumber": "RB00269286",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00269286",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Costa, A. 409",
+          "collectioncode": "RB",
+          "catalognumber": "RB00269438",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00269438",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Vieira, C.M. 969",
+          "collectioncode": "RB",
+          "catalognumber": "RB00269286",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283972574",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Costa, A. 409",
+          "collectioncode": "RB",
+          "catalognumber": "RB00269438",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283972910",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Costa, A. 409",
+          "collectioncode": "RB",
+          "catalognumber": "RB00269438",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283972912",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "C.M. Vieira 941",
+          "collectioncode": "RB",
+          "catalognumber": "RB00269429",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283972886",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "C.M. Vieira 941",
+          "collectioncode": "RB",
+          "catalognumber": "RB00269429",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283972888",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

@@ -2,8 +2,13 @@
 
 Escopo de 24/10/2026, concluído em 27/10: [decisões e método](docs/scope-2026-10-24.md)
 e [planilha filtrável com todas as candidatas](docs/decisoes-escopo-2026-10-24.xlsx).
-O catálogo de desenvolvimento representa 452 espécies em 123 fichas ilustradas
-e 188 entradas de referência. As novas decisões e os novos textos são rascunhos.
+Rodada de 11/11/2026: [perfis, fotografias e limites da pesquisa](docs/expansion-2026-11-11.md)
+e [planilha da primeira rodada](docs/expansion-2026-11-11.xlsx).
+Segunda rodada: [seleção por qualidade visual e espaço](docs/photo-selection-2026-11-11.md)
+e [cobertura atual da planilha](docs/photo-selection-2026-11-11.xlsx).
+O catálogo de desenvolvimento representa 493 espécies em 210 fichas ilustradas
+e 162 entradas de referência. Textos e fotografias novos continuam em rascunho.
+APK de teste de 11/11/2026: [arquivo local, verificação e reprodução do build](docs/apk-test-2026-11-11.md).
 
 Curadoria de 17/10/2026: [espécies, textos e fotos](docs/curation-2026-10-17.md)
 e [importação de unidades de conservação e categorias históricas](docs/rio-conservation-import.md).
@@ -74,8 +79,10 @@ Bromeliaceae, Arecaceae, Araceae, and Lecythidaceae (the jequitibá family).
 
 Anthurium, Philodendron, Eugenia and Myrcia have genus groups with explicitly
 enumerated members. The groups are editorial selections, not complete municipal
-checklists. Anthurium coriaceum and A. pentaphyllum have separate pages; four
-Eugenia species also retain individual pages. A species belongs to one entry
+checklists. The November pass separates eight additional Anthurium (one still
+reference-only), nine Philodendron and three Eugenia into individual entries.
+Anthurium coriaceum, A. pentaphyllum and the four previously individual
+Eugenia species retain their pages. A species belongs to one entry
 only. Related pages link to each other without duplicating membership.
 The unique represented species count, including checklist entries and group
 members, must stay at or below 1,500.
@@ -116,10 +123,17 @@ npm run catalog:release-check
 
 The release check fails while any record or photo is a draft, or an illustrated
 profile has no photo. Reference entries (`presentation: "checklist"`) may have
-no photo, but still require human review before release. The 123 illustrated
+no photo, but still require human review before release. The 210 illustrated
 profiles currently have photos. Ordinary checks permit documented drafts.
 `catalog:generate` creates static Metro `require()` entries: the shipped guide
 loads its photos locally, with no runtime iNaturalist request.
+
+When an Android test APK is requested in this configured Windows workspace,
+run `npm run android:apk:windows`. The plant-only script uses the local tools,
+keeps native output paths short, tracks catalog JSON as a bundle input, and
+verifies packaged images, current catalog strings, signing and package identity.
+The dated APK and verification files are written to the ignored `dist/` folder.
+
 The grid and small gallery previews use generated 320-pixel WebP thumbnails;
 the profile preserves the complete original photo within its square frame.
 Tap a profile photo to open the full-screen viewer. Pinch to zoom up to 5×,
@@ -140,7 +154,7 @@ npm run photos:fetch -- --ids euterpe-edulis --per-plant 3
 # CC BY requires attribution, a license link and a modification notice:
 npm run photos:fetch -- --ids euterpe-edulis --per-plant 3 --license cc-by
 # A particular native member can illustrate a grouped genus:
-npm run photos:fetch -- --ids anthurium-spp --taxon-name "Anthurium coriaceum"
+npm run photos:fetch -- --ids anthurium-spp --taxon-name "Anthurium sellowianum"
 npm run catalog:generate
 npm run catalog:check
 npm run editor:sync

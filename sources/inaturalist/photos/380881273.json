@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/215432067",
+  "photo": {
+    "id": 380881273,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380881273/square.jpeg",
+    "attribution": "(c) Joe Potter Butler, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Joe Potter Butler",
+  "observation": {
+    "id": 215432067,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 165894,
+      "name": "Opuntia monacantha"
+    },
+    "observerLogin": "joepb"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380881273/large.jpeg",
+    "sha256": "9796085fb45067c4ea63bfad2c851edc8b7026c88ee08ef0285ea89e82c8b443",
+    "retrievedAt": "2026-11-11T17:16:22Z"
+  }
+}

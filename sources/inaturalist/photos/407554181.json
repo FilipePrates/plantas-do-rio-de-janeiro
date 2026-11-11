@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/229591351",
+  "photo": {
+    "id": 407554181,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407554181/square.jpeg",
+    "attribution": "(c) Alexandre Magno, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Alexandre Magno",
+  "observation": {
+    "id": 229591351,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1529212,
+      "name": "Anthurium longifolium"
+    },
+    "observerLogin": "alexandremagno"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407554181/large.jpeg",
+    "sha256": "5134f5edb66602a1a4584fc0771efe83f11d6dae4f8259aa1757947619504fd3",
+    "retrievedAt": "2026-11-11T08:16:59.242Z"
+  }
+}

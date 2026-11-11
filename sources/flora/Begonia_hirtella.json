@@ -1,0 +1,324 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Begonia_hirtella",
+  "retrievedAt": "2026-11-11T17:39:37Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5631,
+        "scientificname": "Begonia hirtella Link",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Cucurbitales",
+        "family": "Begoniaceae",
+        "genus": "Begonia",
+        "specificepithet": "hirtella",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Link",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Begoniaceae C.Agardh;Begonia L.;Begonia hirtella Link",
+        "source": "Jacques, E.L. 2015. Begoniaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5631>http://floradobrasil2015.jbrj.gov.br/FB5631</a>)<br><br>Jacques, E.L., Gregório, B.S. Begoniaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5631\">https://floradobrasil2020.jbrj.gov.br/FB5631</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Jacques, E.L. 2002. Estudos taxon&amp;ocirc;micos das esp&amp;eacute;cies brasileiras do g&amp;ecirc;nero Begonia L. (Begoniaceae) com placenta partida. Tese de Doutorado. Universidade de S&amp;atilde;o Paulo. S&amp;atilde;o Paulo.",
+        "parentnameusage": "Begonia L.",
+        "parentnameusageid": 5562,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5631",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Jacques, E.L. Begoniaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB5631>. Acesso em: 11 nov. 2026.",
+        "modified": "2023-03-09 18:39:46.351"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RS",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PR",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-AL",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SC",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-PE",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Não endemica",
+            "phytogeographicDomain": [
+              "Amazônia",
+              "Mata Atlântica",
+              "Pampa"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Área Antrópica",
+          "Floresta de Terra Firme",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 45133,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Begonia hirtella var. nana A.DC."
+        },
+        {
+          "relatedresourceid": 5629,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Begonia herteri Irmsch."
+        },
+        {
+          "relatedresourceid": 116050,
+          "relationshipofresource": null,
+          "scientificname": "Begonia ciliata var. nana Klotzsch ex A.DC."
+        },
+        {
+          "relatedresourceid": 116051,
+          "relationshipofresource": null,
+          "scientificname": "Begonia villosa var. nana Klotzsch ex A.DC."
+        },
+        {
+          "relatedresourceid": 45060,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Begonia brasila A.DC."
+        },
+        {
+          "relatedresourceid": 45046,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Begonia albidosetulosa Hassk."
+        },
+        {
+          "relatedresourceid": 45061,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Begonia brasiliana Schrank ex Steud."
+        },
+        {
+          "relatedresourceid": 45067,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Begonia ciliata Kunth"
+        },
+        {
+          "relatedresourceid": 45079,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Begonia dasypoda Meisn. ex A.DC."
+        },
+        {
+          "relatedresourceid": 45258,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Begonia villosa Lindl."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "L. Kollmann 5014",
+          "collectioncode": "MBML",
+          "catalognumber": "MBML015554",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/MBML015554",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "L. Kollmann 5014",
+          "collectioncode": "MBML",
+          "catalognumber": "MBML015554",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=230203851",
+          "locality": "ES",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 45133,
+        "scientificname": "Begonia hirtella var. nana A.DC.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Cucurbitales",
+        "family": "Begoniaceae",
+        "genus": "Begonia",
+        "specificepithet": "hirtella",
+        "infraspecificepithet": "nana",
+        "scientificnameauthorship": "A.DC.",
+        "acceptednameusage": "Begonia hirtella Link",
+        "higherclassification": "Flora e Funga;Angiospermas;Begoniaceae C.Agardh;Begonia L.;Begonia hirtella Link;Begonia hirtella var. nana A.DC.",
+        "source": "Jacques, E.L. 2015. Begoniaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB45133>http://floradobrasil2015.jbrj.gov.br/FB45133</a>)<br><br>Jacques, E.L., Gregório, B.S. Begoniaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB45133\">https://floradobrasil2020.jbrj.gov.br/FB45133</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Begonia hirtella Link",
+        "parentnameusageid": 5631,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB45133",
+        "acceptednameusageid": 5631,
+        "bibliographiccitation_how_to_cite": "Jacques, E.L. Begoniaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB45133>. Acesso em: 11 nov. 2026.",
+        "modified": "2017-12-11 15:29:48.546"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Martius, C.F.P. von & auct. suc. (eds.),Fl. bras.,4(1): 408,1863"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 5631,
+          "relationshipofresource": "É sinônimo HETEROTIPICO",
+          "scientificname": "Begonia hirtella Link"
+        },
+        {
+          "relatedresourceid": 116050,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Begonia ciliata var. nana Klotzsch ex A.DC."
+        },
+        {
+          "relatedresourceid": 116051,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Begonia villosa var. nana Klotzsch ex A.DC."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

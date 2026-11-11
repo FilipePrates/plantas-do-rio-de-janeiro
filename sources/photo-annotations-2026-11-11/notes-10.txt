@@ -1,0 +1,59 @@
+541|-|Touceira de folhas alongadas crescendo diretamente sobre uma superfície rochosa.
+542|-|Flores rosadas agrupadas na extremidade da haste, entre folhas alongadas.
+543|-|Planta com caules finos e folhas alongadas sobre a rocha, com pequenas flores rosadas.
+544|-|Flor de segmentos avermelhados e filamentos roxos e brancos, junto às folhas largas.
+545|flower|Detalhe da flor, mostrando filamentos roxos e brancos ao redor das estruturas amarelas centrais.
+546|-|-
+547|-|Flor branca com anel roxo e filamentos finos ao redor do centro.
+548|-|Ramo da trepadeira com folhas profundamente divididas em três lobos.
+549|flower,fruit,leaf|-
+550|-|-
+551|-|Abelha sobre uma flor branca, junto aos estames de anteras amarelas.
+552|-|Botão floral alongado junto às folhas inteiras da trepadeira.
+553|-|-
+554|-|Touceiras altas de capim com numerosas hastes florais finas, à margem de um caminho.
+555|-|Detalhe das espiguetas, com anteras e estruturas florais expostas.
+556|leaf|Ramo com folhas estreitas e alongadas, fotografado contra fundo escuro.
+557|leaf|Folhas estreitas de margem inteira, mostrando nervura central alongada.
+558|wholePlant|Pequena planta de folhas estreitas sobre o tronco de uma árvore.
+559|leaf|Ramos com folhas de nervuras laterais bem marcadas, ao lado de um tronco coberto de musgos.
+560|fruit,leaf|Frutos verdes e escuros, arredondados, junto às folhas de nervuras salientes.
+561|fruit,leaf|Ramo com frutos verdes e roxo-escuros, mostrando folhas alongadas.
+562|fruit,leaf|Frutos negros agrupados entre folhas pequenas e brilhantes.
+563|-|-
+564|-|-
+565|-|-
+566|-|-
+567|leaf|Folhas muito grandes, de nervuras salientes e margens danificadas, vistas no sub-bosque.
+568|leaf|Folhas grandes no alto do ramo, mostrando a face inferior clara e as nervuras salientes.
+569|flower,leaf|Flores tubulares roxas junto às folhas opostas, vistas de perto.
+570|flower,leaf|Grupo pendente de flores roxas entre folhas opostas, acima da serapilheira.
+571|flower,leaf|Ramos folhosos com pequenos grupos de flores roxas no sub-bosque.
+572|-|Frutos arredondados, de casca castanha a esverdeada, entre folhas largas e brilhantes.
+573|-|Folhas grandes e opostas, com nervuras laterais bem marcadas.
+574|fruit,leaf|Fruto amarelo-alaranjado com sulcos longitudinais, pendente entre os ramos.
+575|wholePlant|Vista da copa e dos ramos finos em meio à vegetação arbustiva.
+576|-|Inflorescência de eixos vermelhos com flores tubulares rosadas a alaranjadas.
+577|-|Inflorescência alaranjada entre folhas opostas, de nervuras curvas bem marcadas.
+578|-|Flores de cálices vermelhos e corolas claras a amareladas, entre folhas brilhantes.
+579|flower,leaf|Pequenas flores amarelas saindo de cálices vermelhos, acima das folhas.
+580|leaf|Estrutura arroxeada com porção verde saliente entre folhas largas; estágio reprodutivo a conferir.
+581|leaf|Face inferior clara da folha, mostrando a nervura central e as nervuras laterais curvas.
+582|wholePlant,leaf|Aspecto do arbusto de folhas largas no interior da mata.
+583|leaf|Folha composta com folíolos alongados e margens serrilhadas.
+584|fruit|Frutos alaranjados arredondados, presos a pedicelos curtos no ramo.
+585|flower|Pequenas flores brancas e botões alongados agrupados junto ao ramo.
+586|leaf|Folhas espessas de margem inteira, mostrando a face inferior mais clara.
+587|-|Fruto verde alongado junto a folhas de nervuras laterais numerosas.
+588|-|Frutos alaranjados entre folhas brilhantes, vistos de baixo contra a luz.
+589|flower,leaf|Flores roxas de corola larga junto a folhas verdes e brilhantes.
+590|flower|Flores brancas de centro amarelo em inflorescência densamente coberta por pelos castanhos.
+591|leaf|Folhas grandes de face inferior muito clara, em caule e pecíolos cobertos de pelos castanhos.
+592|-|Árvore de tronco alto e ramificação aberta, com folhas concentradas nas pontas dos ramos.
+593|-|Vista de baixo dos ramos e das folhas grandes, profundamente divididas em lobos.
+594|-|Conjunto de estruturas alongadas e escuras da infrutescência, caído sobre a serapilheira.
+595|-|Folha caída, de face inferior clara e lâmina dividida em vários lobos.
+596|-|Ramos com folhas grandes e lobadas, vistas de baixo contra o céu.
+597|-|Copa de folhas lobadas vista de baixo, em meio à vegetação.
+598|flower,leaf|Inflorescência clara e rosada entre folhas grandes de margem serrilhada.
+599|-|Folha grande de margem serrilhada, com perfurações na lâmina, sustentada à mão.

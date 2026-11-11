@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/345939471",
+  "photo": {
+    "id": 630520913,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1152,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630520913/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "filipeprates",
+  "observation": {
+    "id": 345939471,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1066146,
+      "name": "Anthurium harrisii"
+    },
+    "observerLogin": "filipeprates"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630520913/large.jpg",
+    "sha256": "47d2203edc0d6bfac88ca32a96337e4dda0f777e89db077359ccc67d283d7440",
+    "retrievedAt": "2026-11-11T08:10:59Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/149185415",
+  "photo": {
+    "id": 257025738,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257025738/square.jpeg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 149185415,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 431732,
+      "name": "Vriesea scalaris"
+    },
+    "observerLogin": "bariza"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257025738/large.jpeg",
+    "sha256": "9b6776bcf7d2eae53c0d6617578d8211183e1420d7f83511a3e4bfe2a30f22e3",
+    "retrievedAt": "2026-11-11T08:13:03Z"
+  }
+}

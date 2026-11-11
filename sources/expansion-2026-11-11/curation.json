@@ -1,0 +1,2135 @@
+{
+  "date": "2026-11-11",
+  "staged": [
+    {
+      "id": "aechmea-gracilis",
+      "scientificName": "Aechmea gracilis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "organos"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        584061652,
+        539388099,
+        407380707
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Aechmea gracilis (FB5814)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Aechmea_gracilis",
+          "retrievedAt": "2026-11-11T07:59:04Z"
+        },
+        {
+          "title": "Neves et al. (2015). Aechmea e gêneros relacionados no Parque Nacional da Serra dos Órgãos. Rodriguésia 66.",
+          "url": "https://www.scielo.br/j/rod/a/qyqYPfC9H73JybTKNDBbbxv/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "aechmea-pectinata",
+      "scientificName": "Aechmea pectinata",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "organos"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        178216413,
+        449719432,
+        498261921
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Aechmea pectinata (FB5853)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Aechmea_pectinata",
+          "retrievedAt": "2026-11-11T07:59:11Z"
+        },
+        {
+          "title": "Neves et al. (2015). Aechmea e gêneros relacionados no Parque Nacional da Serra dos Órgãos. Rodriguésia 66.",
+          "url": "https://www.scielo.br/j/rod/a/qyqYPfC9H73JybTKNDBbbxv/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "aechmea-ramosa",
+      "scientificName": "Aechmea ramosa",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-ramosa"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        424998901,
+        624967655,
+        659842135
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Aechmea ramosa (FB5865)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Aechmea_ramosa",
+          "retrievedAt": "2026-11-11T07:59:18Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Aechmea ramosa. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000337899",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "aechmea-ornata",
+      "scientificName": "Aechmea ornata",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-ornata"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        271317885,
+        741602390,
+        348165688
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Aechmea ornata (FB5850)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Aechmea_ornata",
+          "retrievedAt": "2026-11-11T07:59:27Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Aechmea ornata. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000337835",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "aechmea-weilbachii",
+      "scientificName": "Aechmea weilbachii",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "organos"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        362665090,
+        322525801,
+        542436167
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Aechmea weilbachii (FB5884)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Aechmea_weilbachii",
+          "retrievedAt": "2026-11-11T07:59:40Z"
+        },
+        {
+          "title": "Neves et al. (2015). Aechmea e gêneros relacionados no Parque Nacional da Serra dos Órgãos. Rodriguésia 66.",
+          "url": "https://www.scielo.br/j/rod/a/qyqYPfC9H73JybTKNDBbbxv/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "neoregelia-johannis",
+      "scientificName": "Neoregelia johannis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "ffesp"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        228015886,
+        228019548,
+        67324053
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Neoregelia johannis (FB6172)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Neoregelia_johannis",
+          "retrievedAt": "2026-11-11T07:59:47Z"
+        },
+        {
+          "title": "Wanderley & Martins, coords. (2007). Bromeliaceae. Flora Fanerogâmica do Estado de São Paulo 5:39–162. Usado para morfologia, não para ocorrência municipal no Rio.",
+          "url": "https://www.infraestruturameioambiente.sp.gov.br/institutodebotanica/wp-content/uploads/sites/235/2016/02/Bromeliaceae.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "neoregelia-concentrica",
+      "scientificName": "Neoregelia concentrica",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "ffesp"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        104910928,
+        109234537
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Neoregelia concentrica (FB6152)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Neoregelia_concentrica",
+          "retrievedAt": "2026-11-11T07:59:54Z"
+        },
+        {
+          "title": "Wanderley & Martins, coords. (2007). Bromeliaceae. Flora Fanerogâmica do Estado de São Paulo 5:39–162. Usado para morfologia, não para ocorrência municipal no Rio.",
+          "url": "https://www.infraestruturameioambiente.sp.gov.br/institutodebotanica/wp-content/uploads/sites/235/2016/02/Bromeliaceae.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "nidularium-procerum",
+      "scientificName": "Nidularium procerum",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "ffesp"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        482900460,
+        163798377,
+        163798949
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Nidularium procerum (FB6265)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Nidularium_procerum",
+          "retrievedAt": "2026-11-11T08:00:13Z"
+        },
+        {
+          "title": "Wanderley & Martins, coords. (2007). Bromeliaceae. Flora Fanerogâmica do Estado de São Paulo 5:39–162. Usado para morfologia, não para ocorrência municipal no Rio.",
+          "url": "https://www.infraestruturameioambiente.sp.gov.br/institutodebotanica/wp-content/uploads/sites/235/2016/02/Bromeliaceae.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "vriesea-neoglutinosa",
+      "scientificName": "Vriesea neoglutinosa",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "massambaba"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        322567440,
+        334348826,
+        462973905
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Vriesea neoglutinosa (FB6511)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Vriesea_neoglutinosa",
+          "retrievedAt": "2026-11-11T08:00:27Z"
+        },
+        {
+          "title": "Restinga de Massambaba — vegetação, flora, propagação e usos. Vriesea neoglutinosa, p. 75.",
+          "url": "https://biologiavegetal.com.br/wp-content/uploads/2020/07/00073_restinga_de_massambaba_vegetacao_flora_propagacao_e_usos.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "vriesea-ensiformis",
+      "scientificName": "Vriesea ensiformis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-ensiformis"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        720275953,
+        325072491,
+        627193691
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Vriesea ensiformis (FB6457)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Vriesea_ensiformis",
+          "retrievedAt": "2026-11-11T08:00:49Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Vriesea ensiformis. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000601949",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "vriesea-inflata",
+      "scientificName": "Vriesea inflata",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-inflata"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        325067657,
+        406947186,
+        325060773
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Vriesea inflata (FB6484)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Vriesea_inflata",
+          "retrievedAt": "2026-11-11T08:00:56Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Vriesea inflata. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000602826",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "vriesea-longicaulis",
+      "scientificName": "Vriesea longicaulis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-longicaulis"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        286275173,
+        425732015,
+        417476425
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Vriesea longicaulis (FB6497)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Vriesea_longicaulis",
+          "retrievedAt": "2026-11-11T08:01:04Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Vriesea longicaulis. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000603172",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "vriesea-scalaris",
+      "scientificName": "Vriesea scalaris",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "scalaris"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        499405308,
+        659251301,
+        257025738
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Vriesea scalaris (FB6554)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Vriesea_scalaris",
+          "retrievedAt": "2026-11-11T08:01:10Z"
+        },
+        {
+          "title": "Neri et al. (2018). Natural hybridization and genetic and morphological variation between two epiphytic bromeliads. AoB PLANTS 10:plx061.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5751037/",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "tillandsia-geminiflora",
+      "scientificName": "Tillandsia geminiflora",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "juiz"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        662963956,
+        545065123,
+        567050431,
+        349085822,
+        349085838
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Tillandsia geminiflora (FB6376)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Tillandsia_geminiflora",
+          "retrievedAt": "2026-11-11T08:01:20Z"
+        },
+        {
+          "title": "Bromeliaceae nos fragmentos de Floresta Atlântica de Juiz de Fora, Minas Gerais. Rodriguésia. Tratamento morfológico.",
+          "url": "https://www.scielo.br/j/rod/a/FSPptGyxcsKvDPxTfmV8jkx/?format=html",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "tillandsia-recurvata",
+      "scientificName": "Tillandsia recurvata",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-recurvata"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        341066710,
+        38247696,
+        358092399
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Tillandsia recurvata (FB6399)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Tillandsia_recurvata",
+          "retrievedAt": "2026-11-11T08:01:28Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Tillandsia recurvata. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000583812",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "tillandsia-tricholepis",
+      "scientificName": "Tillandsia tricholepis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-tricholepis"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        306256137,
+        465504878,
+        506174413
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Tillandsia tricholepis (FB6411)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Tillandsia_tricholepis",
+          "retrievedAt": "2026-11-11T08:01:36Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Tillandsia tricholepis. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000585931",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "quesnelia-liboniana",
+      "scientificName": "Quesnelia liboniana",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "organos"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        584590585,
+        103991483,
+        168309312
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Quesnelia liboniana (FB6345)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Quesnelia_liboniana",
+          "retrievedAt": "2026-11-11T08:01:43Z"
+        },
+        {
+          "title": "Neves et al. (2015). Aechmea e gêneros relacionados no Parque Nacional da Serra dos Órgãos. Rodriguésia 66.",
+          "url": "https://www.scielo.br/j/rod/a/qyqYPfC9H73JybTKNDBbbxv/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "quesnelia-lateralis",
+      "scientificName": "Quesnelia lateralis",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "organos"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        296909537,
+        104319249,
+        417476110
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Quesnelia lateralis (FB6344)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Quesnelia_lateralis",
+          "retrievedAt": "2026-11-11T08:01:50Z"
+        },
+        {
+          "title": "Neves et al. (2015). Aechmea e gêneros relacionados no Parque Nacional da Serra dos Órgãos. Rodriguésia 66.",
+          "url": "https://www.scielo.br/j/rod/a/qyqYPfC9H73JybTKNDBbbxv/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "quesnelia-marmorata",
+      "scientificName": "Quesnelia marmorata",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-marmorata"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        250690464,
+        284934607,
+        250690455
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Quesnelia marmorata (FB6346)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Quesnelia_marmorata",
+          "retrievedAt": "2026-11-11T08:01:57Z"
+        },
+        {
+          "title": "Smith & Downs (1979), Flora Neotropica · Quesnelia marmorata. NYBG.",
+          "url": "https://sweetgum.nybg.org/science/world-flora/monographs-details/?irn=2902",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "billbergia-zebrina",
+      "scientificName": "Billbergia zebrina",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-zebrina"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        270916464,
+        755794624,
+        359847772
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Billbergia zebrina (FB5954)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Billbergia_zebrina",
+          "retrievedAt": "2026-11-11T08:02:10Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Billbergia zebrina. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000341530",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "wittrockia-superba",
+      "scientificName": "Wittrockia superba",
+      "family": "Bromeliaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-superba"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        600855783,
+        376009688,
+        656992176
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Wittrockia superba (FB6584)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Wittrockia_superba",
+          "retrievedAt": "2026-11-11T08:02:23Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Wittrockia superba. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000608186",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "alcantarea-regina",
+      "scientificName": "Alcantarea regina",
+      "family": "Bromeliaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-regina"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        247997623,
+        285292454,
+        247997647
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Alcantarea regina (FB5905)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Alcantarea_regina",
+          "retrievedAt": "2026-10-16T22:02:16Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Alcantarea regina. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000338178",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "neoregelia-spectabilis",
+      "scientificName": "Neoregelia spectabilis",
+      "family": "Bromeliaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-spectabilis"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        13781371,
+        91014088
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Neoregelia spectabilis (FB6221)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Neoregelia_spectabilis",
+          "retrievedAt": "2026-10-16T22:02:41Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Neoregelia spectabilis. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000477023",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "nidularium-fulgens",
+      "scientificName": "Nidularium fulgens",
+      "family": "Bromeliaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "wfo-fulgens"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        51767008,
+        115647460,
+        734038011
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Nidularium fulgens (FB6252)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Nidularium_fulgens",
+          "retrievedAt": "2026-10-16T22:02:45Z"
+        },
+        {
+          "title": "Canistropsis e Nidularium no Parque Nacional da Serra dos Órgãos. Rodriguésia (2017). Morfologia.",
+          "url": "https://www.scielo.br/j/rod/a/YnvYNXP8hKKhWy9XQcRjV7n/",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "anthurium-scandens",
+      "scientificName": "Anthurium scandens",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        42075103,
+        343736824,
+        117906745
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Anthurium scandens (FB4971)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_scandens",
+          "retrievedAt": "2026-10-16T22:12:19Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Dutra Junior, Barros & Coelho (2024). Anthurium da Serra da Tiririca: chave e descrições. Hoehnea 51.",
+          "url": "https://www.scielo.br/j/hoehnea/a/8VNp9QTm4nGNQCLV7tTxbXw/?format=html&lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "anthurium-harrisii",
+      "scientificName": "Anthurium harrisii",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "urospadix"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        664573685,
+        630520913,
+        521628175
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Anthurium harrisii (FB4934)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_harrisii",
+          "retrievedAt": "2026-10-16T22:11:32Z"
+        },
+        {
+          "title": "Calazans et al. (2018). Araceae of Grumari restinga. Acta Botanica Brasilica 32:55–62. Table 1.",
+          "url": "https://www.scielo.br/j/abb/a/GGybdkpkbCQW4rcycX8sNXq/?format=html&lang=en",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Urman et al. (2026). Araceae in the living collection of the Rio de Janeiro Botanical Garden Research Institute. Rodriguésia 77. Usado para morfologia de exemplares cultivados.",
+          "url": "https://www.scielo.br/j/rod/a/yysxL3nKYCH7WFq6gKDKLQf/?format=html&lang=en",
+          "retrievedAt": "2026-11-11"
+        },
+        {
+          "title": "Coelho, Waechter & Mayo (2009). Revisão taxonômica de Anthurium seção Urospadix subseção Flavescentiviridia. Rodriguésia 60:799–864.",
+          "url": "https://www.aroid.org/genera/anthurium/Urospadix-Nadruz.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "anthurium-intermedium",
+      "scientificName": "Anthurium intermedium",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        468149430,
+        468149762,
+        464182961
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Anthurium intermedium (FB4938)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_intermedium",
+          "retrievedAt": "2026-10-16T22:11:35Z"
+        },
+        {
+          "title": "Calazans et al. (2018). Araceae of Grumari restinga. Acta Botanica Brasilica 32:55–62. Table 1.",
+          "url": "https://www.scielo.br/j/abb/a/GGybdkpkbCQW4rcycX8sNXq/?format=html&lang=en",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Dutra Junior, Barros & Coelho (2024). Anthurium da Serra da Tiririca: chave e descrições. Hoehnea 51.",
+          "url": "https://www.scielo.br/j/hoehnea/a/8VNp9QTm4nGNQCLV7tTxbXw/?format=html&lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "anthurium-solitarium",
+      "scientificName": "Anthurium solitarium",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        451809554,
+        736136442,
+        451810483
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Anthurium solitarium (FB4975)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_solitarium",
+          "retrievedAt": "2026-10-16T22:12:20Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Dutra Junior, Barros & Coelho (2024). Anthurium da Serra da Tiririca: chave e descrições. Hoehnea 51.",
+          "url": "https://www.scielo.br/j/hoehnea/a/8VNp9QTm4nGNQCLV7tTxbXw/?format=html&lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "anthurium-comtum",
+      "scientificName": "Anthurium comtum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ],
+      "referenceReason": "O material licenciado encontrado mostra sobretudo folhas danificadas e uma placa. Manter ficha individual de referência, fora da grade ilustrada, até obter fotografias melhores do caule e de estruturas férteis.",
+      "presentation": "checklist",
+      "photoIds": [
+        659396231
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Anthurium comtum (FB4924)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_comtum",
+          "retrievedAt": "2026-10-16T22:11:15Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Dutra Junior, Barros & Coelho (2024). Anthurium da Serra da Tiririca: chave e descrições. Hoehnea 51.",
+          "url": "https://www.scielo.br/j/hoehnea/a/8VNp9QTm4nGNQCLV7tTxbXw/?format=html&lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "anthurium-longifolium",
+      "scientificName": "Anthurium longifolium",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "powo-longifolium"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        407554269,
+        407553935,
+        407554229
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Anthurium longifolium (FB4948)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_longifolium",
+          "retrievedAt": "2026-10-16T22:11:44Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "CNCFlora/JBRJ · Anthurium longifolium. Morfologia baseada em Coelho et al. (2009); não usada como avaliação atual de ameaça.",
+          "url": "https://proflora.jbrj.gov.br/html/Anthurium%20longifolium_2012.html",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "anthurium-parasiticum",
+      "scientificName": "Anthurium parasiticum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        394825156,
+        707918510,
+        348077215
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Anthurium parasiticum (FB4963)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_parasiticum",
+          "retrievedAt": "2026-10-16T22:12:02Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Dutra Junior, Barros & Coelho (2024). Anthurium da Serra da Tiririca: chave e descrições. Hoehnea 51.",
+          "url": "https://www.scielo.br/j/hoehnea/a/8VNp9QTm4nGNQCLV7tTxbXw/?format=html&lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "anthurium-microphyllum",
+      "scientificName": "Anthurium microphyllum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "anthurium-spp",
+      "sourceKeys": [
+        "tiririca"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        561734829,
+        568679422
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Anthurium microphyllum (FB4957)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Anthurium_microphyllum",
+          "retrievedAt": "2026-10-16T22:11:53Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Dutra Junior, Barros & Coelho (2024). Anthurium da Serra da Tiririca: chave e descrições. Hoehnea 51.",
+          "url": "https://www.scielo.br/j/hoehnea/a/8VNp9QTm4nGNQCLV7tTxbXw/?format=html&lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "philodendron-appendiculatum",
+      "scientificName": "Philodendron appendiculatum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-appendiculatum"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        360613582,
+        431788472,
+        431788507
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Philodendron appendiculatum (FB5021)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_appendiculatum",
+          "retrievedAt": "2026-10-16T22:12:37Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron appendiculatum. Morfologia.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:318584-2/general-information",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "philodendron-bipennifolium",
+      "scientificName": "Philodendron bipennifolium",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-bipennifolium"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        264791225,
+        544406742,
+        264791243
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Philodendron bipennifolium (FB5022)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_bipennifolium",
+          "retrievedAt": "2026-10-16T22:12:42Z"
+        },
+        {
+          "title": "Calazans et al. (2018). Araceae of Grumari restinga. Acta Botanica Brasilica 32:55–62. Table 1.",
+          "url": "https://www.scielo.br/j/abb/a/GGybdkpkbCQW4rcycX8sNXq/?format=html&lang=en",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron bipennifolium. Morfologia.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87662-1/general-information",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "philodendron-cordatum",
+      "scientificName": "Philodendron cordatum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "living"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        618059118,
+        740706523,
+        464182463
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Philodendron cordatum (FB5029)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_cordatum",
+          "retrievedAt": "2026-10-16T22:12:51Z"
+        },
+        {
+          "title": "Calazans et al. (2018). Araceae of Grumari restinga. Acta Botanica Brasilica 32:55–62. Table 1.",
+          "url": "https://www.scielo.br/j/abb/a/GGybdkpkbCQW4rcycX8sNXq/?format=html&lang=en",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Urman et al. (2026). Araceae in the living collection of the Rio de Janeiro Botanical Garden Research Institute. Rodriguésia 77. Usado para morfologia de exemplares cultivados.",
+          "url": "https://www.scielo.br/j/rod/a/yysxL3nKYCH7WFq6gKDKLQf/?format=html&lang=en",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "philodendron-crassinervium",
+      "scientificName": "Philodendron crassinervium",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-crassinervium"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        484110342,
+        462972050,
+        571156052
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Philodendron crassinervium (FB5030)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_crassinervium",
+          "retrievedAt": "2026-10-16T22:12:51Z"
+        },
+        {
+          "title": "Calazans et al. (2018). Araceae of Grumari restinga. Acta Botanica Brasilica 32:55–62. Table 1.",
+          "url": "https://www.scielo.br/j/abb/a/GGybdkpkbCQW4rcycX8sNXq/?format=html&lang=en",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron crassinervium. Morfologia.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87702-1/general-information",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "philodendron-martianum",
+      "scientificName": "Philodendron martianum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "living"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        713832256,
+        750442973,
+        565534289
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Philodendron martianum (FB5046)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_martianum",
+          "retrievedAt": "2026-10-16T22:13:22Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Urman et al. (2026). Araceae in the living collection of the Rio de Janeiro Botanical Garden Research Institute. Rodriguésia 77. Usado para morfologia de exemplares cultivados.",
+          "url": "https://www.scielo.br/j/rod/a/yysxL3nKYCH7WFq6gKDKLQf/?format=html&lang=en",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "philodendron-pedatum",
+      "scientificName": "Philodendron pedatum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-pedatum"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        706917054,
+        205501961,
+        205502744
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Philodendron pedatum (FB5054)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_pedatum",
+          "retrievedAt": "2026-10-16T22:13:34Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron pedatum. Morfologia.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87928-1/general-information",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "philodendron-hastatum",
+      "scientificName": "Philodendron hastatum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-hastatum"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        466135153,
+        467694956,
+        362472228
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Philodendron hastatum (FB5038)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_hastatum",
+          "retrievedAt": "2026-10-16T22:13:06Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron hastatum. Morfologia.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87792-1/general-information",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "philodendron-ornatum",
+      "scientificName": "Philodendron ornatum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "living"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        736136553,
+        205502057,
+        736141923
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Philodendron ornatum (FB5052)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_ornatum",
+          "retrievedAt": "2026-10-16T22:13:32Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Urman et al. (2026). Araceae in the living collection of the Rio de Janeiro Botanical Garden Research Institute. Rodriguésia 77. Usado para morfologia de exemplares cultivados.",
+          "url": "https://www.scielo.br/j/rod/a/yysxL3nKYCH7WFq6gKDKLQf/?format=html&lang=en",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "philodendron-propinquum",
+      "scientificName": "Philodendron propinquum",
+      "family": "Araceae",
+      "action": "split-genus",
+      "fromGroup": "philodendron-spp",
+      "sourceKeys": [
+        "powo-propinquum",
+        "parana"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        602320889,
+        555213636,
+        451430397
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Philodendron propinquum (FB5055)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Philodendron_propinquum",
+          "retrievedAt": "2026-10-16T22:13:38Z"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron propinquum. Morfologia.",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:320867-2/general-information",
+          "retrievedAt": "2026-11-11"
+        },
+        {
+          "title": "Buturi, Temponi & Sakuragui (2016). O gênero Philodendron no estado do Paraná. Rodriguésia 67. Usado para morfologia, não para ocorrência municipal.",
+          "url": "https://www.scielo.br/j/rod/a/8LDPDTxSwxchKzszh3jVSqd/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "campomanesia-guaviroba",
+      "scientificName": "Campomanesia guaviroba",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-guaviroba"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        536839161,
+        536839156,
+        265243979
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Campomanesia guaviroba. Nome aceito, origem, distribuição e atributos estruturados.",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Campomanesia_guaviroba",
+          "retrievedAt": "2026-10-16T22:02:02Z"
+        },
+        {
+          "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+          "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Flora do Espírito Santo: Campomanesia. Rodriguésia (2017). Morfologia e comparação entre C. guaviroba e C. laurifolia.",
+          "url": "https://www.scielo.br/j/rod/a/KNFsdF6MLfBkcz47p3gzwTL/",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "campomanesia-guazumifolia",
+      "scientificName": "Campomanesia guazumifolia",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "embrapa-sete"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        214511985,
+        59900818,
+        59900811
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Campomanesia guazumifolia (FB10316)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Campomanesia_guazumifolia",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+          "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Carvalho (2008). Sete-capotes: Campomanesia guazumifolia. Espécies arbóreas brasileiras 3:469–476. Embrapa.",
+          "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1136658/1/Especies-Arboreas-Brasileiras-vol-3-Sete-capotes.pdf",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "myrciaria-floribunda",
+      "scientificName": "Myrciaria floribunda",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "myrciaria"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        257057483,
+        207705159,
+        257057614
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Myrciaria floribunda (FB10792)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Myrciaria_floribunda",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+          "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Flora do estado do Rio de Janeiro: Myrciaria, Neomitranthes e Siphoneugena (2020). Rodriguésia 71. Chaves e descrições.",
+          "url": "https://www.scielo.br/scielo.php?pid=S2175-78602020000100284&script=sci_arttext&tlng=pt",
+          "retrievedAt": "2026-11-11"
+        },
+        {
+          "title": "Caldas, Baumgratz & Souza (2020). Flora do estado do Rio de Janeiro: Myrciaria, Neomitranthes e Siphoneugena. Rodriguésia 71. Chaves e descrições.",
+          "url": "https://www.scielo.br/j/rod/a/SQBLdnpjxZpBDRYCgkHKn6v/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "myrciaria-glazioviana",
+      "scientificName": "Myrciaria glazioviana",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "cabeludinha"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        735053871,
+        735055470,
+        608922637
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Myrciaria glazioviana (FB10794)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Myrciaria_glazioviana",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+          "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "UFSC/SAFAS. Cabeludinha — Myrciaria glazioviana. Caracterização botânica.",
+          "url": "https://safas.ufsc.br/recursos/panc/cabeludinha",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "myrciaria-tenella",
+      "scientificName": "Myrciaria tenella",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "myrciaria"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        481871868,
+        481871935,
+        481871403
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Myrciaria tenella (FB10802)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Myrciaria_tenella",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+          "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Flora do estado do Rio de Janeiro: Myrciaria, Neomitranthes e Siphoneugena (2020). Rodriguésia 71. Chaves e descrições.",
+          "url": "https://www.scielo.br/scielo.php?pid=S2175-78602020000100284&script=sci_arttext&tlng=pt",
+          "retrievedAt": "2026-11-11"
+        },
+        {
+          "title": "Caldas, Baumgratz & Souza (2020). Flora do estado do Rio de Janeiro: Myrciaria, Neomitranthes e Siphoneugena. Rodriguésia 71. Chaves e descrições.",
+          "url": "https://www.scielo.br/j/rod/a/SQBLdnpjxZpBDRYCgkHKn6v/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "plinia-rivularis",
+      "scientificName": "Plinia rivularis",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "plinia"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        756417709,
+        756417955,
+        601777213
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Plinia rivularis (FB10845)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Plinia_rivularis",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+          "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Romagnolo & Souza (2004). Calycorectes, Hexachlamys, Myrcianthes, Myrciaria e Plinia na planície alagável do alto rio Paraná. Acta Botanica Brasilica 18.",
+          "url": "https://www.scielo.br/j/abb/a/DsGPmnW4YP35qf8mwcVN9SL/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "myrrhinium-atropurpureum",
+      "scientificName": "Myrrhinium atropurpureum",
+      "family": "Myrtaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "myrrhinium"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        239318843,
+        147642909,
+        176137057
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Myrrhinium atropurpureum (FB10804)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Myrrhinium_atropurpureum",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+          "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Myrtaceae from the Atlantic forest subtropical highlands of São Joaquim National Park (2020). Rodriguésia. Tratamento morfológico.",
+          "url": "https://www.scielo.br/j/rod/a/dsHSX9ZcDJwNZcG88VGZR6R/?format=html",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "manilkara-subsericea",
+      "scientificName": "Manilkara subsericea",
+      "family": "Sapotaceae",
+      "action": "promoted-reference",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-manilkara"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        598549641,
+        423530622,
+        341159009
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Manilkara subsericea (FB39448)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Manilkara_subsericea",
+          "retrievedAt": "2026-10-16T22:04:29Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Manilkara subsericea. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000235977",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "eugenia-astringens",
+      "scientificName": "Eugenia astringens",
+      "family": "Myrtaceae",
+      "action": "split-genus",
+      "fromGroup": "eugenia-spp",
+      "sourceKeys": [
+        "flora-astringens"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        514759392,
+        514759612,
+        629581960
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Eugenia astringens. Nome aceito, origem, distribuição e atributos estruturados.",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Eugenia_astringens",
+          "retrievedAt": "2026-10-16T22:01:53Z"
+        },
+        {
+          "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+          "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Eugenia astringens. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0001086089",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "eugenia-candolleana",
+      "scientificName": "Eugenia candolleana",
+      "family": "Myrtaceae",
+      "action": "split-genus",
+      "fromGroup": "eugenia-spp",
+      "sourceKeys": [
+        "flora-candolleana"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        357936210,
+        747134226,
+        357936149,
+        357936270
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Eugenia candolleana (FB10364)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Eugenia_candolleana",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+          "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Eugenia candolleana. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000956695",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "eugenia-punicifolia",
+      "scientificName": "Eugenia punicifolia",
+      "family": "Myrtaceae",
+      "action": "split-genus",
+      "fromGroup": "eugenia-spp",
+      "sourceKeys": [
+        "flora-punicifolia"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        95653401,
+        333159955,
+        95653449
+      ],
+      "geography": "rio-city",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Eugenia punicifolia (FB10515)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Eugenia_punicifolia",
+          "retrievedAt": "2026-10-16T22:01:47Z"
+        },
+        {
+          "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+          "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+          "retrievedAt": "2026-10-24"
+        },
+        {
+          "title": "Maurenza et al. (2018). Lista da Flora das Unidades de Conservação Estaduais do Rio de Janeiro. JBRJ/CNCFlora/INEA.",
+          "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/09/Listas-das-UCs.pdf",
+          "retrievedAt": "2026-10-17T20:11:50.697502+00:00"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Eugenia punicifolia. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000958741",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "garcinia-brasiliensis",
+      "scientificName": "Garcinia brasiliensis",
+      "family": "Clusiaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "clusiaceae"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        242246058,
+        242218577,
+        214495221
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Garcinia brasiliensis (FB6851)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Garcinia_brasiliensis",
+          "retrievedAt": "2026-11-11T08:02:30Z"
+        },
+        {
+          "title": "Flora of Espírito Santo: Clusiaceae (2023). Rodriguésia. Usado para morfologia, não para ocorrência no Rio.",
+          "url": "https://www.scielo.br/j/rod/a/4qY5t4CNsZ8VZmVDSs5yYNS/?lang=en",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "garcinia-gardneriana",
+      "scientificName": "Garcinia gardneriana",
+      "family": "Clusiaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "clusiaceae"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        604220704,
+        246576542,
+        455399026
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Garcinia gardneriana (FB6853)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Garcinia_gardneriana",
+          "retrievedAt": "2026-11-11T08:02:36Z"
+        },
+        {
+          "title": "Flora of Espírito Santo: Clusiaceae (2023). Rodriguésia. Usado para morfologia, não para ocorrência no Rio.",
+          "url": "https://www.scielo.br/j/rod/a/4qY5t4CNsZ8VZmVDSs5yYNS/?lang=en",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "annona-sylvatica",
+      "scientificName": "Annona sylvatica",
+      "family": "Annonaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-sylvatica"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        353783600,
+        261405577,
+        482026437
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Annona sylvatica (FB110263)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Annona_sylvatica",
+          "retrievedAt": "2026-11-11T08:02:43Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Annona sylvatica. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000537958",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "annona-cacans",
+      "scientificName": "Annona cacans",
+      "family": "Annonaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-cacans"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        251860678,
+        369717290,
+        615340126
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Annona cacans (FB117069)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Annona_cacans",
+          "retrievedAt": "2026-11-11T08:02:49Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Annona cacans. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000537697",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "annona-dolabripetala",
+      "scientificName": "Annona dolabripetala",
+      "family": "Annonaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-dolabripetala"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        6760351
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Annona dolabripetala. Nome aceito, origem, distribuição e atributos estruturados.",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Annona_dolabripetala",
+          "retrievedAt": "2026-11-11T08:02:55Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Annona dolabripetala. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000537743",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "annona-mucosa",
+      "scientificName": "Annona mucosa",
+      "family": "Annonaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-mucosa"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        210448427,
+        403746859,
+        273232960
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Annona mucosa. Nome aceito, origem, distribuição e atributos estruturados.",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Annona_mucosa",
+          "retrievedAt": "2026-11-11T08:03:01Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Annona mucosa. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000537847",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "inga-vera",
+      "scientificName": "Inga vera",
+      "family": "Fabaceae",
+      "action": "enriched-profile",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-vera"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        118362356,
+        440162131,
+        118362534
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Inga vera. Nome aceito, origem, distribuição e atributos estruturados.",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Inga_vera",
+          "retrievedAt": "2026-10-16T22:03:46Z"
+        },
+        {
+          "title": "Mimosoideae na Reserva Ecológica do Panga, Minas Gerais (2014). Rodriguésia. Inga vera: morfologia.",
+          "url": "https://www.scielo.br/j/rod/a/BDDT3cJhHW3rBbk4Ddq3Lwp/?lang=pt",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "inga-sessilis",
+      "scientificName": "Inga sessilis",
+      "family": "Fabaceae",
+      "action": "new-species",
+      "fromGroup": null,
+      "sourceKeys": [
+        "flora-sessilis"
+      ],
+      "presentation": "profile",
+      "photoIds": [
+        363977647,
+        277743862,
+        299681893
+      ],
+      "geography": "rio-state",
+      "sources": [
+        {
+          "title": "Flora e Funga do Brasil · Inga sessilis (FB83263)",
+          "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Inga_sessilis",
+          "retrievedAt": "2026-11-11T08:03:22Z"
+        },
+        {
+          "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Inga sessilis. Morfologia.",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000173671",
+          "retrievedAt": "2026-11-11"
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "scientificName": "Philodendron alternans",
+      "reason": "Sem fotografia elegível confirmada nesta rodada; manter a representação anterior, se existente."
+    },
+    {
+      "scientificName": "Eugenia sulcata",
+      "reason": "Sem fotografia elegível confirmada nesta rodada; manter a representação anterior, se existente."
+    },
+    {
+      "scientificName": "Chrysophyllum gonocarpum",
+      "reason": "Sem fotografia elegível confirmada nesta rodada; manter a representação anterior, se existente."
+    }
+  ],
+  "summary": {
+    "before": {
+      "entries": 311,
+      "profiles": 123,
+      "species": 452,
+      "photos": 437
+    },
+    "after": {
+      "entries": 359,
+      "profiles": 181,
+      "species": 480,
+      "photos": 577
+    },
+    "newSpecies": [
+      "Aechmea gracilis",
+      "Aechmea ornata",
+      "Aechmea pectinata",
+      "Aechmea ramosa",
+      "Aechmea weilbachii",
+      "Annona cacans",
+      "Annona dolabripetala",
+      "Annona mucosa",
+      "Annona sylvatica",
+      "Billbergia zebrina",
+      "Garcinia brasiliensis",
+      "Garcinia gardneriana",
+      "Inga sessilis",
+      "Neoregelia concentrica",
+      "Neoregelia johannis",
+      "Nidularium procerum",
+      "Quesnelia lateralis",
+      "Quesnelia liboniana",
+      "Quesnelia marmorata",
+      "Tillandsia geminiflora",
+      "Tillandsia recurvata",
+      "Tillandsia tricholepis",
+      "Vriesea ensiformis",
+      "Vriesea inflata",
+      "Vriesea longicaulis",
+      "Vriesea neoglutinosa",
+      "Vriesea scalaris",
+      "Wittrockia superba"
+    ],
+    "newPhotoIds": [
+      6760351,
+      38247696,
+      67324053,
+      95653449,
+      103991483,
+      104319249,
+      104910928,
+      109234537,
+      118362534,
+      163798377,
+      163798949,
+      168309312,
+      178216413,
+      205501961,
+      205502057,
+      205502744,
+      210448427,
+      214495221,
+      228015886,
+      228019548,
+      242218577,
+      242246058,
+      246576542,
+      247997647,
+      250690455,
+      250690464,
+      251860678,
+      257025738,
+      261405577,
+      264791243,
+      270916464,
+      271317885,
+      273232960,
+      277743862,
+      284934607,
+      286275173,
+      296909537,
+      299681893,
+      306256137,
+      322525801,
+      322567440,
+      325060773,
+      325067657,
+      325072491,
+      334348826,
+      341066710,
+      348077215,
+      348165688,
+      349085822,
+      349085838,
+      353783600,
+      357936149,
+      357936210,
+      357936270,
+      358092399,
+      359847772,
+      362472228,
+      362665090,
+      363977647,
+      369717290,
+      376009688,
+      394825156,
+      403746859,
+      406947186,
+      407380707,
+      407553935,
+      407554229,
+      407554269,
+      417476110,
+      417476425,
+      424998901,
+      425732015,
+      431788507,
+      449719432,
+      451430397,
+      451809554,
+      451810483,
+      455399026,
+      462972050,
+      462973905,
+      464182463,
+      464182961,
+      465504878,
+      466135153,
+      467694956,
+      468149430,
+      468149762,
+      482026437,
+      482900460,
+      484110342,
+      498261921,
+      499405308,
+      506174413,
+      514759612,
+      521628175,
+      535178962,
+      535183030,
+      535594258,
+      539388099,
+      542436167,
+      544406742,
+      545065123,
+      555213636,
+      561734829,
+      565534289,
+      567050431,
+      568679422,
+      571156052,
+      584061652,
+      584590585,
+      598061661,
+      598760971,
+      600855783,
+      601777213,
+      602320889,
+      604220704,
+      615340126,
+      624967655,
+      625387239,
+      627193691,
+      629581960,
+      630520913,
+      656992176,
+      659251301,
+      659396231,
+      659842135,
+      662963956,
+      664573685,
+      706917054,
+      707918510,
+      713832256,
+      720275953,
+      736136442,
+      736136553,
+      736141923,
+      741602390,
+      747134226,
+      750442973,
+      755794624,
+      756417955
+    ],
+    "sourceWorkbookSha256": "cc0b057a2215cbde4d70758eb75d355ac26bb6a64357d946d55b5f8bb1b89bb5",
+    "catalogSha256": "de1950d037e5fafad6aa3b677c31ed4336e9f0a1195388d49211cb7f0d3eef2f"
+  }
+}

@@ -1,0 +1,60 @@
+301|-|Pequenas flores de três pétalas rosadas entre folhas com faixas prateadas.
+302|leaf|Ramo com folhas sobrepostas, marcadas por faixas claras e tons arroxeados.
+303|-|Flor branca de corola ampla, com centro amarelo e garganta escura.
+304|-|Flor branca aberta sobre a areia, junto a pequenas folhas verdes.
+305|-|Ramos rastejantes com flor rosada e folhas de ponta recortada.
+306|-|Flor rosada vista de frente, com linhas mais escuras convergindo para a garganta.
+307|-|-
+308|-|-
+309|-|-
+310|-|-
+311|-|Trecho do caule do samambaiaçu, mostrando a superfície e as marcas das folhas.
+312|-|Samambaiaçu de caule alto e copa de frondes arqueadas, visto na mata.
+313|-|Caule do samambaiaçu visto de baixo, com frondes distribuídas ao redor do ápice.
+314|-|Samambaiaçu com caule recoberto por fibras e frondes abertas no alto.
+315|-|Samambaiaçus com frondes verdes no alto e frondes secas pendentes abaixo da copa.
+316|flower,leaf|Ramos floridos com grupos de pequenas flores rosadas entre folhas compostas.
+317|wholePlant|Copa ampla e ramificada vista à distância acima da vegetação.
+318|-|-
+319|-|-
+320|-|-
+321|-|-
+322|-|Inflorescências amarelas reunidas nas extremidades dos ramos.
+323|-|Ramos floridos com inflorescências amarelas entre folhas compostas.
+324|fruit|Sâmara seca sustentada à mão, mostrando a asa larga e a região espinhosa que abriga as sementes.
+325|flower|Flores amarelo-alaranjadas reunidas na ponta do ramo.
+326|flower|Inflorescência ramificada com numerosos botões verdes entre os folíolos.
+327|fruit,seed|Fruto aberto com uma semente escura parcialmente recoberta por arilo amarelo-alaranjado.
+328|bark|Casca escura do tronco, com sulcos finos e pequenas manchas claras.
+329|-|-
+330|-|-
+331|-|-
+332|-|-
+333|leaf|Folhas compostas de uma muda, com folíolos pequenos dispostos ao longo do eixo.
+334|wholePlant|Árvore junto ao caminho, mostrando o tronco e parte da copa.
+335|-|Vagem verde recurvada, sustentada à mão ao lado das folhas divididas em pequenos folíolos.
+336|wholePlant,fruit|Ramos quase sem folhas, com frutos escuros ainda presos.
+337|-|Árvore florida, com grupos de flores vermelhas entre a folhagem.
+338|-|Flores vermelhas alongadas reunidas em grupos nas pontas dos ramos.
+339|-|Inflorescência vista de frente, com botões no centro e flores vermelhas ao redor.
+340|wholePlant,flower|Copas cobertas por flores vermelhas, destacando-se na encosta da mata.
+341|-|Flores com numerosos estames claros formando pequenas escovas entre os folíolos.
+342|-|Folha composta com folíolos em pares e eixo alado; brotação acobreada ao fundo.
+343|-|Folíolos em pares ao longo de um eixo comum, com nervuras claras bem marcadas.
+344|-|Folha composta sustentada à mão, mostrando a disposição dos folíolos.
+345|-|Espigas alongadas com flores de estames brancos, vistas entre as folhas.
+346|-|Folhas compostas de folíolos estreitos, aproximadas da mão para observação.
+347|flower|Inflorescências compactas com numerosos estames brancos, fotografadas junto à mão.
+348|leaf|Folha composta com pares de folíolos, eixo alado e pilosidade visível.
+349|wholePlant,flower|Arbusto baixo em floração, com inflorescências brancas entre as folhas.
+350|flower|Inflorescências de estames muito compridos e claros, abertas em forma de leque.
+351|leaf|Folha composta estendida, com numerosos pares de folíolos ao longo do eixo.
+352|flower|Inflorescência aberta com longos estames brancos, ao lado de estruturas florais já escurecidas.
+353|-|Ramos com inflorescências de estames claros a acastanhados acima da folhagem.
+354|-|Folha composta com folíolos em pares e brotação de coloração mais clara.
+355|flower|Ramos com inflorescências escurecidas e restos de flores entre os folíolos.
+356|-|-
+357|-|-
+358|-|Casca do tronco com placas em desprendimento e áreas de tons castanhos e acinzentados.
+359|-|Detalhe da casca, com placas irregulares destacando-se da superfície mais clara.
+360|-|-

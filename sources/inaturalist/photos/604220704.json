@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/332881937",
+  "photo": {
+    "id": 604220704,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604220704/square.jpg",
+    "attribution": "(c) Paulo C. O. Cunha, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Paulo C. O. Cunha",
+  "observation": {
+    "id": 332881937,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1080463,
+      "name": "Garcinia gardneriana"
+    },
+    "observerLogin": "paulo_celso_cunha"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604220704/large.jpg",
+    "sha256": "f838c8d3615fd47254ab4e86d394bddedb4b9793f8109020c31e059be4bcfc11",
+    "retrievedAt": "2026-11-11T08:13:58Z"
+  }
+}

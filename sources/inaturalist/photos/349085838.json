@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/198104081",
+  "photo": {
+    "id": 349085838,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1153
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349085838/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "ANDRÉS GONZÁLEZ",
+  "observation": {
+    "id": 198104081,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 141278,
+      "name": "Tillandsia geminiflora"
+    },
+    "observerLogin": "andrs158"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349085838/large.jpeg",
+    "sha256": "11cfc5cd6c719c259d3e364d0860bfb561415f33df67e888ff0308385c5d84bf",
+    "retrievedAt": "2026-11-11T08:18:37.707Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/234800830",
+  "photo": {
+    "id": 417476425,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417476425/square.jpeg",
+    "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Victor Farjalla Pontes",
+  "observation": {
+    "id": 234800830,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1271970,
+      "name": "Vriesea longicaulis"
+    },
+    "observerLogin": "vfarjalla"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417476425/large.jpeg",
+    "sha256": "49d5467bc8ca198a1c168ac0c660409ad7dda1610c77b6a211897d59d5131600",
+    "retrievedAt": "2026-11-11T08:12:57Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/401102291",
+  "photo": {
+    "id": 736143011,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1639
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/736143011/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "filipeprates",
+  "observation": {
+    "id": 401102291,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 431648,
+      "name": "Stifftia chrysantha"
+    },
+    "observerLogin": "filipeprates"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/736143011/large.jpg",
+    "sha256": "433b80fd36a46344535b970345fd6821d6bd21c168307ca9c22b094639318ccd",
+    "retrievedAt": "2026-11-11T08:49:09.196Z"
+  }
+}

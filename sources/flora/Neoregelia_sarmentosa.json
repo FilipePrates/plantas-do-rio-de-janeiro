@@ -1,0 +1,205 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Neoregelia_sarmentosa",
+  "retrievedAt": "2026-11-11T08:00:01Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 6215,
+        "scientificname": "Neoregelia sarmentosa (Regel) L.B.Sm.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Neoregelia",
+        "specificepithet": "sarmentosa",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Regel) L.B.Sm.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Neoregelia L.B.Sm.;Neoregelia sarmentosa (Regel) L.B.Sm.",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB6215>http://floradobrasil2015.jbrj.gov.br/FB6215</a>)<br><br>Kessous, I.M., Almeida, M.M. 2020. Neoregelia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB6215\">https://floradobrasil2020.jbrj.gov.br/FB6215</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Neoregelia L.B.Sm.",
+        "parentnameusageid": 6131,
+        "originalnameusageid": "46605",
+        "namepublishedin": "Contr. Gray Herb. 104: 79 1934",
+        "namepublishedinyear": "1934",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB6215",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Kessous, I.M., Almeida, M.M. Neoregelia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB6215>. Acesso em: 11 nov. 2026.",
+        "modified": "2021-10-29 18:51:12.88"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Smith, L.B.,Contr. Gray Herb.,104: 79,1934"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 45833,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Aregelia sarmentosa (Regel) Mez"
+        },
+        {
+          "relatedresourceid": 46427,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Karatas sarmentosa (Regel) Baker"
+        },
+        {
+          "relatedresourceid": 46546,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Nidularium denticulatum var. simplex Wawra"
+        },
+        {
+          "relatedresourceid": 45570,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea immersa Baker"
+        },
+        {
+          "relatedresourceid": 45811,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aregelia cyanea var. simplex (Wawra) Mez"
+        },
+        {
+          "relatedresourceid": 46896,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Regelia sarmentosa (Regel) Lindm."
+        },
+        {
+          "relatedresourceid": 46605,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Nidularium sarmentosum Regel"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "B.R. Silva 1057",
+          "collectioncode": "RB",
+          "catalognumber": "RB00262976",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00262976",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "B.R. Silva 1057",
+          "collectioncode": "RB",
+          "catalognumber": "RB00262976",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283958130",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 46519,
+        "scientificname": "Neoregelia sarmentosa var. chlorosticta L.B.Sm.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": null,
+        "taxonomicstatus": "SINONIMO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Neoregelia",
+        "specificepithet": "sarmentosa",
+        "infraspecificepithet": "chlorosticta",
+        "scientificnameauthorship": "L.B.Sm.",
+        "acceptednameusage": "Neoregelia chlorosticta (Baker) L.B.Sm.",
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Neoregelia L.B.Sm.;Neoregelia sarmentosa (Regel) L.B.Sm.;Neoregelia sarmentosa var. chlorosticta L.B.Sm.",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB46519>http://floradobrasil2015.jbrj.gov.br/FB46519</a>)<br><br>Kessous, I.M., Almeida, M.M. 2020. Neoregelia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB46519\">https://floradobrasil2020.jbrj.gov.br/FB46519</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Neoregelia sarmentosa (Regel) L.B.Sm.",
+        "parentnameusageid": 6215,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB46519",
+        "acceptednameusageid": 6149,
+        "bibliographiccitation_how_to_cite": "Kessous, I.M., Almeida, M.M. Neoregelia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB46519>. Acesso em: 11 nov. 2026.",
+        "modified": "2016-07-14 15:00:17.414"
+      },
+      "distribuition": [],
+      "specie_profile": null,
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Smith, L.B.,Contr. Gray Herb.,104: 79,1934"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 6149,
+          "relationshipofresource": "É sinônimo HOMOTIPICO",
+          "scientificname": "Neoregelia chlorosticta (Baker) L.B.Sm."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

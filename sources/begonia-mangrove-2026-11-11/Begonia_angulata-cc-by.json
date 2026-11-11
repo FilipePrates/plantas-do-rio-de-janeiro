@@ -1,0 +1,4603 @@
+{
+  "url": "https://api.inaturalist.org/v1/observations?taxon_name=Begonia+angulata&photo_license=cc-by&quality_grade=research&captive=false&per_page=30&order_by=votes&locale=en",
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 30,
+    "results": [
+      {
+        "quality_grade": "research",
+        "time_observed_at": "2026-06-21T10:36:23-03:00",
+        "taxon_geoprivacy": null,
+        "annotations": [
+          {
+            "uuid": "3a471d0d-4e2b-40e7-9517-33d29f36fbeb",
+            "controlled_attribute_id": 12,
+            "controlled_value_id": 13,
+            "concatenated_attr_val": "12|13",
+            "user_id": 913299,
+            "votes": [],
+            "user": {
+              "id": 913299,
+              "login": "topeuna",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2018-04-27T23:00:21+00:00",
+              "login_autocomplete": "topeuna",
+              "login_exact": "topeuna",
+              "name": "",
+              "name_autocomplete": "",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/913299/7cf7d484363f76a14cfe1c3018da723b-thumb.jpeg?1780713929",
+              "observations_count": 568,
+              "identifications_count": 1343,
+              "journal_posts_count": 0,
+              "activity_count": 1911,
+              "species_count": 294,
+              "annotated_observations_count": 432,
+              "universal_search_rank": 568,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/913299/7cf7d484363f76a14cfe1c3018da723b-medium.jpeg?1780713929"
+            },
+            "vote_score": 0
+          }
+        ],
+        "uuid": "738ef8a5-8a73-45c2-93cc-bf22d5584360",
+        "observed_on_details": {
+          "date": "2026-06-21",
+          "day": 21,
+          "month": 6,
+          "year": 2026,
+          "hour": 10,
+          "week": 25
+        },
+        "id": 374881581,
+        "cached_votes_total": 1,
+        "identifications_most_agree": true,
+        "created_at_details": {
+          "date": "2026-06-24",
+          "day": 24,
+          "month": 6,
+          "year": 2026,
+          "hour": 8,
+          "week": 26
+        },
+        "species_guess": "Begonia angulata",
+        "identifications_most_disagree": false,
+        "tags": [],
+        "positional_accuracy": 3,
+        "comments_count": 0,
+        "site_id": 1,
+        "created_time_zone": "America/Sao_Paulo",
+        "license_code": "cc-by",
+        "observed_time_zone": "America/Sao_Paulo",
+        "quality_metrics": [],
+        "public_positional_accuracy": 3,
+        "reviewed_by": [
+          913299,
+          2325020,
+          7816632,
+          8650446
+        ],
+        "oauth_application_id": 843,
+        "flags": [],
+        "created_at": "2026-06-24T08:46:53-03:00",
+        "description": null,
+        "time_zone_offset": "-03:00",
+        "project_ids_with_curator_id": [],
+        "observed_on": "2026-06-21",
+        "observed_on_string": "2026-06-21 10:36:23",
+        "updated_at": "2026-08-25T22:10:58-03:00",
+        "sounds": [],
+        "place_ids": [
+          6878,
+          13334,
+          25370,
+          56773,
+          66741,
+          69422,
+          97389,
+          160620,
+          184071,
+          229182
+        ],
+        "captive": false,
+        "taxon": {
+          "provisional": false,
+          "is_active": true,
+          "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+          "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+          "endemic": false,
+          "iconic_taxon_id": 47126,
+          "min_species_taxon_id": 1464941,
+          "threatened": false,
+          "rank_level": 10,
+          "introduced": false,
+          "native": true,
+          "parent_id": 1013687,
+          "name": "Begonia angulata",
+          "rank": "species",
+          "extinct": false,
+          "id": 1464941,
+          "ancestor_ids": [
+            48460,
+            47126,
+            211194,
+            47125,
+            47124,
+            71281,
+            71453,
+            126405,
+            1013687,
+            1464941
+          ],
+          "created_at": "2023-04-16T21:55:37+00:00",
+          "default_photo": {
+            "id": 268297921,
+            "license_code": "cc-by-nc",
+            "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+            "original_dimensions": {
+              "height": 2048,
+              "width": 1536
+            },
+            "flags": [],
+            "attribution_name": "Luís A. Funez",
+            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+          },
+          "taxon_changes_count": 0,
+          "taxon_schemes_count": 0,
+          "observations_count": 32,
+          "photos_locked": false,
+          "universal_search_rank": 32,
+          "flag_counts": {
+            "resolved": 0,
+            "unresolved": 0
+          },
+          "current_synonymous_taxon_ids": null,
+          "atlas_id": null,
+          "complete_species_count": null,
+          "wikipedia_url": null,
+          "iconic_taxon_name": "Plantae"
+        },
+        "ident_taxon_ids": [
+          48460,
+          47126,
+          211194,
+          47125,
+          47124,
+          71281,
+          71453,
+          126405,
+          1013687,
+          1464941
+        ],
+        "outlinks": [
+          {
+            "source": "GBIF",
+            "url": "http://www.gbif.org/occurrence/6499241652"
+          }
+        ],
+        "faves_count": 1,
+        "ofvs": [],
+        "num_identification_agreements": 3,
+        "preferences": {
+          "prefers_community_taxon": null
+        },
+        "identification_disagreements_count": 0,
+        "comments": [],
+        "map_scale": null,
+        "uri": "https://www.inaturalist.org/observations/374881581",
+        "project_ids": [],
+        "community_taxon_id": 1464941,
+        "geojson": {
+          "type": "Point",
+          "coordinates": [
+            -45.1970666667,
+            -23.45718
+          ]
+        },
+        "owners_identification_from_vision": false,
+        "identifications_count": 3,
+        "obscured": false,
+        "num_identification_disagreements": 0,
+        "geoprivacy": null,
+        "location": "-23.45718,-45.1970666667",
+        "votes": [
+          {
+            "id": 14588654,
+            "vote_flag": true,
+            "vote_scope": null,
+            "user_id": 8650446,
+            "created_at": "2026-06-24T12:29:44.917Z",
+            "user": {
+              "id": 8650446,
+              "login": "fabiocarvalho2105",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2024-10-05T09:32:22+00:00",
+              "login_autocomplete": "fabiocarvalho2105",
+              "login_exact": "fabiocarvalho2105",
+              "name": "Fábio Carvalho",
+              "name_autocomplete": "Fábio Carvalho",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/8650446/thumb.jpeg?1728121047",
+              "observations_count": 384,
+              "identifications_count": 6457,
+              "journal_posts_count": 0,
+              "activity_count": 6841,
+              "species_count": 100,
+              "annotated_observations_count": 38,
+              "universal_search_rank": 384,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/8650446/medium.jpeg?1728121047"
+            }
+          }
+        ],
+        "spam": false,
+        "user": {
+          "id": 913299,
+          "login": "topeuna",
+          "spam": false,
+          "suspended": false,
+          "created_at": "2018-04-27T23:00:21+00:00",
+          "site_id": 1,
+          "preferences": {},
+          "login_autocomplete": "topeuna",
+          "login_exact": "topeuna",
+          "name": "",
+          "name_autocomplete": "",
+          "orcid": null,
+          "icon": "https://static.inaturalist.org/attachments/users/icons/913299/7cf7d484363f76a14cfe1c3018da723b-thumb.jpeg?1780713929",
+          "observations_count": 568,
+          "identifications_count": 1343,
+          "journal_posts_count": 0,
+          "activity_count": 1911,
+          "species_count": 294,
+          "annotated_observations_count": 432,
+          "universal_search_rank": 568,
+          "roles": [],
+          "icon_url": "https://static.inaturalist.org/attachments/users/icons/913299/7cf7d484363f76a14cfe1c3018da723b-medium.jpeg?1780713929"
+        },
+        "mappable": true,
+        "identifications_some_agree": true,
+        "project_ids_without_curator_id": [],
+        "place_guess": "Ubatuba, SP, BR",
+        "identifications": [
+          {
+            "id": 838501847,
+            "uuid": "2b512b44-5939-41fe-a100-88961c9d3a15",
+            "user": {
+              "id": 7816632,
+              "login": "mateus_dourado_vieira",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2024-02-22T15:33:16+00:00",
+              "login_autocomplete": "mateus_dourado_vieira",
+              "login_exact": "mateus_dourado_vieira",
+              "name": "Mateus Dourado vieira",
+              "name_autocomplete": "Mateus Dourado vieira",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/7816632/ccfbe514bfe541b33827f8b4b32ee892-thumb.jpg?1779764575",
+              "observations_count": 393,
+              "identifications_count": 1510,
+              "journal_posts_count": 0,
+              "activity_count": 1903,
+              "species_count": 201,
+              "annotated_observations_count": 8,
+              "universal_search_rank": 393,
+              "roles": [],
+              "site_id": null,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/7816632/ccfbe514bfe541b33827f8b4b32ee892-medium.jpg?1779764575"
+            },
+            "created_at": "2026-06-25T12:24:25-03:00",
+            "created_at_details": {
+              "date": "2026-06-25",
+              "day": 25,
+              "month": 6,
+              "year": 2026,
+              "hour": 12,
+              "week": 26
+            },
+            "body": "",
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 126405,
+            "spam": false,
+            "taxon_id": 1464941,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 163020084,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158125294,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149171474,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125078503,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 71281,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281
+                  ],
+                  "is_active": true,
+                  "name": "Cucurbitales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 44230820,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) einstein1966, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "einstein1966",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 596267,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbitales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "begonias, gourds, and allies"
+                },
+                {
+                  "id": 71453,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453
+                  ],
+                  "is_active": true,
+                  "name": "Begoniaceae",
+                  "parent_id": 71281,
+                  "ancestry": "48460/47126/211194/47125/47124/71281",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 113774899,
+                    "license_code": null,
+                    "attribution": "(c) Éric Mathieu, all rights reserved, uploaded by Éric Mathieu",
+                    "url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "original_dimensions": {
+                      "height": 1063,
+                      "width": 1600
+                    },
+                    "flags": [],
+                    "attribution_name": "Éric Mathieu",
+                    "square_url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/113774899/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 129812,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begoniaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonia family"
+                },
+                {
+                  "id": 126405,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405
+                  ],
+                  "is_active": true,
+                  "name": "Begonia",
+                  "parent_id": 71453,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 264704953,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Lily",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 128471,
+                  "flag_counts": {
+                    "resolved": 134,
+                    "unresolved": 6
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begonia",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonias"
+                },
+                {
+                  "id": 1013687,
+                  "rank": "section",
+                  "rank_level": 13,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405,
+                    1013687
+                  ],
+                  "is_active": true,
+                  "name": "Pritzelia",
+                  "parent_id": 126405,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 554152087,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Pedro Alvaro Neves, some rights reserved (CC BY), uploaded by Pedro Alvaro Neves",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Pedro Alvaro Neves",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 2397,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Trachymene",
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 126405,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 126405,
+              "name": "Begonia",
+              "parent_id": 71453,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2012-03-26T22:19:07+00:00",
+              "default_photo": {
+                "id": 264704953,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Lily",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 128471,
+              "photos_locked": false,
+              "universal_search_rank": 128471,
+              "flag_counts": {
+                "resolved": 134,
+                "unresolved": 6
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Begonia",
+              "iconic_taxon_name": "Plantae",
+              "preferred_common_name": "Begonias"
+            }
+          },
+          {
+            "id": 838805291,
+            "uuid": "dafea3e0-1c0d-4ecd-a97f-b24e43daa6e3",
+            "user": {
+              "id": 913299,
+              "login": "topeuna",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2018-04-27T23:00:21+00:00",
+              "login_autocomplete": "topeuna",
+              "login_exact": "topeuna",
+              "name": "",
+              "name_autocomplete": "",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/913299/7cf7d484363f76a14cfe1c3018da723b-thumb.jpeg?1780713929",
+              "observations_count": 568,
+              "identifications_count": 1343,
+              "journal_posts_count": 0,
+              "activity_count": 1911,
+              "species_count": 294,
+              "annotated_observations_count": 432,
+              "universal_search_rank": 568,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/913299/7cf7d484363f76a14cfe1c3018da723b-medium.jpeg?1780713929"
+            },
+            "created_at": "2026-06-25T23:06:21-03:00",
+            "created_at_details": {
+              "date": "2026-06-25",
+              "day": 25,
+              "month": 6,
+              "year": 2026,
+              "hour": 23,
+              "week": 26
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": true,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 1464941,
+            "spam": false,
+            "taxon_id": 1464941,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 163020084,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158125294,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149171474,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125078503,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 71281,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281
+                  ],
+                  "is_active": true,
+                  "name": "Cucurbitales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 44230820,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) einstein1966, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "einstein1966",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 596267,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbitales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "begonias, gourds, and allies"
+                },
+                {
+                  "id": 71453,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453
+                  ],
+                  "is_active": true,
+                  "name": "Begoniaceae",
+                  "parent_id": 71281,
+                  "ancestry": "48460/47126/211194/47125/47124/71281",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 113774899,
+                    "license_code": null,
+                    "attribution": "(c) Éric Mathieu, all rights reserved, uploaded by Éric Mathieu",
+                    "url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "original_dimensions": {
+                      "height": 1063,
+                      "width": 1600
+                    },
+                    "flags": [],
+                    "attribution_name": "Éric Mathieu",
+                    "square_url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/113774899/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 129812,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begoniaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonia family"
+                },
+                {
+                  "id": 126405,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405
+                  ],
+                  "is_active": true,
+                  "name": "Begonia",
+                  "parent_id": 71453,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 264704953,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Lily",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 128471,
+                  "flag_counts": {
+                    "resolved": 134,
+                    "unresolved": 6
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begonia",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonias"
+                },
+                {
+                  "id": 1013687,
+                  "rank": "section",
+                  "rank_level": 13,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405,
+                    1013687
+                  ],
+                  "is_active": true,
+                  "name": "Pritzelia",
+                  "parent_id": 126405,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 554152087,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Pedro Alvaro Neves, some rights reserved (CC BY), uploaded by Pedro Alvaro Neves",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Pedro Alvaro Neves",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 2397,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Trachymene",
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687,
+                1464941
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae"
+            }
+          },
+          {
+            "id": 851650291,
+            "uuid": "dcca67dd-8c42-49e1-816a-8c0141ba9f7f",
+            "user": {
+              "id": 2325020,
+              "login": "pwmoonlight",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2019-10-01T22:03:19+00:00",
+              "login_autocomplete": "pwmoonlight",
+              "login_exact": "pwmoonlight",
+              "name": null,
+              "name_autocomplete": null,
+              "orcid": "https://orcid.org/0000-0003-4342-2089",
+              "icon": null,
+              "observations_count": 46,
+              "identifications_count": 7466,
+              "journal_posts_count": 0,
+              "activity_count": 7512,
+              "species_count": 37,
+              "annotated_observations_count": 1,
+              "universal_search_rank": 46,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": null
+            },
+            "created_at": "2026-07-15T19:44:53-03:00",
+            "created_at_details": {
+              "date": "2026-07-15",
+              "day": 15,
+              "month": 7,
+              "year": 2026,
+              "hour": 19,
+              "week": 29
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 1464941,
+            "spam": false,
+            "taxon_id": 1464941,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 163020084,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158125294,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149171474,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125078503,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 71281,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281
+                  ],
+                  "is_active": true,
+                  "name": "Cucurbitales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 44230820,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) einstein1966, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "einstein1966",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 596267,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbitales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "begonias, gourds, and allies"
+                },
+                {
+                  "id": 71453,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453
+                  ],
+                  "is_active": true,
+                  "name": "Begoniaceae",
+                  "parent_id": 71281,
+                  "ancestry": "48460/47126/211194/47125/47124/71281",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 113774899,
+                    "license_code": null,
+                    "attribution": "(c) Éric Mathieu, all rights reserved, uploaded by Éric Mathieu",
+                    "url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "original_dimensions": {
+                      "height": 1063,
+                      "width": 1600
+                    },
+                    "flags": [],
+                    "attribution_name": "Éric Mathieu",
+                    "square_url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/113774899/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 129812,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begoniaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonia family"
+                },
+                {
+                  "id": 126405,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405
+                  ],
+                  "is_active": true,
+                  "name": "Begonia",
+                  "parent_id": 71453,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 264704953,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Lily",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 128471,
+                  "flag_counts": {
+                    "resolved": 134,
+                    "unresolved": 6
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begonia",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonias"
+                },
+                {
+                  "id": 1013687,
+                  "rank": "section",
+                  "rank_level": 13,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405,
+                    1013687
+                  ],
+                  "is_active": true,
+                  "name": "Pritzelia",
+                  "parent_id": 126405,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 554152087,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Pedro Alvaro Neves, some rights reserved (CC BY), uploaded by Pedro Alvaro Neves",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Pedro Alvaro Neves",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 2397,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Trachymene",
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687,
+                1464941
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae"
+            }
+          },
+          {
+            "id": 837793853,
+            "uuid": "6821ad13-5c9c-4952-9440-9f2bf4fe18b8",
+            "user": {
+              "id": 913299,
+              "login": "topeuna",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2018-04-27T23:00:21+00:00",
+              "login_autocomplete": "topeuna",
+              "login_exact": "topeuna",
+              "name": "",
+              "name_autocomplete": "",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/913299/7cf7d484363f76a14cfe1c3018da723b-thumb.jpeg?1780713929",
+              "observations_count": 568,
+              "identifications_count": 1343,
+              "journal_posts_count": 0,
+              "activity_count": 1911,
+              "species_count": 294,
+              "annotated_observations_count": 432,
+              "universal_search_rank": 568,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/913299/7cf7d484363f76a14cfe1c3018da723b-medium.jpeg?1780713929"
+            },
+            "created_at": "2026-06-24T08:46:53-03:00",
+            "created_at_details": {
+              "date": "2026-06-24",
+              "day": 24,
+              "month": 6,
+              "year": 2026,
+              "hour": 8,
+              "week": 26
+            },
+            "body": null,
+            "category": "improving",
+            "current": false,
+            "flags": [],
+            "own_observation": true,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": null,
+            "previous_observation_taxon_id": 126405,
+            "spam": false,
+            "taxon_id": 126405,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 126405,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 126405,
+              "name": "Begonia",
+              "parent_id": 71453,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2012-03-26T22:19:07+00:00",
+              "default_photo": {
+                "id": 264704953,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Lily",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 128471,
+              "photos_locked": false,
+              "universal_search_rank": 128471,
+              "flag_counts": {
+                "resolved": 134,
+                "unresolved": 6
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Begonia",
+              "iconic_taxon_name": "Plantae",
+              "preferred_common_name": "Begonias",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 163020084,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158125294,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149171474,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125078503,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 71281,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281
+                  ],
+                  "is_active": true,
+                  "name": "Cucurbitales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 44230820,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) einstein1966, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "einstein1966",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 596267,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbitales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "begonias, gourds, and allies"
+                },
+                {
+                  "id": 71453,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453
+                  ],
+                  "is_active": true,
+                  "name": "Begoniaceae",
+                  "parent_id": 71281,
+                  "ancestry": "48460/47126/211194/47125/47124/71281",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 113774899,
+                    "license_code": null,
+                    "attribution": "(c) Éric Mathieu, all rights reserved, uploaded by Éric Mathieu",
+                    "url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "original_dimensions": {
+                      "height": 1063,
+                      "width": 1600
+                    },
+                    "flags": [],
+                    "attribution_name": "Éric Mathieu",
+                    "square_url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/113774899/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 129812,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begoniaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonia family"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 126405,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 126405,
+              "name": "Begonia",
+              "parent_id": 71453,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2012-03-26T22:19:07+00:00",
+              "default_photo": {
+                "id": 264704953,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Lily",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 128471,
+              "photos_locked": false,
+              "universal_search_rank": 128471,
+              "flag_counts": {
+                "resolved": 134,
+                "unresolved": 6
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Begonia",
+              "iconic_taxon_name": "Plantae",
+              "preferred_common_name": "Begonias"
+            }
+          },
+          {
+            "id": 851860985,
+            "uuid": "55f38123-1501-44b4-a96b-2ac5d7f5d444",
+            "user": {
+              "id": 8650446,
+              "login": "fabiocarvalho2105",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2024-10-05T09:32:22+00:00",
+              "login_autocomplete": "fabiocarvalho2105",
+              "login_exact": "fabiocarvalho2105",
+              "name": "Fábio Carvalho",
+              "name_autocomplete": "Fábio Carvalho",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/8650446/thumb.jpeg?1728121047",
+              "observations_count": 384,
+              "identifications_count": 6457,
+              "journal_posts_count": 0,
+              "activity_count": 6841,
+              "species_count": 100,
+              "annotated_observations_count": 38,
+              "universal_search_rank": 384,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/8650446/medium.jpeg?1728121047"
+            },
+            "created_at": "2026-07-16T05:39:46-03:00",
+            "created_at_details": {
+              "date": "2026-07-16",
+              "day": 16,
+              "month": 7,
+              "year": 2026,
+              "hour": 5,
+              "week": 29
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 1464941,
+            "spam": false,
+            "taxon_id": 1464941,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 163020084,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158125294,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149171474,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125078503,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 71281,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281
+                  ],
+                  "is_active": true,
+                  "name": "Cucurbitales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 44230820,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) einstein1966, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "einstein1966",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 596267,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbitales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "begonias, gourds, and allies"
+                },
+                {
+                  "id": 71453,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453
+                  ],
+                  "is_active": true,
+                  "name": "Begoniaceae",
+                  "parent_id": 71281,
+                  "ancestry": "48460/47126/211194/47125/47124/71281",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 113774899,
+                    "license_code": null,
+                    "attribution": "(c) Éric Mathieu, all rights reserved, uploaded by Éric Mathieu",
+                    "url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "original_dimensions": {
+                      "height": 1063,
+                      "width": 1600
+                    },
+                    "flags": [],
+                    "attribution_name": "Éric Mathieu",
+                    "square_url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/113774899/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 129812,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begoniaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonia family"
+                },
+                {
+                  "id": 126405,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405
+                  ],
+                  "is_active": true,
+                  "name": "Begonia",
+                  "parent_id": 71453,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 264704953,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Lily",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 128471,
+                  "flag_counts": {
+                    "resolved": 134,
+                    "unresolved": 6
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begonia",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonias"
+                },
+                {
+                  "id": 1013687,
+                  "rank": "section",
+                  "rank_level": 13,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405,
+                    1013687
+                  ],
+                  "is_active": true,
+                  "name": "Pritzelia",
+                  "parent_id": 126405,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 554152087,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Pedro Alvaro Neves, some rights reserved (CC BY), uploaded by Pedro Alvaro Neves",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Pedro Alvaro Neves",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 2397,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Trachymene",
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687,
+                1464941
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae"
+            }
+          }
+        ],
+        "project_observations": [],
+        "observation_photos": [
+          {
+            "id": 633109174,
+            "position": 0,
+            "uuid": "0d50a802-5dd9-479f-b369-533750862885",
+            "photo_id": 685264301,
+            "photo": {
+              "id": 685264301,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1536
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685264301/square.jpg",
+              "attribution": "(c) topeuna, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          },
+          {
+            "id": 633109176,
+            "position": 1,
+            "uuid": "8c900388-33bc-4091-bf34-98d1cb059cda",
+            "photo_id": 685264313,
+            "photo": {
+              "id": 685264313,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1536
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685264313/square.jpg",
+              "attribution": "(c) topeuna, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          },
+          {
+            "id": 633109175,
+            "position": 2,
+            "uuid": "796637c8-dfea-4ec6-a40b-f65662fec79d",
+            "photo_id": 685264311,
+            "photo": {
+              "id": 685264311,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1536
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685264311/square.jpg",
+              "attribution": "(c) topeuna, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          },
+          {
+            "id": 633109173,
+            "position": 3,
+            "uuid": "3f64d3dc-f2ef-422b-bde0-5ac419aceba9",
+            "photo_id": 685264316,
+            "photo": {
+              "id": 685264316,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1536
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685264316/square.jpg",
+              "attribution": "(c) topeuna, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          }
+        ],
+        "photos": [
+          {
+            "id": 685264301,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685264301/square.jpg",
+            "attribution": "(c) topeuna, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          },
+          {
+            "id": 685264313,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685264313/square.jpg",
+            "attribution": "(c) topeuna, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          },
+          {
+            "id": 685264311,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685264311/square.jpg",
+            "attribution": "(c) topeuna, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          },
+          {
+            "id": 685264316,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685264316/square.jpg",
+            "attribution": "(c) topeuna, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        ],
+        "faves": [
+          {
+            "id": 14588654,
+            "vote_flag": true,
+            "vote_scope": null,
+            "user_id": 8650446,
+            "created_at": "2026-06-24T12:29:44.917Z",
+            "user": {
+              "id": 8650446,
+              "login": "fabiocarvalho2105",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2024-10-05T09:32:22+00:00",
+              "login_autocomplete": "fabiocarvalho2105",
+              "login_exact": "fabiocarvalho2105",
+              "name": "Fábio Carvalho",
+              "name_autocomplete": "Fábio Carvalho",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/8650446/thumb.jpeg?1728121047",
+              "observations_count": 384,
+              "identifications_count": 6457,
+              "journal_posts_count": 0,
+              "activity_count": 6841,
+              "species_count": 100,
+              "annotated_observations_count": 38,
+              "universal_search_rank": 384,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/8650446/medium.jpeg?1728121047"
+            }
+          }
+        ],
+        "non_owner_ids": [
+          {
+            "id": 838501847,
+            "uuid": "2b512b44-5939-41fe-a100-88961c9d3a15",
+            "user": {
+              "id": 7816632,
+              "login": "mateus_dourado_vieira",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2024-02-22T15:33:16+00:00",
+              "login_autocomplete": "mateus_dourado_vieira",
+              "login_exact": "mateus_dourado_vieira",
+              "name": "Mateus Dourado vieira",
+              "name_autocomplete": "Mateus Dourado vieira",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/7816632/ccfbe514bfe541b33827f8b4b32ee892-thumb.jpg?1779764575",
+              "observations_count": 393,
+              "identifications_count": 1510,
+              "journal_posts_count": 0,
+              "activity_count": 1903,
+              "species_count": 201,
+              "annotated_observations_count": 8,
+              "universal_search_rank": 393,
+              "roles": [],
+              "site_id": null,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/7816632/ccfbe514bfe541b33827f8b4b32ee892-medium.jpg?1779764575"
+            },
+            "created_at": "2026-06-25T12:24:25-03:00",
+            "created_at_details": {
+              "date": "2026-06-25",
+              "day": 25,
+              "month": 6,
+              "year": 2026,
+              "hour": 12,
+              "week": 26
+            },
+            "body": "",
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 126405,
+            "spam": false,
+            "taxon_id": 1464941,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 163020084,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158125294,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149171474,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125078503,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 71281,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281
+                  ],
+                  "is_active": true,
+                  "name": "Cucurbitales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 44230820,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) einstein1966, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "einstein1966",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 596267,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbitales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "begonias, gourds, and allies"
+                },
+                {
+                  "id": 71453,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453
+                  ],
+                  "is_active": true,
+                  "name": "Begoniaceae",
+                  "parent_id": 71281,
+                  "ancestry": "48460/47126/211194/47125/47124/71281",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 113774899,
+                    "license_code": null,
+                    "attribution": "(c) Éric Mathieu, all rights reserved, uploaded by Éric Mathieu",
+                    "url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "original_dimensions": {
+                      "height": 1063,
+                      "width": 1600
+                    },
+                    "flags": [],
+                    "attribution_name": "Éric Mathieu",
+                    "square_url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/113774899/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 129812,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begoniaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonia family"
+                },
+                {
+                  "id": 126405,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405
+                  ],
+                  "is_active": true,
+                  "name": "Begonia",
+                  "parent_id": 71453,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 264704953,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Lily",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 128471,
+                  "flag_counts": {
+                    "resolved": 134,
+                    "unresolved": 6
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begonia",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonias"
+                },
+                {
+                  "id": 1013687,
+                  "rank": "section",
+                  "rank_level": 13,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405,
+                    1013687
+                  ],
+                  "is_active": true,
+                  "name": "Pritzelia",
+                  "parent_id": 126405,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 554152087,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Pedro Alvaro Neves, some rights reserved (CC BY), uploaded by Pedro Alvaro Neves",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Pedro Alvaro Neves",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 2397,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Trachymene",
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 126405,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 126405,
+              "name": "Begonia",
+              "parent_id": 71453,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2012-03-26T22:19:07+00:00",
+              "default_photo": {
+                "id": 264704953,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Lily",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 128471,
+              "photos_locked": false,
+              "universal_search_rank": 128471,
+              "flag_counts": {
+                "resolved": 134,
+                "unresolved": 6
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Begonia",
+              "iconic_taxon_name": "Plantae",
+              "preferred_common_name": "Begonias"
+            }
+          },
+          {
+            "id": 851650291,
+            "uuid": "dcca67dd-8c42-49e1-816a-8c0141ba9f7f",
+            "user": {
+              "id": 2325020,
+              "login": "pwmoonlight",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2019-10-01T22:03:19+00:00",
+              "login_autocomplete": "pwmoonlight",
+              "login_exact": "pwmoonlight",
+              "name": null,
+              "name_autocomplete": null,
+              "orcid": "https://orcid.org/0000-0003-4342-2089",
+              "icon": null,
+              "observations_count": 46,
+              "identifications_count": 7466,
+              "journal_posts_count": 0,
+              "activity_count": 7512,
+              "species_count": 37,
+              "annotated_observations_count": 1,
+              "universal_search_rank": 46,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": null
+            },
+            "created_at": "2026-07-15T19:44:53-03:00",
+            "created_at_details": {
+              "date": "2026-07-15",
+              "day": 15,
+              "month": 7,
+              "year": 2026,
+              "hour": 19,
+              "week": 29
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 1464941,
+            "spam": false,
+            "taxon_id": 1464941,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 163020084,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158125294,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149171474,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125078503,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 71281,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281
+                  ],
+                  "is_active": true,
+                  "name": "Cucurbitales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 44230820,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) einstein1966, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "einstein1966",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 596267,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbitales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "begonias, gourds, and allies"
+                },
+                {
+                  "id": 71453,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453
+                  ],
+                  "is_active": true,
+                  "name": "Begoniaceae",
+                  "parent_id": 71281,
+                  "ancestry": "48460/47126/211194/47125/47124/71281",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 113774899,
+                    "license_code": null,
+                    "attribution": "(c) Éric Mathieu, all rights reserved, uploaded by Éric Mathieu",
+                    "url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "original_dimensions": {
+                      "height": 1063,
+                      "width": 1600
+                    },
+                    "flags": [],
+                    "attribution_name": "Éric Mathieu",
+                    "square_url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/113774899/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 129812,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begoniaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonia family"
+                },
+                {
+                  "id": 126405,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405
+                  ],
+                  "is_active": true,
+                  "name": "Begonia",
+                  "parent_id": 71453,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 264704953,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Lily",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 128471,
+                  "flag_counts": {
+                    "resolved": 134,
+                    "unresolved": 6
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begonia",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonias"
+                },
+                {
+                  "id": 1013687,
+                  "rank": "section",
+                  "rank_level": 13,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405,
+                    1013687
+                  ],
+                  "is_active": true,
+                  "name": "Pritzelia",
+                  "parent_id": 126405,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 554152087,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Pedro Alvaro Neves, some rights reserved (CC BY), uploaded by Pedro Alvaro Neves",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Pedro Alvaro Neves",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 2397,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Trachymene",
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687,
+                1464941
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae"
+            }
+          },
+          {
+            "id": 851860985,
+            "uuid": "55f38123-1501-44b4-a96b-2ac5d7f5d444",
+            "user": {
+              "id": 8650446,
+              "login": "fabiocarvalho2105",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2024-10-05T09:32:22+00:00",
+              "login_autocomplete": "fabiocarvalho2105",
+              "login_exact": "fabiocarvalho2105",
+              "name": "Fábio Carvalho",
+              "name_autocomplete": "Fábio Carvalho",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/8650446/thumb.jpeg?1728121047",
+              "observations_count": 384,
+              "identifications_count": 6457,
+              "journal_posts_count": 0,
+              "activity_count": 6841,
+              "species_count": 100,
+              "annotated_observations_count": 38,
+              "universal_search_rank": 384,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/8650446/medium.jpeg?1728121047"
+            },
+            "created_at": "2026-07-16T05:39:46-03:00",
+            "created_at_details": {
+              "date": "2026-07-16",
+              "day": 16,
+              "month": 7,
+              "year": 2026,
+              "hour": 5,
+              "week": 29
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 1464941,
+            "spam": false,
+            "taxon_id": 1464941,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 163020084,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158125294,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149171474,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47124,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124
+                  ],
+                  "is_active": true,
+                  "name": "Magnoliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 98056702,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY), uploaded by Michelle W. （鍾偉瑋）",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Michelle W. （鍾偉瑋）",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98056702/medium.jpeg"
+                  },
+                  "taxon_changes_count": 4,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 125078503,
+                  "flag_counts": {
+                    "resolved": 10,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Dicots"
+                },
+                {
+                  "id": 71281,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281
+                  ],
+                  "is_active": true,
+                  "name": "Cucurbitales",
+                  "parent_id": 47124,
+                  "ancestry": "48460/47126/211194/47125/47124",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 44230820,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) einstein1966, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "einstein1966",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44230820/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 596267,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbitales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "begonias, gourds, and allies"
+                },
+                {
+                  "id": 71453,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453
+                  ],
+                  "is_active": true,
+                  "name": "Begoniaceae",
+                  "parent_id": 71281,
+                  "ancestry": "48460/47126/211194/47125/47124/71281",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 113774899,
+                    "license_code": null,
+                    "attribution": "(c) Éric Mathieu, all rights reserved, uploaded by Éric Mathieu",
+                    "url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "original_dimensions": {
+                      "height": 1063,
+                      "width": 1600
+                    },
+                    "flags": [],
+                    "attribution_name": "Éric Mathieu",
+                    "square_url": "https://static.inaturalist.org/photos/113774899/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/113774899/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 129812,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begoniaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonia family"
+                },
+                {
+                  "id": 126405,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405
+                  ],
+                  "is_active": true,
+                  "name": "Begonia",
+                  "parent_id": 71453,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 264704953,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Lily",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264704953/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 128471,
+                  "flag_counts": {
+                    "resolved": 134,
+                    "unresolved": 6
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Begonia",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Begonias"
+                },
+                {
+                  "id": 1013687,
+                  "rank": "section",
+                  "rank_level": 13,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    71281,
+                    71453,
+                    126405,
+                    1013687
+                  ],
+                  "is_active": true,
+                  "name": "Pritzelia",
+                  "parent_id": 126405,
+                  "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 554152087,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Pedro Alvaro Neves, some rights reserved (CC BY), uploaded by Pedro Alvaro Neves",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "Pedro Alvaro Neves",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152087/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 2397,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Trachymene",
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 1464941,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47124,
+                71281,
+                71453,
+                126405,
+                1013687,
+                1464941
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1464941,
+              "name": "Begonia angulata",
+              "parent_id": 1013687,
+              "ancestry": "48460/47126/211194/47125/47124/71281/71453/126405/1013687",
+              "min_species_ancestry": "48460,47126,211194,47125,47124,71281,71453,126405,1013687,1464941",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2023-04-16T21:55:37+00:00",
+              "default_photo": {
+                "id": 268297921,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Luís A. Funez, some rights reserved (CC BY-NC), uploaded by Luís A. Funez",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Luís A. Funez",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268297921/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 32,
+              "photos_locked": false,
+              "universal_search_rank": 32,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

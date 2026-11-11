@@ -1,0 +1,60 @@
+181|wholePlant|Conjunto de rosetas no alto da encosta rochosa, com a paisagem montanhosa ao fundo.
+182|wholePlant|Rosetas distribuídas sobre a superfície inclinada da rocha.
+183|-|Roseta com inflorescência projetada para fora e grandes brácteas vermelhas.
+184|-|Flores de pontas azuladas e estruturas amarelas entre brácteas vermelhas.
+185|flower|Inflorescência ereta, com brácteas rosadas e extremidades arroxeadas.
+186|unknown|Haste reprodutiva com estruturas escurecidas e brácteas rosadas persistentes; a fase não está nítida na foto.
+187|flower|Inflorescência pendente com brácteas rosadas e flores alongadas de pontas recurvadas.
+188|flower|Brácteas rosadas e flores pendentes, vistas entre as folhas arqueadas.
+189|flower|Detalhe das flores pendentes, com pétalas recurvadas e estruturas amareladas expostas.
+190|-|Roseta ampla de folhas estreitas, com a região central avermelhada e inflorescência ereta.
+191|-|Aspecto da roseta no chão da mata, com folhas longas e arqueadas.
+192|-|-
+193|wholePlant,flower|Roseta com região central avermelhada e pequenas flores entre as folhas internas.
+194|-|Flores azul-arroxeadas abrindo no interior da roseta.
+195|wholePlant|Roseta sobre o tronco, com folhas internas rosadas ao redor do centro.
+196|wholePlant|Roseta vista de cima, com folhas internas rosadas e estruturas reprodutivas junto à água.
+197|-|Roseta baixa vista de cima, com folhas verde-amareladas e pontas avermelhadas.
+198|-|Roseta apoiada no tronco, com folhas largas projetadas para fora.
+199|leaf|Folhas verde-amareladas de margem serrilhada e extremidades rosadas.
+200|flower|Pequenas flores claras reunidas no centro da roseta, junto à água acumulada.
+201|leaf|Folhas de bases escuras e pontas avermelhadas ao redor das estruturas reprodutivas centrais.
+202|wholePlant|Rosetas de folhas arqueadas e pontas rosadas, fotografadas em conjunto.
+203|wholePlant|Conjunto de rosetas junto ao caminho, com folhas estreitas de pontas avermelhadas.
+204|wholePlant|Roseta vista de cima, com folhas serrilhadas e brácteas centrais rosadas.
+205|flower|Duas flores azul-arroxeadas entre brácteas vermelhas serrilhadas.
+206|wholePlant|Roseta verde de folhas largas, com margens finamente serrilhadas.
+207|flower|Flor azulada junto às brácteas vermelhas da região central da roseta.
+208|wholePlant|Rosetas apoiadas na vegetação, com folhas longas e centros avermelhados.
+209|wholePlant|Região central da roseta com brácteas avermelhadas e água acumulada.
+210|-|Flores vermelhas compridas, algumas abertas na extremidade do ramo.
+211|-|Inflorescência ereta com flores vermelhas estreitas distribuídas ao longo do eixo.
+212|-|Inflorescência compacta e rosada acima da roseta de folhas.
+213|wholePlant,flower|Roseta no alto do tronco, com inflorescência rosada visível junto às folhas.
+214|flower|Inflorescência compacta de brácteas vermelhas, com pétalas azuladas nas extremidades.
+215|flower|Inflorescências laterais pendentes, com brácteas rosadas e pontas arroxeadas.
+216|flower|Haste reprodutiva saindo junto à base da roseta, sobre a serapilheira.
+217|flower|Inflorescência avermelhada acima das folhas, com flores de pontas azuladas.
+218|flower|Flor tubular de ponta azulada ao lado de botões, em ramificação vermelha.
+219|flower|Flores tubulares de pontas azuladas em uma inflorescência de eixo vermelho.
+220|unknown|Longa haste reprodutiva pendente, com estruturas persistentes vistas por baixo do ramo; a fase exige revisão.
+221|wholePlant|Roseta de folhas largas sobre o suporte, com marcas claras atravessando as lâminas.
+222|wholePlant|Planta apoiada na forquilha, com folhas arqueadas e haste pendente.
+223|-|Roseta vista de cima, com folhas verdes compridas e arqueadas.
+224|-|Conjunto de rosetas no solo, mostrando o porte e a distribuição das folhas.
+225|-|Planta apoiada no galho, com folhas estreitas e arqueadas formando uma roseta.
+226|-|Roseta de folhas claras e estreitas, aderida a um galho.
+227|wholePlant|Pequena touceira de folhas finas aderida à casca do tronco.
+228|wholePlant|Roseta com folhas compridas e recurvadas, apoiada no galho.
+229|wholePlant|Touceiras de folhas finas sobre o suporte, vistas contra o céu.
+230|wholePlant,flower|Roseta sobre o galho com inflorescência rosada voltada para o lado.
+231|flower|Flores rosadas agrupadas nas pontas das ramificações.
+232|wholePlant|Touceira aderida à casca, formada por numerosas folhas finas e recurvadas.
+233|wholePlant|Árvore-suporte com muitas pequenas touceiras de epífitas distribuídas pelos ramos.
+234|wholePlant|Pequenas touceiras aderidas ao tronco, distribuídas em diferentes alturas.
+235|-|Planta no tronco, com folhas finas e inflorescência rosada pendente.
+236|-|Conjunto de plantas sobre o galho, com inflorescências rosadas projetadas para fora.
+237|-|Planta sustentada à mão, com folhas finas e flores claras em inflorescências rosadas.
+238|-|Planta apoiada no galho, com folhas finas e hastes reprodutivas persistentes.
+239|leaf|Ramo curto com folhas pequenas, estreitas e sobrepostas, ao lado de uma estrutura seca.
+240|unknown|Epífitas sobre o suporte, entre folhas largas; a planta-alvo está pouco destacada neste enquadramento.

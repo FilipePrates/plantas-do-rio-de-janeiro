@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/229992829",
+  "photo": {
+    "id": 408316230,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1721,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408316230/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Paula Romano",
+  "observation": {
+    "id": 229992829,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 443003,
+      "name": "Rhipsalis pachyptera"
+    },
+    "observerLogin": "paularomano"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408316230/large.jpeg",
+    "sha256": "1a782e3e075e522d84d98829d478a4658037d73db587040ae00a11f1a1957e61",
+    "retrievedAt": "2026-11-11T17:16:22Z"
+  }
+}

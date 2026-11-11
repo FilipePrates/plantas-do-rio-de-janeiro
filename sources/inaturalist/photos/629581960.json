@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/345461200",
+  "photo": {
+    "id": 629581960,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629581960/square.jpg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 345461200,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 916723,
+      "name": "Eugenia astringens"
+    },
+    "observerLogin": "bariza"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629581960/large.jpg",
+    "sha256": "5bd6dc7f80b5d2c6f22d9ef55310bb75812fd7aec9e43f28dbdce8d934837bc4",
+    "retrievedAt": "2026-11-11T08:13:51Z"
+  }
+}

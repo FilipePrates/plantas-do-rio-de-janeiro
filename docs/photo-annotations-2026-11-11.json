@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-11",
+  "viewedPhotos": 599,
+  "changedPhotos": 534,
+  "missingCaptionsBefore": 499,
+  "missingCaptionsAfter": 0,
+  "existingWarningsWithVisualDescriptionAdded": 33,
+  "photosWithChangedTags": 352,
+  "tagsBefore": {
+    "unknown": 324,
+    "flower": 104,
+    "leaf": 78,
+    "fruit": 53,
+    "wholePlant": 105,
+    "root": 2,
+    "bark": 9
+  },
+  "tagsAfter": {
+    "flower": 210,
+    "leaf": 207,
+    "fruit": 115,
+    "root": 8,
+    "bark": 21,
+    "wholePlant": 173,
+    "unknown": 9,
+    "seed": 5
+  },
+  "photoReviewAfter": {
+    "draft": 534,
+    "reviewed": 65
+  },
+  "originalMediaBytesAdded": 0,
+  "galleryOrderChanged": false,
+  "humanApproval": "All changed captions/tags remain draft. Existing untouched approvals are preserved.",
+  "baselineSha256": "1af68dc9d5bb8526c9c144c3f96165b38b7344c04c28b928d4c27ad7ee26070b",
+  "catalogSha256": "b67ac33f0de50b4be1ca20b24f47d2d43151ab40a2d3fd247d1df3aa75190c6b",
+  "unknownPhotos": [
+    {
+      "plantId": "aechmea-ramosa",
+      "scientificName": "Aechmea ramosa",
+      "photoId": 624967655,
+      "caption": "Eixo reprodutivo avermelhado e suas ramificações, vistos contra a luz; a fase não está nítida neste enquadramento."
+    },
+    {
+      "plantId": "alcantarea-geniculata",
+      "scientificName": "Alcantarea geniculata",
+      "photoId": 659400330,
+      "caption": "Detalhe dos eixos reprodutivos avermelhados e das estruturas claras persistentes. As flores roxas pertencem à vegetação vizinha."
+    },
+    {
+      "plantId": "billbergia-pyramidalis",
+      "scientificName": "Billbergia pyramidalis",
+      "photoId": 105026675,
+      "caption": "Haste reprodutiva com estruturas escurecidas e brácteas rosadas persistentes; a fase não está nítida na foto."
+    },
+    {
+      "plantId": "quesnelia-marmorata",
+      "scientificName": "Quesnelia marmorata",
+      "photoId": 250690464,
+      "caption": "Longa haste reprodutiva pendente, com estruturas persistentes vistas por baixo do ramo; a fase exige revisão."
+    },
+    {
+      "plantId": "tillandsia-tricholepis",
+      "scientificName": "Tillandsia tricholepis",
+      "photoId": 465504878,
+      "caption": "Epífitas sobre o suporte, entre folhas largas; a planta-alvo está pouco destacada neste enquadramento."
+    },
+    {
+      "plantId": "vriesea-longicaulis",
+      "scientificName": "Vriesea longicaulis",
+      "photoId": 425732015,
+      "caption": "Brácteas escurecidas envolvendo pequenas estruturas verdes, com a mão como referência de escala; a fase reprodutiva exige revisão."
+    },
+    {
+      "plantId": "vriesea-longicaulis",
+      "scientificName": "Vriesea longicaulis",
+      "photoId": 417476425,
+      "caption": "Espiga com brácteas castanhas persistentes, fotografada no ambiente da mata; não há flores abertas nítidas."
+    },
+    {
+      "plantId": "vriesea-scalaris",
+      "scientificName": "Vriesea scalaris",
+      "photoId": 499405308,
+      "caption": "Eixo reprodutivo fino e avermelhado, com brácteas alaranjadas; as flores não estão nítidas."
+    },
+    {
+      "plantId": "rhizophora-mangle",
+      "scientificName": "Rhizophora mangle",
+      "photoId": 160307908,
+      "caption": "Propágulo alongado ainda preso à planta: uma plântula em desenvolvimento."
+    }
+  ],
+  "additionalReview": [
+    {
+      "photoId": 354855356,
+      "scientificName": "Ocotea puberula",
+      "caption": "Ramo com folhas e estruturas engrossadas, possivelmente galhas; confirmar antes de interpretar como frutos."
+    },
+    {
+      "photoId": 691168057,
+      "scientificName": "Psychotria subspathacea",
+      "caption": "Estrutura arroxeada com porção verde saliente entre folhas largas; estágio reprodutivo a conferir. Identificação a conferir: observação iNaturalist sem grau de pesquisa."
+    }
+  ]
+}

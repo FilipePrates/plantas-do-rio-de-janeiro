@@ -1,0 +1,232 @@
+{
+  "organos": {
+    "title": "Neves et al. (2015). Aechmea e gêneros relacionados no Parque Nacional da Serra dos Órgãos. Rodriguésia 66.",
+    "url": "https://www.scielo.br/j/rod/a/qyqYPfC9H73JybTKNDBbbxv/?lang=pt",
+    "retrievedAt": "2026-11-11"
+  },
+  "tiririca": {
+    "title": "Dutra Junior, Barros & Coelho (2024). Anthurium da Serra da Tiririca: chave e descrições. Hoehnea 51.",
+    "url": "https://www.scielo.br/j/hoehnea/a/8VNp9QTm4nGNQCLV7tTxbXw/?format=html&lang=pt",
+    "retrievedAt": "2026-11-11"
+  },
+  "living": {
+    "title": "Urman et al. (2026). Araceae in the living collection of the Rio de Janeiro Botanical Garden Research Institute. Rodriguésia 77. Usado para morfologia de exemplares cultivados.",
+    "url": "https://www.scielo.br/j/rod/a/yysxL3nKYCH7WFq6gKDKLQf/?format=html&lang=en",
+    "retrievedAt": "2026-11-11"
+  },
+  "ffesp": {
+    "title": "Wanderley & Martins, coords. (2007). Bromeliaceae. Flora Fanerogâmica do Estado de São Paulo 5:39–162. Usado para morfologia, não para ocorrência municipal no Rio.",
+    "url": "https://www.infraestruturameioambiente.sp.gov.br/institutodebotanica/wp-content/uploads/sites/235/2016/02/Bromeliaceae.pdf",
+    "retrievedAt": "2026-11-11"
+  },
+  "juiz": {
+    "title": "Bromeliaceae nos fragmentos de Floresta Atlântica de Juiz de Fora, Minas Gerais. Rodriguésia. Tratamento morfológico.",
+    "url": "https://www.scielo.br/j/rod/a/FSPptGyxcsKvDPxTfmV8jkx/?format=html",
+    "retrievedAt": "2026-11-11"
+  },
+  "myrciaria": {
+    "title": "Caldas, Baumgratz & Souza (2020). Flora do estado do Rio de Janeiro: Myrciaria, Neomitranthes e Siphoneugena. Rodriguésia 71. Chaves e descrições.",
+    "url": "https://www.scielo.br/j/rod/a/SQBLdnpjxZpBDRYCgkHKn6v/?lang=pt",
+    "retrievedAt": "2026-11-11"
+  },
+  "clusiaceae": {
+    "title": "Flora of Espírito Santo: Clusiaceae (2023). Rodriguésia. Usado para morfologia, não para ocorrência no Rio.",
+    "url": "https://www.scielo.br/j/rod/a/4qY5t4CNsZ8VZmVDSs5yYNS/?lang=en",
+    "retrievedAt": "2026-11-11"
+  },
+  "scalaris": {
+    "title": "Neri et al. (2018). Natural hybridization and genetic and morphological variation between two epiphytic bromeliads. AoB PLANTS 10:plx061.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5751037/",
+    "retrievedAt": "2026-11-11"
+  },
+  "cabeludinha": {
+    "title": "UFSC/SAFAS. Cabeludinha — Myrciaria glazioviana. Caracterização botânica.",
+    "url": "https://safas.ufsc.br/recursos/panc/cabeludinha",
+    "retrievedAt": "2026-11-11"
+  },
+  "plinia": {
+    "title": "Romagnolo & Souza (2004). Calycorectes, Hexachlamys, Myrcianthes, Myrciaria e Plinia na planície alagável do alto rio Paraná. Acta Botanica Brasilica 18.",
+    "url": "https://www.scielo.br/j/abb/a/DsGPmnW4YP35qf8mwcVN9SL/?lang=pt",
+    "retrievedAt": "2026-11-11"
+  },
+  "myrrhinium": {
+    "title": "Myrtaceae from the Atlantic forest subtropical highlands of São Joaquim National Park (2020). Rodriguésia. Tratamento morfológico.",
+    "url": "https://www.scielo.br/j/rod/a/dsHSX9ZcDJwNZcG88VGZR6R/?format=html",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-ramosa": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Aechmea ramosa. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000337899",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-ornata": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Aechmea ornata. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000337835",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-ensiformis": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Vriesea ensiformis. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000601949",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-inflata": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Vriesea inflata. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000602826",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-longicaulis": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Vriesea longicaulis. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000603172",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-spectabilis": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Neoregelia spectabilis. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000477023",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-superba": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Wittrockia superba. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000608186",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-regina": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Alcantarea regina. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000338178",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-recurvata": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Tillandsia recurvata. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000583812",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-tricholepis": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Tillandsia tricholepis. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000585931",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-zebrina": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Billbergia zebrina. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000341530",
+    "retrievedAt": "2026-11-11"
+  },
+  "flora-candolleana": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Eugenia candolleana. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000956695",
+    "retrievedAt": "2026-11-11"
+  },
+  "flora-punicifolia": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Eugenia punicifolia. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000958741",
+    "retrievedAt": "2026-11-11"
+  },
+  "flora-manilkara": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Manilkara subsericea. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000235977",
+    "retrievedAt": "2026-11-11"
+  },
+  "flora-sylvatica": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Annona sylvatica. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000537958",
+    "retrievedAt": "2026-11-11"
+  },
+  "flora-cacans": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Annona cacans. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000537697",
+    "retrievedAt": "2026-11-11"
+  },
+  "flora-sessilis": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Inga sessilis. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000173671",
+    "retrievedAt": "2026-11-11"
+  },
+  "flora-dolabripetala": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Annona dolabripetala. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000537743",
+    "retrievedAt": "2026-11-11"
+  },
+  "flora-mucosa": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Annona mucosa. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0000537847",
+    "retrievedAt": "2026-11-11"
+  },
+  "flora-astringens": {
+    "title": "Flora e Funga / Flora Neotropica, via World Flora Online · Eugenia astringens. Morfologia.",
+    "url": "https://www.worldfloraonline.org/taxon/wfo-0001086089",
+    "retrievedAt": "2026-11-11"
+  },
+  "powo-appendiculatum": {
+    "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron appendiculatum. Morfologia.",
+    "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:318584-2/general-information",
+    "retrievedAt": "2026-11-11"
+  },
+  "powo-bipennifolium": {
+    "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron bipennifolium. Morfologia.",
+    "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87662-1/general-information",
+    "retrievedAt": "2026-11-11"
+  },
+  "powo-crassinervium": {
+    "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron crassinervium. Morfologia.",
+    "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87702-1/general-information",
+    "retrievedAt": "2026-11-11"
+  },
+  "powo-pedatum": {
+    "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron pedatum. Morfologia.",
+    "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87928-1/general-information",
+    "retrievedAt": "2026-11-11"
+  },
+  "powo-hastatum": {
+    "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron hastatum. Morfologia.",
+    "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87792-1/general-information",
+    "retrievedAt": "2026-11-11"
+  },
+  "powo-propinquum": {
+    "title": "Kew · CATE Araceae / revisão taxonômica · Philodendron propinquum. Morfologia.",
+    "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:320867-2/general-information",
+    "retrievedAt": "2026-11-11"
+  },
+  "powo-longifolium": {
+    "title": "CNCFlora/JBRJ · Anthurium longifolium. Morfologia baseada em Coelho et al. (2009); não usada como avaliação atual de ameaça.",
+    "url": "https://proflora.jbrj.gov.br/html/Anthurium%20longifolium_2012.html",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-marmorata": {
+    "title": "Smith & Downs (1979), Flora Neotropica · Quesnelia marmorata. NYBG.",
+    "url": "https://sweetgum.nybg.org/science/world-flora/monographs-details/?irn=2902",
+    "retrievedAt": "2026-11-11"
+  },
+  "wfo-fulgens": {
+    "title": "Canistropsis e Nidularium no Parque Nacional da Serra dos Órgãos. Rodriguésia (2017). Morfologia.",
+    "url": "https://www.scielo.br/j/rod/a/YnvYNXP8hKKhWy9XQcRjV7n/",
+    "retrievedAt": "2026-11-11"
+  },
+  "massambaba": {
+    "title": "Restinga de Massambaba — vegetação, flora, propagação e usos. Vriesea neoglutinosa, p. 75.",
+    "url": "https://biologiavegetal.com.br/wp-content/uploads/2020/07/00073_restinga_de_massambaba_vegetacao_flora_propagacao_e_usos.pdf",
+    "retrievedAt": "2026-11-11"
+  },
+  "embrapa-sete": {
+    "title": "Carvalho (2008). Sete-capotes: Campomanesia guazumifolia. Espécies arbóreas brasileiras 3:469–476. Embrapa.",
+    "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1136658/1/Especies-Arboreas-Brasileiras-vol-3-Sete-capotes.pdf",
+    "retrievedAt": "2026-11-11"
+  },
+  "flora-guaviroba": {
+    "title": "Flora do Espírito Santo: Campomanesia. Rodriguésia (2017). Morfologia e comparação entre C. guaviroba e C. laurifolia.",
+    "url": "https://www.scielo.br/j/rod/a/KNFsdF6MLfBkcz47p3gzwTL/",
+    "retrievedAt": "2026-11-11"
+  },
+  "parana": {
+    "title": "Buturi, Temponi & Sakuragui (2016). O gênero Philodendron no estado do Paraná. Rodriguésia 67. Usado para morfologia, não para ocorrência municipal.",
+    "url": "https://www.scielo.br/j/rod/a/8LDPDTxSwxchKzszh3jVSqd/?lang=pt",
+    "retrievedAt": "2026-11-11"
+  },
+  "urospadix": {
+    "title": "Coelho, Waechter & Mayo (2009). Revisão taxonômica de Anthurium seção Urospadix subseção Flavescentiviridia. Rodriguésia 60:799–864.",
+    "url": "https://www.aroid.org/genera/anthurium/Urospadix-Nadruz.pdf",
+    "retrievedAt": "2026-11-11"
+  },
+  "flora-vera": {
+    "title": "Mimosoideae na Reserva Ecológica do Panga, Minas Gerais (2014). Rodriguésia. Inga vera: morfologia.",
+    "url": "https://www.scielo.br/j/rod/a/BDDT3cJhHW3rBbk4Ddq3Lwp/?lang=pt",
+    "retrievedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/212975382",
+  "photo": {
+    "id": 376368420,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1024,
+      "height": 683
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/376368420/square.jpeg",
+    "attribution": "(c) Carlos Otávio Gussoni, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Carlos Otávio Gussoni",
+  "observation": {
+    "id": 212975382,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 439586,
+      "name": "Lepismium cruciforme"
+    },
+    "observerLogin": "gussoni"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/376368420/large.jpeg",
+    "sha256": "1ae55ae3c27c787a79c85c4ae43feb870dd3a075ee7edc89c349441c6a5319b3",
+    "retrievedAt": "2026-11-11T17:16:22Z"
+  }
+}

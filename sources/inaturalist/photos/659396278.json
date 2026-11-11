@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/361317677",
+  "photo": {
+    "id": 659396278,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 923,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659396278/square.jpg",
+    "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Marcio Santos Ferreira",
+  "observation": {
+    "id": 361317677,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 566249,
+      "name": "Anthurium comtum"
+    },
+    "observerLogin": "marcio_santos_ferreira"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659396278/large.jpg",
+    "sha256": "fadaf23998577377f766264803c3fdbbba9a78a2444f9e03ed3693f353fa3e96",
+    "retrievedAt": "2026-11-11T08:16:57.480Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/301033974",
+  "photo": {
+    "id": 542436167,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1542,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542436167/square.jpg",
+    "attribution": "(c) Victor Hugo B. Galvão, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Victor Hugo B. Galvão",
+  "observation": {
+    "id": 301033974,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 508831,
+      "name": "Aechmea weilbachii"
+    },
+    "observerLogin": "victorbart1"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542436167/large.jpg",
+    "sha256": "73ac934b8c7dc840a2680e72b1acd4270865148ad8123d67d5cc844c214d8636",
+    "retrievedAt": "2026-11-11T08:12:49Z"
+  }
+}

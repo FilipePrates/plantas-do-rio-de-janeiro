@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/252204412",
+  "photo": {
+    "id": 451430397,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451430397/square.jpeg",
+    "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "agujaceratops",
+  "observation": {
+    "id": 252204412,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 881515,
+      "name": "Philodendron propinquum"
+    },
+    "observerLogin": "agujaceratops"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451430397/large.jpeg",
+    "sha256": "61e74b9e3926b95f1b2bd7c9ba4457b2f0526e663bf70319a0ed87cd704c9392",
+    "retrievedAt": "2026-11-11T08:13:48Z"
+  }
+}

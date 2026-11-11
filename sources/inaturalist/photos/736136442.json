@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/401094108",
+  "photo": {
+    "id": 736136442,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1313,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/736136442/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "filipeprates",
+  "observation": {
+    "id": 401094108,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1419648,
+      "name": "Anthurium solitarium"
+    },
+    "observerLogin": "filipeprates"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/736136442/large.jpg",
+    "sha256": "32fa5ce6398b2b4ca91157bd4021500b42a7ff6f5ed22fd9d3046cdfd3fb090f",
+    "retrievedAt": "2026-11-11T08:11:10Z"
+  }
+}

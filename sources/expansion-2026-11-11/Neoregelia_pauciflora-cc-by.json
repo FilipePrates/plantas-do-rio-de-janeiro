@@ -1,0 +1,2392 @@
+{
+  "url": "https://api.inaturalist.org/v1/observations?taxon_name=Neoregelia+pauciflora&photo_license=cc-by&quality_grade=research&captive=false&per_page=8&order_by=votes",
+  "retrievedAt": "2026-11-11T08:00:11Z",
+  "responseSha256": "1daaf87612d37139f7de20661fe7bd43813a1409f9cc0b27577071e0a85768a6",
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 8,
+    "results": [
+      {
+        "quality_grade": "research",
+        "time_observed_at": "2025-12-30T10:19:50-03:00",
+        "taxon_geoprivacy": null,
+        "annotations": [],
+        "uuid": "fd51d531-dea8-46dd-b242-66ce3ff82e08",
+        "observed_on_details": {
+          "date": "2025-12-30",
+          "day": 30,
+          "month": 12,
+          "year": 2025,
+          "hour": 10,
+          "week": 1
+        },
+        "id": 335957343,
+        "cached_votes_total": 0,
+        "identifications_most_agree": true,
+        "created_at_details": {
+          "date": "2026-01-24",
+          "day": 24,
+          "month": 1,
+          "year": 2026,
+          "hour": 12,
+          "week": 4
+        },
+        "species_guess": "Neoregelia pauciflora",
+        "identifications_most_disagree": false,
+        "tags": [],
+        "positional_accuracy": 28,
+        "comments_count": 0,
+        "site_id": 1,
+        "created_time_zone": "America/Sao_Paulo",
+        "license_code": "cc-by",
+        "observed_time_zone": "America/Sao_Paulo",
+        "quality_metrics": [],
+        "public_positional_accuracy": 28,
+        "reviewed_by": [
+          4104894,
+          4237532
+        ],
+        "oauth_application_id": 2,
+        "flags": [],
+        "created_at": "2026-01-24T12:40:38-03:00",
+        "description": null,
+        "time_zone_offset": "-03:00",
+        "project_ids_with_curator_id": [],
+        "observed_on": "2025-12-30",
+        "observed_on_string": "2025-12-30 10:19:50",
+        "updated_at": "2026-01-24T17:53:30-03:00",
+        "sounds": [],
+        "place_ids": [
+          6878,
+          13333,
+          23682,
+          56773,
+          66741,
+          69794,
+          72753,
+          97389,
+          184019,
+          219577
+        ],
+        "captive": false,
+        "taxon": {
+          "provisional": false,
+          "is_active": true,
+          "ancestry": "48460/47126/211194/47125/47163/47162/49570/474338/141291",
+          "min_species_ancestry": "48460,47126,211194,47125,47163,47162,49570,474338,141291,1129359",
+          "endemic": false,
+          "iconic_taxon_id": 47126,
+          "min_species_taxon_id": 1129359,
+          "threatened": false,
+          "rank_level": 10,
+          "introduced": false,
+          "native": true,
+          "parent_id": 141291,
+          "name": "Neoregelia pauciflora",
+          "rank": "species",
+          "extinct": false,
+          "id": 1129359,
+          "ancestor_ids": [
+            48460,
+            47126,
+            211194,
+            47125,
+            47163,
+            47162,
+            49570,
+            474338,
+            141291,
+            1129359
+          ],
+          "created_at": "2020-09-16T01:23:31+00:00",
+          "default_photo": {
+            "id": 495418529,
+            "license_code": "cc-by-nc",
+            "attribution": "(c) Mariane Kaizer, some rights reserved (CC BY-NC), uploaded by Mariane Kaizer",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/square.jpeg",
+            "original_dimensions": {
+              "height": 1367,
+              "width": 2048
+            },
+            "flags": [],
+            "attribution_name": "Mariane Kaizer",
+            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/square.jpeg",
+            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/medium.jpeg"
+          },
+          "taxon_changes_count": 0,
+          "taxon_schemes_count": 0,
+          "observations_count": 38,
+          "photos_locked": false,
+          "universal_search_rank": 38,
+          "flag_counts": {
+            "resolved": 0,
+            "unresolved": 0
+          },
+          "current_synonymous_taxon_ids": null,
+          "atlas_id": null,
+          "complete_species_count": null,
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Neoregelia_pauciflora",
+          "iconic_taxon_name": "Plantae"
+        },
+        "ident_taxon_ids": [
+          48460,
+          47126,
+          211194,
+          47125,
+          47163,
+          47162,
+          49570,
+          474338,
+          141291,
+          1129359
+        ],
+        "outlinks": [
+          {
+            "source": "GBIF",
+            "url": "http://www.gbif.org/occurrence/6131215906"
+          }
+        ],
+        "faves_count": 0,
+        "ofvs": [],
+        "num_identification_agreements": 1,
+        "preferences": {
+          "prefers_community_taxon": null
+        },
+        "identification_disagreements_count": 0,
+        "comments": [],
+        "map_scale": null,
+        "uri": "https://www.inaturalist.org/observations/335957343",
+        "project_ids": [],
+        "community_taxon_id": 1129359,
+        "geojson": {
+          "type": "Point",
+          "coordinates": [
+            -41.7504477873,
+            -21.8177873268
+          ]
+        },
+        "owners_identification_from_vision": false,
+        "identifications_count": 1,
+        "obscured": false,
+        "num_identification_disagreements": 0,
+        "geoprivacy": null,
+        "location": "-21.8177873268,-41.7504477873",
+        "votes": [],
+        "spam": false,
+        "user": {
+          "id": 4104894,
+          "login": "pablocauapc",
+          "spam": false,
+          "suspended": false,
+          "created_at": "2021-03-14T20:08:31+00:00",
+          "site_id": null,
+          "preferences": {},
+          "login_autocomplete": "pablocauapc",
+          "login_exact": "pablocauapc",
+          "name": "Pablo Cauã da Silva Toledo",
+          "name_autocomplete": "Pablo Cauã da Silva Toledo",
+          "orcid": null,
+          "icon": "https://static.inaturalist.org/attachments/users/icons/4104894/thumb.jpeg?1711298334",
+          "observations_count": 3965,
+          "identifications_count": 1407,
+          "journal_posts_count": 0,
+          "activity_count": 5372,
+          "species_count": 1535,
+          "annotated_observations_count": 373,
+          "universal_search_rank": 3965,
+          "roles": [],
+          "icon_url": "https://static.inaturalist.org/attachments/users/icons/4104894/medium.jpeg?1711298334"
+        },
+        "mappable": true,
+        "identifications_some_agree": true,
+        "project_ids_without_curator_id": [],
+        "place_guess": "Morangaba, Campos dos Goytacazes - RJ, Brasil",
+        "identifications": [
+          {
+            "id": 754070830,
+            "uuid": "0b4d3579-cb33-4c57-9065-dfb4eb2c8e94",
+            "user": {
+              "id": 4104894,
+              "login": "pablocauapc",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2021-03-14T20:08:31+00:00",
+              "login_autocomplete": "pablocauapc",
+              "login_exact": "pablocauapc",
+              "name": "Pablo Cauã da Silva Toledo",
+              "name_autocomplete": "Pablo Cauã da Silva Toledo",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/4104894/thumb.jpeg?1711298334",
+              "observations_count": 3965,
+              "identifications_count": 1407,
+              "journal_posts_count": 0,
+              "activity_count": 5372,
+              "species_count": 1535,
+              "annotated_observations_count": 373,
+              "universal_search_rank": 3965,
+              "roles": [],
+              "site_id": null,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/4104894/medium.jpeg?1711298334"
+            },
+            "created_at": "2026-01-24T17:53:30-03:00",
+            "created_at_details": {
+              "date": "2026-01-24",
+              "day": 24,
+              "month": 1,
+              "year": 2026,
+              "hour": 17,
+              "week": 4
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": true,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 474338,
+            "spam": false,
+            "taxon_id": 1129359,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1129359,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                47162,
+                49570,
+                474338,
+                141291
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1129359,
+              "name": "Neoregelia pauciflora",
+              "parent_id": 141291,
+              "ancestry": "48460/47126/211194/47125/47163/47162/49570/474338/141291",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,47162,49570,474338,141291,1129359",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-09-16T01:23:31+00:00",
+              "default_photo": {
+                "id": 495418529,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Mariane Kaizer, some rights reserved (CC BY-NC), uploaded by Mariane Kaizer",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/square.jpeg",
+                "original_dimensions": {
+                  "height": 1367,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "Mariane Kaizer",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 38,
+              "photos_locked": false,
+              "universal_search_rank": 38,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Neoregelia_pauciflora",
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47163,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163
+                  ],
+                  "is_active": true,
+                  "name": "Liliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 274224,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) J. Maughn, some rights reserved (CC BY-NC), uploaded by J. Maughn",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "J. Maughn",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 23258004,
+                  "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Liliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "monocots"
+                },
+                {
+                  "id": 47162,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162
+                  ],
+                  "is_active": true,
+                  "name": "Poales",
+                  "parent_id": 47163,
+                  "ancestry": "48460/47126/211194/47125/47163",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 54589881,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Arthur Chapman, some rights reserved (CC BY-NC-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1365
+                    },
+                    "flags": [],
+                    "attribution_name": "Arthur Chapman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 8235801,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Poales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "grasses, sedges, cattails, and allies"
+                },
+                {
+                  "id": 49570,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162,
+                    49570
+                  ],
+                  "is_active": true,
+                  "name": "Bromeliaceae",
+                  "parent_id": 47162,
+                  "ancestry": "48460/47126/211194/47125/47163/47162",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 110723645,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) nicochimento, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/square.jpg",
+                    "original_dimensions": {
+                      "height": 1366,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "nicochimento",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 416781,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Bromeliaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Bromeliads"
+                },
+                {
+                  "id": 474338,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162,
+                    49570,
+                    474338
+                  ],
+                  "is_active": true,
+                  "name": "Bromelioideae",
+                  "parent_id": 49570,
+                  "ancestry": "48460/47126/211194/47125/47163/47162/49570",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 172652685,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) robertamaidana, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "robertamaidana",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 96236,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Bromelioideae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Bromelioids"
+                },
+                {
+                  "id": 141291,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162,
+                    49570,
+                    474338,
+                    141291
+                  ],
+                  "is_active": true,
+                  "name": "Neoregelia",
+                  "parent_id": 474338,
+                  "ancestry": "48460/47126/211194/47125/47163/47162/49570/474338",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 46386008,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Gabrielly Benaducci Tolentino, some rights reserved (CC BY-NC), uploaded by Gabrielly Benaducci Tolentino",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46386008/square.jpg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Gabrielly Benaducci Tolentino",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46386008/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46386008/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 8231,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Neoregelia",
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 474338,
+              "rank": "subfamily",
+              "rank_level": 27,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                47162,
+                49570,
+                474338
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 474338,
+              "name": "Bromelioideae",
+              "parent_id": 49570,
+              "ancestry": "48460/47126/211194/47125/47163/47162/49570",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,47162,49570,474338",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2015-09-24T04:23:46+00:00",
+              "default_photo": {
+                "id": 172652685,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) robertamaidana, some rights reserved (CC BY-NC)",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/square.jpg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "robertamaidana",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/square.jpg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/medium.jpg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 1,
+              "observations_count": 96236,
+              "photos_locked": false,
+              "universal_search_rank": 96236,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Bromelioideae",
+              "iconic_taxon_name": "Plantae",
+              "preferred_common_name": "Bromelioids"
+            }
+          },
+          {
+            "id": 754070348,
+            "uuid": "81615b36-894f-4193-874a-552fdc3102f6",
+            "user": {
+              "id": 4237532,
+              "login": "pantalaimon",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2021-04-17T15:49:29+00:00",
+              "login_autocomplete": "pantalaimon",
+              "login_exact": "pantalaimon",
+              "name": "Chris Kettinger",
+              "name_autocomplete": "Chris Kettinger",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/4237532/thumb.jpg?1667290551",
+              "observations_count": 5672,
+              "identifications_count": 116390,
+              "journal_posts_count": 0,
+              "activity_count": 122062,
+              "species_count": 1547,
+              "annotated_observations_count": 37907,
+              "universal_search_rank": 5672,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/4237532/medium.jpg?1667290551"
+            },
+            "created_at": "2026-01-24T17:51:58-03:00",
+            "created_at_details": {
+              "date": "2026-01-24",
+              "day": 24,
+              "month": 1,
+              "year": 2026,
+              "hour": 17,
+              "week": 4
+            },
+            "body": null,
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": true,
+            "previous_observation_taxon_id": 83927,
+            "spam": false,
+            "taxon_id": 1129359,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1129359,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                47162,
+                49570,
+                474338,
+                141291
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1129359,
+              "name": "Neoregelia pauciflora",
+              "parent_id": 141291,
+              "ancestry": "48460/47126/211194/47125/47163/47162/49570/474338/141291",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,47162,49570,474338,141291,1129359",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-09-16T01:23:31+00:00",
+              "default_photo": {
+                "id": 495418529,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Mariane Kaizer, some rights reserved (CC BY-NC), uploaded by Mariane Kaizer",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/square.jpeg",
+                "original_dimensions": {
+                  "height": 1367,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "Mariane Kaizer",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 38,
+              "photos_locked": false,
+              "universal_search_rank": 38,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Neoregelia_pauciflora",
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47163,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163
+                  ],
+                  "is_active": true,
+                  "name": "Liliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 274224,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) J. Maughn, some rights reserved (CC BY-NC), uploaded by J. Maughn",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "J. Maughn",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 23258004,
+                  "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Liliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "monocots"
+                },
+                {
+                  "id": 47162,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162
+                  ],
+                  "is_active": true,
+                  "name": "Poales",
+                  "parent_id": 47163,
+                  "ancestry": "48460/47126/211194/47125/47163",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 54589881,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Arthur Chapman, some rights reserved (CC BY-NC-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1365
+                    },
+                    "flags": [],
+                    "attribution_name": "Arthur Chapman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 8235801,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Poales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "grasses, sedges, cattails, and allies"
+                },
+                {
+                  "id": 49570,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162,
+                    49570
+                  ],
+                  "is_active": true,
+                  "name": "Bromeliaceae",
+                  "parent_id": 47162,
+                  "ancestry": "48460/47126/211194/47125/47163/47162",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 110723645,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) nicochimento, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/square.jpg",
+                    "original_dimensions": {
+                      "height": 1366,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "nicochimento",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 416781,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Bromeliaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Bromeliads"
+                },
+                {
+                  "id": 474338,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162,
+                    49570,
+                    474338
+                  ],
+                  "is_active": true,
+                  "name": "Bromelioideae",
+                  "parent_id": 49570,
+                  "ancestry": "48460/47126/211194/47125/47163/47162/49570",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 172652685,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) robertamaidana, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "robertamaidana",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 96236,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Bromelioideae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Bromelioids"
+                },
+                {
+                  "id": 141291,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162,
+                    49570,
+                    474338,
+                    141291
+                  ],
+                  "is_active": true,
+                  "name": "Neoregelia",
+                  "parent_id": 474338,
+                  "ancestry": "48460/47126/211194/47125/47163/47162/49570/474338",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 46386008,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Gabrielly Benaducci Tolentino, some rights reserved (CC BY-NC), uploaded by Gabrielly Benaducci Tolentino",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46386008/square.jpg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Gabrielly Benaducci Tolentino",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46386008/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46386008/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 8231,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Neoregelia",
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 83927,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                47162,
+                49570,
+                474338,
+                83927
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 83927,
+              "name": "Aechmea",
+              "parent_id": 474338,
+              "ancestry": "48460/47126/211194/47125/47163/47162/49570/474338",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,47162,49570,474338,83927",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2011-06-25T14:18:24+00:00",
+              "default_photo": {
+                "id": 28948124,
+                "license_code": null,
+                "attribution": "(c) Marcos Silveira, all rights reserved, uploaded by Marcos Silveira",
+                "url": "https://static.inaturalist.org/photos/28948124/square.jpeg",
+                "original_dimensions": {
+                  "height": 1024,
+                  "width": 768
+                },
+                "flags": [],
+                "attribution_name": "Marcos Silveira",
+                "square_url": "https://static.inaturalist.org/photos/28948124/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/28948124/medium.jpeg"
+              },
+              "taxon_changes_count": 3,
+              "taxon_schemes_count": 2,
+              "observations_count": 31273,
+              "photos_locked": false,
+              "universal_search_rank": 31273,
+              "flag_counts": {
+                "resolved": 6,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Aechmea",
+              "iconic_taxon_name": "Plantae"
+            }
+          },
+          {
+            "id": 753957410,
+            "uuid": "198443fd-96a9-43ee-ac8e-c4ee48a4bbe7",
+            "user": {
+              "id": 4104894,
+              "login": "pablocauapc",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2021-03-14T20:08:31+00:00",
+              "login_autocomplete": "pablocauapc",
+              "login_exact": "pablocauapc",
+              "name": "Pablo Cauã da Silva Toledo",
+              "name_autocomplete": "Pablo Cauã da Silva Toledo",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/4104894/thumb.jpeg?1711298334",
+              "observations_count": 3965,
+              "identifications_count": 1407,
+              "journal_posts_count": 0,
+              "activity_count": 5372,
+              "species_count": 1535,
+              "annotated_observations_count": 373,
+              "universal_search_rank": 3965,
+              "roles": [],
+              "site_id": null,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/4104894/medium.jpeg?1711298334"
+            },
+            "created_at": "2026-01-24T12:40:38-03:00",
+            "created_at_details": {
+              "date": "2026-01-24",
+              "day": 24,
+              "month": 1,
+              "year": 2026,
+              "hour": 12,
+              "week": 4
+            },
+            "body": null,
+            "category": "maverick",
+            "current": false,
+            "flags": [],
+            "own_observation": true,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": null,
+            "previous_observation_taxon_id": 83927,
+            "spam": false,
+            "taxon_id": 83927,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 83927,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                47162,
+                49570,
+                474338
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 83927,
+              "name": "Aechmea",
+              "parent_id": 474338,
+              "ancestry": "48460/47126/211194/47125/47163/47162/49570/474338",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,47162,49570,474338,83927",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2011-06-25T14:18:24+00:00",
+              "default_photo": {
+                "id": 28948124,
+                "license_code": null,
+                "attribution": "(c) Marcos Silveira, all rights reserved, uploaded by Marcos Silveira",
+                "url": "https://static.inaturalist.org/photos/28948124/square.jpeg",
+                "original_dimensions": {
+                  "height": 1024,
+                  "width": 768
+                },
+                "flags": [],
+                "attribution_name": "Marcos Silveira",
+                "square_url": "https://static.inaturalist.org/photos/28948124/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/28948124/medium.jpeg"
+              },
+              "taxon_changes_count": 3,
+              "taxon_schemes_count": 2,
+              "observations_count": 31273,
+              "photos_locked": false,
+              "universal_search_rank": 31273,
+              "flag_counts": {
+                "resolved": 6,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Aechmea",
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47163,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163
+                  ],
+                  "is_active": true,
+                  "name": "Liliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 274224,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) J. Maughn, some rights reserved (CC BY-NC), uploaded by J. Maughn",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "J. Maughn",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 23258004,
+                  "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Liliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "monocots"
+                },
+                {
+                  "id": 47162,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162
+                  ],
+                  "is_active": true,
+                  "name": "Poales",
+                  "parent_id": 47163,
+                  "ancestry": "48460/47126/211194/47125/47163",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 54589881,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Arthur Chapman, some rights reserved (CC BY-NC-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1365
+                    },
+                    "flags": [],
+                    "attribution_name": "Arthur Chapman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 8235801,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Poales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "grasses, sedges, cattails, and allies"
+                },
+                {
+                  "id": 49570,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162,
+                    49570
+                  ],
+                  "is_active": true,
+                  "name": "Bromeliaceae",
+                  "parent_id": 47162,
+                  "ancestry": "48460/47126/211194/47125/47163/47162",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 110723645,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) nicochimento, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/square.jpg",
+                    "original_dimensions": {
+                      "height": 1366,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "nicochimento",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 416781,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Bromeliaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Bromeliads"
+                },
+                {
+                  "id": 474338,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162,
+                    49570,
+                    474338
+                  ],
+                  "is_active": true,
+                  "name": "Bromelioideae",
+                  "parent_id": 49570,
+                  "ancestry": "48460/47126/211194/47125/47163/47162/49570",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 172652685,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) robertamaidana, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "robertamaidana",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 96236,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Bromelioideae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Bromelioids"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 83927,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                47162,
+                49570,
+                474338,
+                83927
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 83927,
+              "name": "Aechmea",
+              "parent_id": 474338,
+              "ancestry": "48460/47126/211194/47125/47163/47162/49570/474338",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,47162,49570,474338,83927",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2011-06-25T14:18:24+00:00",
+              "default_photo": {
+                "id": 28948124,
+                "license_code": null,
+                "attribution": "(c) Marcos Silveira, all rights reserved, uploaded by Marcos Silveira",
+                "url": "https://static.inaturalist.org/photos/28948124/square.jpeg",
+                "original_dimensions": {
+                  "height": 1024,
+                  "width": 768
+                },
+                "flags": [],
+                "attribution_name": "Marcos Silveira",
+                "square_url": "https://static.inaturalist.org/photos/28948124/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/28948124/medium.jpeg"
+              },
+              "taxon_changes_count": 3,
+              "taxon_schemes_count": 2,
+              "observations_count": 31273,
+              "photos_locked": false,
+              "universal_search_rank": 31273,
+              "flag_counts": {
+                "resolved": 6,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Aechmea",
+              "iconic_taxon_name": "Plantae"
+            }
+          }
+        ],
+        "project_observations": [],
+        "observation_photos": [
+          {
+            "id": 566180876,
+            "position": 0,
+            "uuid": "91b51dba-ad1a-4e50-b934-59aa4a551088",
+            "photo_id": 610416708,
+            "photo": {
+              "id": 610416708,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1536
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610416708/square.jpg",
+              "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          },
+          {
+            "id": 566180911,
+            "position": 1,
+            "uuid": "a8744af9-61e5-4093-9b10-b8b201fb9d13",
+            "photo_id": 610416733,
+            "photo": {
+              "id": 610416733,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1536
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610416733/square.jpg",
+              "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          },
+          {
+            "id": 566180920,
+            "position": 2,
+            "uuid": "723d63f0-4d26-475e-b963-54580b49dec0",
+            "photo_id": 610416751,
+            "photo": {
+              "id": 610416751,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 1536,
+                "height": 2048
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610416751/square.jpg",
+              "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          }
+        ],
+        "photos": [
+          {
+            "id": 610416708,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610416708/square.jpg",
+            "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          },
+          {
+            "id": 610416733,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610416733/square.jpg",
+            "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          },
+          {
+            "id": 610416751,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610416751/square.jpg",
+            "attribution": "(c) Pablo Cauã da Silva Toledo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        ],
+        "faves": [],
+        "non_owner_ids": [
+          {
+            "id": 754070348,
+            "uuid": "81615b36-894f-4193-874a-552fdc3102f6",
+            "user": {
+              "id": 4237532,
+              "login": "pantalaimon",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2021-04-17T15:49:29+00:00",
+              "login_autocomplete": "pantalaimon",
+              "login_exact": "pantalaimon",
+              "name": "Chris Kettinger",
+              "name_autocomplete": "Chris Kettinger",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/4237532/thumb.jpg?1667290551",
+              "observations_count": 5672,
+              "identifications_count": 116390,
+              "journal_posts_count": 0,
+              "activity_count": 122062,
+              "species_count": 1547,
+              "annotated_observations_count": 37907,
+              "universal_search_rank": 5672,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/4237532/medium.jpg?1667290551"
+            },
+            "created_at": "2026-01-24T17:51:58-03:00",
+            "created_at_details": {
+              "date": "2026-01-24",
+              "day": 24,
+              "month": 1,
+              "year": 2026,
+              "hour": 17,
+              "week": 4
+            },
+            "body": null,
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": true,
+            "previous_observation_taxon_id": 83927,
+            "spam": false,
+            "taxon_id": 1129359,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 1129359,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                47162,
+                49570,
+                474338,
+                141291
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 1129359,
+              "name": "Neoregelia pauciflora",
+              "parent_id": 141291,
+              "ancestry": "48460/47126/211194/47125/47163/47162/49570/474338/141291",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,47162,49570,474338,141291,1129359",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2020-09-16T01:23:31+00:00",
+              "default_photo": {
+                "id": 495418529,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) Mariane Kaizer, some rights reserved (CC BY-NC), uploaded by Mariane Kaizer",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/square.jpeg",
+                "original_dimensions": {
+                  "height": 1367,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "Mariane Kaizer",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495418529/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 0,
+              "observations_count": 38,
+              "photos_locked": false,
+              "universal_search_rank": 38,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Neoregelia_pauciflora",
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47163,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163
+                  ],
+                  "is_active": true,
+                  "name": "Liliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 274224,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) J. Maughn, some rights reserved (CC BY-NC), uploaded by J. Maughn",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "J. Maughn",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 23258004,
+                  "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Liliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "monocots"
+                },
+                {
+                  "id": 47162,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162
+                  ],
+                  "is_active": true,
+                  "name": "Poales",
+                  "parent_id": 47163,
+                  "ancestry": "48460/47126/211194/47125/47163",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 54589881,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Arthur Chapman, some rights reserved (CC BY-NC-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1365
+                    },
+                    "flags": [],
+                    "attribution_name": "Arthur Chapman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54589881/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 8235801,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Poales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "grasses, sedges, cattails, and allies"
+                },
+                {
+                  "id": 49570,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162,
+                    49570
+                  ],
+                  "is_active": true,
+                  "name": "Bromeliaceae",
+                  "parent_id": 47162,
+                  "ancestry": "48460/47126/211194/47125/47163/47162",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 110723645,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) nicochimento, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/square.jpg",
+                    "original_dimensions": {
+                      "height": 1366,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "nicochimento",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110723645/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 416781,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Bromeliaceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Bromeliads"
+                },
+                {
+                  "id": 474338,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162,
+                    49570,
+                    474338
+                  ],
+                  "is_active": true,
+                  "name": "Bromelioideae",
+                  "parent_id": 49570,
+                  "ancestry": "48460/47126/211194/47125/47163/47162/49570",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 172652685,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) robertamaidana, some rights reserved (CC BY-NC)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "robertamaidana",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172652685/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 96236,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Bromelioideae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Bromelioids"
+                },
+                {
+                  "id": 141291,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    47162,
+                    49570,
+                    474338,
+                    141291
+                  ],
+                  "is_active": true,
+                  "name": "Neoregelia",
+                  "parent_id": 474338,
+                  "ancestry": "48460/47126/211194/47125/47163/47162/49570/474338",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 46386008,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Gabrielly Benaducci Tolentino, some rights reserved (CC BY-NC), uploaded by Gabrielly Benaducci Tolentino",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46386008/square.jpg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Gabrielly Benaducci Tolentino",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46386008/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46386008/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 8231,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Neoregelia",
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 83927,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                47162,
+                49570,
+                474338,
+                83927
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 83927,
+              "name": "Aechmea",
+              "parent_id": 474338,
+              "ancestry": "48460/47126/211194/47125/47163/47162/49570/474338",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,47162,49570,474338,83927",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2011-06-25T14:18:24+00:00",
+              "default_photo": {
+                "id": 28948124,
+                "license_code": null,
+                "attribution": "(c) Marcos Silveira, all rights reserved, uploaded by Marcos Silveira",
+                "url": "https://static.inaturalist.org/photos/28948124/square.jpeg",
+                "original_dimensions": {
+                  "height": 1024,
+                  "width": 768
+                },
+                "flags": [],
+                "attribution_name": "Marcos Silveira",
+                "square_url": "https://static.inaturalist.org/photos/28948124/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/28948124/medium.jpeg"
+              },
+              "taxon_changes_count": 3,
+              "taxon_schemes_count": 2,
+              "observations_count": 31273,
+              "photos_locked": false,
+              "universal_search_rank": 31273,
+              "flag_counts": {
+                "resolved": 6,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Aechmea",
+              "iconic_taxon_name": "Plantae"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

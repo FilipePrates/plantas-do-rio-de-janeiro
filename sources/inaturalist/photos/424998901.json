@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/238704184",
+  "photo": {
+    "id": 424998901,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424998901/square.jpeg",
+    "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Victor Farjalla Pontes",
+  "observation": {
+    "id": 238704184,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1096791,
+      "name": "Aechmea ramosa"
+    },
+    "observerLogin": "vfarjalla"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424998901/large.jpeg",
+    "sha256": "97218cd6f844b9a43ff85543546bf1f494be05b6b4a3d1e4d593f8258a6f5b25",
+    "retrievedAt": "2026-11-11T08:12:44Z"
+  }
+}

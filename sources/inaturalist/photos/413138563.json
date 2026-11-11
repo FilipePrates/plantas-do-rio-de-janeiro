@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/232543995",
+  "photo": {
+    "id": 413138563,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 766,
+      "height": 1024
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413138563/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "NINA WENÓLI",
+  "observation": {
+    "id": 232543995,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 190552,
+      "name": "Chrysophyllum imperiale"
+    },
+    "observerLogin": "ninawenoli"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413138563/large.jpg",
+    "sha256": "b6671aebbb5d14219a284ecd9f536d67dff864db999f8bcaac7cf6098d21946f",
+    "retrievedAt": "2026-11-11T10:59:32Z"
+  }
+}

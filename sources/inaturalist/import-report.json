@@ -2,7 +2,8 @@
   {
     "id": "anthurium-spp",
     "photos": 2,
-    "cc0ObservationCount": 11
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 4
   },
   {
     "id": "schinus-terebinthifolia",
@@ -26,7 +27,9 @@
   },
   {
     "id": "philodendron-spp",
-    "photos": 2
+    "photos": 2,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 10
   },
   {
     "id": "acrocomia-aculeata",
@@ -142,7 +145,9 @@
   },
   {
     "id": "alcantarea-regina",
-    "photos": 0
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 3
   },
   {
     "id": "billbergia-amoena",
@@ -166,7 +171,9 @@
   },
   {
     "id": "neoregelia-spectabilis",
-    "photos": 0
+    "photos": 2,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 0
   },
   {
     "id": "nidularium-fulgens",
@@ -302,7 +309,9 @@
   },
   {
     "id": "inga-vera",
-    "photos": 2
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 20
   },
   {
     "id": "leucaena-leucocephala",
@@ -466,7 +475,9 @@
   },
   {
     "id": "eugenia-astringens",
-    "photos": 1
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 5
   },
   {
     "id": "eugenia-brasiliensis",
@@ -486,7 +497,9 @@
   },
   {
     "id": "eugenia-punicifolia",
-    "photos": 2
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 2
   },
   {
     "id": "eugenia-selloi",
@@ -611,5 +624,287 @@
   {
     "id": "urera-baccifera",
     "photos": 2
+  },
+  {
+    "id": "plinia-rivularis",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 1
+  },
+  {
+    "id": "aechmea-gracilis",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 5
+  },
+  {
+    "id": "aechmea-pectinata",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 8
+  },
+  {
+    "id": "aechmea-ramosa",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 11
+  },
+  {
+    "id": "aechmea-ornata",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 3
+  },
+  {
+    "id": "aechmea-weilbachii",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 5
+  },
+  {
+    "id": "neoregelia-johannis",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 3
+  },
+  {
+    "id": "neoregelia-concentrica",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 8
+  },
+  {
+    "id": "nidularium-procerum",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 4
+  },
+  {
+    "id": "vriesea-neoglutinosa",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 3
+  },
+  {
+    "id": "vriesea-ensiformis",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 3
+  },
+  {
+    "id": "vriesea-inflata",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 4
+  },
+  {
+    "id": "vriesea-longicaulis",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 6
+  },
+  {
+    "id": "vriesea-scalaris",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 12
+  },
+  {
+    "id": "tillandsia-geminiflora",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 85
+  },
+  {
+    "id": "tillandsia-recurvata",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 584
+  },
+  {
+    "id": "tillandsia-tricholepis",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 39
+  },
+  {
+    "id": "quesnelia-liboniana",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 9
+  },
+  {
+    "id": "quesnelia-lateralis",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 4
+  },
+  {
+    "id": "quesnelia-marmorata",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 11
+  },
+  {
+    "id": "billbergia-zebrina",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 5
+  },
+  {
+    "id": "wittrockia-superba",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 28
+  },
+  {
+    "id": "anthurium-harrisii",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 2
+  },
+  {
+    "id": "anthurium-intermedium",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 3
+  },
+  {
+    "id": "anthurium-solitarium",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 5
+  },
+  {
+    "id": "anthurium-comtum",
+    "photos": 1,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 1
+  },
+  {
+    "id": "anthurium-longifolium",
+    "photos": 1,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 3
+  },
+  {
+    "id": "anthurium-parasiticum",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 4
+  },
+  {
+    "id": "anthurium-microphyllum",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 2
+  },
+  {
+    "id": "philodendron-appendiculatum",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 2
+  },
+  {
+    "id": "philodendron-bipennifolium",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 2
+  },
+  {
+    "id": "philodendron-cordatum",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 11
+  },
+  {
+    "id": "philodendron-crassinervium",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 5
+  },
+  {
+    "id": "philodendron-martianum",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 11
+  },
+  {
+    "id": "philodendron-pedatum",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 6
+  },
+  {
+    "id": "philodendron-hastatum",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 3
+  },
+  {
+    "id": "philodendron-ornatum",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 7
+  },
+  {
+    "id": "philodendron-propinquum",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 15
+  },
+  {
+    "id": "eugenia-candolleana",
+    "photos": 2,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 1
+  },
+  {
+    "id": "garcinia-brasiliensis",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 4
+  },
+  {
+    "id": "garcinia-gardneriana",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 8
+  },
+  {
+    "id": "annona-sylvatica",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 4
+  },
+  {
+    "id": "annona-cacans",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 7
+  },
+  {
+    "id": "annona-dolabripetala",
+    "photos": 1,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 1
+  },
+  {
+    "id": "annona-mucosa",
+    "photos": 3,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 4
+  },
+  {
+    "id": "inga-sessilis",
+    "photos": 3,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 6
+  },
+  {
+    "id": "eugenia-spp",
+    "photos": 2,
+    "photoLicense": "cc-by",
+    "matchingObservationCount": 2
   }
 ]

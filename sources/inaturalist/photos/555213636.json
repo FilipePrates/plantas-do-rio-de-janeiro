@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/307789931",
+  "photo": {
+    "id": 555213636,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555213636/square.jpg",
+    "attribution": "(c) Celso Henrique Varela Rios, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Celso Henrique Varela Rios",
+  "observation": {
+    "id": 307789931,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 881515,
+      "name": "Philodendron propinquum"
+    },
+    "observerLogin": "celsobio"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555213636/large.jpg",
+    "sha256": "7dd5ad2f1c6ef4254e318dcde0eaf20c3d175fb02bd16ab6b03a7b06a481897b",
+    "retrievedAt": "2026-11-11T08:13:47Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/171125275",
+  "photo": {
+    "id": 296909537,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1024,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/296909537/square.jpeg",
+    "attribution": "(c) Reinaldo de Oliveira Elias, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Reinaldo de Oliveira Elias",
+  "observation": {
+    "id": 171125275,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 638437,
+      "name": "Quesnelia lateralis"
+    },
+    "observerLogin": "roe_brasil"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/296909537/large.jpeg",
+    "sha256": "e248848800080ec17c1253dd15d5a345c3130673f824fafbda4b25a416c0c509",
+    "retrievedAt": "2026-11-11T08:13:09Z"
+  }
+}

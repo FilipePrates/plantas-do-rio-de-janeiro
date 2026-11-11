@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/347288959",
+  "photo": {
+    "id": 633193648,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 945,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633193648/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "filipeprates",
+  "observation": {
+    "id": 347288959,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 843036,
+      "name": "Neoregelia concentrica"
+    },
+    "observerLogin": "filipeprates"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633193648/large.jpg",
+    "sha256": "4483246dc80ce3862554b9cafa984d331648f7393ebf4a0a46cd9bf073423b1a",
+    "retrievedAt": "2026-11-11T08:09:59Z"
+  }
+}

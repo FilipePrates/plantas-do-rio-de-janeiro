@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import { execFileSync } from "node:child_process";
 import { readFileSync } from "node:fs";
 import test from "node:test";
+import { fileURLToPath } from "node:url";
 import { conservationCodesForSpecies, parseCatalog } from "../src/catalog.mjs";
 
 const seed = JSON.parse(readFileSync(new URL("../src/data/plants.json", import.meta.url), "utf8"));
@@ -64,5 +65,5 @@ test("imported categories and UC vouchers agree with archived source rows", () =
 });
 
 test("PDF importer respects taxonomic ranks, chapter boundaries, and existing edits", () => {
-  execFileSync("python3", [new URL("./rio_uc_import_test.py", import.meta.url).pathname], { stdio: "pipe" });
+  execFileSync("python3", [fileURLToPath(new URL("./rio_uc_import_test.py", import.meta.url))], { stdio: "pipe" });
 });

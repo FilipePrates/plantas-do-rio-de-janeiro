@@ -1,0 +1,363 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Pilosocereus_brasiliensis",
+  "retrievedAt": "2026-11-11T17:03:53Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 1649,
+        "scientificname": "Pilosocereus brasiliensis (Britton & Rose) Backeb.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Pilosocereus",
+        "specificepithet": "brasiliensis",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(Britton & Rose) Backeb.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Pilosocereus Byles & G.D.Rowley;Pilosocereus brasiliensis (Britton & Rose) Backeb.",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1649>http://floradobrasil2015.jbrj.gov.br/FB1649</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1649\">https://floradobrasil2020.jbrj.gov.br/FB1649</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Zappi, D. 1994. Pilosocereus (Cactaceae). The genus in Brazil. In D. Hunt &amp;amp; N.P. Taylor (eds.) Succulent Plant Research. Milborne Port, D. Hunt, vol. 3, p. 1&amp;acirc;&amp;euro;&amp;ldquo;160.",
+        "parentnameusage": "Pilosocereus Byles & G.D.Rowley",
+        "parentnameusageid": 1642,
+        "originalnameusageid": "617992",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1649",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB1649>. Acesso em: 11 nov. 2026.",
+        "modified": "2025-01-14 16:30:22.534"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto",
+          "Liana/volúvel/trepadeira"
+        ],
+        "habitat": [
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Perenifólia",
+          "Restinga",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Cactaceae (Backeberg),4: 2423.,1960"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 617993,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Pilocereus brasiliensis (Britton & Rose) Werderm."
+        },
+        {
+          "relatedresourceid": 617992,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Cephalocereus brasiliensis Britton & Rose"
+        },
+        {
+          "relatedresourceid": 633605,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Cereus brasiliensis (Britton & Rose) Luetzelb."
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "D.C. Zappi 473",
+          "collectioncode": "UEC",
+          "catalognumber": "UEC041080",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/UEC041080",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 5119",
+          "collectioncode": "RB",
+          "catalognumber": "RB00540448",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00540448",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Marquete et al 556",
+          "collectioncode": "RB",
+          "catalognumber": "RB00064903",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00064903",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Marquete et al 556",
+          "collectioncode": "K",
+          "catalognumber": "K000100123",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000100123",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "R.C. Forzza 5119",
+          "collectioncode": "RB",
+          "catalognumber": "RB00540448",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284407576",
+          "locality": "RJ",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Marquete et al 556",
+          "collectioncode": "K",
+          "catalognumber": "K000100123",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227123336",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Marquete et al 556",
+          "collectioncode": "RB",
+          "catalognumber": "RB00064903",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=284615844",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 1650,
+        "scientificname": "Pilosocereus brasiliensis (Britton & Rose) Backeb. subsp. brasiliensis",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Pilosocereus",
+        "specificepithet": "brasiliensis",
+        "infraspecificepithet": "brasiliensis",
+        "scientificnameauthorship": "(Britton & Rose) Backeb.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Pilosocereus Byles & G.D.Rowley;Pilosocereus brasiliensis (Britton & Rose) Backeb.;Pilosocereus brasiliensis (Britton & Rose) Backeb. subsp. brasiliensis",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1650>http://floradobrasil2015.jbrj.gov.br/FB1650</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1650\">https://floradobrasil2020.jbrj.gov.br/FB1650</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Zappi, D. 1994. Pilosocereus (Cactaceae). The genus in Brazil. In D. Hunt &amp;amp; N.P. Taylor (eds.) Succulent Plant Research. Milborne Port, D. Hunt, vol. 3, p. 1&amp;acirc;&amp;euro;&amp;ldquo;160.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\nTaylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\nHunt, D., Taylor, N. &amp;amp; Graham, C. 2006. The New Cactus Lexicon, Text. dh books, Milborne Port.",
+        "parentnameusage": "Pilosocereus brasiliensis (Britton & Rose) Backeb.",
+        "parentnameusageid": 1649,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1650",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB1650>. Acesso em: 11 nov. 2026.",
+        "modified": "2024-10-16 18:50:17.749"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto",
+          "Liana/volúvel/trepadeira",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Restinga",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Cactaceae (Backeberg),4: 2423.,1960"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 1651,
+        "scientificname": "Pilosocereus brasiliensis subsp. ruschianus (Buining & Brederoo) Zappi",
+        "taxonrank": "SUB_ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Pilosocereus",
+        "specificepithet": "brasiliensis",
+        "infraspecificepithet": "ruschianus",
+        "scientificnameauthorship": "(Buining & Brederoo) Zappi",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Pilosocereus Byles & G.D.Rowley;Pilosocereus brasiliensis (Britton & Rose) Backeb.;Pilosocereus brasiliensis subsp. ruschianus (Buining & Brederoo) Zappi",
+        "source": "Zappi, D.,Taylor, N.,Santos, M.R.,Larocca, J. 2015. Cactaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB1651>http://floradobrasil2015.jbrj.gov.br/FB1651</a>)<br><br>Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB1651\">https://floradobrasil2020.jbrj.gov.br/FB1651</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).Zappi, D. 1994. Pilosocereus (Cactaceae). The genus in Brazil. In D. Hunt &amp;amp; N.P. Taylor (eds.) Succulent Plant Research. Milborne Port, D. Hunt, vol. 3, p. 1&amp;acirc;&amp;euro;&amp;ldquo;160.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\nTaylor, N. &amp;amp; Zappi, D. 2004. Cacti of Eastern Brazil. Royal Botanic Gardens, Kew.\r\n&amp;nbsp;\r\n&amp;nbsp;\r\nHunt, D., Taylor, N. &amp;amp; Graham, C. 2006. The New Cactus Lexicon, Text. dh books, Milborne Port.",
+        "parentnameusage": "Pilosocereus brasiliensis (Britton & Rose) Backeb.",
+        "parentnameusageid": 1649,
+        "originalnameusageid": "617987",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB1651",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB1651>. Acesso em: 11 nov. 2026.",
+        "modified": "2025-01-14 16:32:12.422"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto",
+          "Liana/volúvel/trepadeira",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)",
+          "Floresta Ombrófila Mista",
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Succ. Pl. Res.,3: 64.,1994"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 617994,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Pilosocereus ruschianus (Buining & Brederoo) P.J.Braun"
+        },
+        {
+          "relatedresourceid": 617987,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Pseudopilocereus ruschianus Buining & Brederoo"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "D.C. Zappi 417",
+          "collectioncode": "UEC",
+          "catalognumber": "UEC041077",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/UEC041077",
+          "locality": "ES",
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

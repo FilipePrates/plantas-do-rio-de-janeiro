@@ -1,0 +1,102 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cereus_sericifer",
+  "retrievedAt": "2026-11-11T17:03:10Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 633228,
+        "scientificname": "Cereus sericifer (F.Ritter) P.J.Braun",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Cereus",
+        "specificepithet": "sericifer",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "(F.Ritter) P.J.Braun",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Cactaceae Juss.;Cereus Mill.;Cereus sericifer (F.Ritter) P.J.Braun",
+        "source": "",
+        "parentnameusage": "Cereus Mill.",
+        "parentnameusageid": 1434,
+        "originalnameusageid": "633867",
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB633228",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Zappi, D., Taylor, N.P. Cactaceae in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB633228>. Acesso em: 11 nov. 2026.",
+        "modified": "2025-03-15 13:56:52.481"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Arbusto",
+          "Suculenta"
+        ],
+        "habitat": [
+          "Rupícola"
+        ],
+        "vegetationType": [
+          "Vegetação Sobre Afloramentos Rochosos"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Taylor, N.P. et al.,Bradleya,42: 93,2024"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 633867,
+          "relationshipofresource": "Tem como sinônimo BASIONIMO",
+          "scientificname": "Piptanthocereus sericifer F.Ritter"
+        },
+        {
+          "relatedresourceid": 114526,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Cereus fernambucensis subsp. sericifer (F.Ritter) N.P.Taylor & Zappi"
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

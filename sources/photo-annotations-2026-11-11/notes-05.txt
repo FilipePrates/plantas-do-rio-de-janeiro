@@ -1,0 +1,60 @@
+241|wholePlant|Pequena planta de folhas finas aderida à casca rugosa do tronco.
+242|-|Longos festões de folhas e caules finos pendendo dos ramos da árvore-suporte.
+243|-|Pequena flor esverdeada, fotografada ao lado dos dedos para comparação de escala.
+244|wholePlant|Roseta de folhas longas e escuras apoiada no tronco, vista no interior da mata.
+245|-|Grandes rosetas sobre o galho, com folhas verdes abertas e folhas secas pendentes na base.
+246|-|Inflorescências de brácteas vermelhas e amarelas acima de pequenas rosetas.
+247|-|Roseta aderida ao tronco, com inflorescências bicolores erguidas acima das folhas.
+248|flower|Inflorescência alongada de brácteas vermelhas, com flores amarelas saindo nas extremidades.
+249|wholePlant,flower|Roseta no tronco, com inflorescência vermelha destacada entre os ramos.
+250|flower|Inflorescência pendente de brácteas vermelhas, projetada para o lado do tronco.
+251|-|Roseta grande apoiada na forquilha, com folhas largas e arqueadas.
+252|-|Roseta presa ao tronco, com folhas verdes eretas e folhas secas pendentes na base.
+253|wholePlant,flower|Bromélias sobre o tronco, com inflorescências alaranjadas acima das rosetas.
+254|flower|Inflorescência achatada e pendente, com brácteas alaranjadas sobrepostas.
+255|wholePlant,flower|Roseta no tronco, com inflorescência alaranjada arqueada para fora.
+256|flower|Inflorescência pendente, com grandes brácteas amarelo-alaranjadas sobrepostas.
+257|unknown|Brácteas escurecidas envolvendo pequenas estruturas verdes, com a mão como referência de escala; a fase reprodutiva exige revisão.
+258|unknown|Espiga com brácteas castanhas persistentes, fotografada no ambiente da mata; não há flores abertas nítidas.
+259|wholePlant|Rosetas de folhas largas com hastes avermelhadas e ramificadas acima da folhagem.
+260|wholePlant|Conjunto de rosetas de folhas eretas no afloramento rochoso.
+261|wholePlant|Rosetas com hastes reprodutivas altas e ramificadas, vistas contra o céu.
+262|unknown|Eixo reprodutivo fino e avermelhado, com brácteas alaranjadas; as flores não estão nítidas.
+263|wholePlant|Roseta aderida ao estipe de uma palmeira, com folhas amareladas na luz.
+264|wholePlant|Roseta presa ao tronco, com haste reprodutiva pendente e folhas largas.
+265|leaf,wholePlant|Detalhe das pontas vermelhas e vista da roseta de folhas espinhosas.
+266|wholePlant|Centro da roseta com estrutura reprodutiva compacta e brácteas vermelhas.
+267|flower|Flores claras reunidas em cabeça compacta, cercadas por brácteas avermelhadas.
+268|-|Conjunto de caules suculentos e costelados se espalhando sobre a areia.
+269|-|Caules verdes e costelados, com espinhos distribuídos ao longo das arestas.
+270|-|-
+271|-|-
+272|-|Planta epífita sobre o galho, com ramos compridos de coloração avermelhada.
+273|fruit|Fruto rosado pendente na margem de um segmento achatado do caule.
+274|-|Muitos ramos verdes finos e cilíndricos formando um conjunto pendente.
+275|-|Ramos cilíndricos pendentes junto à casca do tronco.
+276|fruit|Frutos alaranjados pendendo entre as folhas compostas da copa.
+277|leaf|Folha composta com folíolos estreitos partindo de um mesmo ponto.
+278|fruit,leaf|Frutos rosados agrupados no ramo, entre folhas arredondadas.
+279|fruit,leaf|Ramos com folhas arredondadas e frutos de diferentes colorações.
+280|leaf|Ramos com folhas espessas e arredondadas, dispostas em pares.
+281|leaf|Folhagem de ramos lenhosos, com folhas espessas dispostas em pares.
+282|-|-
+283|flower|Flor de pétalas claras e bases avermelhadas, vista de frente.
+284|fruit,seed|Fruto aberto em várias partes, expondo sementes recobertas por arilos vermelhos.
+285|flower|Flor clara de pétalas espessas, acompanhada por botões arredondados.
+286|-|Fruto vermelho ainda fechado, com estigmas persistentes na extremidade.
+287|flower,leaf|Ramos floridos com folhas em pares e botões de tons claros e avermelhados.
+288|fruit|Frutos amarelo-alaranjados pendendo do ramo, com a água ao fundo.
+289|fruit|Numerosos frutos alaranjados ainda presos aos ramos da copa.
+290|leaf|Folhas inteiras e alongadas, com nervura central clara, sustentadas para observação.
+291|fruit|Frutos amarelos e verdes presos aos ramos, entre folhas brilhantes.
+292|leaf|Ramo com folhas alongadas, algumas ainda claras e pendentes na brotação.
+293|leaf|Brotação com folhas acobreadas ao lado de folhas verdes já expandidas.
+294|-|-
+295|-|-
+296|-|-
+297|-|-
+298|-|-
+299|-|-
+300|leaf|-

@@ -1,0 +1,60 @@
+421|-|Planta de folhas largas, com faixas claras irradiando da nervura central.
+422|-|Detalhe das folhas com desenho de faixas verdes claras e escuras.
+423|-|Pequena flor clara na extremidade de uma haste fina, com botão ao lado.
+424|flower|Flor branca de pétalas largas, com estames amarelados no centro.
+425|flower,leaf|Flor clara junto às folhas de nervuras curvas bem marcadas.
+426|flower,leaf|Ramo florido com folhas largas, visto no sub-bosque.
+427|-|Arbusto com folhas claras e numerosos conjuntos reprodutivos nas pontas dos ramos.
+428|fruit|Frutos ainda pequenos, com cálice persistente de borda rosada, sobre os eixos claros.
+429|-|Folhas opostas com várias nervuras curvas partindo perto da base.
+430|leaf|Folhas de superfície muito marcada pelas nervuras, vistas de perto na mata.
+431|fruit|Frutos escuros e arredondados entre folhas alongadas, sobre eixos avermelhados.
+432|bark|Casca espessa do tronco, marcada por sulcos longitudinais profundos.
+433|leaf|Detalhe das folhas, com nervuras longitudinais claras e margem inteira.
+434|flower,leaf|Ramos com folhas grandes e inflorescências claras acima da folhagem.
+435|leaf|Folha e ramos reprodutivos sobre jornal, durante a preparação de uma amostra botânica.
+436|-|Flores roxas reunidas nas pontas dos ramos, entre folhas de nervuras curvas.
+437|-|Flores roxas vistas de perto, com estames curvos projetados no centro.
+438|-|-
+439|flower,leaf|Flores roxas acima de folhas opostas, largas e pilosas.
+440|flower|Pequenas flores roxas com centro claro a avermelhado, vistas de perto.
+441|-|Flores brancas abertas, com estames curvos bem visíveis.
+442|-|Flores brancas e rosadas no mesmo ramo, em diferentes estágios.
+443|flower,leaf|Flor roxa aberta ao lado de folhas com nervuras claras.
+444|leaf|Folhas pequenas e opostas, com nervuras claras e marcas sinuosas na lâmina.
+445|wholePlant,flower|Arbusto baixo em floração, com numerosos grupos de flores roxas.
+446|leaf|Folha composta longa, com muitos folíolos distribuídos ao longo do eixo.
+447|fruit|Cápsula seca aberta em cinco partes, sustentada à mão.
+448|fruit|Cápsulas lenhosas fechadas, de formato alongado e superfície marcada por pontos claros.
+449|-|Fruto lenhoso ainda fechado sobre os dedos, com pequenas marcas claras na superfície.
+450|-|Árvore de grande porte vista de baixo, com tronco alto e ramificação ampla.
+451|bark,root|Base do tronco com raízes grossas e salientes junto ao solo.
+452|flower,leaf|Ramo com folhas opostas e pequenos grupos de flores amareladas.
+453|wholePlant|Aspecto do indivíduo no sub-bosque, com folhas largas em diferentes alturas.
+454|-|Grandes frutos compostos caídos no chão da mata, com superfície áspera e saliente.
+455|-|Folhagem de folhas simples, inteiras e brilhantes, vista de perto.
+456|root|Numerosas raízes aéreas descendo ao redor do tronco e da rocha.
+457|root|Detalhe das raízes aéreas pendentes, com espessuras e colorações diferentes.
+458|-|Figos verdes agrupados junto aos pecíolos, com o pequeno orifício apical visível.
+459|-|Figo aberto ao meio, com o interior carnoso e granulado exposto sobre a mão.
+460|-|Frutos escuros distribuídos em cachos de eixo avermelhado, entre as folhas.
+461|-|Folhas alongadas de margem serrilhada e nervura central clara.
+462|fruit,seed|Fruto em abertura e semente separada, recoberta por arilo vermelho.
+463|leaf|Ramo com folhas alongadas distribuídas em dois lados, mostrando nervuras laterais numerosas.
+464|bark|Casca do tronco com fissuras e placas irregulares, ao lado de uma superfície rochosa.
+465|-|Pequenas flores brancas de numerosos estames entre folhas estreitas.
+466|-|Ramos com folhas estreitas em pares, de superfície brilhante.
+467|leaf|Ramo com folhas opostas, fotografado pela face superior das lâminas.
+468|leaf|Face inferior das folhas opostas, mostrando a nervura central e as nervuras laterais.
+469|fruit|Fruto amarelo-alaranjado preso ao ramo, com restos do cálice na extremidade.
+470|fruit,leaf|Ramos com folhas de nervuras bem marcadas e pequenos frutos verdes agrupados.
+471|fruit|Fruto verde sobre a mão, com o cálice persistente formando uma abertura na ponta.
+472|wholePlant|Vista de baixo dos ramos grossos e da copa.
+473|-|Frutos verdes de contorno achatado, pendendo de pedicelos finos.
+474|fruit|Fruto verde de contorno achatado e borda saliente, com cálice persistente na extremidade.
+475|-|Frutos verdes arredondados com o cálice persistente na extremidade, entre as folhas.
+476|-|Árvore na mata, com tronco delgado e copa elevada.
+477|-|Árvore de copa densa e baixa, fotografada sobre solo arenoso.
+478|bark|Base com vários caules e brotações de folhas novas junto ao solo.
+479|flower,leaf|Flores brancas com muitos estames, distribuídas junto às folhas.
+480|-|Fruto escuro e arredondado, com sépalas persistentes junto ao pedicelo, entre folhas brilhantes.

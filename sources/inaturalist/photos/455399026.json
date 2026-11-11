@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/254265619",
+  "photo": {
+    "id": 455399026,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455399026/square.jpeg",
+    "attribution": "(c) JG, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "JG",
+  "observation": {
+    "id": 254265619,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1080463,
+      "name": "Garcinia gardneriana"
+    },
+    "observerLogin": "jotagengibre"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455399026/large.jpeg",
+    "sha256": "1ff2275782a5c86e7a4bcab9048db8eeeb4411131cfbaf0ba2c1c3c020acb27b",
+    "retrievedAt": "2026-11-11T08:13:56Z"
+  }
+}

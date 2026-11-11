@@ -1,0 +1,252 @@
+{
+  "Avicennia germinans": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 79917,
+    "family": "Acanthaceae",
+    "nativeRio": true,
+    "cc0": 162,
+    "cc-by": 740
+  },
+  "Andira legalis": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 29444,
+    "family": "Fabaceae",
+    "nativeRio": true,
+    "cc0": 1,
+    "cc-by": 0
+  },
+  "Cordia superba": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 16530,
+    "family": "Cordiaceae",
+    "nativeRio": true,
+    "cc0": 2,
+    "cc-by": 8
+  },
+  "Schizolobium parahyba": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 23143,
+    "family": "Fabaceae",
+    "nativeRio": true,
+    "cc0": 23,
+    "cc-by": 117
+  },
+  "Hymenaea courbaril": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 22972,
+    "family": "Fabaceae",
+    "nativeRio": true,
+    "cc0": 11,
+    "cc-by": 50
+  },
+  "Byrsonima sericea": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 8845,
+    "family": "Malpighiaceae",
+    "nativeRio": true,
+    "cc0": 1,
+    "cc-by": 7
+  },
+  "Ormosia arborea": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 29802,
+    "family": "Fabaceae",
+    "nativeRio": false,
+    "cc0": 2,
+    "cc-by": 7
+  },
+  "Bauhinia forficata": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 82666,
+    "family": "Fabaceae",
+    "nativeRio": true,
+    "cc0": 23,
+    "cc-by": 105
+  },
+  "Sideroxylon obtusifolium": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 21028,
+    "family": "Sapotaceae",
+    "nativeRio": true,
+    "cc0": 17,
+    "cc-by": 37
+  },
+  "Begonia acetosa": {
+    "status": "",
+    "acceptedName": null,
+    "floraId": 5563,
+    "family": "Begoniaceae",
+    "nativeRio": false
+  },
+  "Begonia arborescens": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5574,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 0,
+    "cc-by": 1
+  },
+  "Begonia convolvulacea": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5593,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 1,
+    "cc-by": 36
+  },
+  "Begonia cucullata": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5597,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 60,
+    "cc-by": 177
+  },
+  "Begonia fischeri": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5616,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 14,
+    "cc-by": 73
+  },
+  "Begonia hirtella": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5631,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 92,
+    "cc-by": 139
+  },
+  "Begonia luxurians": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5662,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 2,
+    "cc-by": 6
+  },
+  "Begonia maculata": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5663,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 45,
+    "cc-by": 8
+  },
+  "Begonia reniformis": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5703,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 0,
+    "cc-by": 3
+  },
+  "Begonia solananthera": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5721,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 0,
+    "cc-by": 1
+  },
+  "Begonia ulmifolia": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5732,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 0,
+    "cc-by": 2
+  },
+  "Begonia angulata": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5572,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 1,
+    "cc-by": 1
+  },
+  "Begonia aconitifolia": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 5565,
+    "family": "Begoniaceae",
+    "nativeRio": true,
+    "cc0": 0,
+    "cc-by": 0
+  },
+  "Microgramma vacciniifolia": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 91672,
+    "family": "Polypodiaceae",
+    "nativeRio": true,
+    "cc0": 12,
+    "cc-by": 77
+  },
+  "Phlebodium decumanum": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 91719,
+    "family": "Polypodiaceae",
+    "nativeRio": true,
+    "cc0": 3,
+    "cc-by": 19
+  },
+  "Cyperus ligularis": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 7185,
+    "family": "Cyperaceae",
+    "nativeRio": true,
+    "cc0": 57,
+    "cc-by": 184
+  },
+  "Piper aduncum": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 12738,
+    "family": "Piperaceae",
+    "nativeRio": true,
+    "cc0": 17,
+    "cc-by": 131
+  },
+  "Peperomia obtusifolia": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 12681,
+    "family": "Piperaceae",
+    "nativeRio": true,
+    "cc0": 4,
+    "cc-by": 31
+  },
+  "Echinodorus grandiflorus": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 4261,
+    "family": "Alismataceae",
+    "nativeRio": true,
+    "cc0": 12,
+    "cc-by": 48
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Billbergia_sanderiana",
+  "retrievedAt": "2026-11-11T08:02:17Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5949,
+        "scientificname": "Billbergia sanderiana É.Morren",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Billbergia",
+        "specificepithet": "sanderiana",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "É.Morren",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Billbergia Thunb.;Billbergia sanderiana É.Morren",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5949>http://floradobrasil2015.jbrj.gov.br/FB5949</a>)<br><br>Jacques, S.S.A., Neves, B. 2020. Billbergia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5949\">https://floradobrasil2020.jbrj.gov.br/FB5949</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Billbergia Thunb.",
+        "parentnameusageid": 5920,
+        "originalnameusageid": null,
+        "namepublishedin": "Belgique Hort. 34: 17 1884",
+        "namepublishedinyear": "1884",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5949",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Jacques, S.S.A., Neves, B. Billbergia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB5949>. Acesso em: 11 nov. 2026.",
+        "modified": "2022-06-22 09:51:23.92"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-SP",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Cerrado",
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita"
+        ],
+        "vegetationType": [
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Belgique Hort.,34: 17,1884"
+        }
+      ],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 45840,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia amoena var. penduliflora M.B.Foster"
+        },
+        {
+          "relatedresourceid": 45838,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Billbergia amoena var. cylindracea E.Pereira"
+        }
+      ],
+      "voucher": [
+        {
+          "recordedby": "A.F.M. Glaziou 16430",
+          "collectioncode": "K",
+          "catalognumber": "K000976695",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/K000976695",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Glaziou 2731",
+          "collectioncode": "P",
+          "catalognumber": "P00753444",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00753444",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Leitman, M. 181",
+          "collectioncode": "RB",
+          "catalognumber": "RB00162388",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00162388",
+          "locality": "MG",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Wendt, T. 238",
+          "collectioncode": "RB",
+          "catalognumber": "RB00162437",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/RB00162437",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Glaziou 2731",
+          "collectioncode": "P",
+          "catalognumber": "P00753445",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/P00753445",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Glaziou 2731",
+          "collectioncode": "P",
+          "catalognumber": "P00753445",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228076025",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "Leitman, M. 181",
+          "collectioncode": "RB",
+          "catalognumber": "RB00162388",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283814704",
+          "locality": "MG",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Wendt, T. 238",
+          "collectioncode": "RB",
+          "catalognumber": "RB00162437",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283814818",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Wendt, T. 238",
+          "collectioncode": "RB",
+          "catalognumber": "RB00162437",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=283814820",
+          "locality": null,
+          "typestatus": null
+        },
+        {
+          "recordedby": "Glaziou 2731",
+          "collectioncode": "P",
+          "catalognumber": "P00753444",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=228076023",
+          "locality": null,
+          "typestatus": "typus"
+        },
+        {
+          "recordedby": "A.F.M. Glaziou 16430",
+          "collectioncode": "K",
+          "catalognumber": "K000976695",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=227388203",
+          "locality": null,
+          "typestatus": null
+        }
+      ]
+    }
+  ]
+}

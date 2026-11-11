@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/205830060",
+  "photo": {
+    "id": 363977647,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363977647/square.jpeg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 205830060,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 464440,
+      "name": "Inga sessilis"
+    },
+    "observerLogin": "bariza"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363977647/large.jpeg",
+    "sha256": "85b9649d92d5615629f9ddf354bbcfa4b8b984daa622b002ba1e4f05ce116a50",
+    "retrievedAt": "2026-11-11T08:14:15Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/406639719",
+  "photo": {
+    "id": 747134226,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1152,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/747134226/square.jpg",
+    "attribution": "(c) Gabriel lima, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Gabriel lima",
+  "observation": {
+    "id": 406639719,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 563877,
+      "name": "Eugenia candolleana"
+    },
+    "observerLogin": "bielbirdwatcher"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/747134226/large.jpg",
+    "sha256": "4d7618d6c39b385ea9d82bb220cee89d281ac1a2b6a3ecdbcf0ab2a20c87a62d",
+    "retrievedAt": "2026-11-11T08:13:53Z"
+  }
+}

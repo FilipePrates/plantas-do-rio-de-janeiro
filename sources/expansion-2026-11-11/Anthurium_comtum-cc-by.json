@@ -1,0 +1,2205 @@
+{
+  "url": "https://api.inaturalist.org/v1/observations?taxon_name=Anthurium+comtum&photo_license=cc-by&quality_grade=research&captive=false&per_page=8&order_by=votes",
+  "retrievedAt": "2026-11-11T08:03:48Z",
+  "responseSha256": "2844a7071b7408650ad42ec08f80ce8cab34a2af0d511b6a9624af87e2c45065",
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 8,
+    "results": [
+      {
+        "quality_grade": "research",
+        "time_observed_at": "2026-05-13T13:59:57-03:00",
+        "taxon_geoprivacy": null,
+        "annotations": [],
+        "uuid": "ba0927a0-ac4b-44bf-a300-ff4e68c6803b",
+        "observed_on_details": {
+          "date": "2026-05-13",
+          "day": 13,
+          "month": 5,
+          "year": 2026,
+          "hour": 13,
+          "week": 20
+        },
+        "id": 361317677,
+        "cached_votes_total": 0,
+        "identifications_most_agree": true,
+        "created_at_details": {
+          "date": "2026-05-13",
+          "day": 13,
+          "month": 5,
+          "year": 2026,
+          "hour": 23,
+          "week": 20
+        },
+        "species_guess": "Anthurium comtum",
+        "identifications_most_disagree": false,
+        "tags": [],
+        "positional_accuracy": null,
+        "comments_count": 0,
+        "site_id": 1,
+        "created_time_zone": "America/Sao_Paulo",
+        "license_code": "cc-by",
+        "observed_time_zone": "America/Sao_Paulo",
+        "quality_metrics": [],
+        "public_positional_accuracy": null,
+        "reviewed_by": [
+          3852906,
+          7751706
+        ],
+        "oauth_application_id": 2,
+        "flags": [],
+        "created_at": "2026-05-13T23:17:19-03:00",
+        "description": null,
+        "time_zone_offset": "-03:00",
+        "project_ids_with_curator_id": [],
+        "observed_on": "2026-05-13",
+        "observed_on_string": "2026-05-13 13:59:57",
+        "updated_at": "2026-05-14T10:25:46-03:00",
+        "sounds": [],
+        "place_ids": [
+          6878,
+          13330,
+          20969,
+          56773,
+          66741,
+          97389,
+          142155,
+          184019,
+          203072,
+          216605,
+          219152
+        ],
+        "captive": false,
+        "taxon": {
+          "provisional": false,
+          "is_active": true,
+          "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039/49181/1650984",
+          "min_species_ancestry": "48460,47126,211194,47125,47163,48073,48536,706189,1356039,49181,1650984,566249",
+          "endemic": false,
+          "iconic_taxon_id": 47126,
+          "min_species_taxon_id": 566249,
+          "threatened": false,
+          "rank_level": 10,
+          "introduced": false,
+          "native": false,
+          "parent_id": 1650984,
+          "name": "Anthurium comtum",
+          "rank": "species",
+          "extinct": false,
+          "id": 566249,
+          "ancestor_ids": [
+            48460,
+            47126,
+            211194,
+            47125,
+            47163,
+            48073,
+            48536,
+            706189,
+            1356039,
+            49181,
+            1650984,
+            566249
+          ],
+          "created_at": "2017-10-11T20:01:02+00:00",
+          "default_photo": {
+            "id": 430441585,
+            "license_code": null,
+            "attribution": "(c) Carlos Hartur Ribeiro Noia, all rights reserved, uploaded by Carlos Hartur Ribeiro Noia",
+            "url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+            "original_dimensions": {
+              "height": 2048,
+              "width": 1536
+            },
+            "flags": [],
+            "attribution_name": "Carlos Hartur Ribeiro Noia",
+            "square_url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+            "medium_url": "https://static.inaturalist.org/photos/430441585/medium.jpeg"
+          },
+          "taxon_changes_count": 0,
+          "taxon_schemes_count": 1,
+          "observations_count": 37,
+          "photos_locked": false,
+          "universal_search_rank": 37,
+          "flag_counts": {
+            "resolved": 0,
+            "unresolved": 0
+          },
+          "current_synonymous_taxon_ids": null,
+          "atlas_id": null,
+          "complete_species_count": null,
+          "wikipedia_url": null,
+          "iconic_taxon_name": "Plantae"
+        },
+        "ident_taxon_ids": [
+          48460,
+          47126,
+          211194,
+          47125,
+          47163,
+          48073,
+          48536,
+          706189,
+          1356039,
+          49181,
+          1650984,
+          566249
+        ],
+        "outlinks": [
+          {
+            "source": "GBIF",
+            "url": "http://www.gbif.org/occurrence/6320822762"
+          }
+        ],
+        "faves_count": 0,
+        "ofvs": [],
+        "num_identification_agreements": 1,
+        "preferences": {
+          "prefers_community_taxon": null
+        },
+        "identification_disagreements_count": 0,
+        "comments": [],
+        "map_scale": null,
+        "uri": "https://www.inaturalist.org/observations/361317677",
+        "project_ids": [],
+        "community_taxon_id": 566249,
+        "geojson": {
+          "type": "Point",
+          "coordinates": [
+            -40.5525440997,
+            -19.9125537
+          ]
+        },
+        "owners_identification_from_vision": false,
+        "identifications_count": 1,
+        "obscured": false,
+        "num_identification_disagreements": 0,
+        "geoprivacy": null,
+        "location": "-19.9125537,-40.5525440997",
+        "votes": [],
+        "spam": false,
+        "user": {
+          "id": 3852906,
+          "login": "marcio_santos_ferreira",
+          "spam": false,
+          "suspended": false,
+          "created_at": "2020-11-20T10:53:27+00:00",
+          "site_id": 1,
+          "preferences": {},
+          "login_autocomplete": "marcio_santos_ferreira",
+          "login_exact": "marcio_santos_ferreira",
+          "name": "Marcio Santos Ferreira",
+          "name_autocomplete": "Marcio Santos Ferreira",
+          "orcid": null,
+          "icon": "https://static.inaturalist.org/attachments/users/icons/3852906/thumb.jpeg?1605869606",
+          "observations_count": 7410,
+          "identifications_count": 1405,
+          "journal_posts_count": 0,
+          "activity_count": 8815,
+          "species_count": 3472,
+          "annotated_observations_count": 41,
+          "universal_search_rank": 7410,
+          "roles": [],
+          "icon_url": "https://static.inaturalist.org/attachments/users/icons/3852906/medium.jpeg?1605869606"
+        },
+        "mappable": true,
+        "identifications_some_agree": true,
+        "project_ids_without_curator_id": [],
+        "place_guess": "Santa Teresa, ES, Brasil",
+        "identifications": [
+          {
+            "id": 811260251,
+            "uuid": "3c1efec7-acca-4366-9df9-4a874b25dfb7",
+            "user": {
+              "id": 3852906,
+              "login": "marcio_santos_ferreira",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2020-11-20T10:53:27+00:00",
+              "login_autocomplete": "marcio_santos_ferreira",
+              "login_exact": "marcio_santos_ferreira",
+              "name": "Marcio Santos Ferreira",
+              "name_autocomplete": "Marcio Santos Ferreira",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/3852906/thumb.jpeg?1605869606",
+              "observations_count": 7410,
+              "identifications_count": 1405,
+              "journal_posts_count": 0,
+              "activity_count": 8815,
+              "species_count": 3472,
+              "annotated_observations_count": 41,
+              "universal_search_rank": 7410,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/3852906/medium.jpeg?1605869606"
+            },
+            "created_at": "2026-05-13T23:17:19-03:00",
+            "created_at_details": {
+              "date": "2026-05-13",
+              "day": 13,
+              "month": 5,
+              "year": 2026,
+              "hour": 23,
+              "week": 20
+            },
+            "body": null,
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": true,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": null,
+            "previous_observation_taxon_id": 566249,
+            "spam": false,
+            "taxon_id": 566249,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 566249,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                48073,
+                48536,
+                706189,
+                1356039,
+                49181,
+                1650984
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 566249,
+              "name": "Anthurium comtum",
+              "parent_id": 1650984,
+              "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039/49181/1650984",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,48073,48536,706189,1356039,49181,1650984,566249",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2017-10-11T20:01:02+00:00",
+              "default_photo": {
+                "id": 430441585,
+                "license_code": null,
+                "attribution": "(c) Carlos Hartur Ribeiro Noia, all rights reserved, uploaded by Carlos Hartur Ribeiro Noia",
+                "url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Carlos Hartur Ribeiro Noia",
+                "square_url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/430441585/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 1,
+              "observations_count": 37,
+              "photos_locked": false,
+              "universal_search_rank": 37,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47163,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163
+                  ],
+                  "is_active": true,
+                  "name": "Liliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 274224,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) J. Maughn, some rights reserved (CC BY-NC), uploaded by J. Maughn",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "J. Maughn",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 23258004,
+                  "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Liliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "monocots"
+                },
+                {
+                  "id": 48073,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073
+                  ],
+                  "is_active": true,
+                  "name": "Alismatales",
+                  "parent_id": 47163,
+                  "ancestry": "48460/47126/211194/47125/47163",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 107900,
+                    "license_code": null,
+                    "attribution": "(c) Johnny Wilson, all rights reserved, uploaded by Johnny Wilson",
+                    "url": "https://static.inaturalist.org/photos/107900/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1530
+                    },
+                    "flags": [],
+                    "attribution_name": "Johnny Wilson",
+                    "square_url": "https://static.inaturalist.org/photos/107900/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/107900/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 1629350,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Alismatales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Aroids, Water Plantains, Seagrass, and allies"
+                },
+                {
+                  "id": 48536,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536
+                  ],
+                  "is_active": true,
+                  "name": "Araceae",
+                  "parent_id": 48073,
+                  "ancestry": "48460/47126/211194/47125/47163/48073",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 5700,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) James Gaither, some rights reserved (CC BY-NC-ND)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5700/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1588
+                    },
+                    "flags": [],
+                    "attribution_name": "James Gaither",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5700/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5700/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 1209349,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Araceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Arum Family"
+                },
+                {
+                  "id": 706189,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189
+                  ],
+                  "is_active": true,
+                  "name": "Pothoideae",
+                  "parent_id": 48536,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 51012462,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Letizia Weichgrebe, some rights reserved (CC BY), uploaded by Letizia Weichgrebe",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51012462/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Letizia Weichgrebe",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51012462/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51012462/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 75272,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Pothoideae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 1356039,
+                  "rank": "tribe",
+                  "rank_level": 25,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189,
+                    1356039
+                  ],
+                  "is_active": true,
+                  "name": "Anthurieae",
+                  "parent_id": 706189,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 115708648,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) ramon_d, some rights reserved (CC BY-NC), uploaded by ramon_d",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115708648/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "ramon_d",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115708648/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115708648/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 65515,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Anthurium",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 49181,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189,
+                    1356039,
+                    49181
+                  ],
+                  "is_active": true,
+                  "name": "Anthurium",
+                  "parent_id": 1356039,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 29292719,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) losbioinvestigadores, some rights reserved (CC BY-NC), uploaded by losbioinvestigadores",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29292719/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "losbioinvestigadores",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29292719/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29292719/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 65481,
+                  "flag_counts": {
+                    "resolved": 71,
+                    "unresolved": 4
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Anthurium",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "anthuriums"
+                },
+                {
+                  "id": 1650984,
+                  "rank": "section",
+                  "rank_level": 13,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189,
+                    1356039,
+                    49181,
+                    1650984
+                  ],
+                  "is_active": true,
+                  "name": "Urospadix",
+                  "parent_id": 49181,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039/49181",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 609447377,
+                    "license_code": null,
+                    "attribution": "(c) Rafael Monast, all rights reserved, uploaded by Rafael Monast",
+                    "url": "https://static.inaturalist.org/photos/609447377/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Rafael Monast",
+                    "square_url": "https://static.inaturalist.org/photos/609447377/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/609447377/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 719,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": null,
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 566249,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                48073,
+                48536,
+                706189,
+                1356039,
+                49181,
+                1650984,
+                566249
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 566249,
+              "name": "Anthurium comtum",
+              "parent_id": 1650984,
+              "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039/49181/1650984",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,48073,48536,706189,1356039,49181,1650984,566249",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2017-10-11T20:01:02+00:00",
+              "default_photo": {
+                "id": 430441585,
+                "license_code": null,
+                "attribution": "(c) Carlos Hartur Ribeiro Noia, all rights reserved, uploaded by Carlos Hartur Ribeiro Noia",
+                "url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Carlos Hartur Ribeiro Noia",
+                "square_url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/430441585/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 1,
+              "observations_count": 37,
+              "photos_locked": false,
+              "universal_search_rank": 37,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae"
+            }
+          },
+          {
+            "id": 811476627,
+            "uuid": "872447e5-edf7-41bc-8478-d57e161cf0ea",
+            "user": {
+              "id": 7751706,
+              "login": "alexandremagno",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2024-01-26T02:22:14+00:00",
+              "login_autocomplete": "alexandremagno",
+              "login_exact": "alexandremagno",
+              "name": "Alexandre Magno",
+              "name_autocomplete": "Alexandre Magno",
+              "orcid": "https://orcid.org/0009-0008-1559-3677",
+              "icon": "https://static.inaturalist.org/attachments/users/icons/7751706/481f4961acd2454d93a82a783f185f8d-thumb.jpg?1756582013",
+              "observations_count": 162,
+              "identifications_count": 2999,
+              "journal_posts_count": 0,
+              "activity_count": 3161,
+              "species_count": 121,
+              "annotated_observations_count": 0,
+              "universal_search_rank": 162,
+              "roles": [
+                "curator"
+              ],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/7751706/481f4961acd2454d93a82a783f185f8d-medium.jpg?1756582013"
+            },
+            "created_at": "2026-05-14T10:25:46-03:00",
+            "created_at_details": {
+              "date": "2026-05-14",
+              "day": 14,
+              "month": 5,
+              "year": 2026,
+              "hour": 10,
+              "week": 20
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 566249,
+            "spam": false,
+            "taxon_id": 566249,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 566249,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                48073,
+                48536,
+                706189,
+                1356039,
+                49181,
+                1650984
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 566249,
+              "name": "Anthurium comtum",
+              "parent_id": 1650984,
+              "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039/49181/1650984",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,48073,48536,706189,1356039,49181,1650984,566249",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2017-10-11T20:01:02+00:00",
+              "default_photo": {
+                "id": 430441585,
+                "license_code": null,
+                "attribution": "(c) Carlos Hartur Ribeiro Noia, all rights reserved, uploaded by Carlos Hartur Ribeiro Noia",
+                "url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Carlos Hartur Ribeiro Noia",
+                "square_url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/430441585/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 1,
+              "observations_count": 37,
+              "photos_locked": false,
+              "universal_search_rank": 37,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47163,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163
+                  ],
+                  "is_active": true,
+                  "name": "Liliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 274224,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) J. Maughn, some rights reserved (CC BY-NC), uploaded by J. Maughn",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "J. Maughn",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 23258004,
+                  "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Liliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "monocots"
+                },
+                {
+                  "id": 48073,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073
+                  ],
+                  "is_active": true,
+                  "name": "Alismatales",
+                  "parent_id": 47163,
+                  "ancestry": "48460/47126/211194/47125/47163",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 107900,
+                    "license_code": null,
+                    "attribution": "(c) Johnny Wilson, all rights reserved, uploaded by Johnny Wilson",
+                    "url": "https://static.inaturalist.org/photos/107900/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1530
+                    },
+                    "flags": [],
+                    "attribution_name": "Johnny Wilson",
+                    "square_url": "https://static.inaturalist.org/photos/107900/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/107900/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 1629350,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Alismatales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Aroids, Water Plantains, Seagrass, and allies"
+                },
+                {
+                  "id": 48536,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536
+                  ],
+                  "is_active": true,
+                  "name": "Araceae",
+                  "parent_id": 48073,
+                  "ancestry": "48460/47126/211194/47125/47163/48073",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 5700,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) James Gaither, some rights reserved (CC BY-NC-ND)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5700/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1588
+                    },
+                    "flags": [],
+                    "attribution_name": "James Gaither",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5700/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5700/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 1209349,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Araceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Arum Family"
+                },
+                {
+                  "id": 706189,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189
+                  ],
+                  "is_active": true,
+                  "name": "Pothoideae",
+                  "parent_id": 48536,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 51012462,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Letizia Weichgrebe, some rights reserved (CC BY), uploaded by Letizia Weichgrebe",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51012462/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Letizia Weichgrebe",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51012462/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51012462/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 75272,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Pothoideae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 1356039,
+                  "rank": "tribe",
+                  "rank_level": 25,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189,
+                    1356039
+                  ],
+                  "is_active": true,
+                  "name": "Anthurieae",
+                  "parent_id": 706189,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 115708648,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) ramon_d, some rights reserved (CC BY-NC), uploaded by ramon_d",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115708648/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "ramon_d",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115708648/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115708648/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 65515,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Anthurium",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 49181,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189,
+                    1356039,
+                    49181
+                  ],
+                  "is_active": true,
+                  "name": "Anthurium",
+                  "parent_id": 1356039,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 29292719,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) losbioinvestigadores, some rights reserved (CC BY-NC), uploaded by losbioinvestigadores",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29292719/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "losbioinvestigadores",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29292719/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29292719/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 65481,
+                  "flag_counts": {
+                    "resolved": 71,
+                    "unresolved": 4
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Anthurium",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "anthuriums"
+                },
+                {
+                  "id": 1650984,
+                  "rank": "section",
+                  "rank_level": 13,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189,
+                    1356039,
+                    49181,
+                    1650984
+                  ],
+                  "is_active": true,
+                  "name": "Urospadix",
+                  "parent_id": 49181,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039/49181",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 609447377,
+                    "license_code": null,
+                    "attribution": "(c) Rafael Monast, all rights reserved, uploaded by Rafael Monast",
+                    "url": "https://static.inaturalist.org/photos/609447377/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Rafael Monast",
+                    "square_url": "https://static.inaturalist.org/photos/609447377/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/609447377/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 719,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": null,
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 566249,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                48073,
+                48536,
+                706189,
+                1356039,
+                49181,
+                1650984,
+                566249
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 566249,
+              "name": "Anthurium comtum",
+              "parent_id": 1650984,
+              "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039/49181/1650984",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,48073,48536,706189,1356039,49181,1650984,566249",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2017-10-11T20:01:02+00:00",
+              "default_photo": {
+                "id": 430441585,
+                "license_code": null,
+                "attribution": "(c) Carlos Hartur Ribeiro Noia, all rights reserved, uploaded by Carlos Hartur Ribeiro Noia",
+                "url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Carlos Hartur Ribeiro Noia",
+                "square_url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/430441585/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 1,
+              "observations_count": 37,
+              "photos_locked": false,
+              "universal_search_rank": 37,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae"
+            }
+          }
+        ],
+        "project_observations": [],
+        "observation_photos": [
+          {
+            "id": 609545287,
+            "position": 0,
+            "uuid": "fc172d60-14b0-45d8-a50a-cb565e530a8b",
+            "photo_id": 659396231,
+            "photo": {
+              "id": 659396231,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 923,
+                "height": 2048
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659396231/square.jpg",
+              "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          },
+          {
+            "id": 609545319,
+            "position": 1,
+            "uuid": "836109bd-6344-4919-97cf-ec40fde7fd35",
+            "photo_id": 659396278,
+            "photo": {
+              "id": 659396278,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 923,
+                "height": 2048
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659396278/square.jpg",
+              "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          }
+        ],
+        "photos": [
+          {
+            "id": 659396231,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 923,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659396231/square.jpg",
+            "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          },
+          {
+            "id": 659396278,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 923,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659396278/square.jpg",
+            "attribution": "(c) Marcio Santos Ferreira, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        ],
+        "faves": [],
+        "non_owner_ids": [
+          {
+            "id": 811476627,
+            "uuid": "872447e5-edf7-41bc-8478-d57e161cf0ea",
+            "user": {
+              "id": 7751706,
+              "login": "alexandremagno",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2024-01-26T02:22:14+00:00",
+              "login_autocomplete": "alexandremagno",
+              "login_exact": "alexandremagno",
+              "name": "Alexandre Magno",
+              "name_autocomplete": "Alexandre Magno",
+              "orcid": "https://orcid.org/0009-0008-1559-3677",
+              "icon": "https://static.inaturalist.org/attachments/users/icons/7751706/481f4961acd2454d93a82a783f185f8d-thumb.jpg?1756582013",
+              "observations_count": 162,
+              "identifications_count": 2999,
+              "journal_posts_count": 0,
+              "activity_count": 3161,
+              "species_count": 121,
+              "annotated_observations_count": 0,
+              "universal_search_rank": 162,
+              "roles": [
+                "curator"
+              ],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/7751706/481f4961acd2454d93a82a783f185f8d-medium.jpg?1756582013"
+            },
+            "created_at": "2026-05-14T10:25:46-03:00",
+            "created_at_details": {
+              "date": "2026-05-14",
+              "day": 14,
+              "month": 5,
+              "year": 2026,
+              "hour": 10,
+              "week": 20
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 566249,
+            "spam": false,
+            "taxon_id": 566249,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 566249,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                48073,
+                48536,
+                706189,
+                1356039,
+                49181,
+                1650984
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 566249,
+              "name": "Anthurium comtum",
+              "parent_id": 1650984,
+              "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039/49181/1650984",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,48073,48536,706189,1356039,49181,1650984,566249",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2017-10-11T20:01:02+00:00",
+              "default_photo": {
+                "id": 430441585,
+                "license_code": null,
+                "attribution": "(c) Carlos Hartur Ribeiro Noia, all rights reserved, uploaded by Carlos Hartur Ribeiro Noia",
+                "url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Carlos Hartur Ribeiro Noia",
+                "square_url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/430441585/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 1,
+              "observations_count": 37,
+              "photos_locked": false,
+              "universal_search_rank": 37,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae",
+              "ancestors": [
+                {
+                  "id": 47126,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126
+                  ],
+                  "is_active": true,
+                  "name": "Plantae",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 221143410,
+                    "license_code": null,
+                    "attribution": "(c) Rocío Ramírez Barrios, all rights reserved, uploaded by Rocío Ramírez Barrios",
+                    "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1462
+                    },
+                    "flags": [],
+                    "attribution_name": "Rocío Ramírez Barrios",
+                    "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 162997619,
+                  "flag_counts": {
+                    "resolved": 34,
+                    "unresolved": 3
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                  "complete_rank": "phylum",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Plants"
+                },
+                {
+                  "id": 211194,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194
+                  ],
+                  "is_active": true,
+                  "name": "Tracheophyta",
+                  "parent_id": 47126,
+                  "ancestry": "48460/47126",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 301768574,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1371
+                    },
+                    "flags": [],
+                    "attribution_name": "Douglas Goldman",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301768574/medium.jpg"
+                  },
+                  "taxon_changes_count": 3,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 158103554,
+                  "flag_counts": {
+                    "resolved": 8,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Vascular Plants"
+                },
+                {
+                  "id": 47125,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125
+                  ],
+                  "is_active": true,
+                  "name": "Angiospermae",
+                  "parent_id": 211194,
+                  "ancestry": "48460/47126/211194",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 6943609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Amy, some rights reserved (CC BY-NC), uploaded by Amy",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Amy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6943609/medium.jpg"
+                  },
+                  "taxon_changes_count": 5,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 149152319,
+                  "flag_counts": {
+                    "resolved": 15,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "flowering plants"
+                },
+                {
+                  "id": 47163,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163
+                  ],
+                  "is_active": true,
+                  "name": "Liliopsida",
+                  "parent_id": 47125,
+                  "ancestry": "48460/47126/211194/47125",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 274224,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) J. Maughn, some rights reserved (CC BY-NC), uploaded by J. Maughn",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "J. Maughn",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274224/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 23258004,
+                  "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Liliopsida",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "monocots"
+                },
+                {
+                  "id": 48073,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073
+                  ],
+                  "is_active": true,
+                  "name": "Alismatales",
+                  "parent_id": 47163,
+                  "ancestry": "48460/47126/211194/47125/47163",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 107900,
+                    "license_code": null,
+                    "attribution": "(c) Johnny Wilson, all rights reserved, uploaded by Johnny Wilson",
+                    "url": "https://static.inaturalist.org/photos/107900/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1530
+                    },
+                    "flags": [],
+                    "attribution_name": "Johnny Wilson",
+                    "square_url": "https://static.inaturalist.org/photos/107900/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/107900/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 1629350,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Alismatales",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Aroids, Water Plantains, Seagrass, and allies"
+                },
+                {
+                  "id": 48536,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536
+                  ],
+                  "is_active": true,
+                  "name": "Araceae",
+                  "parent_id": 48073,
+                  "ancestry": "48460/47126/211194/47125/47163/48073",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 5700,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) James Gaither, some rights reserved (CC BY-NC-ND)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5700/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1588
+                    },
+                    "flags": [],
+                    "attribution_name": "James Gaither",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5700/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5700/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 1209349,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Araceae",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "Arum Family"
+                },
+                {
+                  "id": 706189,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189
+                  ],
+                  "is_active": true,
+                  "name": "Pothoideae",
+                  "parent_id": 48536,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 51012462,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Letizia Weichgrebe, some rights reserved (CC BY), uploaded by Letizia Weichgrebe",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51012462/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Letizia Weichgrebe",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51012462/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51012462/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 75272,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Pothoideae",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 1356039,
+                  "rank": "tribe",
+                  "rank_level": 25,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189,
+                    1356039
+                  ],
+                  "is_active": true,
+                  "name": "Anthurieae",
+                  "parent_id": 706189,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 115708648,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) ramon_d, some rights reserved (CC BY-NC), uploaded by ramon_d",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115708648/square.jpg",
+                    "original_dimensions": {
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "flags": [],
+                    "attribution_name": "ramon_d",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115708648/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115708648/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 65515,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Anthurium",
+                  "iconic_taxon_name": "Plantae"
+                },
+                {
+                  "id": 49181,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189,
+                    1356039,
+                    49181
+                  ],
+                  "is_active": true,
+                  "name": "Anthurium",
+                  "parent_id": 1356039,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 29292719,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) losbioinvestigadores, some rights reserved (CC BY-NC), uploaded by losbioinvestigadores",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29292719/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "losbioinvestigadores",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29292719/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29292719/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 65481,
+                  "flag_counts": {
+                    "resolved": 71,
+                    "unresolved": 4
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Anthurium",
+                  "iconic_taxon_name": "Plantae",
+                  "preferred_common_name": "anthuriums"
+                },
+                {
+                  "id": 1650984,
+                  "rank": "section",
+                  "rank_level": 13,
+                  "iconic_taxon_id": 47126,
+                  "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47163,
+                    48073,
+                    48536,
+                    706189,
+                    1356039,
+                    49181,
+                    1650984
+                  ],
+                  "is_active": true,
+                  "name": "Urospadix",
+                  "parent_id": 49181,
+                  "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039/49181",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 609447377,
+                    "license_code": null,
+                    "attribution": "(c) Rafael Monast, all rights reserved, uploaded by Rafael Monast",
+                    "url": "https://static.inaturalist.org/photos/609447377/square.jpg",
+                    "original_dimensions": {
+                      "height": 1536,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Rafael Monast",
+                    "square_url": "https://static.inaturalist.org/photos/609447377/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/609447377/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 719,
+                  "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": null,
+                  "iconic_taxon_name": "Plantae"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 566249,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 47126,
+              "ancestor_ids": [
+                48460,
+                47126,
+                211194,
+                47125,
+                47163,
+                48073,
+                48536,
+                706189,
+                1356039,
+                49181,
+                1650984,
+                566249
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 566249,
+              "name": "Anthurium comtum",
+              "parent_id": 1650984,
+              "ancestry": "48460/47126/211194/47125/47163/48073/48536/706189/1356039/49181/1650984",
+              "min_species_ancestry": "48460,47126,211194,47125,47163,48073,48536,706189,1356039,49181,1650984,566249",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2017-10-11T20:01:02+00:00",
+              "default_photo": {
+                "id": 430441585,
+                "license_code": null,
+                "attribution": "(c) Carlos Hartur Ribeiro Noia, all rights reserved, uploaded by Carlos Hartur Ribeiro Noia",
+                "url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "original_dimensions": {
+                  "height": 2048,
+                  "width": 1536
+                },
+                "flags": [],
+                "attribution_name": "Carlos Hartur Ribeiro Noia",
+                "square_url": "https://static.inaturalist.org/photos/430441585/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/430441585/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 1,
+              "observations_count": 37,
+              "photos_locked": false,
+              "universal_search_rank": 37,
+              "flag_counts": {
+                "resolved": 0,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": null,
+              "iconic_taxon_name": "Plantae"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

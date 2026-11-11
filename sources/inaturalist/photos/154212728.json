@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/93079332",
+  "photo": {
+    "id": 154212728,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154212728/square.jpeg",
+    "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Victor Farjalla Pontes",
+  "observation": {
+    "id": 93079332,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1453005,
+      "name": "Hatiora salicornoides"
+    },
+    "observerLogin": "vfarjalla"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154212728/large.jpeg",
+    "sha256": "2331f11b7064a39e8f00eef8fa0796de44807e69084d565c657db5c4f94cb7c9",
+    "retrievedAt": "2026-11-11T17:16:22Z"
+  }
+}

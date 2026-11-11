@@ -3,6 +3,7 @@ import { execFileSync } from "node:child_process";
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
+import { fileURLToPath } from "node:url";
 import test from "node:test";
 
 test("app import rejects a CC BY attribution changed after acquisition", (t) => {
@@ -15,14 +16,14 @@ test("app import rejects a CC BY attribution changed after acquisition", (t) => 
   const directory = mkdtempSync(join(tmpdir(), "plant-photo-rights-"));
   t.after(() => rmSync(directory, { recursive: true, force: true }));
   const path = join(directory, "catalog.json");
-  const script = new URL("../scripts/catalog.mjs", import.meta.url);
+  const script = fileURLToPath(new URL("../scripts/catalog.mjs", import.meta.url));
   writeFileSync(path, JSON.stringify(catalog));
   // Preview is read-only and checks both the photo bytes and acquisition evidence.
-  execFileSync(process.execPath, [script.pathname, "import", path], { stdio: "pipe" });
+  execFileSync(process.execPath, [script, "import", path], { stdio: "pipe" });
   photo.attribution = "A different copyright notice";
   writeFileSync(path, JSON.stringify(catalog));
   assert.throws(
-    () => execFileSync(process.execPath, [script.pathname, "import", path], { stdio: "pipe" }),
+    () => execFileSync(process.execPath, [script, "import", path], { stdio: "pipe" }),
     error => /atribuição ou licença divergente/.test(String(error.stderr)),
   );
 });

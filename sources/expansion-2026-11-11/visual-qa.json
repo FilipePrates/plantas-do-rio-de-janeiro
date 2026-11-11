@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-11",
+  "method": "Inspeção visual assistida de pranchas de contato e detalhes originais. Triagem editorial, não revisão humana nem confirmação taxonômica. Fotos novas continuam draft, com marcadores unknown. Arquivos e evidências de aquisição das imagens excluídas foram preservados.",
+  "excludedPhotos": [
+    {"photoId": 633193648, "reason": "Pessoa e planta segurada dominam a imagem; duas vistas da roseta são mais adequadas ao guia."},
+    {"photoId": 461097186, "reason": "Vista distante de Quesnelia marmorata substituída por roseta e detalhe fértil mais informativos."},
+    {"photoId": 332987290, "reason": "Vista distante de Quesnelia marmorata redundante após obter detalhe fértil."},
+    {"photoId": 407554181, "reason": "Ângulo redundante da mesma roseta de Anthurium longifolium; outras três vistas preservadas."},
+    {"photoId": 407554324, "reason": "Ângulo redundante da mesma roseta de Anthurium longifolium; outras três vistas preservadas."},
+    {"photoId": 357936088, "reason": "Fruto aberto com mão substituído por vista do fruto aberto e ramos com frutos íntegros."},
+    {"photoId": 468148495, "reason": "Folha distante, desfocada e em contraluz; outras duas vistas de Anthurium microphyllum mantidas."},
+    {"photoId": 659396278, "reason": "Placa de identificação domina a fotografia e acrescenta poucos caracteres da planta."}
+  ],
+  "firstPhoto": {
+    "aechmea-ramosa": 424998901,
+    "aechmea-ornata": 271317885,
+    "neoregelia-johannis": 228015886,
+    "vriesea-ensiformis": 720275953,
+    "tillandsia-tricholepis": 306256137,
+    "quesnelia-lateralis": 296909537,
+    "quesnelia-marmorata": 250690464,
+    "anthurium-harrisii": 664573685,
+    "anthurium-longifolium": 407554269,
+    "anthurium-microphyllum": 561734829,
+    "philodendron-martianum": 713832256,
+    "eugenia-candolleana": 357936210,
+    "garcinia-gardneriana": 604220704,
+    "inga-sessilis": 363977647
+  },
+  "referenceOnly": {
+    "anthurium-comtum": "O material licenciado encontrado mostra sobretudo folhas danificadas e uma placa. Manter ficha individual de referência, fora da grade ilustrada, até obter fotografias melhores do caule e de estruturas férteis."
+  }
+}

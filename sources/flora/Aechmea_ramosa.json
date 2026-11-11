@@ -1,0 +1,307 @@
+{
+  "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Aechmea_ramosa",
+  "retrievedAt": "2026-11-11T07:59:18Z",
+  "data": [
+    {
+      "taxon": {
+        "taxonid": 5865,
+        "scientificname": "Aechmea ramosa Mart. ex Schult. & Schult.f.",
+        "taxonrank": "ESPECIE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "ramosa",
+        "infraspecificepithet": null,
+        "scientificnameauthorship": "Mart. ex Schult. & Schult.f.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea ramosa Mart. ex Schult. & Schult.f.",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB5865>http://floradobrasil2015.jbrj.gov.br/FB5865</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB5865\">https://floradobrasil2020.jbrj.gov.br/FB5865</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea Ruiz & Pav.",
+        "parentnameusageid": 5753,
+        "originalnameusageid": null,
+        "namepublishedin": "Syst. Veg. 7(2): 1272 1830",
+        "namepublishedinyear": "1830",
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB5865",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB5865>. Acesso em: 11 nov. 2026.",
+        "modified": "2020-10-19 14:54:35.444"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Schultes, J.A. & Schultes, J.H.,Syst. Veg.,7(2): 1272,1830"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": [
+        {
+          "recordedby": "R. P. Belém 3801",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00004606",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/CEPEC00004606",
+          "locality": "ES",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Krieger, L. 11817",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA069909",
+          "source": "http://reflora.cria.org.br/inct/exsiccatae/viewer/style/inct/format/slide/lang/pt/barcode/ESA069909",
+          "locality": "MG",
+          "typestatus": null
+        },
+        {
+          "recordedby": "Krieger, L. 11817",
+          "collectioncode": "ESA",
+          "catalognumber": "ESA069909",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226842787",
+          "locality": "MG",
+          "typestatus": null
+        },
+        {
+          "recordedby": "R. P. Belém 3801",
+          "collectioncode": "CEPEC",
+          "catalognumber": "CEPEC00004606",
+          "source": "http://reflora.jbrj.gov.br/reflora/geral/ExibeFiguraFSIUC/ExibeFiguraFSIUC.do?idFigura=226569283",
+          "locality": "ES",
+          "typestatus": null
+        }
+      ]
+    },
+    {
+      "taxon": {
+        "taxonid": 34234,
+        "scientificname": "Aechmea ramosa var. festiva L.B.Sm.",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "ramosa",
+        "infraspecificepithet": "festiva",
+        "scientificnameauthorship": "L.B.Sm.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea ramosa Mart. ex Schult. & Schult.f.;Aechmea ramosa var. festiva L.B.Sm.",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB34234>http://floradobrasil2015.jbrj.gov.br/FB34234</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB34234\">https://floradobrasil2020.jbrj.gov.br/FB34234</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea ramosa Mart. ex Schult. & Schult.f.",
+        "parentnameusageid": 5865,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB34234",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB34234>. Acesso em: 11 nov. 2026.",
+        "modified": "2017-12-22 23:19:43.767"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [
+        {
+          "reference": "Smith, L.B.,Smithsonian Misc. Collect.,126(1): 18, 210,1955"
+        }
+      ],
+      "resource_relationship": [],
+      "voucher": []
+    },
+    {
+      "taxon": {
+        "taxonid": 34235,
+        "scientificname": "Aechmea ramosa Mart. ex Schult. & Schult.f. var. ramosa",
+        "taxonrank": "VARIEDADE",
+        "nomenclaturalstatus": "NOME_CORRETO",
+        "taxonomicstatus": "NOME_ACEITO",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Aechmea",
+        "specificepithet": "ramosa",
+        "infraspecificepithet": "ramosa",
+        "scientificnameauthorship": "Mart. ex Schult. & Schult.f.",
+        "acceptednameusage": null,
+        "higherclassification": "Flora e Funga;Angiospermas;Bromeliaceae A.Juss.;Aechmea Ruiz & Pav.;Aechmea ramosa Mart. ex Schult. & Schult.f.;Aechmea ramosa Mart. ex Schult. & Schult.f. var. ramosa",
+        "source": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (<a href=http://floradobrasil2015.jbrj.gov.br/FB34235>http://floradobrasil2015.jbrj.gov.br/FB34235</a>)<br><br>Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L. 2020. Aechmea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (<a href=\"https://floradobrasil2020.jbrj.gov.br/FB34235\">https://floradobrasil2020.jbrj.gov.br/FB34235</a>).<br><br>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (<a href=https://doi.org/10.1590/2175-7860201566411>https://doi.org/10.1590/2175-7860201566411</a>).<br><br>BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (<a href=https://doi.org/10.1590/2175-7860201869402>https://doi.org/10.1590/2175-7860201869402</a>).<br><br>BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (<a href=https://doi.org/10.1002/tax.12640>https://doi.org/10.1002/tax.12640</a>).",
+        "parentnameusage": "Aechmea ramosa Mart. ex Schult. & Schult.f.",
+        "parentnameusageid": 5865,
+        "originalnameusageid": null,
+        "namepublishedin": "  ",
+        "namepublishedinyear": null,
+        "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB34235",
+        "acceptednameusageid": null,
+        "bibliographiccitation_how_to_cite": "Faria, A.P.G., Romanini, R.P., Koch, A.K., Sousa, G.M., Sousa, L.O.F., Wanderley, M.G.L., Silva, T.S. Aechmea in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB34235>. Acesso em: 11 nov. 2026.",
+        "modified": "2020-11-30 22:37:58.089"
+      },
+      "distribuition": [
+        {
+          "countrycode": "BR",
+          "locationid": "BR-RJ",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-ES",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-MG",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        },
+        {
+          "countrycode": "BR",
+          "locationid": "BR-BA",
+          "establishmentmeans": "Nativa",
+          "occurrenceremarks": {
+            "endemism": "Endemica",
+            "phytogeographicDomain": [
+              "Mata Atlântica"
+            ]
+          }
+        }
+      ],
+      "specie_profile": {
+        "lifeForm": [
+          "Erva"
+        ],
+        "habitat": [
+          "Epífita",
+          "Rupícola",
+          "Terrícola"
+        ],
+        "vegetationType": [
+          "Floresta Estacional Semidecidual",
+          "Floresta Ombrófila (= Floresta Pluvial)"
+        ]
+      },
+      "vernacular_name": [],
+      "reference": [],
+      "resource_relationship": [
+        {
+          "relatedresourceid": 46698,
+          "relationshipofresource": "Tem como sinônimo HOMOTIPICO",
+          "scientificname": "Pironneava ramosa (Mart. ex Schult. & Schult.f.) Wawra"
+        },
+        {
+          "relatedresourceid": 45644,
+          "relationshipofresource": "Tem como sinônimo HETEROTIPICO",
+          "scientificname": "Aechmea reukartiana hort. ex C.Chev."
+        }
+      ],
+      "voucher": []
+    }
+  ]
+}

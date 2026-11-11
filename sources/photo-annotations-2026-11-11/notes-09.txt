@@ -1,0 +1,60 @@
+481|-|Frutos avermelhados, com sépalas persistentes junto ao pedicelo, entre folhas alongadas.
+482|-|-
+483|fruit,leaf|Frutos escuros e arredondados entre as folhas, vistos contra o céu.
+484|bark|Caules delgados de casca avermelhada no interior da mata.
+485|fruit|Fruto escuro aberto, mostrando a polpa clara junto à casca.
+486|fruit,leaf|Ramos com folhas verdes e frutos escuros distribuídos na folhagem.
+487|-|Frutos escuros pendentes, com sépalas grandes e claras junto ao pedicelo.
+488|-|Flores claras com muitos estames, acima das folhas.
+489|-|Frutos vermelhos e alaranjados com sépalas claras persistentes, apoiados sobre a mão.
+490|-|Ramo com folhas em pares e pequenas flores brancas de pedicelos finos.
+491|fruit|Detalhe do fruto vermelho e brilhante, com sépalas claras persistentes.
+492|-|Fruto amarelo com sulcos longitudinais, apoiado na palma da mão.
+493|fruit,leaf|Frutos amarelos e verdes no mesmo ramo, entre folhas brilhantes.
+494|fruit,leaf|Fruto verde de superfície pontilhada junto a uma folha de nervura central clara.
+495|-|Frutos alaranjados com sulcos profundos, pendentes entre folhas verdes.
+496|-|Ramos baixos com folhas verdes, vistos junto à serapilheira.
+497|-|-
+498|leaf|Face superior de folhas verdes e brilhantes, em ramo fotografado contra fundo escuro.
+499|leaf|Face inferior clara das folhas, em ramo fotografado contra fundo escuro.
+500|leaf|Ramo com folhas de nervuras laterais bem marcadas, sustentado à mão.
+501|leaf|Ramos folhosos mostrando lâminas alongadas de face inferior mais clara.
+502|flower,leaf|Pequenas flores brancas e botões arredondados junto às folhas alongadas.
+503|leaf|Ramo com folhas estreitas em pares, mostrando nervuras centrais claras.
+504|bark|Casca rugosa, com placas irregulares e fissuras no ramo grosso.
+505|-|Frutos roxo-escuros e brilhantes reunidos entre folhas pequenas.
+506|-|Ramo com folhas verdes brilhantes, mostrando brotações mais claras.
+507|-|Folhas adultas alongadas e folhas novas avermelhadas na ponta do ramo.
+508|-|Folhas em pares, com face inferior clara e nervura central saliente.
+509|flower,leaf|Numerosas flores brancas com estames longos junto às folhas opostas.
+510|fruit|Frutos arredondados verdes e alaranjados, com faixas mais claras na casca.
+511|bark|Troncos de casca lisa, com manchas claras e rosadas de descamação.
+512|leaf|Folhas opostas e brilhantes, com nervura central marcada.
+513|fruit,leaf|Fruto verde junto ao ramo, entre folhas escuras e brilhantes.
+514|fruit|Pequeno fruto amarelo sobre os dedos, com restos do cálice na extremidade.
+515|leaf|Ramo fino com folhas pequenas e opostas, sustentado à mão.
+516|leaf|Folhas pequenas distribuídas em pares ao longo de um ramo delgado.
+517|wholePlant|Arbusto de ramos finos e copa aberta, no interior da vegetação.
+518|flower|Flores de estames vermelhos muito longos, surgindo diretamente no ramo lenhoso.
+519|leaf|Folhas pequenas e espessas, distribuídas em pares ao longo do ramo.
+520|flower|Flores com pétalas claras e carnosas e estames longos avermelhados, junto à casca coberta de líquens.
+521|-|Frutos amarelo-esverdeados arredondados entre folhas pequenas e espessas.
+522|fruit,leaf|Frutos escuros e arredondados junto às folhas, algumas mostrando a face inferior clara.
+523|leaf|Face inferior da folha, mostrando nervura central saliente e nervuras laterais finas.
+524|leaf|Detalhe da superfície da folha, com nervuras finas e manchas claras.
+525|-|Frutos amarelos com manchas escuras, agrupados junto ao ramo lenhoso.
+526|-|-
+527|fruit,leaf|Frutos verdes arredondados, de cálice persistente, entre folhas manchadas.
+528|fruit,leaf|Vários frutos verdes pendentes em ramos com folhas alongadas.
+529|fruit,leaf|Ramos folhosos com numerosos frutos avermelhados distribuídos pela copa.
+530|-|Folhas verdes e amareladas, mostrando nervuras centrais claras.
+531|-|Folhas verdes, largas e de margem inteira, distribuídas em pares.
+532|-|-
+533|-|-
+534|-|-
+535|-|Pequenos frutos verdes agrupados junto às folhas de nervuras laterais bem marcadas.
+536|-|Ramo com folhas opostas, mostrando a face inferior clara e as nervuras salientes.
+537|flower,leaf|Inflorescência com flores claras entre folhas alongadas, sobre um ramo de árvore.
+538|-|Flores de pétalas claras e labelo rosado em planta apoiada sobre um ramo coberto de musgos.
+539|-|Grupo de flores rosadas acima da folhagem, no interior da mata.
+540|-|Pequenas flores rosadas reunidas na ponta de uma haste fina.

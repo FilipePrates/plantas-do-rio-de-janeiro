@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/389689438",
+  "photo": {
+    "id": 713832256,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713832256/square.jpg",
+    "attribution": "(c) topeuna, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "topeuna",
+  "observation": {
+    "id": 389689438,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 709157,
+      "name": "Philodendron martianum"
+    },
+    "observerLogin": "topeuna"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713832256/large.jpg",
+    "sha256": "46afa87d4d46bedae80cf7fc9f47dee0b5aa60b7a6200b1beda3d103a7bcc469",
+    "retrievedAt": "2026-11-11T08:13:40Z"
+  }
+}

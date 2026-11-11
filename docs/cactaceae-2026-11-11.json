@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-11",
+  "newProfiles": 14,
+  "expandedProfiles": 3,
+  "cactusProfiles": 17,
+  "newPhotos": 33,
+  "newPhotoLicenses": {
+    "cc0": 24,
+    "cc-by": 9
+  },
+  "addedOriginalBytes": 19058484,
+  "addedOriginalMiB": 18.18,
+  "entries": 387,
+  "representedSpecies": 508,
+  "photos": 633,
+  "catalogSha256": "2a6ee0701dbd3b17f844a8a3fd99fba9afca7657eed7a5a889aeec14e5acfe9e",
+  "humanReview": "All new/changed content remains draft.",
+  "species": [
+    {
+      "id": "brasiliopuntia-brasiliensis",
+      "scientificName": "Brasiliopuntia brasiliensis",
+      "commonName": "Urumbeba",
+      "photos": 3
+    },
+    {
+      "id": "coleocephalocereus-fluminensis",
+      "scientificName": "Coleocephalocereus fluminensis",
+      "commonName": "Cacto-cabeludo",
+      "photos": 3
+    },
+    {
+      "id": "opuntia-monacantha",
+      "scientificName": "Opuntia monacantha",
+      "commonName": "Palmatória",
+      "photos": 3
+    },
+    {
+      "id": "pereskia-grandifolia",
+      "scientificName": "Pereskia grandifolia",
+      "commonName": "Rosa-mole",
+      "photos": 2
+    },
+    {
+      "id": "pereskia-aculeata",
+      "scientificName": "Pereskia aculeata",
+      "commonName": "Ora-pro-nóbis",
+      "photos": 2
+    },
+    {
+      "id": "pilosocereus-arrabidae",
+      "scientificName": "Pilosocereus arrabidae",
+      "commonName": "Facheiro-da-praia",
+      "photos": 2
+    },
+    {
+      "id": "pilosocereus-brasiliensis",
+      "scientificName": "Pilosocereus brasiliensis",
+      "commonName": "Pilosocereus brasiliensis",
+      "photos": 2
+    },
+    {
+      "id": "pilosocereus-ulei",
+      "scientificName": "Pilosocereus ulei",
+      "commonName": "Pilosocereus ulei",
+      "photos": 2
+    },
+    {
+      "id": "melocactus-violaceus",
+      "scientificName": "Melocactus violaceus",
+      "commonName": "Coroa-de-frade",
+      "photos": 2
+    },
+    {
+      "id": "schlumbergera-truncata",
+      "scientificName": "Schlumbergera truncata",
+      "commonName": "Flor-de-maio",
+      "photos": 2
+    },
+    {
+      "id": "rhipsalis-paradoxa",
+      "scientificName": "Rhipsalis paradoxa",
+      "commonName": "Rhipsalis paradoxa",
+      "photos": 2
+    },
+    {
+      "id": "rhipsalis-pachyptera",
+      "scientificName": "Rhipsalis pachyptera",
+      "commonName": "Rhipsalis pachyptera",
+      "photos": 2
+    },
+    {
+      "id": "lepismium-cruciforme",
+      "scientificName": "Lepismium cruciforme",
+      "commonName": "Lepismium cruciforme",
+      "photos": 3
+    },
+    {
+      "id": "hatiora-salicornioides",
+      "scientificName": "Hatiora salicornioides",
+      "commonName": "Cacto-garrafa",
+      "photos": 3
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/251348414",
+  "photo": {
+    "id": 449719432,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1275,
+      "height": 956
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449719432/square.jpeg",
+    "attribution": "(c) Carlos Otávio Gussoni, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Carlos Otávio Gussoni",
+  "observation": {
+    "id": 251348414,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 631046,
+      "name": "Aechmea pectinata"
+    },
+    "observerLogin": "gussoni"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449719432/large.jpeg",
+    "sha256": "d0f5bf1326b0f46108265450026def1d8c2176982d76d726e684261f2bf84aec",
+    "retrievedAt": "2026-11-11T08:12:38Z"
+  }
+}
