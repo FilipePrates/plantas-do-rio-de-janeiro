@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/191490575",
+  "photo": {
+    "id": 335946024,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1152,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335946024/square.jpeg",
+    "attribution": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Alan Rockefeller",
+  "observation": {
+    "id": 191490575,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1014407,
+      "name": "Begonia solananthera"
+    },
+    "observerLogin": "alan_rockefeller"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335946024/large.jpeg",
+    "sha256": "71dfeaac642846d7a5e3c13cb3877484e9d7a117cdc310933b7c4ceec7638e92",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

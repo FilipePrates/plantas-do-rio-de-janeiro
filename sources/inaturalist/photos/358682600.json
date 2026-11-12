@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/203044236",
+  "photo": {
+    "id": 358682600,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358682600/square.jpeg",
+    "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "agujaceratops",
+  "observation": {
+    "id": 203044236,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1670611,
+      "name": "Begonia verticillata"
+    },
+    "observerLogin": "agujaceratops"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358682600/large.jpeg",
+    "sha256": "84fc200a14fafaca1fac16689bdccf2c2d11d2e4de95b5744a3101d053d82cb5",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/309258742",
+  "photo": {
+    "id": 558039863,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1670,
+      "height": 1113
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558039863/square.jpg",
+    "attribution": "(c) Neptalí Ramírez Marcial, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Neptalí Ramírez Marcial",
+  "observation": {
+    "id": 309258742,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 952228,
+      "name": "Sapindus saponaria"
+    },
+    "observerLogin": "huracan"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558039863/large.jpg",
+    "sha256": "9a4887245b439ddeeff1bd35ba35ffa3e77d71863804f78d555e7e33f03cf8fb",
+    "retrievedAt": "2026-11-12T00:16:37Z"
+  }
+}

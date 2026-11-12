@@ -49,9 +49,17 @@ with zipfile.ZipFile(args.apk) as apk:
         except UnicodeEncodeError:
             pass
         assert any(value in bundle for value in encoded), f'Current photo caption missing from embedded bundle: {caption}'
+    profile_strings = {p[field] for p in catalog['plants'] for field in ['scientificName', 'description', 'identification', 'ecology'] if p[field].strip()}
+    for value in profile_strings:
+        encodings = ['utf8', 'utf-16le']
+        if all(ord(character) < 256 for character in value):
+            encodings.append('latin1')
+        assert any(value.encode(encoding) in bundle for encoding in encodings), f'Current profile text missing from embedded bundle: {value[:100]}'
+    assert b'Atualizando resultados' in bundle, 'Search loading indicator missing from embedded bundle'
     architectures = sorted({n.split('/')[1] for n in apk.namelist() if n.startswith('lib/') and n.endswith('.so')})
-result = dict(apk=args.apk.name, bytes=args.apk.stat().st_size, sha256=hashlib.sha256(args.apk.read_bytes()).hexdigest(), catalogSha256=hashlib.sha256(catalog_path.read_bytes()).hexdigest(), entries=len(catalog['plants']), illustratedProfiles=sum(p.get('presentation') != 'checklist' for p in catalog['plants']), originalPhotos=sum(len(p['photos']) for p in catalog['plants']), thumbnails=len(thumbs), allPhotoAndThumbnailBytesVerified=True, selectedNewSpeciesInEmbeddedBundle=True, architectures=architectures, deviceRuntimeTested=False)
+result = dict(apk=args.apk.name, bytes=args.apk.stat().st_size, sha256=hashlib.sha256(args.apk.read_bytes()).hexdigest(), catalogSha256=hashlib.sha256(catalog_path.read_bytes()).hexdigest(), entries=len(catalog['plants']), representedSpecies=len({member['scientificName'] for plant in catalog['plants'] for member in (plant['regionalSpecies'] if plant['rank'] == 'genus' else [plant])}), illustratedProfiles=sum(bool(p['photos']) and p.get('presentation') != 'checklist' for p in catalog['plants']), originalPhotos=sum(len(p['photos']) for p in catalog['plants']), thumbnails=len(thumbs), allPhotoAndThumbnailBytesVerified=True, selectedNewSpeciesInEmbeddedBundle=True, architectures=architectures, deviceRuntimeTested=False)
 result.update(uniqueCurrentCaptionsVerified=len(captions), allCurrentCaptionsInEmbeddedBundle=True)
+result.update(currentProfileStringsVerified=len(profile_strings), allCurrentProfileTextInEmbeddedBundle=True, searchLoadingIndicatorInEmbeddedBundle=True)
 if args.output:
     args.output.write_text(json.dumps(result, ensure_ascii=False, indent=2)+'\n', encoding='utf8')
 print(json.dumps(result, ensure_ascii=False, indent=2))

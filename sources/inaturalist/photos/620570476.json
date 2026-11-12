@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/340954195",
+  "photo": {
+    "id": 620570476,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620570476/square.jpg",
+    "attribution": "(c) B. Phalan, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "B. Phalan",
+  "observation": {
+    "id": 340954195,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1007866,
+      "name": "Begonia convolvulacea"
+    },
+    "observerLogin": "deboas"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620570476/large.jpg",
+    "sha256": "3dd828618a3203b2bb35374a40c59a310efca13de441c824aabdfd63d5dbeaac",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

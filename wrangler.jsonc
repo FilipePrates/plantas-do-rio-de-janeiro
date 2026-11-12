@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "plantas-do-rio",
+  "compatibility_date": "2026-11-11",
+  "assets": {
+    "directory": "./dist/web",
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    { "pattern": "plantas.avesdobrasil.app", "custom_domain": true }
+  ]
+}

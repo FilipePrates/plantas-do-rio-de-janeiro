@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/193913795",
+  "photo": {
+    "id": 340717555,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1368
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340717555/square.jpeg",
+    "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "agujaceratops",
+  "observation": {
+    "id": 193913795,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 159207,
+      "name": "Begonia reniformis"
+    },
+    "observerLogin": "agujaceratops"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340717555/large.jpeg",
+    "sha256": "1db725f2c9703c662584ba717e5a22defe0cba2d70b802f580f2618ab1865577",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

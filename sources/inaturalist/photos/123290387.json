@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/75370496",
+  "photo": {
+    "id": 123290387,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123290387/square.jpeg",
+    "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Victor Farjalla Pontes",
+  "observation": {
+    "id": 75370496,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 883948,
+      "name": "Maxillaria picta"
+    },
+    "observerLogin": "vfarjalla"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123290387/large.jpeg",
+    "sha256": "a4fb136a9f49deab0aefec132c07f55031151a01ae20e2579e32d5a452284adc",
+    "retrievedAt": "2026-11-12T00:16:37Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/309810249",
+  "photo": {
+    "id": 559098502,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1153,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/559098502/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Yolanda M. Leon",
+  "observation": {
+    "id": 309810249,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 952228,
+      "name": "Sapindus saponaria"
+    },
+    "observerLogin": "yolandamleon"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/559098502/large.jpg",
+    "sha256": "1090b7e3dd0f49df43fc7e8dd3af6ccf127a3a4b93ba6c1b727cf73b5e300f9c",
+    "retrievedAt": "2026-11-12T00:16:37Z"
+  }
+}

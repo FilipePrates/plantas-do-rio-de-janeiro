@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/166593714",
+  "photo": {
+    "id": 288503716,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288503716/square.jpeg",
+    "attribution": "(c) Stuart Cable, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Stuart Cable",
+  "observation": {
+    "id": 166593714,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 62853,
+      "name": "Avicennia germinans"
+    },
+    "observerLogin": "stucable"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288503716/large.jpeg",
+    "sha256": "d439fbaa4dba31d4d93529f9685156fbc08fa25550eac2b9669784b130dddd7b",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

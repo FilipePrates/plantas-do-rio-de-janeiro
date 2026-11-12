@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T17:17:42.161Z",
-  "entries": 387,
-  "profiles": 225,
-  "checklistOnly": 162,
-  "representedSpecies": 508,
-  "families": 67,
+  "generatedAt": "2026-11-12T00:18:00.731Z",
+  "entries": 429,
+  "profiles": 270,
+  "checklistOnly": 159,
+  "representedSpecies": 550,
+  "families": 73,
   "invasiveEntries": 5,
   "groupedGenera": [
     {
@@ -28,10 +28,10 @@
       "terrestrialSpecies": 33
     }
   ],
-  "cc0Photos": 445,
-  "ccByPhotos": 188,
-  "illustratedEntries": 262,
+  "cc0Photos": 491,
+  "ccByPhotos": 230,
+  "illustratedEntries": 304,
   "missingPhotos": [],
-  "draftEntries": 279,
-  "draftPhotos": 568
+  "draftEntries": 329,
+  "draftPhotos": 656
 }

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/205998397",
+  "photo": {
+    "id": 364304547,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364304547/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "naturedom12",
+  "observation": {
+    "id": 205998397,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 166493,
+      "name": "Peperomia obtusifolia"
+    },
+    "observerLogin": "naturedom12"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364304547/large.jpg",
+    "sha256": "a8ad69b0030054133b76cb77ce38b4c26bddd9571b1df3d15a68ca167f0a4dbe",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

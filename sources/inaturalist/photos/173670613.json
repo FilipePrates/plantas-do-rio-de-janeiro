@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/103726805",
+  "photo": {
+    "id": 173670613,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1872
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173670613/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Hugo Hulsberg",
+  "observation": {
+    "id": 103726805,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 52443,
+      "name": "Schizolobium parahyba"
+    },
+    "observerLogin": "hhulsberg"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173670613/large.jpg",
+    "sha256": "e955213a7fba065a6a3bc6237b0caaad66f8533e86fe1fcbcc5a6a49630f38f5",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

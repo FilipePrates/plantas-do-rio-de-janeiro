@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/38343872",
+  "photo": {
+    "id": 60925909,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1463
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60925909/square.jpeg",
+    "attribution": "(c) Carlos Otávio Gussoni, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Carlos Otávio Gussoni",
+  "observation": {
+    "id": 38343872,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 710116,
+      "name": "Cattleya forbesii"
+    },
+    "observerLogin": "gussoni"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60925909/large.jpeg",
+    "sha256": "69c9429edf3284866ff008fb095a3b028f062c203ffedd2f25d45d3e886ff789",
+    "retrievedAt": "2026-11-12T00:16:37Z"
+  }
+}

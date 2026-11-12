@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/261486250",
+  "photo": {
+    "id": 469781377,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469781377/square.jpg",
+    "attribution": "(c) Alexandre Magno, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Alexandre Magno",
+  "observation": {
+    "id": 261486250,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 83908,
+      "name": "Cordia superba"
+    },
+    "observerLogin": "alexandremagno"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469781377/large.jpg",
+    "sha256": "ec418875ddba3315f625f731b605960c7ab216f2f70a023c0c02ac571b952be9",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

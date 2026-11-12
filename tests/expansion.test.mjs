@@ -3,6 +3,7 @@ import { readFileSync } from "node:fs";
 import test from "node:test";
 import { checklistRows, isProfile, parseCatalog } from "../src/catalog.mjs";
 import { beforeVisualAnnotations } from "./helpers/photo-annotations.mjs";
+import { beforePriorityPhotoReview } from "./helpers/priority-batch.mjs";
 
 const read = (path) => JSON.parse(readFileSync(new URL(path, import.meta.url), "utf8"));
 const catalog = read("../src/data/plants.json");
@@ -13,7 +14,7 @@ test("November expansion preserves previous species and exact photos before the 
   const names = new Set(checklistRows(catalog).map((r) => r.scientificName));
   for (const row of checklistRows(before)) assert.ok(names.has(row.scientificName), row.scientificName);
   const photos = new Map(catalog.plants.flatMap((p) => p.photos).map((p) => [p.photoId, p]));
-  for (const photo of before.plants.flatMap((p) => p.photos)) assert.deepEqual(beforeVisualAnnotations(photos.get(photo.photoId)), photo);
+  for (const photo of before.plants.flatMap((p) => p.photos)) assert.deepEqual(beforeVisualAnnotations(beforePriorityPhotoReview(photos.get(photo.photoId))), photo);
   parseCatalog(catalog); // Also rejects repeated membership and conflicting legacy IDs.
 });
 

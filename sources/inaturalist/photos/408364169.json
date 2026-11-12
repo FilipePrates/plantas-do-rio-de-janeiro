@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/230015191",
+  "photo": {
+    "id": 408364169,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408364169/square.jpeg",
+    "attribution": "(c) Thomaz Ricardo Favreto Sinani, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Thomaz Ricardo Favreto Sinani",
+  "observation": {
+    "id": 230015191,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 706954,
+      "name": "Alchornea triplinervia"
+    },
+    "observerLogin": "trfsinani"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408364169/large.jpeg",
+    "sha256": "6c4b6b0142fd4968e107effe7031b32983d880efcabe28b5dc8a7323e2cd32cf",
+    "retrievedAt": "2026-11-12T00:16:37Z"
+  }
+}

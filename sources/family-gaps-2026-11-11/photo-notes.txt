@@ -1,0 +1,37 @@
+# Individual photo inspection, draft annotations: number|markers|caption
+1|fruit,leaf|Antocarpos de Guapira opposita em diferentes estágios, verdes a avermelhados, reunidos na ponta do ramo entre folhas simples.
+6|fruit,leaf|Ramos de Guapira opposita com folhas opostas e conjuntos de antocarpos escuros sustentados por eixos avermelhados.
+9|leaf|Folhas largas de Guapira pernambucensis quase sem pecíolo, mostrando o contorno arredondado e a inserção no ramo.
+13|fruit,leaf|Antocarpos escuros de Guapira pernambucensis sobre eixos rosados; as marcas circulares mostram pontos onde outras estruturas já caíram.
+17|leaf|Folhas de Alchornea triplinervia com três nervuras principais evidentes e margens finamente denteadas.
+20|flower,leaf|Inflorescência de Alchornea triplinervia ainda em botão, junto a folhas jovens na extremidade do ramo.
+21|flower,leaf|Inflorescências alongadas de Alchornea glandulosa junto às folhas largas, com numerosas estruturas florais pequenas.
+23|fruit,leaf|Conjunto de cápsulas verdes e lobadas de Alchornea glandulosa, ainda presas aos eixos da infrutescência.
+24|leaf|Folha larga de Alchornea glandulosa apoiada na mão, mostrando a base, as nervuras principais e os dentes da margem.
+28|fruit|Cápsulas verdes de Croton floribundus em detalhe, com superfície saliente e estruturas persistentes no ápice.
+30|leaf|Ramo de Croton floribundus com folhas alongadas; a vista permite comparar a face superior com partes mais claras da face inferior.
+104|fruit,leaf|Frutos de Allophylus edulis passando do verde ao alaranjado e vermelho, ainda presos ao ramo entre folhas trifolioladas.
+36|leaf|Folha de Allophylus edulis formada por três folíolos de margem serrilhada, vista contra o fundo escuro da vegetação.
+38|fruit,seed|Frutos secos de Sapindus saponaria na mão; um deles aberto deixa ver a semente escura, arredondada e brilhante.
+39|leaf|Folhas compostas de Sapindus saponaria distribuídas ao longo do ramo, com folíolos alongados de margem inteira.
+43|flower,leaf|Inflorescências ramificadas de Sapindus saponaria com muitas flores pequenas e claras, acima das folhas compostas.
+47|bark|Tronco de Zanthoxylum rhoifolium visto de baixo, com acúleos grandes e cônicos projetados da superfície da casca.
+115|leaf|Folha composta de Zanthoxylum rhoifolium, mostrando os folíolos ao longo do eixo e o contorno de suas margens.
+51|wholePlant,flower,leaf|Cattleya forbesii crescendo sobre o tronco de uma árvore, com folhas espessas e flores claras acima do conjunto de caules.
+56|flower|Flor de Cattleya forbesii com sépalas e pétalas acastanhadas e labelo claro a rosado, vista de frente sobre o tronco.
+59|flower|Flor de Brassavola tuberculata com peças estreitas e alongadas e um labelo branco mais largo.
+60|wholePlant,flower,leaf|Touceira de Brassavola tuberculata sobre o tronco, mostrando as folhas estreitas e as flores claras projetadas para fora.
+69|flower|Flores de Encyclia patens com sépalas e pétalas esverdeadas a acastanhadas e labelo claro, organizadas ao longo da haste.
+70|flower,leaf|Conjunto florido de Encyclia patens junto às folhas alongadas, mostrando a ramificação e a distribuição das flores.
+73|flower,leaf|Flores de Miltonia spectabilis com sépalas e pétalas claras e labelo amplo, rosado e marcado de púrpura, entre folhas alongadas.
+74|flower,leaf|Flor de Miltonia spectabilis vista de frente, com destaque para o labelo largo e para as folhas estreitas ao redor.
+76|flower|Flor de Gomesa flexuosa em detalhe, com labelo amarelo amplo e manchas castanhas nas outras partes florais.
+79|flower|Inflorescência de Gomesa flexuosa com numerosas flores amarelas, mostrando a repetição dos labelos largos ao longo dos ramos.
+82|wholePlant,flower,leaf|Gomesa flexuosa com folhas na base e inflorescências ramificadas de flores amarelas acima da folhagem.
+83|flower|Inflorescência ereta de Sacoila lanceolata com flores tubulares avermelhadas agrupadas no alto da haste.
+86|flower|Flores de Sacoila lanceolata em detalhe, com coloração salmão e pelos visíveis na haste, nos botões e nas peças florais.
+87|wholePlant,flower|Sacoila lanceolata crescendo no solo entre gramíneas, com uma haste floral ereta e sem folhas basais evidentes nesta fase.
+90|flower|Flor de Vanilla chamissonis com sépalas e pétalas verde-amareladas e labelo claro, cuja abertura deixa ver a região interna amarela.
+91|flower,leaf|Ramos de Vanilla chamissonis apoiados na vegetação, com folhas espessas e flores em diferentes fases de abertura.
+97|wholePlant,flower,leaf|Maxillaria picta em touceira, com folhas alongadas e numerosas flores pequenas e manchadas próximas à base das folhas.
+98|flower|Flor de Maxillaria picta em detalhe, com peças amareladas a castanhas e manchas avermelhadas sobre partes claras.

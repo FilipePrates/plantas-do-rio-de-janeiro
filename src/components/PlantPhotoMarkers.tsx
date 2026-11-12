@@ -5,9 +5,9 @@ import { markerLabels, markerPaths } from "../catalog.mjs";
 import type { PhotoMarker } from "../catalog.mjs";
 import { palette } from "../theme";
 
-export function PlantPhotoMarkers({ markers }: { markers: PhotoMarker[] }) {
+export function PlantPhotoMarkers({ markers, inline = false }: { markers: PhotoMarker[]; inline?: boolean }) {
   return (
-    <View style={styles.markers}>
+    <View style={inline ? styles.inlineMarkers : styles.markers}>
       {markers
         .filter(
           (marker): marker is Exclude<PhotoMarker, "unknown"> =>
@@ -44,6 +44,7 @@ export function PlantPhotoMarker({
   );
 }
 const styles = StyleSheet.create({
+  inlineMarkers: { flexDirection: "row", flexWrap: "wrap", gap: 4, maxWidth: "100%" },
   markers: {
     position: "absolute",
     left: 8,

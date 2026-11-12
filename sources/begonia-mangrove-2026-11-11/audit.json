@@ -1,0 +1,1601 @@
+{
+  "date": "2026-11-11",
+  "baselineSha256": "2a6ee0701dbd3b17f844a8a3fd99fba9afca7657eed7a5a889aeec14e5acfe9e",
+  "catalogSha256": "0699b989b15470da67c01ef16c65e5c6acf20b6663636eabe9b1fcc97b394954",
+  "addedPlantIds": [
+    "avicennia-germinans",
+    "andira-legalis",
+    "cordia-superba",
+    "schizolobium-parahyba",
+    "hymenaea-courbaril",
+    "byrsonima-sericea",
+    "ormosia-arborea",
+    "bauhinia-forficata",
+    "sideroxylon-obtusifolium",
+    "microgramma-vacciniifolia",
+    "phlebodium-decumanum",
+    "cyperus-ligularis",
+    "piper-aduncum",
+    "peperomia-obtusifolia",
+    "echinodorus-grandiflorus",
+    "begonia-arborescens",
+    "begonia-convolvulacea",
+    "begonia-cucullata",
+    "begonia-fischeri",
+    "begonia-hirtella",
+    "begonia-luxurians",
+    "begonia-maculata",
+    "begonia-reniformis",
+    "begonia-solananthera",
+    "begonia-ulmifolia",
+    "begonia-angulata"
+  ],
+  "updatedProfiles": [
+    {
+      "plantId": "avicennia-schaueriana",
+      "before": {
+        "commonName": "Mangue-preto",
+        "alternateNames": [],
+        "presentation": "profile",
+        "description": "Árvore de manguezal conhecida como mangue-preto. As folhas opostas e as raízes respiratórias que emergem do sedimento ajudam a reconhecer o gênero no ambiente.",
+        "identification": "Compare a face inferior clara das folhas e os conjuntos de flores pequenas. Para separá-la de A. germinans, o tratamento botânico usa também a seção do eixo da inflorescência e a distribuição de pelos na corola; raízes respiratórias não bastam.",
+        "ecology": "Ambientes registrados no Brasil: Manguezal; restingas; Vegetação Aquática. Esses registros não se restringem ao município do Rio. A ocorrência nativa está confirmada para o estado do Rio de Janeiro. Esta ficha mantém abrangência estadual, sem presumir presença silvestre no município.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Avicennia schaueriana (FB34115)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Avicennia_schaueriana",
+            "retrievedAt": "2026-10-17T19:30:38.616478Z"
+          },
+          {
+            "title": "ICMBio · Atlas dos Manguezais do Brasil (2018)",
+            "url": "https://www.gov.br/icmbio/pt-br/centrais-de-conteudo/atlas-dos-manguezais-do-brasil-pdf",
+            "retrievedAt": "2026-10-17T19:34:07.906640Z"
+          },
+          {
+            "title": "Acanthaceae no Parque Estadual Restinga de Bertioga (2019). Tratamento de Avicennia schaueriana.",
+            "url": "https://www.scielo.br/j/hoehnea/a/nH8vVJMgVnz9Fjp79JN3VBK",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Proposta editorial de 17/10/2026. Inclui o manguezal e suas raízes respiratórias no guia. Nome popular, identificação e fotos aguardam revisão humana. Evidência JBRJ estadual; não equivale a registro municipal. Seleção visual de 11/11/2026: texto original em rascunho; fotos ilustram a espécie, sem inferir ocorrência municipal ou comestibilidade. "
+      },
+      "after": {
+        "commonName": "Mangue-preto",
+        "alternateNames": [],
+        "presentation": "profile",
+        "description": "Mangue-preto de folhas simples e opostas, com a face inferior mais clara. Ao redor do tronco podem aparecer muitos pneumatóforos: raízes estreitas e verticais que emergem do sedimento. As flores pequenas ficam reunidas em inflorescências e precisam ser examinadas de perto para comparar as espécies de Avicennia.",
+        "identification": "Procure as folhas em pares e o contraste entre suas duas faces. As raízes respiratórias ajudam a reconhecer o gênero, mas também estão presentes em A. germinans. Para separar as duas espécies, o tratamento botânico utiliza caracteres do eixo da inflorescência e da pilosidade da corola. A cor da casca e o nome mangue-preto não bastam.",
+        "ecology": "Integra os manguezais fluminenses, incluindo localidades documentadas na Baía de Guanabara e em Guaratiba. Avicennia germinans também ocorre no estado, com destaque para o norte fluminense. A presença de uma espécie não deve ser inferida somente pelo nome mangue-preto ou pela posição da árvore em relação à água.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Avicennia schaueriana (FB34115)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Avicennia_schaueriana",
+            "retrievedAt": "2026-10-17T19:30:38.616478Z"
+          },
+          {
+            "title": "ICMBio · Atlas dos Manguezais do Brasil (2018)",
+            "url": "https://www.gov.br/icmbio/pt-br/centrais-de-conteudo/atlas-dos-manguezais-do-brasil-pdf",
+            "retrievedAt": "2026-10-17T19:34:07.906640Z"
+          },
+          {
+            "title": "Acanthaceae no Parque Estadual Restinga de Bertioga (2019). Tratamento de Avicennia schaueriana.",
+            "url": "https://www.scielo.br/j/hoehnea/a/nH8vVJMgVnz9Fjp79JN3VBK",
+            "retrievedAt": "2026-11-11"
+          },
+          {
+            "title": "Documentação complementar — Avicennia schaueriana",
+            "url": "https://www.inea.rj.gov.br/wp-content/uploads/2022/12/Atlas-das-UCs-estaduais-RJ.pdf",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Proposta editorial de 17/10/2026. Inclui o manguezal e suas raízes respiratórias no guia. Nome popular, identificação e fotos aguardam revisão humana. Evidência JBRJ estadual; não equivale a registro municipal. Seleção visual de 11/11/2026: texto original em rascunho; fotos ilustram a espécie, sem inferir ocorrência municipal ou comestibilidade.  Revisão de 11/11/2026: texto específico ampliado; ficha em rascunho para revisão humana. Todas as fotografias, legendas, marcadores, estados de revisão, direitos e ordem da galeria anteriores foram preservados."
+      }
+    },
+    {
+      "plantId": "conocarpus-erectus",
+      "before": {
+        "commonName": "Mangue-de-botão",
+        "alternateNames": [
+          "mangue-negro",
+          "amora-do-mar"
+        ],
+        "presentation": null,
+        "description": "Arbusto ou árvore costeira, presente em restingas e áreas de manguezal. As flores e os frutos se agrupam em pequenas cabeças arredondadas, lembrando botões.",
+        "identification": "Procure os conjuntos globosos de flores ou frutos nas pontas dos ramos. Esse arranjo ajuda a distingui-lo dos outros mangues do guia.",
+        "ecology": "Manguezal; Restinga.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Conocarpus erectus (FB6910)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Conocarpus_erectus",
+            "retrievedAt": "2026-10-17T19:30:40.999313Z"
+          },
+          {
+            "title": "Rodriguésia · Flora do Espírito Santo: Terminaliinae",
+            "url": "https://new.scielo.br/j/rod/a/DvFwPgW7fTSdzzcb4yTjkFp/?ilang=es&lang=pt",
+            "retrievedAt": "2026-10-17T19:34:07.906640Z"
+          }
+        ],
+        "reviewStatus": "reviewed",
+        "curationNotes": "Proposta editorial de 17/10/2026. Transição entre manguezal e restinga; inflorescências e frutos em cabeças globosas. Nome popular, identificação e fotos aguardam revisão humana. Evidência JBRJ estadual; não equivale a registro municipal."
+      },
+      "after": {
+        "commonName": "Mangue-de-botão",
+        "alternateNames": [
+          "mangue-negro",
+          "amora-do-mar"
+        ],
+        "presentation": "profile",
+        "description": "Mangue-de-botão de folhas simples e alternas, com pequenas glândulas próximas à base da lâmina. As flores e os frutos ficam reunidos em cabeças compactas e arredondadas, responsáveis pelo nome popular. Pode apresentar porte de arbusto ou de árvore na vegetação costeira.",
+        "identification": "Observe as folhas alternas ao longo do ramo e as cabeças de frutos semelhantes a pequenos botões. Essa combinação o diferencia de Laguncularia racemosa, que tem folhas opostas e frutos separados ao longo de inflorescências alongadas. Os botões reprodutivos inteiros são conjuntos de muitas flores ou frutos, não uma única semente.",
+        "ecology": "É uma espécie associada a margens de manguezais e restingas, frequentemente em terrenos com menor influência direta da inundação. Integra a comparação do mangue com sua vegetação de transição. Sua inclusão não significa que ocupe o mesmo ambiente ou tenha a mesma tolerância à inundação que Rhizophora e Avicennia.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Conocarpus erectus (FB6910)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Conocarpus_erectus",
+            "retrievedAt": "2026-10-17T19:30:40.999313Z"
+          },
+          {
+            "title": "Rodriguésia · Flora do Espírito Santo: Terminaliinae",
+            "url": "https://new.scielo.br/j/rod/a/DvFwPgW7fTSdzzcb4yTjkFp/?ilang=es&lang=pt",
+            "retrievedAt": "2026-10-17T19:34:07.906640Z"
+          },
+          {
+            "title": "Tratamento botânico específico — Conocarpus erectus",
+            "url": "https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/67/2024/10/Flora-of-Florida-Franck-31-Oct-2024.pdf",
+            "retrievedAt": "2026-11-11"
+          },
+          {
+            "title": "Documentação complementar — Conocarpus erectus",
+            "url": "https://www.inea.rj.gov.br/wp-content/uploads/2022/12/Atlas-das-UCs-estaduais-RJ.pdf",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Proposta editorial de 17/10/2026. Transição entre manguezal e restinga; inflorescências e frutos em cabeças globosas. Nome popular, identificação e fotos aguardam revisão humana. Evidência JBRJ estadual; não equivale a registro municipal. Revisão de 11/11/2026: texto específico ampliado; ficha em rascunho para revisão humana. Todas as fotografias, legendas, marcadores, estados de revisão, direitos e ordem da galeria anteriores foram preservados."
+      }
+    },
+    {
+      "plantId": "laguncularia-racemosa",
+      "before": {
+        "commonName": "Mangue-branco",
+        "alternateNames": [
+          "mange-mariso",
+          "mangue-vermelho",
+          "tinteiro",
+          "mangue",
+          "mangue-amarelo",
+          "mangue-de-sapateiro",
+          "mangue-manso"
+        ],
+        "presentation": null,
+        "description": "Arbusto ou árvore dos manguezais e das restingas. Faz parte, com o mangue-vermelho e o mangue-preto, da vegetação de mangue registrada na Baía de Guanabara.",
+        "identification": "Compare as folhas e os ramos com os dos outros mangues. O ambiente ajuda a orientar a observação, mas não basta para identificar a espécie.",
+        "ecology": "Manguezal; Restinga.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Laguncularia racemosa (FB6912)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Laguncularia_racemosa",
+            "retrievedAt": "2026-10-17T19:30:40.047895Z"
+          },
+          {
+            "title": "ICMBio · Estação Ecológica da Guanabara · diagnóstico da vegetação",
+            "url": "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/esec-da-guanabara/arquivos/diagnostico_vegetacao_ga.pdf",
+            "retrievedAt": "2026-10-17T19:34:07.906640Z"
+          }
+        ],
+        "reviewStatus": "reviewed",
+        "curationNotes": "Proposta editorial de 17/10/2026. Completa a comparação entre os três mangues registrados na Baía de Guanabara. Nome popular, identificação e fotos aguardam revisão humana. Evidência JBRJ estadual; não equivale a registro municipal."
+      },
+      "after": {
+        "commonName": "Mangue-branco",
+        "alternateNames": [
+          "mange-mariso",
+          "mangue-vermelho",
+          "tinteiro",
+          "mangue",
+          "mangue-amarelo",
+          "mangue-de-sapateiro",
+          "mangue-manso"
+        ],
+        "presentation": "profile",
+        "description": "Mangue-branco de folhas simples e opostas, geralmente arredondadas nas extremidades. No pecíolo, perto da base da lâmina, há um par de glândulas visíveis de perto. As flores pequenas e claras ficam em inflorescências alongadas, seguidas por frutos verdes a castanhos com estrias longitudinais.",
+        "identification": "Procure as duas glândulas no pecíolo e confira se as folhas nascem em pares. Conocarpus erectus também apresenta glândulas, mas tem folhas alternas e frutos reunidos em cabeças arredondadas. As folhas de Avicennia costumam contrastar mais entre a face superior verde e a inferior clara. Nomes populares variam regionalmente e não substituem esses caracteres.",
+        "ecology": "Compõe manguezais fluminenses e ocorre também na transição com restingas. Está documentada na vegetação de mangue da Baía de Guanabara. A distribuição em relação à maré depende das condições locais; a espécie não ocupa obrigatoriamente uma faixa fixa em todos os estuários.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Laguncularia racemosa (FB6912)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Laguncularia_racemosa",
+            "retrievedAt": "2026-10-17T19:30:40.047895Z"
+          },
+          {
+            "title": "ICMBio · Estação Ecológica da Guanabara · diagnóstico da vegetação",
+            "url": "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/esec-da-guanabara/arquivos/diagnostico_vegetacao_ga.pdf",
+            "retrievedAt": "2026-10-17T19:34:07.906640Z"
+          },
+          {
+            "title": "Tratamento botânico específico — Laguncularia racemosa",
+            "url": "https://panamabiota.org/stri/taxa/index.php?clid=90&taxauthid=1&tid=65953",
+            "retrievedAt": "2026-11-11"
+          },
+          {
+            "title": "Documentação complementar — Laguncularia racemosa",
+            "url": "https://www.inea.rj.gov.br/wp-content/uploads/2022/12/Atlas-das-UCs-estaduais-RJ.pdf",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Proposta editorial de 17/10/2026. Completa a comparação entre os três mangues registrados na Baía de Guanabara. Nome popular, identificação e fotos aguardam revisão humana. Evidência JBRJ estadual; não equivale a registro municipal. Revisão de 11/11/2026: texto específico ampliado; ficha em rascunho para revisão humana. Todas as fotografias, legendas, marcadores, estados de revisão, direitos e ordem da galeria anteriores foram preservados."
+      }
+    },
+    {
+      "plantId": "dalbergia-nigra",
+      "before": {
+        "commonName": "Jacarandá-da-bahia",
+        "alternateNames": [
+          "jacarandá-caviuna"
+        ],
+        "presentation": "checklist",
+        "description": "Árvore nativa da Mata Atlântica.",
+        "identification": "",
+        "ecology": "Florestas estacionais semideciduais; Florestas úmidas.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Dalbergia nigra (FB22915)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Dalbergia_nigra",
+            "retrievedAt": "2026-10-16T22:03:54Z"
+          },
+          {
+            "title": "SMAC (2022). Lista de espécies da flora nativa com ocorrência no município. Anexo I, Resolução 074 de 19/08/2022.",
+            "url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/5436",
+            "retrievedAt": "2026-10-24"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas."
+      },
+      "after": {
+        "commonName": "Jacarandá-da-bahia",
+        "alternateNames": [
+          "jacarandá-caviuna",
+          "Jacarandá-caviúna",
+          "Jacarandá-preto"
+        ],
+        "presentation": "profile",
+        "description": "Árvore nativa da Mata Atlântica, de folhas compostas com numerosos folíolos pequenos e oblongos. Os frutos são secos, achatados e indeiscentes, com uma região mais espessa que abriga a semente e uma parte fina ao redor. É uma Fabaceae; o nome jacarandá também é usado para árvores de outros grupos.",
+        "identification": "Procure o folíolo terminal, os folíolos de margem inteira e suas pontas arredondadas a levemente recortadas. Nos frutos, observe a posição aproximadamente central da região seminífera e a lâmina achatada ao redor. Outras Dalbergia e outros gêneros podem ter frutos alados semelhantes, por isso folhas e frutos precisam ser examinados em conjunto.",
+        "ecology": "Integra florestas ombrófilas e estacionais semideciduais da Mata Atlântica. É também encontrado em plantios, por isso o contexto de cada exemplar deve ser considerado. No interior da mata, folhas e frutos podem ficar acima do alcance do observador; material caído ajuda na comparação quando sua origem pode ser acompanhada até a árvore.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Dalbergia nigra (FB22915)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Dalbergia_nigra",
+            "retrievedAt": "2026-10-16T22:03:54Z"
+          },
+          {
+            "title": "SMAC (2022). Lista de espécies da flora nativa com ocorrência no município. Anexo I, Resolução 074 de 19/08/2022.",
+            "url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/5436",
+            "retrievedAt": "2026-10-24"
+          },
+          {
+            "title": "Tratamento botânico específico — Dalbergia nigra",
+            "url": "https://www.scielo.br/j/rod/a/S9DF6tVJGhBtFvDR5Hc4ZnS/?lang=pt",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas. Revisão de 11/11/2026: texto específico ampliado; ficha em rascunho para revisão humana. Todas as fotografias, legendas, marcadores, estados de revisão, direitos e ordem da galeria anteriores foram preservados."
+      }
+    },
+    {
+      "plantId": "cedrela-fissilis",
+      "before": {
+        "commonName": "Cedrela fissilis",
+        "alternateNames": [],
+        "presentation": "checklist",
+        "description": "Espécie nativa com registro municipal publicado nas fontes abaixo. Esta entrada de referência permite consultar o nome e sua documentação; o guia de identificação e as fotografias ainda estão em preparação.",
+        "identification": "",
+        "ecology": "",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cedrela fissilis (FB9990)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cedrela_fissilis",
+            "retrievedAt": "2026-10-24"
+          },
+          {
+            "title": "SMAC (2022). Lista de espécies da flora nativa com ocorrência no município. Anexo I, Resolução 074 de 19/08/2022.",
+            "url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/5436",
+            "retrievedAt": "2026-10-24"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Candidata da planilha, conferida pelo nome exato na fonte municipal e na Flora e Funga do Brasil. Entrada em revisão; registros históricos não comprovam presença atual. Nenhuma categoria de ameaça atual foi inferida."
+      },
+      "after": {
+        "commonName": "Cedro-rosa",
+        "alternateNames": [
+          "Cedro",
+          "Cedro-branco"
+        ],
+        "presentation": "profile",
+        "description": "Árvore de grande porte, com folhas compostas pinadas e folíolos alongados. Pode perder as folhas em parte do ano. O tronco adulto apresenta casca fissurada, e as flores pequenas ficam reunidas em inflorescências. Os frutos são cápsulas lenhosas que se abrem em valvas, liberando sementes aladas.",
+        "identification": "Observe a folha inteira para distinguir seus folíolos de folhas simples agrupadas num ramo. Examine a face inferior, a nervura central e a pilosidade. Cápsulas abertas de aspecto estrelado e sementes com asa ajudam a reconhecer Cedrela. O nome cedro também é aplicado a outras árvores; porte, cor da madeira ou cheiro isolados não confirmam a espécie.",
+        "ecology": "Participa de florestas da Mata Atlântica e de outras formações brasileiras, incluindo florestas estacionais. A queda de folhas varia com as condições ambientais. Durante a frutificação, cápsulas abertas podem permanecer visíveis na copa; sementes e frutos caídos permitem observar detalhes pouco acessíveis no alto da árvore.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cedrela fissilis (FB9990)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cedrela_fissilis",
+            "retrievedAt": "2026-10-24"
+          },
+          {
+            "title": "SMAC (2022). Lista de espécies da flora nativa com ocorrência no município. Anexo I, Resolução 074 de 19/08/2022.",
+            "url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/5436",
+            "retrievedAt": "2026-10-24"
+          },
+          {
+            "title": "Tratamento botânico específico — Cedrela fissilis",
+            "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/item/231687/1/Especies-Arboreas-Brasileiras-vol-1-Cedro.pdf",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Candidata da planilha, conferida pelo nome exato na fonte municipal e na Flora e Funga do Brasil. Entrada em revisão; registros históricos não comprovam presença atual. Nenhuma categoria de ameaça atual foi inferida. Revisão de 11/11/2026: texto específico ampliado; ficha em rascunho para revisão humana. Todas as fotografias, legendas, marcadores, estados de revisão, direitos e ordem da galeria anteriores foram preservados."
+      }
+    },
+    {
+      "plantId": "rhizophora-mangle",
+      "before": {
+        "commonName": "Mangue-vermelho",
+        "alternateNames": [],
+        "presentation": null,
+        "description": "Árvore de manguezal com raízes que se arqueiam do tronco e dos ramos até a lama. Seus propágulos alongados começam a se desenvolver ainda presos à planta.",
+        "identification": "Observe as raízes de sustentação, as folhas em pares e os propágulos pendentes. Estes últimos são plântulas em desenvolvimento, não vagens.",
+        "ecology": "Manguezal; Restinga; Vegetação aquática.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Rhizophora mangle (FB13821)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Rhizophora_mangle",
+            "retrievedAt": "2026-10-17T19:30:37.067430Z"
+          },
+          {
+            "title": "Rodriguésia · Flora do Rio de Janeiro: Rhizophoraceae (2017)",
+            "url": "https://new.scielo.br/j/rod/a/HCHdStzTNRypz8Pjvnd8vwL/?lang=pt",
+            "retrievedAt": "2026-10-17T19:34:07.906640Z"
+          }
+        ],
+        "reviewStatus": "reviewed",
+        "curationNotes": "Proposta editorial de 17/10/2026. Raízes de sustentação e propágulos: comparação com os outros mangues. Nome popular, identificação e fotos aguardam revisão humana. Evidência JBRJ estadual; não equivale a registro municipal."
+      },
+      "after": {
+        "commonName": "Mangue-vermelho",
+        "alternateNames": [],
+        "presentation": "profile",
+        "description": "Mangue-vermelho de raízes de sustentação que partem do tronco e dos ramos e se arqueiam até o sedimento. As folhas são simples, opostas e de margem inteira. Os propágulos alongados começam a se desenvolver ainda ligados à planta-mãe e podem ficar pendurados entre os ramos.",
+        "identification": "Observe o sistema de raízes arqueadas e compare com os pequenos pneumatóforos verticais de Avicennia. Examine também as folhas em pares e os propágulos compridos. Estes são plântulas em desenvolvimento, não vagens nem raízes isoladas penduradas nos galhos. A arquitetura das raízes pode estar menos evidente em indivíduos jovens.",
+        "ecology": "É uma das principais árvores dos manguezais do Rio de Janeiro, com registros em diferentes estuários e baías. Cresce sob influência das marés e contribui para a estrutura física do manguezal. A composição da vegetação e a posição de cada espécie variam entre locais; uma sequência rígida de faixas não descreve todos os mangues.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Rhizophora mangle (FB13821)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Rhizophora_mangle",
+            "retrievedAt": "2026-10-17T19:30:37.067430Z"
+          },
+          {
+            "title": "Rodriguésia · Flora do Rio de Janeiro: Rhizophoraceae (2017)",
+            "url": "https://new.scielo.br/j/rod/a/HCHdStzTNRypz8Pjvnd8vwL/?lang=pt",
+            "retrievedAt": "2026-10-17T19:34:07.906640Z"
+          },
+          {
+            "title": "Tratamento botânico específico — Rhizophora mangle",
+            "url": "https://floridadep.gov/sites/default/files/fg_man.pdf",
+            "retrievedAt": "2026-11-11"
+          },
+          {
+            "title": "Documentação complementar — Rhizophora mangle",
+            "url": "https://www.inea.rj.gov.br/wp-content/uploads/2022/12/Atlas-das-UCs-estaduais-RJ.pdf",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Proposta editorial de 17/10/2026. Raízes de sustentação e propágulos: comparação com os outros mangues. Nome popular, identificação e fotos aguardam revisão humana. Evidência JBRJ estadual; não equivale a registro municipal. Revisão de 11/11/2026: texto específico ampliado; ficha em rascunho para revisão humana. Todas as fotografias, legendas, marcadores, estados de revisão, direitos e ordem da galeria anteriores foram preservados."
+      }
+    },
+    {
+      "plantId": "clusia-fluminensis",
+      "before": {
+        "commonName": "Clúsia",
+        "alternateNames": [],
+        "presentation": null,
+        "description": "Arbusto ou árvore nativa de florestas úmidas e restingas.",
+        "identification": "",
+        "ecology": "Florestas úmidas; Restinga.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Clusia fluminensis (FB6834)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Clusia_fluminensis",
+            "retrievedAt": "2026-10-16T22:04:38Z"
+          }
+        ],
+        "reviewStatus": "reviewed",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas."
+      },
+      "after": {
+        "commonName": "Clúsia",
+        "alternateNames": [],
+        "presentation": "profile",
+        "description": "Arbusto ou pequena árvore de folhas opostas, espessas e de margem inteira. A folhagem pode formar copas densas na vegetação costeira. É uma espécie dioica: flores masculinas e femininas ocorrem em indivíduos diferentes. Os frutos são cápsulas que se abrem na maturação e expõem sementes com envoltório colorido.",
+        "identification": "Observe as folhas em pares, sua consistência e o formato da lâmina. Compare flores e frutos com os de outras Clusia da restinga, pois folhas grossas isoladas não distinguem todas as espécies. No fruto fechado, procure os estigmas persistentes no ápice; no fruto aberto, as partes coloridas junto às sementes não são pétalas.",
+        "ecology": "Integra restingas e formações florestais úmidas do litoral. Pode aparecer em vegetação aberta e em trechos mais arborizados, onde o porte muda com a disponibilidade de espaço e luz. Uma planta sem frutos pode ser masculina ou simplesmente estar fora da fase de frutificação; a ausência de fruto não resolve essa diferença.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Clusia fluminensis (FB6834)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Clusia_fluminensis",
+            "retrievedAt": "2026-10-16T22:04:38Z"
+          },
+          {
+            "title": "Tratamento específico — Clusia fluminensis",
+            "url": "https://www.museunacional.ufrj.br/hortobotanico/restinga/clusiafluminensis.html",
+            "retrievedAt": "2026-11-11"
+          },
+          {
+            "title": "Tratamento específico — Clusia fluminensis",
+            "url": "https://www.scielo.br/j/rod/a/8v5cF9cM6R48QnRhwwLHgTw/?lang=pt",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas. Complementação de 11/11/2026: descrição, identificação e ecologia específicas em rascunho. Fotos e direitos anteriores preservados."
+      }
+    },
+    {
+      "plantId": "cariniana-estrellensis",
+      "before": {
+        "commonName": "Jequitibá-branco",
+        "alternateNames": [
+          "bingueiro",
+          "cachimbeiro",
+          "coatingua",
+          "currimboque",
+          "estopa",
+          "estopeira",
+          "jequitibá",
+          "jequitibá-rei",
+          "jequitibá-rosa",
+          "mussambê",
+          "pau-de-cachimbo",
+          "pau-estopa"
+        ],
+        "presentation": null,
+        "description": "Árvore nativa da Mata Atlântica.",
+        "identification": "",
+        "ecology": "Florestas estacionais semideciduais; Florestas úmidas.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cariniana estrellensis (FB8541)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cariniana_estrellensis",
+            "retrievedAt": "2026-10-16T22:03:27Z"
+          }
+        ],
+        "reviewStatus": "reviewed",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas."
+      },
+      "after": {
+        "commonName": "Jequitibá-branco",
+        "alternateNames": [
+          "bingueiro",
+          "cachimbeiro",
+          "coatingua",
+          "currimboque",
+          "estopa",
+          "estopeira",
+          "jequitibá",
+          "jequitibá-rei",
+          "jequitibá-rosa",
+          "mussambê",
+          "pau-de-cachimbo",
+          "pau-estopa"
+        ],
+        "presentation": "profile",
+        "description": "Jequitibá-branco de grande porte, folhas simples com margem serrada e frutos lenhosos em forma de pequeno recipiente alongado. O fruto é um pixídio: uma cápsula cuja tampa se desprende, deixando uma abertura circular. As sementes possuem asas que auxiliam sua dispersão pelo vento.",
+        "identification": "Examine a borda da abertura do fruto, que apresenta projeções dentadas, e compare folhas e pilosidade do pecíolo. Esses caracteres ajudam a distingui-lo de Cariniana legalis e de outros jequitibás. Um recipiente seco encontrado no chão deve ser associado à árvore de origem; frutos lenhosos semelhantes ocorrem em outras Lecythidaceae.",
+        "ecology": "Integra florestas ombrófilas e estacionais semideciduais. Árvores adultas podem emergir acima de outras copas, dificultando a observação das flores e folhas do chão. Frutos caídos permitem examinar a abertura e a parede lenhosa; a fotografia desta ficha mostra esse detalhe e não pretende representar a árvore inteira.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cariniana estrellensis (FB8541)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cariniana_estrellensis",
+            "retrievedAt": "2026-10-16T22:03:27Z"
+          },
+          {
+            "title": "Tratamento específico — Cariniana estrellensis",
+            "url": "https://new.scielo.br/j/rod/a/rPgfKPNzNnPs5wBrnZ8HPBq/?ilang=en&lang=en",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas. Complementação de 11/11/2026: descrição, identificação e ecologia específicas em rascunho. Fotos e direitos anteriores preservados."
+      }
+    },
+    {
+      "plantId": "eugenia-brasiliensis",
+      "before": {
+        "commonName": "Grumixama",
+        "alternateNames": [
+          "Grumixameira",
+          "Grumixaba",
+          "Cumbixaba",
+          "Ibaporoiti"
+        ],
+        "presentation": null,
+        "description": "Árvore da Mata Atlântica conhecida como grumixama. Seus frutos podem ser roxos ou amarelos, por isso a cor não deve ser usada como único critério de reconhecimento.",
+        "identification": "",
+        "ecology": "Florestas estacionais semideciduais; Florestas úmidas; Florestas com araucárias; Restinga.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Eugenia brasiliensis (FB10359)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Eugenia_brasiliensis",
+            "retrievedAt": "2026-10-16T22:01:43Z"
+          },
+          {
+            "title": "Embrapa · Eugenia brasiliensis: variedades de frutos roxos e amarelos",
+            "url": "https://www.bdpa.cnptia.embrapa.br/consulta/busca?b=pc&id=1061428",
+            "retrievedAt": "2026-10-17T19:34:07.906640Z"
+          },
+          {
+            "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+            "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+            "retrievedAt": "2026-10-24"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas.",
+        "photos": [
+          {
+            "id": "inat-190912038",
+            "fileName": "inat-190912038.jpeg",
+            "photoId": 190912038,
+            "observationId": 112998619,
+            "taxonId": 194547,
+            "taxonName": "Eugenia brasiliensis",
+            "creator": "Kahio Tiberio Mazon",
+            "license": "CC0-1.0",
+            "licenseCode": "cc0",
+            "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/190912038/large.jpeg",
+            "observationUrl": "https://www.inaturalist.org/observations/112998619",
+            "downloadedAt": "2026-10-16T22:19:03Z",
+            "sha256": "e4a0ba25754baf6f47af15110d9b80dc44103c3711f71cd5bc73a220cd6870fe",
+            "markers": [
+              "fruit",
+              "leaf"
+            ],
+            "caption": "Fruto escuro e arredondado, com sépalas persistentes junto ao pedicelo, entre folhas brilhantes.",
+            "reviewStatus": "draft"
+          },
+          {
+            "id": "inat-677119181",
+            "fileName": "inat-677119181.jpg",
+            "photoId": 677119181,
+            "observationId": 370640586,
+            "taxonId": 194547,
+            "taxonName": "Eugenia brasiliensis",
+            "creator": "Paula Romano",
+            "license": "CC0-1.0",
+            "licenseCode": "cc0",
+            "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/677119181/large.jpg",
+            "observationUrl": "https://www.inaturalist.org/observations/370640586",
+            "downloadedAt": "2026-10-16T22:19:05Z",
+            "sha256": "f3936f05cfd95ba5abe2bd8a812b0cf907108d80d49bbb20d1d24f600cf0ae3d",
+            "markers": [
+              "fruit"
+            ],
+            "caption": "Frutos avermelhados, com sépalas persistentes junto ao pedicelo, entre folhas alongadas.",
+            "reviewStatus": "draft"
+          },
+          {
+            "id": "inat-596458352",
+            "fileName": "inat-596458352.jpg",
+            "photoId": 596458352,
+            "observationId": 329088767,
+            "taxonId": 194547,
+            "taxonName": "Eugenia brasiliensis",
+            "creator": "Paula Romano",
+            "license": "CC0-1.0",
+            "licenseCode": "cc0",
+            "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/596458352/large.jpg",
+            "observationUrl": "https://www.inaturalist.org/observations/329088767",
+            "downloadedAt": "2026-10-17T19:41:26.601643Z",
+            "sha256": "80dfc7c3f98bd185817ca915755cfd035cd44c738c7b9277dc72db252dc45533",
+            "markers": [
+              "wholePlant"
+            ],
+            "caption": "Vista da árvore, com o tronco e o contorno da copa.",
+            "reviewStatus": "reviewed"
+          }
+        ]
+      },
+      "after": {
+        "commonName": "Grumixama",
+        "alternateNames": [
+          "Grumixameira",
+          "Grumixaba",
+          "Cumbixaba",
+          "Ibaporoiti"
+        ],
+        "presentation": "profile",
+        "description": "Grumixama de folhas simples, opostas, firmes e brilhantes. Produz flores claras com numerosos estames, seguidas por frutos arredondados. Existem formas de frutos maduros roxos e amarelos; a cor isolada não deve ser usada para reconhecer a espécie. Os lobos do cálice permanecem visíveis na extremidade do fruto.",
+        "identification": "Compare as folhas em pares, as nervuras laterais e a nervura próxima à margem. Nos frutos, observe o cálice persistente no lado oposto ao pedicelo. Outras Eugenia também possuem frutos arredondados e folhas semelhantes; a identificação precisa reunir caracteres da folhagem e das estruturas reprodutivas, sem depender apenas da cor ou do nome popular.",
+        "ecology": "É nativa da Mata Atlântica, em ambientes florestais e restingas. Estudos com plantas do Rio compararam folhas de floresta e de restinga e encontraram diferenças relacionadas ao ambiente; uma folha mais espessa não indica automaticamente outra espécie. Também é cultivada, de modo que o local de uma foto deve ser considerado ao interpretar a ocorrência.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Eugenia brasiliensis (FB10359)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Eugenia_brasiliensis",
+            "retrievedAt": "2026-10-16T22:01:43Z"
+          },
+          {
+            "title": "Embrapa · Eugenia brasiliensis: variedades de frutos roxos e amarelos",
+            "url": "https://www.bdpa.cnptia.embrapa.br/consulta/busca?b=pc&id=1061428",
+            "retrievedAt": "2026-10-17T19:34:07.906640Z"
+          },
+          {
+            "title": "Coelho, R. A. (2017). Myrtaceae no município do Rio de Janeiro. UFRRJ. Apêndice 1.",
+            "url": "https://rima.ufrrj.br/jspui/bitstream/20.500.14407/5282/1/MONOGRAFIA%20-%20Rodolpho%20Afonso%20Coelho%282017-II%29.pdf",
+            "retrievedAt": "2026-10-24"
+          },
+          {
+            "title": "Tratamento específico — Eugenia brasiliensis",
+            "url": "https://www.scielo.br/j/rbfar/a/Ft6XPmfwqdzCs8sGjJJzVpw/?lang=pt",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas. Complementação de 11/11/2026: descrição, identificação e ecologia específicas em rascunho. Fotos e direitos anteriores preservados. Duas legendas de grumixama corrigidas após nova inspeção: sépalas no lado oposto ao pedicelo. Marcadores, arquivos, hashes e demais campos das fotos mantidos.",
+        "photos": [
+          {
+            "id": "inat-190912038",
+            "fileName": "inat-190912038.jpeg",
+            "photoId": 190912038,
+            "observationId": 112998619,
+            "taxonId": 194547,
+            "taxonName": "Eugenia brasiliensis",
+            "creator": "Kahio Tiberio Mazon",
+            "license": "CC0-1.0",
+            "licenseCode": "cc0",
+            "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/190912038/large.jpeg",
+            "observationUrl": "https://www.inaturalist.org/observations/112998619",
+            "downloadedAt": "2026-10-16T22:19:03Z",
+            "sha256": "e4a0ba25754baf6f47af15110d9b80dc44103c3711f71cd5bc73a220cd6870fe",
+            "markers": [
+              "fruit",
+              "leaf"
+            ],
+            "caption": "Fruto escuro e arredondado, com sépalas persistentes na extremidade oposta ao pedicelo, entre folhas brilhantes.",
+            "reviewStatus": "draft"
+          },
+          {
+            "id": "inat-677119181",
+            "fileName": "inat-677119181.jpg",
+            "photoId": 677119181,
+            "observationId": 370640586,
+            "taxonId": 194547,
+            "taxonName": "Eugenia brasiliensis",
+            "creator": "Paula Romano",
+            "license": "CC0-1.0",
+            "licenseCode": "cc0",
+            "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/677119181/large.jpg",
+            "observationUrl": "https://www.inaturalist.org/observations/370640586",
+            "downloadedAt": "2026-10-16T22:19:05Z",
+            "sha256": "f3936f05cfd95ba5abe2bd8a812b0cf907108d80d49bbb20d1d24f600cf0ae3d",
+            "markers": [
+              "fruit"
+            ],
+            "caption": "Frutos avermelhados, com sépalas persistentes na extremidade oposta ao pedicelo, entre folhas alongadas.",
+            "reviewStatus": "draft"
+          },
+          {
+            "id": "inat-596458352",
+            "fileName": "inat-596458352.jpg",
+            "photoId": 596458352,
+            "observationId": 329088767,
+            "taxonId": 194547,
+            "taxonName": "Eugenia brasiliensis",
+            "creator": "Paula Romano",
+            "license": "CC0-1.0",
+            "licenseCode": "cc0",
+            "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/596458352/large.jpg",
+            "observationUrl": "https://www.inaturalist.org/observations/329088767",
+            "downloadedAt": "2026-10-17T19:41:26.601643Z",
+            "sha256": "80dfc7c3f98bd185817ca915755cfd035cd44c738c7b9277dc72db252dc45533",
+            "markers": [
+              "wholePlant"
+            ],
+            "caption": "Vista da árvore, com o tronco e o contorno da copa.",
+            "reviewStatus": "reviewed"
+          }
+        ]
+      }
+    },
+    {
+      "plantId": "genipa-americana",
+      "before": {
+        "commonName": "Jenipapo",
+        "alternateNames": [
+          "genipapo"
+        ],
+        "presentation": null,
+        "description": "Arbusto ou árvore nativa de florestas úmidas e restingas.",
+        "identification": "",
+        "ecology": "Áreas alteradas; Cerrado; Matas ciliares e de galeria; Florestas de igapó; Florestas de terra firme; Florestas de várzea; Florestas estacionais deciduais; Florestas estacionais perenifólias; Florestas estacionais semideciduais; Florestas úmidas; Restinga.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Genipa americana (FB14045)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Genipa_americana",
+            "retrievedAt": "2026-10-16T22:04:34Z"
+          }
+        ],
+        "reviewStatus": "reviewed",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas."
+      },
+      "after": {
+        "commonName": "Jenipapo",
+        "alternateNames": [
+          "genipapo"
+        ],
+        "presentation": "profile",
+        "description": "Árvore de folhas grandes e opostas, com nervuras laterais evidentes. As flores são claras a amareladas e os frutos, arredondados a ovais, tornam-se castanhos na maturação. O jenipapo possui muitas sementes no interior de um fruto carnoso, diferente das cápsulas secas de outras árvores do guia.",
+        "identification": "Observe as folhas em pares e as estípulas entre as bases dos pecíolos, uma característica útil de Rubiaceae. Compare a forma e a textura dos frutos ainda presos à planta. Folhas largas sem flores ou frutos podem se parecer com as de outras árvores; tamanho da folha ou nome jenipapo, isoladamente, não confirmam a identificação.",
+        "ecology": "Está registrado em diferentes formações brasileiras, incluindo matas ciliares, florestas úmidas e restingas. Pode ser encontrado em ambientes periodicamente úmidos e também em cultivo. A ampla distribuição da espécie não significa que tenha a mesma frequência ou ocupe todos os tipos de terreno em uma localidade.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Genipa americana (FB14045)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Genipa_americana",
+            "retrievedAt": "2026-10-16T22:04:34Z"
+          },
+          {
+            "title": "Tratamento específico — Genipa americana",
+            "url": "https://sweetgum.nybg.org/science/world-flora/monographs-details/?irn=21702",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas. Complementação de 11/11/2026: descrição, identificação e ecologia específicas em rascunho. Fotos e direitos anteriores preservados."
+      }
+    },
+    {
+      "plantId": "cecropia-glaziovii",
+      "before": {
+        "commonName": "Embaúba-vermelha",
+        "alternateNames": [],
+        "presentation": null,
+        "description": "Árvore nativa da Mata Atlântica.",
+        "identification": "",
+        "ecology": "Florestas estacionais semideciduais; Florestas úmidas; Florestas com araucárias.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cecropia glaziovii (FB15039)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cecropia_glaziovii",
+            "retrievedAt": "2026-10-16T22:04:18Z"
+          }
+        ],
+        "reviewStatus": "reviewed",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas."
+      },
+      "after": {
+        "commonName": "Embaúba-vermelha",
+        "alternateNames": [],
+        "presentation": "profile",
+        "description": "Embaúba de folhas grandes, peltadas e profundamente divididas em lobos. O pecíolo se insere na face inferior da lâmina, afastado da margem. O tronco e a ramificação relativamente abertos deixam as folhas concentradas nas pontas dos ramos. As estruturas reprodutivas se agrupam em espigas.",
+        "identification": "Examine uma folha completa, sua face inferior e a posição de inserção do pecíolo. A superfície superior verde contrasta com a pilosidade mais clara de baixo. Compare com Cecropia hololeuca, de aparência mais esbranquiçada, mas não use apenas a cor numa fotografia: luz, idade da folha, pilosidade e caracteres reprodutivos precisam ser considerados em conjunto.",
+        "ecology": "É uma árvore pioneira da Mata Atlântica, associada à entrada de luz em clareiras, bordas e trechos em regeneração. Também há documentação em formações de restinga próximas a encostas florestadas. A arquitetura aberta ajuda a localizar embaúbas na paisagem, mas outras Cecropia podem apresentar silhueta semelhante.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cecropia glaziovii (FB15039)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cecropia_glaziovii",
+            "retrievedAt": "2026-10-16T22:04:18Z"
+          },
+          {
+            "title": "Tratamento específico — Cecropia glaziovii",
+            "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1139867/1/Especies-Arboreas-Brasileiras-vol-4-Embauba-Vermelha.pdf",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas. Complementação de 11/11/2026: descrição, identificação e ecologia específicas em rascunho. Fotos e direitos anteriores preservados."
+      }
+    },
+    {
+      "plantId": "cecropia-hololeuca",
+      "before": {
+        "commonName": "Embaúba-prateada",
+        "alternateNames": [
+          "embaúba-branca",
+          "embaubaçu",
+          "embaúba-preta"
+        ],
+        "presentation": null,
+        "description": "Árvore nativa da Mata Atlântica.",
+        "identification": "",
+        "ecology": "Florestas estacionais semideciduais; Florestas úmidas; Florestas com araucárias.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cecropia hololeuca (FB15040)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cecropia_hololeuca",
+            "retrievedAt": "2026-10-16T22:04:18Z"
+          }
+        ],
+        "reviewStatus": "reviewed",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas."
+      },
+      "after": {
+        "commonName": "Embaúba-prateada",
+        "alternateNames": [
+          "embaúba-branca",
+          "embaubaçu",
+          "embaúba-preta"
+        ],
+        "presentation": "profile",
+        "description": "Embaúba de folhas grandes e profundamente lobadas, com revestimento de pelos claros que dá à copa o aspecto prateado. O pecíolo se prende à face inferior da lâmina. As infrutescências são conjuntos alongados formados por muitos frutos pequenos; não são vagens nem frutos únicos.",
+        "identification": "Compare as duas faces da folha e o revestimento claro, junto ao recorte dos lobos e à inserção do pecíolo. O aspecto prateado é uma pista útil na paisagem, porém outras embaúbas também têm a face inferior esbranquiçada. Folhas caídas e estruturas reprodutivas permitem conferir detalhes que não aparecem numa foto distante da copa.",
+        "ecology": "Ocorre em florestas da Mata Atlântica, incluindo formações ombrófilas e estacionais. Pode participar da regeneração em ambientes com abertura de luz. A galeria mostra uma folha e estruturas de infrutescência caídas: esses detalhes são complementares, mas não representam o porte de uma árvore adulta.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cecropia hololeuca (FB15040)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cecropia_hololeuca",
+            "retrievedAt": "2026-10-16T22:04:18Z"
+          },
+          {
+            "title": "Tratamento específico — Cecropia hololeuca",
+            "url": "https://www.embrapa.br/documents/1355054/26025431/SITE%2BARVORES_FICHA_14_Cecropia%2Bhololeuca.pdf/d96003a7-03b8-de4e-4631-a9b7d281793e",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas. Complementação de 11/11/2026: descrição, identificação e ecologia específicas em rascunho. Fotos e direitos anteriores preservados."
+      }
+    }
+  ],
+  "newPhotos": [
+    {
+      "plantId": "avicennia-germinans",
+      "scientificName": "Avicennia germinans",
+      "photoId": 311306691,
+      "bytes": 226131,
+      "licenseCode": "cc0",
+      "previewNumber": 4,
+      "visualInspection": true,
+      "caption": "Folhas opostas de mangue-preto, com pequenos cristais claros na superfície; a imagem mostra a lâmina e sua nervura central.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "avicennia-germinans",
+      "scientificName": "Avicennia germinans",
+      "photoId": 288503716,
+      "bytes": 333214,
+      "licenseCode": "cc-by",
+      "previewNumber": 6,
+      "visualInspection": true,
+      "caption": "Flores claras de mangue-preto reunidas na ponta do ramo, entre folhas verdes de margem inteira.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "avicennia-germinans",
+      "scientificName": "Avicennia germinans",
+      "photoId": 197480824,
+      "bytes": 538834,
+      "licenseCode": "cc-by",
+      "previewNumber": 7,
+      "visualInspection": true,
+      "caption": "Mangue-preto de copa densa e ramificada na margem da área alagada, visto no conjunto da paisagem.",
+      "markers": [
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "andira-legalis",
+      "scientificName": "Andira legalis",
+      "photoId": 684465183,
+      "bytes": 292171,
+      "licenseCode": "cc0",
+      "previewNumber": 8,
+      "visualInspection": true,
+      "caption": "Frutos castanhos de angelim-da-praia entre as folhas compostas; os folíolos se distribuem ao longo do eixo de cada folha.",
+      "markers": [
+        "fruit",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "cordia-superba",
+      "scientificName": "Cordia superba",
+      "photoId": 469096087,
+      "bytes": 201773,
+      "licenseCode": "cc0",
+      "previewNumber": 10,
+      "visualInspection": true,
+      "caption": "Frutos brancos de babosa-branca nas pontas dos ramos, junto às folhas verdes de nervuras marcadas.",
+      "markers": [
+        "fruit",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "cordia-superba",
+      "scientificName": "Cordia superba",
+      "photoId": 469781377,
+      "bytes": 241078,
+      "licenseCode": "cc-by",
+      "previewNumber": 15,
+      "visualInspection": true,
+      "caption": "Flor branca de babosa-branca, com corola ampla e enrugada, acompanhada de folhas simples.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "schizolobium-parahyba",
+      "scientificName": "Schizolobium parahyba",
+      "photoId": 173670613,
+      "bytes": 374639,
+      "licenseCode": "cc0",
+      "previewNumber": 16,
+      "visualInspection": true,
+      "caption": "Guapuruvu adulto com tronco alto e copa concentrada no alto; a vista destaca a arquitetura da árvore e a superfície do tronco.",
+      "markers": [
+        "wholePlant",
+        "bark"
+      ]
+    },
+    {
+      "plantId": "schizolobium-parahyba",
+      "scientificName": "Schizolobium parahyba",
+      "photoId": 580557350,
+      "bytes": 522513,
+      "licenseCode": "cc0",
+      "previewNumber": 18,
+      "visualInspection": true,
+      "caption": "Sementes de guapuruvu ao lado da parte papirácea do fruto, dispostas sobre uma superfície para mostrar suas formas.",
+      "markers": [
+        "fruit",
+        "seed"
+      ]
+    },
+    {
+      "plantId": "schizolobium-parahyba",
+      "scientificName": "Schizolobium parahyba",
+      "photoId": 464366589,
+      "bytes": 429133,
+      "licenseCode": "cc-by",
+      "previewNumber": 20,
+      "visualInspection": true,
+      "caption": "Copa de guapuruvu coberta por flores amarelas, vista de baixo contra o céu.",
+      "markers": [
+        "flower",
+        "wholePlant"
+      ]
+    },
+    {
+      "plantId": "hymenaea-courbaril",
+      "scientificName": "Hymenaea courbaril",
+      "photoId": 104414817,
+      "bytes": 592946,
+      "licenseCode": "cc0",
+      "previewNumber": 24,
+      "visualInspection": true,
+      "caption": "Folha de jatobá formada por dois folíolos assimétricos, de margem inteira e superfície verde brilhante.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "hymenaea-courbaril",
+      "scientificName": "Hymenaea courbaril",
+      "photoId": 119040093,
+      "bytes": 317485,
+      "licenseCode": "cc-by",
+      "previewNumber": 27,
+      "visualInspection": true,
+      "caption": "Fruto castanho de jatobá em detalhe, mostrando a casca rígida e a forma alongada.",
+      "markers": [
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "byrsonima-sericea",
+      "scientificName": "Byrsonima sericea",
+      "photoId": 594583964,
+      "bytes": 823126,
+      "licenseCode": "cc0",
+      "previewNumber": 30,
+      "visualInspection": true,
+      "caption": "Flores amarelas de murici na extremidade do ramo, com um besouro sobre a inflorescência e folhas ao redor.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "byrsonima-sericea",
+      "scientificName": "Byrsonima sericea",
+      "photoId": 487553452,
+      "bytes": 269647,
+      "licenseCode": "cc-by",
+      "previewNumber": 31,
+      "visualInspection": true,
+      "caption": "Ramo de murici com folhas simples e flores amarelas, mostrando o conjunto da inflorescência.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "ormosia-arborea",
+      "scientificName": "Ormosia arborea",
+      "photoId": 593803977,
+      "bytes": 690623,
+      "licenseCode": "cc0",
+      "previewNumber": 36,
+      "visualInspection": true,
+      "caption": "Frutos abertos de olho-de-cabra expõem sementes vermelhas e pretas; folhas compostas aparecem junto aos ramos.",
+      "markers": [
+        "fruit",
+        "seed",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "ormosia-arborea",
+      "scientificName": "Ormosia arborea",
+      "photoId": 423497394,
+      "bytes": 607652,
+      "licenseCode": "cc-by",
+      "previewNumber": 39,
+      "visualInspection": true,
+      "caption": "Folíolos de olho-de-cabra vistos de perto, com destaque para a face inferior, a nervura central e as nervuras laterais.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "bauhinia-forficata",
+      "scientificName": "Bauhinia forficata",
+      "photoId": 199761550,
+      "bytes": 173641,
+      "licenseCode": "cc0",
+      "previewNumber": 41,
+      "visualInspection": true,
+      "caption": "Flor branca de pata-de-vaca com pétalas estreitas e alongadas; ao lado, as folhas apresentam dois lobos característicos.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "bauhinia-forficata",
+      "scientificName": "Bauhinia forficata",
+      "photoId": 37269050,
+      "bytes": 701176,
+      "licenseCode": "cc-by",
+      "previewNumber": 47,
+      "visualInspection": true,
+      "caption": "Folhas bilobadas de pata-de-vaca no ramo, mostrando a abertura entre os lobos e os espinhos junto aos nós.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "sideroxylon-obtusifolium",
+      "scientificName": "Sideroxylon obtusifolium",
+      "photoId": 405681220,
+      "bytes": 348079,
+      "licenseCode": "cc-by",
+      "previewNumber": 52,
+      "visualInspection": true,
+      "caption": "Ramos de quixabeira com folhas simples e espinhos, vistos contra a luz que evidencia as nervuras.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "sideroxylon-obtusifolium",
+      "scientificName": "Sideroxylon obtusifolium",
+      "photoId": 326408805,
+      "bytes": 357100,
+      "licenseCode": "cc-by",
+      "previewNumber": 54,
+      "visualInspection": true,
+      "caption": "Frutos verdes e arredondados de quixabeira nas axilas das folhas, ainda presos ao ramo.",
+      "markers": [
+        "fruit",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "microgramma-vacciniifolia",
+      "scientificName": "Microgramma vacciniifolia",
+      "photoId": 363703084,
+      "bytes": 749900,
+      "licenseCode": "cc0",
+      "previewNumber": 101,
+      "visualInspection": true,
+      "caption": "Microgramma vacciniifolia espalhada sobre a casca de uma árvore, com pequenas frondes e rizomas rastejantes visíveis.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "microgramma-vacciniifolia",
+      "scientificName": "Microgramma vacciniifolia",
+      "photoId": 363703128,
+      "bytes": 576316,
+      "licenseCode": "cc0",
+      "previewNumber": 102,
+      "visualInspection": true,
+      "caption": "Frondes simples de Microgramma vacciniifolia presas ao rizoma sobre o tronco; não são folhas de uma trepadeira com flores.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "phlebodium-decumanum",
+      "scientificName": "Phlebodium decumanum",
+      "photoId": 58835353,
+      "bytes": 469597,
+      "licenseCode": "cc0",
+      "previewNumber": 107,
+      "visualInspection": true,
+      "caption": "Samambaia Phlebodium decumanum crescendo no tronco de uma palmeira, com frondes grandes e profundamente divididas.",
+      "markers": [
+        "wholePlant",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "phlebodium-decumanum",
+      "scientificName": "Phlebodium decumanum",
+      "photoId": 58964021,
+      "bytes": 332301,
+      "licenseCode": "cc0",
+      "previewNumber": 108,
+      "visualInspection": true,
+      "caption": "Face inferior de uma fronde de Phlebodium decumanum com numerosos soros arredondados; são estruturas com esporângios, não sementes.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "cyperus-ligularis",
+      "scientificName": "Cyperus ligularis",
+      "photoId": 252120067,
+      "bytes": 268729,
+      "licenseCode": "cc0",
+      "previewNumber": 115,
+      "visualInspection": true,
+      "caption": "Inflorescência de Cyperus ligularis com grupos densos de espiguetas e pequenas estruturas florais claras projetadas para fora.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "cyperus-ligularis",
+      "scientificName": "Cyperus ligularis",
+      "photoId": 192510867,
+      "bytes": 821660,
+      "licenseCode": "cc0",
+      "previewNumber": 117,
+      "visualInspection": true,
+      "caption": "Touceira de Cyperus ligularis com folhas estreitas na base e inflorescências castanhas no alto dos caules.",
+      "markers": [
+        "wholePlant",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "piper-aduncum",
+      "scientificName": "Piper aduncum",
+      "photoId": 195316113,
+      "bytes": 318703,
+      "licenseCode": "cc0",
+      "previewNumber": 121,
+      "visualInspection": true,
+      "caption": "Folhas alternas de Piper aduncum, com base desigual e nervuras laterais curvas bem visíveis.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "piper-aduncum",
+      "scientificName": "Piper aduncum",
+      "photoId": 441651420,
+      "bytes": 459910,
+      "licenseCode": "cc0",
+      "previewNumber": 122,
+      "visualInspection": true,
+      "caption": "Espigas claras e curvadas de Piper aduncum acima das folhas; cada espiga reúne numerosas flores muito pequenas.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "piper-aduncum",
+      "scientificName": "Piper aduncum",
+      "photoId": 441651438,
+      "bytes": 563734,
+      "licenseCode": "cc0",
+      "previewNumber": 123,
+      "visualInspection": true,
+      "caption": "Arbusto de Piper aduncum visto no conjunto, com ramos folhosos nas bordas da vegetação.",
+      "markers": [
+        "wholePlant",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "peperomia-obtusifolia",
+      "scientificName": "Peperomia obtusifolia",
+      "photoId": 364304547,
+      "bytes": 392041,
+      "licenseCode": "cc0",
+      "previewNumber": 128,
+      "visualInspection": true,
+      "caption": "Peperomia obtusifolia sobre o tronco, com folhas espessas e uma espiga ereta de flores muito pequenas.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "peperomia-obtusifolia",
+      "scientificName": "Peperomia obtusifolia",
+      "photoId": 147195349,
+      "bytes": 807476,
+      "licenseCode": "cc0",
+      "previewNumber": 131,
+      "visualInspection": true,
+      "caption": "Folhas carnosas de Peperomia obtusifolia junto ao caule rastejante, com contorno arredondado e superfície brilhante.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "echinodorus-grandiflorus",
+      "scientificName": "Echinodorus grandiflorus",
+      "photoId": 155364374,
+      "bytes": 228669,
+      "licenseCode": "cc0",
+      "previewNumber": 137,
+      "visualInspection": true,
+      "caption": "Flor de Echinodorus grandiflorus com três pétalas brancas e centro amarelo, ao lado de botões ainda fechados.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "echinodorus-grandiflorus",
+      "scientificName": "Echinodorus grandiflorus",
+      "photoId": 341454690,
+      "bytes": 333494,
+      "licenseCode": "cc-by",
+      "previewNumber": 141,
+      "visualInspection": true,
+      "caption": "Echinodorus grandiflorus na margem da água, mostrando folhas largas na base e haste alta com flores claras.",
+      "markers": [
+        "wholePlant",
+        "leaf",
+        "flower"
+      ]
+    },
+    {
+      "plantId": "begonia-arborescens",
+      "scientificName": "Begonia arborescens",
+      "photoId": 497016472,
+      "bytes": 621339,
+      "licenseCode": "cc-by",
+      "previewNumber": 55,
+      "visualInspection": true,
+      "caption": "Cápsulas secas e aladas de Begonia arborescens junto a folhas assimétricas de margem serrilhada.",
+      "markers": [
+        "fruit",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-convolvulacea",
+      "scientificName": "Begonia convolvulacea",
+      "photoId": 266553819,
+      "bytes": 297049,
+      "licenseCode": "cc0",
+      "previewNumber": 57,
+      "visualInspection": true,
+      "caption": "Begonia convolvulacea com inflorescências claras e numerosas, acima das folhas de contorno lobado.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-convolvulacea",
+      "scientificName": "Begonia convolvulacea",
+      "photoId": 620570476,
+      "bytes": 478378,
+      "licenseCode": "cc-by",
+      "previewNumber": 60,
+      "visualInspection": true,
+      "caption": "Begonia convolvulacea apoiada no tronco, mostrando ramos trepadores e folhas largas de base recortada.",
+      "markers": [
+        "wholePlant",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-cucullata",
+      "scientificName": "Begonia cucullata",
+      "photoId": 357288626,
+      "bytes": 675455,
+      "licenseCode": "cc-by",
+      "previewNumber": 65,
+      "visualInspection": true,
+      "caption": "Pequenas flores claras de Begonia cucullata entre folhas verdes, carnosas e assimétricas.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-cucullata",
+      "scientificName": "Begonia cucullata",
+      "photoId": 357288627,
+      "bytes": 825155,
+      "licenseCode": "cc-by",
+      "previewNumber": 66,
+      "visualInspection": true,
+      "caption": "Begonia cucullata em ambiente úmido, com ramos baixos, folhas arredondadas e pequenas flores claras.",
+      "markers": [
+        "wholePlant",
+        "leaf",
+        "flower"
+      ]
+    },
+    {
+      "plantId": "begonia-fischeri",
+      "scientificName": "Begonia fischeri",
+      "photoId": 18497974,
+      "bytes": 447411,
+      "licenseCode": "cc0",
+      "previewNumber": 69,
+      "visualInspection": true,
+      "caption": "Flor de Begonia fischeri em detalhe, com tépalas claras e numerosos estames amarelos no centro.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "begonia-fischeri",
+      "scientificName": "Begonia fischeri",
+      "photoId": 402139204,
+      "bytes": 808180,
+      "licenseCode": "cc0",
+      "previewNumber": 71,
+      "visualInspection": true,
+      "caption": "Ramo piloso de Begonia fischeri com folhas assimétricas, flores claras e cápsulas aladas em desenvolvimento.",
+      "markers": [
+        "flower",
+        "fruit",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-hirtella",
+      "scientificName": "Begonia hirtella",
+      "photoId": 104763941,
+      "bytes": 238087,
+      "licenseCode": "cc0",
+      "previewNumber": 75,
+      "visualInspection": true,
+      "caption": "Flores pequenas de Begonia hirtella suspensas por pedicelos rosados, com estames amarelos bem visíveis.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "begonia-hirtella",
+      "scientificName": "Begonia hirtella",
+      "photoId": 380126162,
+      "bytes": 354559,
+      "licenseCode": "cc0",
+      "previewNumber": 78,
+      "visualInspection": true,
+      "caption": "Folha de Begonia hirtella apoiada na mão, mostrando a base assimétrica, os pelos e os pequenos dentes da margem.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-luxurians",
+      "scientificName": "Begonia luxurians",
+      "photoId": 350532646,
+      "bytes": 442055,
+      "licenseCode": "cc-by",
+      "previewNumber": 147,
+      "visualInspection": true,
+      "caption": "Folha de Begonia luxurians profundamente dividida em segmentos estreitos que irradiam do pecíolo; a mão ajuda a mostrar a escala.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-luxurians",
+      "scientificName": "Begonia luxurians",
+      "photoId": 358682600,
+      "bytes": 187126,
+      "licenseCode": "cc-by",
+      "previewNumber": 149,
+      "visualInspection": true,
+      "caption": "Inflorescência de Begonia luxurians com muitas flores claras e centros amarelos, em uma haste ramificada.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "begonia-maculata",
+      "scientificName": "Begonia maculata",
+      "photoId": 572081467,
+      "bytes": 710869,
+      "licenseCode": "cc0",
+      "previewNumber": 83,
+      "visualInspection": true,
+      "caption": "Folha alongada e assimétrica de Begonia maculata, com manchas prateadas arredondadas sobre o fundo verde.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-maculata",
+      "scientificName": "Begonia maculata",
+      "photoId": 126530856,
+      "bytes": 107779,
+      "licenseCode": "cc-by",
+      "previewNumber": 87,
+      "visualInspection": true,
+      "caption": "Flores claras de Begonia maculata vistas de perto, mostrando as tépalas e os centros amarelos.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "begonia-reniformis",
+      "scientificName": "Begonia reniformis",
+      "photoId": 340717555,
+      "bytes": 200572,
+      "licenseCode": "cc-by",
+      "previewNumber": 90,
+      "visualInspection": true,
+      "caption": "Folha larga de Begonia reniformis com nervuras que irradiam do pecíolo e lobos pouco profundos.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-solananthera",
+      "scientificName": "Begonia solananthera",
+      "photoId": 335946000,
+      "bytes": 496162,
+      "licenseCode": "cc-by",
+      "previewNumber": 92,
+      "visualInspection": true,
+      "caption": "Ramos de Begonia solananthera apoiados sobre o barranco, com folhas pequenas distribuídas ao longo dos caules.",
+      "markers": [
+        "wholePlant",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-solananthera",
+      "scientificName": "Begonia solananthera",
+      "photoId": 335946024,
+      "bytes": 416438,
+      "licenseCode": "cc-by",
+      "previewNumber": 93,
+      "visualInspection": true,
+      "caption": "Folhas pequenas de Begonia solananthera em detalhe, mostrando o contorno ovado e a superfície verde brilhante.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-ulmifolia",
+      "scientificName": "Begonia ulmifolia",
+      "photoId": 439646047,
+      "bytes": 374053,
+      "licenseCode": "cc-by",
+      "previewNumber": 94,
+      "visualInspection": true,
+      "caption": "Ramo de Begonia ulmifolia com pequenas flores claras no alto e folhas alongadas de margem serrilhada.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-ulmifolia",
+      "scientificName": "Begonia ulmifolia",
+      "photoId": 439651215,
+      "bytes": 204961,
+      "licenseCode": "cc-by",
+      "previewNumber": 95,
+      "visualInspection": true,
+      "caption": "Folha de Begonia ulmifolia em detalhe, com nervuras marcadas, pelos e margem serrilhada.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-angulata",
+      "scientificName": "Begonia angulata",
+      "photoId": 702852547,
+      "bytes": 680874,
+      "licenseCode": "cc0",
+      "previewNumber": 97,
+      "visualInspection": true,
+      "caption": "Begonia angulata no sub-bosque, com ramos eretos e folhas assimétricas distribuídas pelos nós.",
+      "markers": [
+        "wholePlant",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "begonia-angulata",
+      "scientificName": "Begonia angulata",
+      "photoId": 685264301,
+      "bytes": 749348,
+      "licenseCode": "cc-by",
+      "previewNumber": 98,
+      "visualInspection": true,
+      "caption": "Flor branca de Begonia angulata com tépalas de borda recortada e estames amarelos no centro.",
+      "markers": [
+        "flower"
+      ]
+    }
+  ],
+  "originalMediaBytesAdded": 23679341,
+  "deferred": [
+    {
+      "name": "Begonia acetosa",
+      "reason": "Consulta taxonômica estruturada inconclusiva; não incluída por aproximação."
+    },
+    {
+      "name": "Begonia aconitifolia",
+      "reason": "Nenhuma observação elegível localizada sob o nome exato na consulta arquivada."
+    }
+  ],
+  "photoAnnotationCorrections": [
+    {
+      "photoId": 190912038,
+      "before": {
+        "caption": "Fruto escuro e arredondado, com sépalas persistentes junto ao pedicelo, entre folhas brilhantes.",
+        "reviewStatus": "draft"
+      },
+      "after": {
+        "caption": "Fruto escuro e arredondado, com sépalas persistentes na extremidade oposta ao pedicelo, entre folhas brilhantes.",
+        "reviewStatus": "draft"
+      },
+      "reason": "Inspeção da imagem: o cálice persistente fica na extremidade oposta ao pedicelo."
+    },
+    {
+      "photoId": 677119181,
+      "before": {
+        "caption": "Frutos avermelhados, com sépalas persistentes junto ao pedicelo, entre folhas alongadas.",
+        "reviewStatus": "draft"
+      },
+      "after": {
+        "caption": "Frutos avermelhados, com sépalas persistentes na extremidade oposta ao pedicelo, entre folhas alongadas.",
+        "reviewStatus": "draft"
+      },
+      "reason": "Inspeção da imagem: o cálice persistente fica na extremidade oposta ao pedicelo."
+    }
+  ]
+}

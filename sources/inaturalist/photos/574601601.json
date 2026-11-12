@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/317957675",
+  "photo": {
+    "id": 574601601,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 720,
+      "height": 1280
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/574601601/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Analía Belaus",
+  "observation": {
+    "id": 317957675,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 128757,
+      "name": "Sacoila lanceolata"
+    },
+    "observerLogin": "analiabelaus"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/574601601/large.jpg",
+    "sha256": "c4c03a8d13e7d17f2d2df5d34f5a2caada7a97b00901c5ea44de1828350aa2db",
+    "retrievedAt": "2026-11-12T00:16:37Z"
+  }
+}

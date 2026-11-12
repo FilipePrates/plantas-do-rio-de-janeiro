@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/277535325",
+  "photo": {
+    "id": 498321742,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2000,
+      "height": 1500
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498321742/square.jpg",
+    "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Diogo Luiz",
+  "observation": {
+    "id": 277535325,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 429704,
+      "name": "Miltonia spectabilis"
+    },
+    "observerLogin": "diogoluiz"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498321742/large.jpg",
+    "sha256": "e511c5f91743d84660be8b3a60d494079e48398a747b5ca1724a3a409bb4bbc4",
+    "retrievedAt": "2026-11-12T00:16:37Z"
+  }
+}

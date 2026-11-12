@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/202320838",
+  "photo": {
+    "id": 357288627,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1500,
+      "height": 1125
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357288627/square.jpg",
+    "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Diogo Luiz",
+  "observation": {
+    "id": 202320838,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 159204,
+      "name": "Begonia cucullata"
+    },
+    "observerLogin": "diogoluiz"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357288627/large.jpg",
+    "sha256": "4d8c94ffdc05e8eb2190acb2856965e47f683b0c86e46e046078258585a3fccd",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/237921140",
+  "photo": {
+    "id": 423497394,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423497394/square.jpeg",
+    "attribution": "(c) Fabrício Mil Homens Riella, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Fabrício Mil Homens Riella",
+  "observation": {
+    "id": 237921140,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 939215,
+      "name": "Ormosia arborea"
+    },
+    "observerLogin": "bariza"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423497394/large.jpeg",
+    "sha256": "2292372f851841de535a135700c14db1a12f1fc2ac599831db90b5040c8598f9",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

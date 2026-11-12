@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Modal, Pressable, StatusBar, StyleSheet, Text, View } from "react-native";
+import { Modal, Platform, Pressable, StatusBar, StyleSheet, Text, View, useWindowDimensions } from "react-native";
 import { Asset } from "expo-asset";
 import { Gesture, GestureDetector, GestureHandlerRootView } from "react-native-gesture-handler";
 import Animated, { cancelAnimation, useAnimatedStyle, useSharedValue, withTiming } from "react-native-reanimated";
@@ -9,6 +9,7 @@ import { plantImages } from "../data/plant-images";
 import { clampPhotoOffset, clampZoom, fitPhoto, focalOffset } from "../photoZoom.mjs";
 import { palette } from "../theme";
 import { PhotoCredit } from "./PhotoCredit";
+import { BackIcon, ForwardIcon } from "./icons";
 
 export function PhotoViewer({ photos, initialIndex, name, onClose }: {
   photos: PlantPhoto[];
@@ -17,10 +18,17 @@ export function PhotoViewer({ photos, initialIndex, name, onClose }: {
   onClose: () => void;
 }) {
   const insets = useSafeAreaInsets();
+  const { width } = useWindowDimensions();
+  const desktop = Platform.OS === "web" && width >= 1024;
   const [index, setIndex] = useState(initialIndex);
   const [viewport, setViewport] = useState({ width: 0, height: 0 });
   const [resetVersion, setResetVersion] = useState(0);
   const photo = photos[index];
+  function navigateFromBackground(direction: -1 | 1) {
+    const next = index + direction;
+    if (next < 0 || next >= photos.length) onClose();
+    else setIndex(next);
+  }
   return (
     <Modal visible animationType="fade" onRequestClose={onClose} presentationStyle="fullScreen" statusBarTranslucent navigationBarTranslucent>
       <GestureHandlerRootView style={[styles.screen, { paddingTop: insets.top, paddingBottom: insets.bottom }]}>
@@ -31,7 +39,7 @@ export function PhotoViewer({ photos, initialIndex, name, onClose }: {
             <Text style={styles.buttonText}>Fechar ✕</Text>
           </Pressable>
         </View>
-        <View style={styles.viewport} onLayout={({ nativeEvent: { layout } }) => setViewport({ width: layout.width, height: layout.height })}>
+        <View style={styles.viewport} testID="photo-viewer-viewport" onLayout={({ nativeEvent: { layout } }) => setViewport({ width: layout.width, height: layout.height })}>
           {viewport.width > 0 && viewport.height > 0 && (
             <ZoomablePhoto
               key={`${photo.id}:${viewport.width}:${viewport.height}`}
@@ -40,22 +48,24 @@ export function PhotoViewer({ photos, initialIndex, name, onClose }: {
               width={viewport.width}
               height={viewport.height}
               resetVersion={resetVersion}
+              onBackgroundPrevious={desktop ? () => navigateFromBackground(-1) : undefined}
+              onBackgroundNext={desktop ? () => navigateFromBackground(1) : undefined}
             />
           )}
         </View>
         <View style={styles.footer}>
-          <Text style={styles.hint}>Use dois dedos ou dois toques para ampliar</Text>
+          <Text style={styles.hint}>{desktop ? "Dois toques para ampliar" : "Use dois dedos ou dois toques para ampliar"}</Text>
           {!!photo.caption && <Text style={styles.caption} numberOfLines={2}>{photo.caption}</Text>}
           <View style={styles.navigation}>
             <Pressable accessibilityRole="button" accessibilityLabel="Foto anterior" disabled={index === 0} accessibilityState={{ disabled: index === 0 }} onPress={() => setIndex(index - 1)} style={[styles.button, index === 0 && styles.disabled]}>
-              <Text style={styles.buttonText}>‹</Text>
+              <BackIcon color={palette.paper} size={26} />
             </Pressable>
-            <Text style={styles.caption}>{index + 1} / {photos.length}</Text>
-            <Pressable accessibilityRole="button" accessibilityLabel="Restaurar tamanho da foto" onPress={() => setResetVersion(v => v + 1)} style={styles.button}>
+            <Text style={[styles.caption, desktop && styles.desktopCounter]} testID="photo-viewer-counter">{index + 1} / {photos.length}</Text>
+            {!desktop && <Pressable accessibilityRole="button" accessibilityLabel="Restaurar tamanho da foto" onPress={() => setResetVersion(v => v + 1)} style={styles.button}>
               <Text style={styles.buttonText}>Restaurar</Text>
-            </Pressable>
+            </Pressable>}
             <Pressable accessibilityRole="button" accessibilityLabel="Foto seguinte" disabled={index === photos.length - 1} accessibilityState={{ disabled: index === photos.length - 1 }} onPress={() => setIndex(index + 1)} style={[styles.button, index === photos.length - 1 && styles.disabled]}>
-              <Text style={styles.buttonText}>›</Text>
+              <ForwardIcon color={palette.paper} size={26} />
             </Pressable>
           </View>
           <PhotoCredit photo={photo} />
@@ -65,7 +75,10 @@ export function PhotoViewer({ photos, initialIndex, name, onClose }: {
   );
 }
 
-function ZoomablePhoto({ photo, name, width, height, resetVersion }: { photo: PlantPhoto; name: string; width: number; height: number; resetVersion: number }) {
+function ZoomablePhoto({ photo, name, width, height, resetVersion, onBackgroundPrevious, onBackgroundNext }: {
+  photo: PlantPhoto; name: string; width: number; height: number; resetVersion: number;
+  onBackgroundPrevious?: () => void; onBackgroundNext?: () => void;
+}) {
   const source = plantImages[photo.fileName];
   const asset = typeof source === "number" ? Asset.fromModule(source) : !Array.isArray(source) ? source : undefined;
   const fitted = fitPhoto(asset?.width || width, asset?.height || height, width, height);
@@ -152,15 +165,31 @@ function ZoomablePhoto({ photo, name, width, height, resetVersion }: { photo: Pl
   const imageStyle = useAnimatedStyle(() => ({
     transform: [{ translateX: x.value }, { translateY: y.value }, { scale: scale.value }],
   }));
+  const leftBackgroundStyle = useAnimatedStyle(() => ({
+    width: Math.max(0, Math.min(width, width / 2 + x.value - imageWidth * scale.value / 2)),
+  }));
+  const rightBackgroundStyle = useAnimatedStyle(() => ({
+    width: Math.max(0, Math.min(width, width / 2 - x.value - imageWidth * scale.value / 2)),
+  }));
 
   return (
-    <GestureDetector gesture={Gesture.Simultaneous(pinch, pan, doubleTap)} touchAction="none">
+    <View style={styles.viewport}>
+      <GestureDetector gesture={Gesture.Simultaneous(pinch, pan, doubleTap)} touchAction="none">
       <View style={styles.gestureArea} collapsable={false}>
         {!failed && source ? (
-          <Animated.Image source={source} accessibilityLabel={`${name}: ${photo.caption || "foto iNaturalist"}`} resizeMode="contain" style={[{ width: imageWidth, height: imageHeight }, imageStyle]} onError={() => setFailed(true)} />
+          <Animated.Image testID="photo-viewer-image" source={source} accessibilityLabel={`${name}: ${photo.caption || "foto iNaturalist"}`} resizeMode="contain" style={[{ width: imageWidth, height: imageHeight }, imageStyle]} onError={() => setFailed(true)} />
         ) : <Text style={styles.caption}>Não foi possível abrir a foto.</Text>}
       </View>
-    </GestureDetector>
+      </GestureDetector>
+      {onBackgroundPrevious && <Animated.View style={[styles.backgroundSide, { left: 0 }, leftBackgroundStyle]}>
+        <Pressable testID="photo-viewer-background-left" accessibilityRole="button" accessibilityLabel="Fundo à esquerda: foto anterior ou fechar"
+          onPress={onBackgroundPrevious} style={StyleSheet.absoluteFillObject} />
+      </Animated.View>}
+      {onBackgroundNext && <Animated.View style={[styles.backgroundSide, { right: 0 }, rightBackgroundStyle]}>
+        <Pressable testID="photo-viewer-background-right" accessibilityRole="button" accessibilityLabel="Fundo à direita: foto seguinte ou fechar"
+          onPress={onBackgroundNext} style={StyleSheet.absoluteFillObject} />
+      </Animated.View>}
+    </View>
   );
 }
 
@@ -174,6 +203,8 @@ const styles = StyleSheet.create({
   gestureArea: { flex: 1, alignItems: "center", justifyContent: "center", overflow: "hidden" },
   footer: { paddingHorizontal: 12, paddingTop: 8 },
   navigation: { flexDirection: "row", alignItems: "center", justifyContent: "space-between" },
+  desktopCounter: { flex: 1, marginTop: 0 },
+  backgroundSide: { position: "absolute", top: 0, bottom: 0, overflow: "hidden" },
   hint: { color: palette.moss, fontSize: 12, textAlign: "center" },
   caption: { color: palette.paper, fontSize: 13, textAlign: "center", marginTop: 4 },
   credit: { minHeight: 44, justifyContent: "center" },

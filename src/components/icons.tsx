@@ -1,18 +1,29 @@
 import React from "react";
+import { Platform, useWindowDimensions } from "react-native";
 import Svg, { Circle, Line, Path, Rect } from "react-native-svg";
 
 import { palette } from "../theme";
 
 export function BackIcon({ color, size }: { color: string; size: number }) {
+  return <NavigationChevron color={color} size={size} />;
+}
+
+export function ForwardIcon({ color, size }: { color: string; size: number }) {
+  return <NavigationChevron color={color} size={size} forward />;
+}
+
+function NavigationChevron({ color, size, forward = false }: { color: string; size: number; forward?: boolean }) {
+  const { width } = useWindowDimensions();
+  const desktop = Platform.OS === "web" && width >= 1024;
   return (
     <Svg width={size} height={size} viewBox="0 0 24 24">
       <Path
-        d="M15 5L8 12l7 7"
+        d={forward ? "M9 5l7 7-7 7" : "M15 5L8 12l7 7"}
         fill="none"
         stroke={color}
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={2.2}
+        strokeWidth={desktop ? 3.6 : 2.2}
       />
     </Svg>
   );

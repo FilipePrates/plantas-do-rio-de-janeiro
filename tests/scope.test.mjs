@@ -3,6 +3,7 @@ import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
 import test from "node:test";
 import { beforeVisualAnnotations } from "./helpers/photo-annotations.mjs";
+import { beforePriorityPhotoReview } from "./helpers/priority-batch.mjs";
 import { checklistRows, hasMunicipalEvidence, matchesChecklistRow, matchesPlant,
   parseCatalog, representedSpeciesCount, resolveSavedIds } from "../src/catalog.mjs";
 
@@ -19,7 +20,7 @@ test("scope curation preserves every previous species and every photo with its r
   const previousPhotos = photos(before);
   const previousPhotoIds = new Set(previousPhotos.map((photo) => photo.photoId));
   // Preserve the scope migration's originals without freezing later additions.
-  assert.deepEqual(photos(catalog).filter((photo) => previousPhotoIds.has(photo.photoId)).map(beforeVisualAnnotations), previousPhotos);
+  assert.deepEqual(photos(catalog).filter((photo) => previousPhotoIds.has(photo.photoId)).map(beforePriorityPhotoReview).map(beforeVisualAnnotations), previousPhotos);
   assert.equal(representedSpeciesCount(parseCatalog(catalog)), names.size);
   for (const group of catalog.plants.filter((p) => p.rank === "genus")) {
     const members = new Set(group.regionalSpecies.map((s) => s.scientificName));

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/234984915",
+  "photo": {
+    "id": 417832537,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1355
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417832537/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Whaldener Endo",
+  "observation": {
+    "id": 234984915,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 340558,
+      "name": "Alchornea glandulosa"
+    },
+    "observerLogin": "w_endo"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417832537/large.jpg",
+    "sha256": "39b6b200da80d9536545e5075cca65964f57195b3cb27f3bedebcb021e560479",
+    "retrievedAt": "2026-11-12T00:16:37Z"
+  }
+}

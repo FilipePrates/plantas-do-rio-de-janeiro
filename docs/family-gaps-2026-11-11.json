@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-11",
+  "newProfiles": 16,
+  "newOrchids": 8,
+  "expandedProfiles": 1,
+  "newPhotos": 36,
+  "newPhotoLicenses": {
+    "cc0": 18,
+    "cc-by": 18
+  },
+  "addedOriginalMiB": 16.22,
+  "entries": 429,
+  "representedSpecies": 550,
+  "photos": 721,
+  "catalogSha256": "39e1e7a5b3eda77924df53a3dc6f7c1afffb59823ba66828f4cf9ae3b09ff117",
+  "families": [
+    {
+      "family": "Nyctaginaceae",
+      "illustratedProfilesBefore": 0,
+      "illustratedProfilesAfter": 2
+    },
+    {
+      "family": "Euphorbiaceae",
+      "illustratedProfilesBefore": 0,
+      "illustratedProfilesAfter": 3
+    },
+    {
+      "family": "Sapindaceae",
+      "illustratedProfilesBefore": 0,
+      "illustratedProfilesAfter": 2
+    },
+    {
+      "family": "Rutaceae",
+      "illustratedProfilesBefore": 0,
+      "illustratedProfilesAfter": 1
+    },
+    {
+      "family": "Orchidaceae",
+      "illustratedProfilesBefore": 3,
+      "illustratedProfilesAfter": 12
+    }
+  ],
+  "species": [
+    {
+      "scientificName": "Guapira opposita",
+      "family": "Nyctaginaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Guapira pernambucensis",
+      "family": "Nyctaginaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Alchornea triplinervia",
+      "family": "Euphorbiaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Alchornea glandulosa",
+      "family": "Euphorbiaceae",
+      "photos": 3
+    },
+    {
+      "scientificName": "Croton floribundus",
+      "family": "Euphorbiaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Allophylus edulis",
+      "family": "Sapindaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Sapindus saponaria",
+      "family": "Sapindaceae",
+      "photos": 3
+    },
+    {
+      "scientificName": "Zanthoxylum rhoifolium",
+      "family": "Rutaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Cattleya forbesii",
+      "family": "Orchidaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Brassavola tuberculata",
+      "family": "Orchidaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Encyclia patens",
+      "family": "Orchidaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Miltonia spectabilis",
+      "family": "Orchidaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Gomesa flexuosa",
+      "family": "Orchidaceae",
+      "photos": 3
+    },
+    {
+      "scientificName": "Sacoila lanceolata",
+      "family": "Orchidaceae",
+      "photos": 3
+    },
+    {
+      "scientificName": "Vanilla chamissonis",
+      "family": "Orchidaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Maxillaria picta",
+      "family": "Orchidaceae",
+      "photos": 2
+    }
+  ]
+}

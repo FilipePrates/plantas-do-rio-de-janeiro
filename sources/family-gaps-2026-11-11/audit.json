@@ -1,0 +1,584 @@
+{
+  "date": "2026-11-11",
+  "baselineSha256": "0699b989b15470da67c01ef16c65e5c6acf20b6663636eabe9b1fcc97b394954",
+  "catalogSha256": "39e1e7a5b3eda77924df53a3dc6f7c1afffb59823ba66828f4cf9ae3b09ff117",
+  "addedPlantIds": [
+    "guapira-opposita",
+    "guapira-pernambucensis",
+    "alchornea-triplinervia",
+    "alchornea-glandulosa",
+    "croton-floribundus",
+    "allophylus-edulis",
+    "sapindus-saponaria",
+    "zanthoxylum-rhoifolium",
+    "cattleya-forbesii",
+    "brassavola-tuberculata",
+    "encyclia-patens",
+    "miltonia-spectabilis",
+    "gomesa-flexuosa",
+    "sacoila-lanceolata",
+    "vanilla-chamissonis",
+    "maxillaria-picta"
+  ],
+  "updatedProfiles": [
+    {
+      "plantId": "cattleya-guttata",
+      "before": {
+        "commonName": "Cattleya guttata",
+        "alternateNames": [],
+        "presentation": "checklist",
+        "description": "Orquídea nativa de florestas úmidas e restingas. Pode crescer sobre troncos e galhos, como epífita e no solo.",
+        "identification": "",
+        "ecology": "Florestas úmidas; Restinga.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cattleya guttata (FB11336)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cattleya_guttata",
+            "retrievedAt": "2026-10-16T22:04:54Z"
+          },
+          {
+            "title": "SMAC (2022). Lista de espécies da flora nativa com ocorrência no município. Anexo I, Resolução 074 de 19/08/2022.",
+            "url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/5436",
+            "retrievedAt": "2026-10-24"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas."
+      },
+      "after": {
+        "commonName": "Cattleya guttata",
+        "alternateNames": [],
+        "presentation": "profile",
+        "description": "Orquídea de pseudobulbos alongados, geralmente com duas folhas no ápice. Produz inflorescências terminais com flores de sépalas e pétalas esverdeadas a acastanhadas, frequentemente pontuadas. O labelo é mais claro a rosado, dividido em lobos e com uma região estreita ligando suas partes.",
+        "identification": "Compare o formato do labelo, especialmente a região estreita entre os lobos, e as proporções da flor. Cattleya tigrina é uma espécie parecida, historicamente confundida com C. guttata. O número de manchas ou a época de floração, isoladamente, não resolve todas as identificações; examine também a planta e a procedência.",
+        "ecology": "Está documentada em florestas e restingas fluminenses, podendo crescer sobre árvores. A fotografia existente mostra a planta e a inflorescência à distância; não oferece todos os detalhes usados na comparação floral. A documentação municipal e os registros históricos anexados conservam suas datas e abrangência.",
+        "sources": [
+          {
+            "title": "Flora e Funga do Brasil · Cattleya guttata (FB11336)",
+            "url": "https://servicos.jbrj.gov.br/v2/flora/taxon/Cattleya_guttata",
+            "retrievedAt": "2026-10-16T22:04:54Z"
+          },
+          {
+            "title": "SMAC (2022). Lista de espécies da flora nativa com ocorrência no município. Anexo I, Resolução 074 de 19/08/2022.",
+            "url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/5436",
+            "retrievedAt": "2026-10-24"
+          },
+          {
+            "title": "Tratamento botânico específico — Cattleya guttata",
+            "url": "https://monografiasfloradobrasil.jbrj.gov.br/cattleya.pdf",
+            "retrievedAt": "2026-11-11"
+          }
+        ],
+        "reviewStatus": "draft",
+        "curationNotes": "Rascunho gerado de atributos estruturados do JBRJ. Nome popular, texto de campo e recorte municipal precisam de revisão. O registro estadual não comprova ocorrência no município. Texto simplificado em 17/10/2026; atributos de ambiente mantêm abrangência brasileira. Revisão humana pendente; fotos e marcações anteriores preservadas. Revisão de 11/11/2026: texto específico ampliado; ficha em rascunho para revisão humana. Todas as fotografias, legendas, marcadores, estados de revisão, direitos e ordem da galeria anteriores foram preservados."
+      }
+    }
+  ],
+  "newPhotos": [
+    {
+      "plantId": "guapira-opposita",
+      "scientificName": "Guapira opposita",
+      "photoId": 270893026,
+      "bytes": 99425,
+      "licenseCode": "cc0",
+      "previewNumber": 1,
+      "visualInspection": true,
+      "caption": "Antocarpos de Guapira opposita em diferentes estágios, verdes a avermelhados, reunidos na ponta do ramo entre folhas simples.",
+      "markers": [
+        "fruit",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "guapira-opposita",
+      "scientificName": "Guapira opposita",
+      "photoId": 257052247,
+      "bytes": 399670,
+      "licenseCode": "cc-by",
+      "previewNumber": 6,
+      "visualInspection": true,
+      "caption": "Ramos de Guapira opposita com folhas opostas e conjuntos de antocarpos escuros sustentados por eixos avermelhados.",
+      "markers": [
+        "fruit",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "guapira-pernambucensis",
+      "scientificName": "Guapira pernambucensis",
+      "photoId": 467347469,
+      "bytes": 528364,
+      "licenseCode": "cc0",
+      "previewNumber": 9,
+      "visualInspection": true,
+      "caption": "Folhas largas de Guapira pernambucensis quase sem pecíolo, mostrando o contorno arredondado e a inserção no ramo.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "guapira-pernambucensis",
+      "scientificName": "Guapira pernambucensis",
+      "photoId": 215594394,
+      "bytes": 445372,
+      "licenseCode": "cc-by",
+      "previewNumber": 13,
+      "visualInspection": true,
+      "caption": "Antocarpos escuros de Guapira pernambucensis sobre eixos rosados; as marcas circulares mostram pontos onde outras estruturas já caíram.",
+      "markers": [
+        "fruit",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "alchornea-triplinervia",
+      "scientificName": "Alchornea triplinervia",
+      "photoId": 759672563,
+      "bytes": 1122208,
+      "licenseCode": "cc0",
+      "previewNumber": 17,
+      "visualInspection": true,
+      "caption": "Folhas de Alchornea triplinervia com três nervuras principais evidentes e margens finamente denteadas.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "alchornea-triplinervia",
+      "scientificName": "Alchornea triplinervia",
+      "photoId": 408364169,
+      "bytes": 530133,
+      "licenseCode": "cc-by",
+      "previewNumber": 20,
+      "visualInspection": true,
+      "caption": "Inflorescência de Alchornea triplinervia ainda em botão, junto a folhas jovens na extremidade do ramo.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "alchornea-glandulosa",
+      "scientificName": "Alchornea glandulosa",
+      "photoId": 417832537,
+      "bytes": 664173,
+      "licenseCode": "cc0",
+      "previewNumber": 21,
+      "visualInspection": true,
+      "caption": "Inflorescências alongadas de Alchornea glandulosa junto às folhas largas, com numerosas estruturas florais pequenas.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "alchornea-glandulosa",
+      "scientificName": "Alchornea glandulosa",
+      "photoId": 553211584,
+      "bytes": 679891,
+      "licenseCode": "cc0",
+      "previewNumber": 23,
+      "visualInspection": true,
+      "caption": "Conjunto de cápsulas verdes e lobadas de Alchornea glandulosa, ainda presas aos eixos da infrutescência.",
+      "markers": [
+        "fruit",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "alchornea-glandulosa",
+      "scientificName": "Alchornea glandulosa",
+      "photoId": 553211643,
+      "bytes": 628684,
+      "licenseCode": "cc0",
+      "previewNumber": 24,
+      "visualInspection": true,
+      "caption": "Folha larga de Alchornea glandulosa apoiada na mão, mostrando a base, as nervuras principais e os dentes da margem.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "croton-floribundus",
+      "scientificName": "Croton floribundus",
+      "photoId": 598658040,
+      "bytes": 440778,
+      "licenseCode": "cc-by",
+      "previewNumber": 28,
+      "visualInspection": true,
+      "caption": "Cápsulas verdes de Croton floribundus em detalhe, com superfície saliente e estruturas persistentes no ápice.",
+      "markers": [
+        "fruit"
+      ]
+    },
+    {
+      "plantId": "croton-floribundus",
+      "scientificName": "Croton floribundus",
+      "photoId": 123438425,
+      "bytes": 223512,
+      "licenseCode": "cc-by",
+      "previewNumber": 30,
+      "visualInspection": true,
+      "caption": "Ramo de Croton floribundus com folhas alongadas; a vista permite comparar a face superior com partes mais claras da face inferior.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "allophylus-edulis",
+      "scientificName": "Allophylus edulis",
+      "photoId": 163798301,
+      "bytes": 164158,
+      "licenseCode": "cc0",
+      "previewNumber": 104,
+      "visualInspection": true,
+      "caption": "Frutos de Allophylus edulis passando do verde ao alaranjado e vermelho, ainda presos ao ramo entre folhas trifolioladas.",
+      "markers": [
+        "fruit",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "allophylus-edulis",
+      "scientificName": "Allophylus edulis",
+      "photoId": 253521779,
+      "bytes": 479801,
+      "licenseCode": "cc-by",
+      "previewNumber": 36,
+      "visualInspection": true,
+      "caption": "Folha de Allophylus edulis formada por três folíolos de margem serrilhada, vista contra o fundo escuro da vegetação.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "sapindus-saponaria",
+      "scientificName": "Sapindus saponaria",
+      "photoId": 559098452,
+      "bytes": 354374,
+      "licenseCode": "cc0",
+      "previewNumber": 38,
+      "visualInspection": true,
+      "caption": "Frutos secos de Sapindus saponaria na mão; um deles aberto deixa ver a semente escura, arredondada e brilhante.",
+      "markers": [
+        "fruit",
+        "seed"
+      ]
+    },
+    {
+      "plantId": "sapindus-saponaria",
+      "scientificName": "Sapindus saponaria",
+      "photoId": 559098502,
+      "bytes": 533241,
+      "licenseCode": "cc0",
+      "previewNumber": 39,
+      "visualInspection": true,
+      "caption": "Folhas compostas de Sapindus saponaria distribuídas ao longo do ramo, com folíolos alongados de margem inteira.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "sapindus-saponaria",
+      "scientificName": "Sapindus saponaria",
+      "photoId": 558039863,
+      "bytes": 296104,
+      "licenseCode": "cc-by",
+      "previewNumber": 43,
+      "visualInspection": true,
+      "caption": "Inflorescências ramificadas de Sapindus saponaria com muitas flores pequenas e claras, acima das folhas compostas.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "zanthoxylum-rhoifolium",
+      "scientificName": "Zanthoxylum rhoifolium",
+      "photoId": 265484420,
+      "bytes": 411007,
+      "licenseCode": "cc0",
+      "previewNumber": 47,
+      "visualInspection": true,
+      "caption": "Tronco de Zanthoxylum rhoifolium visto de baixo, com acúleos grandes e cônicos projetados da superfície da casca.",
+      "markers": [
+        "bark"
+      ]
+    },
+    {
+      "plantId": "zanthoxylum-rhoifolium",
+      "scientificName": "Zanthoxylum rhoifolium",
+      "photoId": 465776059,
+      "bytes": 722777,
+      "licenseCode": "cc0",
+      "previewNumber": 115,
+      "visualInspection": true,
+      "caption": "Folha composta de Zanthoxylum rhoifolium, mostrando os folíolos ao longo do eixo e o contorno de suas margens.",
+      "markers": [
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "cattleya-forbesii",
+      "scientificName": "Cattleya forbesii",
+      "photoId": 456717516,
+      "bytes": 506466,
+      "licenseCode": "cc0",
+      "previewNumber": 51,
+      "visualInspection": true,
+      "caption": "Cattleya forbesii crescendo sobre o tronco de uma árvore, com folhas espessas e flores claras acima do conjunto de caules.",
+      "markers": [
+        "wholePlant",
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "cattleya-forbesii",
+      "scientificName": "Cattleya forbesii",
+      "photoId": 60925909,
+      "bytes": 175447,
+      "licenseCode": "cc-by",
+      "previewNumber": 56,
+      "visualInspection": true,
+      "caption": "Flor de Cattleya forbesii com sépalas e pétalas acastanhadas e labelo claro a rosado, vista de frente sobre o tronco.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "brassavola-tuberculata",
+      "scientificName": "Brassavola tuberculata",
+      "photoId": 173618826,
+      "bytes": 303641,
+      "licenseCode": "cc0",
+      "previewNumber": 59,
+      "visualInspection": true,
+      "caption": "Flor de Brassavola tuberculata com peças estreitas e alongadas e um labelo branco mais largo.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "brassavola-tuberculata",
+      "scientificName": "Brassavola tuberculata",
+      "photoId": 173618974,
+      "bytes": 293866,
+      "licenseCode": "cc0",
+      "previewNumber": 60,
+      "visualInspection": true,
+      "caption": "Touceira de Brassavola tuberculata sobre o tronco, mostrando as folhas estreitas e as flores claras projetadas para fora.",
+      "markers": [
+        "wholePlant",
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "encyclia-patens",
+      "scientificName": "Encyclia patens",
+      "photoId": 497130658,
+      "bytes": 671305,
+      "licenseCode": "cc-by",
+      "previewNumber": 69,
+      "visualInspection": true,
+      "caption": "Flores de Encyclia patens com sépalas e pétalas esverdeadas a acastanhadas e labelo claro, organizadas ao longo da haste.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "encyclia-patens",
+      "scientificName": "Encyclia patens",
+      "photoId": 497130650,
+      "bytes": 1058158,
+      "licenseCode": "cc-by",
+      "previewNumber": 70,
+      "visualInspection": true,
+      "caption": "Conjunto florido de Encyclia patens junto às folhas alongadas, mostrando a ramificação e a distribuição das flores.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "miltonia-spectabilis",
+      "scientificName": "Miltonia spectabilis",
+      "photoId": 498321742,
+      "bytes": 743475,
+      "licenseCode": "cc-by",
+      "previewNumber": 73,
+      "visualInspection": true,
+      "caption": "Flores de Miltonia spectabilis com sépalas e pétalas claras e labelo amplo, rosado e marcado de púrpura, entre folhas alongadas.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "miltonia-spectabilis",
+      "scientificName": "Miltonia spectabilis",
+      "photoId": 498321784,
+      "bytes": 746866,
+      "licenseCode": "cc-by",
+      "previewNumber": 74,
+      "visualInspection": true,
+      "caption": "Flor de Miltonia spectabilis vista de frente, com destaque para o labelo largo e para as folhas estreitas ao redor.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "gomesa-flexuosa",
+      "scientificName": "Gomesa flexuosa",
+      "photoId": 64499780,
+      "bytes": 374736,
+      "licenseCode": "cc0",
+      "previewNumber": 76,
+      "visualInspection": true,
+      "caption": "Flor de Gomesa flexuosa em detalhe, com labelo amarelo amplo e manchas castanhas nas outras partes florais.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "gomesa-flexuosa",
+      "scientificName": "Gomesa flexuosa",
+      "photoId": 228230772,
+      "bytes": 744100,
+      "licenseCode": "cc0",
+      "previewNumber": 79,
+      "visualInspection": true,
+      "caption": "Inflorescência de Gomesa flexuosa com numerosas flores amarelas, mostrando a repetição dos labelos largos ao longo dos ramos.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "gomesa-flexuosa",
+      "scientificName": "Gomesa flexuosa",
+      "photoId": 323017967,
+      "bytes": 294089,
+      "licenseCode": "cc-by",
+      "previewNumber": 82,
+      "visualInspection": true,
+      "caption": "Gomesa flexuosa com folhas na base e inflorescências ramificadas de flores amarelas acima da folhagem.",
+      "markers": [
+        "wholePlant",
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "sacoila-lanceolata",
+      "scientificName": "Sacoila lanceolata",
+      "photoId": 655026647,
+      "bytes": 488864,
+      "licenseCode": "cc0",
+      "previewNumber": 83,
+      "visualInspection": true,
+      "caption": "Inflorescência ereta de Sacoila lanceolata com flores tubulares avermelhadas agrupadas no alto da haste.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "sacoila-lanceolata",
+      "scientificName": "Sacoila lanceolata",
+      "photoId": 574601601,
+      "bytes": 372622,
+      "licenseCode": "cc0",
+      "previewNumber": 86,
+      "visualInspection": true,
+      "caption": "Flores de Sacoila lanceolata em detalhe, com coloração salmão e pelos visíveis na haste, nos botões e nas peças florais.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "sacoila-lanceolata",
+      "scientificName": "Sacoila lanceolata",
+      "photoId": 7946699,
+      "bytes": 575293,
+      "licenseCode": "cc-by",
+      "previewNumber": 87,
+      "visualInspection": true,
+      "caption": "Sacoila lanceolata crescendo no solo entre gramíneas, com uma haste floral ereta e sem folhas basais evidentes nesta fase.",
+      "markers": [
+        "wholePlant",
+        "flower"
+      ]
+    },
+    {
+      "plantId": "vanilla-chamissonis",
+      "scientificName": "Vanilla chamissonis",
+      "photoId": 172301867,
+      "bytes": 153995,
+      "licenseCode": "cc-by",
+      "previewNumber": 90,
+      "visualInspection": true,
+      "caption": "Flor de Vanilla chamissonis com sépalas e pétalas verde-amareladas e labelo claro, cuja abertura deixa ver a região interna amarela.",
+      "markers": [
+        "flower"
+      ]
+    },
+    {
+      "plantId": "vanilla-chamissonis",
+      "scientificName": "Vanilla chamissonis",
+      "photoId": 172301876,
+      "bytes": 323282,
+      "licenseCode": "cc-by",
+      "previewNumber": 91,
+      "visualInspection": true,
+      "caption": "Ramos de Vanilla chamissonis apoiados na vegetação, com folhas espessas e flores em diferentes fases de abertura.",
+      "markers": [
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "maxillaria-picta",
+      "scientificName": "Maxillaria picta",
+      "photoId": 123290342,
+      "bytes": 275968,
+      "licenseCode": "cc-by",
+      "previewNumber": 97,
+      "visualInspection": true,
+      "caption": "Maxillaria picta em touceira, com folhas alongadas e numerosas flores pequenas e manchadas próximas à base das folhas.",
+      "markers": [
+        "wholePlant",
+        "flower",
+        "leaf"
+      ]
+    },
+    {
+      "plantId": "maxillaria-picta",
+      "scientificName": "Maxillaria picta",
+      "photoId": 123290387,
+      "bytes": 185285,
+      "licenseCode": "cc-by",
+      "previewNumber": 98,
+      "visualInspection": true,
+      "caption": "Flor de Maxillaria picta em detalhe, com peças amareladas a castanhas e manchas avermelhadas sobre partes claras.",
+      "markers": [
+        "flower"
+      ]
+    }
+  ],
+  "originalMediaBytesAdded": 17011130,
+  "deferred": [
+    {
+      "name": "Cattleya lobata",
+      "reason": "Nenhuma observa??o com fotografia eleg?vel encontrada na consulta arquivada."
+    },
+    {
+      "name": "Cattleya warneri",
+      "reason": "Fora da planilha de ?rvores/arbustos; a resposta espec?fica consultada n?o confirma ocorr?ncia nativa no RJ."
+    },
+    {
+      "name": "Eulophia alta",
+      "reason": "Fora da planilha de ?rvores/arbustos; a resposta espec?fica consultada n?o confirma ocorr?ncia nativa no RJ."
+    }
+  ]
+}

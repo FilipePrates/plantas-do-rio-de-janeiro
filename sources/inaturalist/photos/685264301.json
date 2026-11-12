@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/374881581",
+  "photo": {
+    "id": 685264301,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685264301/square.jpg",
+    "attribution": "(c) topeuna, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "topeuna",
+  "observation": {
+    "id": 374881581,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1464941,
+      "name": "Begonia angulata"
+    },
+    "observerLogin": "topeuna"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685264301/large.jpg",
+    "sha256": "58c075ccc4c8dfaac0a6b1d96362d82e23c8ef9148422b22f43a451d4447b69b",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

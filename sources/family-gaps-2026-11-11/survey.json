@@ -1,0 +1,189 @@
+{
+  "Guapira opposita": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 10913,
+    "family": "Nyctaginaceae",
+    "nativeRio": true,
+    "cc0": 6,
+    "cc-by": 40
+  },
+  "Guapira pernambucensis": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 10914,
+    "family": "Nyctaginaceae",
+    "nativeRio": true,
+    "cc0": 3,
+    "cc-by": 4
+  },
+  "Alchornea triplinervia": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 17458,
+    "family": "Euphorbiaceae",
+    "nativeRio": true,
+    "cc0": 2,
+    "cc-by": 19
+  },
+  "Alchornea glandulosa": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 17456,
+    "family": "Euphorbiaceae",
+    "nativeRio": true,
+    "cc0": 7,
+    "cc-by": 14
+  },
+  "Croton floribundus": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 17512,
+    "family": "Euphorbiaceae",
+    "nativeRio": true,
+    "cc0": 0,
+    "cc-by": 27
+  },
+  "Allophylus edulis": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 20873,
+    "family": "Sapindaceae",
+    "nativeRio": true,
+    "cc0": 24,
+    "cc-by": 156
+  },
+  "Sapindus saponaria": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 20934,
+    "family": "Sapindaceae",
+    "nativeRio": true,
+    "cc0": 379,
+    "cc-by": 1188
+  },
+  "Zanthoxylum rhoifolium": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 1162,
+    "family": "Rutaceae",
+    "nativeRio": true,
+    "cc0": 10,
+    "cc-by": 75
+  },
+  "Cattleya lobata": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 65191,
+    "family": "Orchidaceae",
+    "nativeRio": true,
+    "cc0": 0,
+    "cc-by": 0
+  },
+  "Cattleya forbesii": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 11334,
+    "family": "Orchidaceae",
+    "nativeRio": true,
+    "cc0": 2,
+    "cc-by": 13
+  },
+  "Cattleya warneri": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 11347,
+    "family": "Orchidaceae",
+    "nativeRio": false,
+    "cc0": 0,
+    "cc-by": 1
+  },
+  "Brassavola tuberculata": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 11230,
+    "family": "Orchidaceae",
+    "nativeRio": true,
+    "cc0": 5,
+    "cc-by": 15
+  },
+  "Encyclia patens": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 11513,
+    "family": "Orchidaceae",
+    "nativeRio": true,
+    "cc0": 3,
+    "cc-by": 4
+  },
+  "Miltonia spectabilis": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 11859,
+    "family": "Orchidaceae",
+    "nativeRio": true,
+    "cc0": 1,
+    "cc-by": 5
+  },
+  "Gomesa flexuosa": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 122053,
+    "family": "Orchidaceae",
+    "nativeRio": true,
+    "cc0": 13,
+    "cc-by": 61
+  },
+  "Eulophia alta": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 11589,
+    "family": "Orchidaceae",
+    "nativeRio": false,
+    "cc0": 13,
+    "cc-by": 50
+  },
+  "Sacoila lanceolata": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 12182,
+    "family": "Orchidaceae",
+    "nativeRio": true,
+    "cc0": 45,
+    "cc-by": 169
+  },
+  "Vanilla chamissonis": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 12351,
+    "family": "Orchidaceae",
+    "nativeRio": true,
+    "cc0": 0,
+    "cc-by": 10
+  },
+  "Brasiliorchis picta": {
+    "status": "SINONIMO",
+    "acceptedName": null,
+    "floraId": 64725,
+    "family": "Orchidaceae",
+    "nativeRio": false
+  },
+  "Cattleya guttata": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 11336,
+    "family": "Orchidaceae",
+    "nativeRio": true,
+    "cc0": 2,
+    "cc-by": 11
+  },
+  "Maxillaria picta": {
+    "status": "NOME_ACEITO",
+    "acceptedName": null,
+    "floraId": 37812,
+    "family": "Orchidaceae",
+    "nativeRio": true,
+    "cc0": 1,
+    "cc-by": 16
+  }
+}

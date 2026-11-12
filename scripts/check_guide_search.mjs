@@ -16,7 +16,7 @@ try {
   const page = await context.newPage();
   const errors = [];
   page.on("pageerror", (error) => errors.push(String(error)));
-  await page.goto("http://127.0.0.1:8083", { waitUntil: "domcontentloaded", timeout: 120000 });
+  await page.goto(process.env.GUIDE_URL || "http://127.0.0.1:8083", { waitUntil: "domcontentloaded", timeout: 120000 });
   const input = page.getByLabel("Buscar plantas ou unidades de conservação", { exact: true });
   await input.waitFor();
   await page.locator('[data-testid^="plant-grid-"]').first().waitFor();
@@ -61,8 +61,20 @@ try {
   assert.ok(spinnerObservations > 0, "Loading indicator must appear while results update");
   assert.deepEqual(errors, []);
   await page.screenshot({ path: resolve(artifacts, "guide-after-search.png") });
+  await input.fill('Begoniaceae');
+  const begoniaIds = plants.filter(plant => plant.family === 'Begoniaceae' && plant.photos.length).map(plant => `plant-grid-${plant.id}`);
+  await page.waitForFunction(expected => {
+    const cards = [...document.querySelectorAll('[data-testid^="plant-grid-"]')];
+    return cards.length === expected.length && cards.every(card => expected.includes(card.getAttribute('data-testid')));
+  }, begoniaIds);
+  assert.equal(begoniaIds.length, 11);
+  await page.screenshot({ path: resolve(artifacts, "begonias.png") });
+  await input.fill('Avicennia germinans');
+  await page.getByTestId('plant-grid-avicennia-germinans').waitFor();
+  assert.deepEqual(errors, []);
   const report = { browser: "isolated Chrome context", viewport: "390x844", cpuThrottle: 6,
-    spinnerObservations, accentSearch: true, rapidQueryLatestWins: true, emptyAndClear: true, threeColumns: true, pageErrors: errors };
+    spinnerObservations, accentSearch: true, rapidQueryLatestWins: true, emptyAndClear: true, threeColumns: true,
+    newBegoniaProfiles: begoniaIds.length, newBlackMangrove: true, catalogEntries: plants.length, pageErrors: errors };
   writeFileSync(resolve(artifacts, "result.json"), JSON.stringify(report, null, 2) + "\n");
   console.log(JSON.stringify(report));
 } finally { await browser.close(); }

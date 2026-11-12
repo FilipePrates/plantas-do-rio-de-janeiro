@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/246288502",
+  "photo": {
+    "id": 439651215,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439651215/square.jpeg",
+    "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Matteo Bellucci",
+  "observation": {
+    "id": 246288502,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 768285,
+      "name": "Begonia ulmifolia"
+    },
+    "observerLogin": "matteobellu239"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439651215/large.jpeg",
+    "sha256": "56794127b009170fd5ec5be2e9ce6b400bc99ca828b23179322709c8a3c287b8",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

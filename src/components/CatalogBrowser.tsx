@@ -5,6 +5,7 @@ import type { BrowserAction, BrowserSection, BrowserState, CatalogIndexEntry } f
 import { matchesIndexName, plantsForRows, rowsForConservationUnit } from "../catalogBrowser.mjs";
 import { palette } from "../theme";
 import { SpeciesChecklist } from "./SpeciesChecklist";
+import { ForwardIcon } from "./icons";
 
 const tabs: { id: BrowserSection; label: string }[] = [
   { id: "families", label: "Famílias" },
@@ -80,7 +81,7 @@ function IndexList({ entries, query, onSelect, empty, recorded = false, guide = 
           <Text style={styles.indexName}>{item.name}</Text>
           <Text style={styles.count}>{item.speciesCount} {item.speciesCount === 1 ? "espécie" : "espécies"}</Text>
         </View>
-        <Text style={styles.arrow}>›</Text>
+        <ForwardIcon color={palette.pine} size={25} />
       </Pressable>
     )}
     ListEmptyComponent={<Text style={styles.note}>{empty}</Text>} />;
@@ -106,6 +107,5 @@ const styles = StyleSheet.create({
   indexNames: { flex: 1, gap: 5 },
   indexName: { color: palette.ink, fontSize: 16, lineHeight: 22, fontWeight: "600" },
   count: { color: palette.muted, fontSize: 12 },
-  arrow: { color: palette.pine, fontSize: 25 },
   note: { paddingVertical: 16, color: palette.muted, fontSize: 13, lineHeight: 19 },
 });

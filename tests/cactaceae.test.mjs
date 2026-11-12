@@ -3,6 +3,8 @@ import { readFileSync } from "node:fs";
 import test from "node:test";
 import { parseCatalog, representedSpeciesCount, inaturalistPhotoRights } from "../src/catalog.mjs";
 import { beforeCactusProfileReview } from "./helpers/cactaceae.mjs";
+import { beforePriorityBatchReview } from "./helpers/priority-batch.mjs";
+import { beforeFamilyGapReview } from "./helpers/family-gaps.mjs";
 
 const read = (path) => JSON.parse(readFileSync(new URL(path, import.meta.url), "utf8"));
 const before = read("../sources/cactaceae-2026-11-11/catalog-before.json");
@@ -11,11 +13,13 @@ const audit = read("../sources/cactaceae-2026-11-11/audit.json");
 const addedIds = new Set(audit.addedPlantIds);
 
 test("cactus expansion preserves all prior records except the explicitly audited profile text", () => {
-  const restored = { ...catalog, plants: catalog.plants.filter((plant) => !addedIds.has(plant.id)).map(beforeCactusProfileReview) };
+  const previousIds = new Set(before.plants.map(plant => plant.id));
+  const historical = { ...catalog, plants: catalog.plants.filter(plant => previousIds.has(plant.id) || addedIds.has(plant.id)).map(beforeFamilyGapReview).map(beforePriorityBatchReview) };
+  const restored = { ...historical, plants: historical.plants.filter((plant) => !addedIds.has(plant.id)).map(beforeCactusProfileReview) };
   assert.deepEqual(restored, before);
   assert.equal(audit.updatedProfiles.length, 3);
   assert.equal(audit.addedPlantIds.length, 14);
-  assert.equal(representedSpeciesCount(parseCatalog(catalog)), representedSpeciesCount(before) + 14);
+  assert.equal(representedSpeciesCount(parseCatalog(historical)), representedSpeciesCount(before) + 14);
   for (const change of audit.updatedProfiles) {
     assert.deepEqual(Object.keys(change.after).sort(), ["curationNotes", "description", "ecology", "identification", "reviewStatus", "sources"]);
     assert.equal(change.after.reviewStatus, "draft");

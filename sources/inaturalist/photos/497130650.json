@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/276857478",
+  "photo": {
+    "id": 497130650,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2000,
+      "height": 1500
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497130650/square.jpg",
+    "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Diogo Luiz",
+  "observation": {
+    "id": 276857478,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 860665,
+      "name": "Encyclia patens"
+    },
+    "observerLogin": "diogoluiz"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497130650/large.jpg",
+    "sha256": "6b255ebab8d30f41299b6d1339c5ab265f80d96bdc98414889877af25091dde4",
+    "retrievedAt": "2026-11-12T00:16:37Z"
+  }
+}

@@ -3,6 +3,8 @@ import { readFileSync } from "node:fs";
 import test from "node:test";
 import { beforeVisualAnnotations } from "./helpers/photo-annotations.mjs";
 import { beforeCactusProfileReview } from "./helpers/cactaceae.mjs";
+import { beforePriorityBatchReview, beforePriorityPhotoReview } from "./helpers/priority-batch.mjs";
+import { beforeFamilyGapReview } from "./helpers/family-gaps.mjs";
 
 const read = (path) => JSON.parse(readFileSync(new URL(path, import.meta.url), "utf8"));
 const before = read("../sources/photo-annotations-2026-11-11/catalog-before.json");
@@ -15,7 +17,7 @@ test("visual annotation pass preserves complete plant records, photo order, righ
   // Later additions are allowed; every record covered by this historical pass
   // still retains its exact fields and gallery order.
   const previousIds = new Set(before.plants.map((plant) => plant.id));
-  const restored = { ...structuredClone(catalog), plants: structuredClone(catalog.plants.filter((plant) => previousIds.has(plant.id)).map(beforeCactusProfileReview)) };
+  const restored = { ...structuredClone(catalog), plants: structuredClone(catalog.plants.filter((plant) => previousIds.has(plant.id)).map(beforeFamilyGapReview).map(beforePriorityBatchReview).map(beforeCactusProfileReview)) };
   for (const plant of restored.plants) plant.photos = plant.photos.map(beforeVisualAnnotations);
   assert.deepEqual(restored, before);
   const changedIds = new Set(audit.changes.map((change) => change.photoId));
@@ -27,7 +29,7 @@ test("visual annotation pass preserves complete plant records, photo order, righ
 });
 
 test("every photo was individually viewed and now has a caption; existing descriptions and cautions survive", () => {
-  const current = new Map(photos(catalog).map((photo) => [String(photo.photoId), photo]));
+  const current = new Map(photos(catalog).map(beforePriorityPhotoReview).map((photo) => [String(photo.photoId), photo]));
   const reviewedIds = photos(before).map((photo) => String(photo.photoId));
   assert.equal(audit.viewedPhotos, reviewedIds.length);
   assert.deepEqual(Object.keys(annotations).sort(), reviewedIds.sort());

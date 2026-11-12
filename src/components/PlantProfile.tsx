@@ -4,6 +4,7 @@ import {
   FlatList,
   Image,
   Linking,
+  Platform,
   Pressable,
   PanResponder,
   StyleSheet,
@@ -17,11 +18,12 @@ import type { MainPhoto, PrincipalName } from "../presentation.mjs";
 import { formatPlantNameForWrap, getPlantName, getMainPhoto } from "../presentation.mjs";
 import { plantImages } from "../data/plant-images";
 import { palette } from "../theme";
-import { BrandLeafIcon } from "./icons";
+import { BackIcon, BrandLeafIcon, ForwardIcon } from "./icons";
 import { PlantPhotoMarkers } from "./PlantPhotoMarkers";
 import { ConservationStatus, RegionalRecords } from "./RegionalRecords";
 import { PhotoViewer } from "./PhotoViewer";
 import { PhotoCredit } from "./PhotoCredit";
+import { PhotoDragArea } from "./PhotoDragArea";
 
 function openUrl(url: string) {
   void Linking.openURL(url).catch(() => undefined);
@@ -43,7 +45,9 @@ export function PlantProfile({
   relatedPlants?: Plant[];
   onOpenPlant?: (plant: Plant) => void;
 }) {
-  const { width } = useWindowDimensions();
+  const { width, height } = useWindowDimensions();
+  const desktop = Platform.OS === "web" && width >= 1024;
+  const galleryWidth = Math.min(540, (Math.min(width, 1440) - 72) * 0.42, Math.max(260, height - 206));
   const [size, setSize] = useState(Math.min(width, 640));
   const firstPhotoIndex = Math.max(0, plant.photos.indexOf(getMainPhoto(plant, mainPhoto)!));
   const [activeIndex, setActiveIndex] = useState(firstPhotoIndex);
@@ -75,6 +79,18 @@ export function PlantProfile({
   const gallery = useRef<FlatList<PlantPhoto>>(null);
   const activePhoto = plant.photos[activeIndex] ?? plant.photos[0];
   useEffect(() => {
+    if (!desktop || viewerIndex !== null) return;
+    function navigate(event: KeyboardEvent) {
+      const target = event.target as HTMLElement | null;
+      if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey || target?.isContentEditable ||
+        ["INPUT", "TEXTAREA", "SELECT"].includes(target?.tagName ?? "")) return;
+      const action = event.key === "ArrowLeft" ? onPrevious : event.key === "ArrowRight" ? onNext : undefined;
+      if (action) { event.preventDefault(); action(); }
+    }
+    window.addEventListener("keydown", navigate);
+    return () => window.removeEventListener("keydown", navigate);
+  }, [desktop, viewerIndex, onPrevious, onNext]);
+  useEffect(() => {
     setActiveIndex(firstPhotoIndex);
     setShowSources(false);
     setViewerIndex(null);
@@ -104,17 +120,32 @@ export function PlantProfile({
     )
   );
   return (
-    <Animated.ScrollView
-      style={[styles.screen, { transform: [{ translateX }] }]}
-      showsVerticalScrollIndicator={false}
-      contentContainerStyle={styles.content}
-    >
-      <View
-        style={styles.profile}
-        onLayout={(event) => setSize(event.nativeEvent.layout.width)}
+    <View style={styles.screen}>
+      {desktop && (onPrevious || onNext) && (
+        <View style={styles.profileNavigation}>
+          <Pressable accessibilityRole="button" accessibilityLabel="Ficha anterior" disabled={!onPrevious}
+            onPress={onPrevious} style={[styles.profileNavigationButton, !onPrevious && styles.disabled]}>
+            <BackIcon size={26} color={palette.ink} /><Text style={styles.profileNavigationLabel}>Anterior</Text>
+          </Pressable>
+          <Pressable accessibilityRole="button" accessibilityLabel="Próxima ficha" disabled={!onNext}
+            onPress={onNext} style={[styles.profileNavigationButton, !onNext && styles.disabled]}>
+            <Text style={styles.profileNavigationLabel}>Próxima</Text><View style={styles.nextArrow}><BackIcon size={26} color={palette.ink} /></View>
+          </Pressable>
+        </View>
+      )}
+      <Animated.ScrollView
+        testID="plant-profile-scroll"
+        style={[styles.screen, { transform: [{ translateX }] }]}
+        showsVerticalScrollIndicator={false}
+        contentContainerStyle={styles.content}
       >
+      <View style={[styles.profile, desktop && styles.desktopProfile]}>
+        <View style={desktop ? { width: galleryWidth } : undefined}
+          onLayout={(event) => setSize(event.nativeEvent.layout.width)}>
         {plant.photos.length ? (
           <>
+            <View testID="profile-photo-gallery">
+            <PhotoDragArea enabled={desktop} index={activeIndex} count={plant.photos.length} onChange={showPhoto}>
             <FlatList
               key={`${plant.id}:${size}:${firstPhotoIndex}`}
               initialScrollIndex={firstPhotoIndex}
@@ -148,20 +179,39 @@ export function PlantProfile({
               }
               scrollEventThrottle={32}
               renderItem={({ item, index }) => (
-                <PhotoFrame photo={item} name={plant.commonName} size={size} onOpen={() => setViewerIndex(index)} />
+                <PhotoFrame photo={item} name={plant.commonName} size={size} desktop={desktop} onOpen={() => setViewerIndex(index)} />
               )}
             />
-            {activePhoto && (plant.rank === "genus" || activePhoto.caption) && (
+            </PhotoDragArea>
+            {desktop && plant.photos.length > 1 && (
+              <>
+                <Pressable accessibilityRole="button" accessibilityLabel="Foto anterior"
+                  disabled={activeIndex === 0} accessibilityState={{ disabled: activeIndex === 0 }}
+                  onPress={() => showPhoto(activeIndex - 1)}
+                  style={[styles.desktopPhotoArrow, { left: -22, top: size / 2 - 22 }, activeIndex === 0 && styles.photoArrowDisabled]}>
+                  <BackIcon size={26} color={palette.white} />
+                </Pressable>
+                <Pressable accessibilityRole="button" accessibilityLabel="Foto seguinte"
+                  disabled={activeIndex === plant.photos.length - 1} accessibilityState={{ disabled: activeIndex === plant.photos.length - 1 }}
+                  onPress={() => showPhoto(activeIndex + 1)}
+                  style={[styles.desktopPhotoArrow, { right: -22, top: size / 2 - 22 }, activeIndex === plant.photos.length - 1 && styles.photoArrowDisabled]}>
+                  <View style={styles.nextArrow}><BackIcon size={26} color={palette.white} /></View>
+                </Pressable>
+              </>
+            )}
+            </View>
+            {desktop && plant.photos.length > 1 && <Text style={styles.dragHint}>Arraste para mudar de foto · Clique para ampliar</Text>}
+            {activePhoto && (plant.rank === "genus" || (!desktop && activePhoto.caption)) && (
               <View style={styles.photoCaption}>
                 {plant.rank === "genus" && (
                   <Text style={[styles.muted, styles.scientific]}>{activePhoto.taxonName}</Text>
                 )}
-                {!!activePhoto.caption && <Text style={styles.muted}>{activePhoto.caption}</Text>}
+                {!desktop && !!activePhoto.caption && <Text style={styles.muted}>{activePhoto.caption}</Text>}
               </View>
             )}
             {plant.photos.length > 1 && (
               <View style={styles.galleryNavigation}>
-                <Pressable
+                {!desktop && <Pressable
                   accessibilityRole="button"
                   accessibilityLabel="Foto anterior"
                   accessibilityState={{ disabled: activeIndex === 0 }}
@@ -177,8 +227,9 @@ export function PlantProfile({
                   >
                     ‹
                   </Text>
-                </Pressable>
+                </Pressable>}
                 <View style={styles.dots}>
+                  {desktop && <Text style={styles.photoCount}>{activeIndex + 1} / {plant.photos.length}</Text>}
                   {plant.photos.length <= 10 ? (
                     plant.photos.map((photo, index) => (
                       <Pressable
@@ -203,7 +254,7 @@ export function PlantProfile({
                     </Text>
                   )}
                 </View>
-                <Pressable
+                {!desktop && <Pressable
                   accessibilityRole="button"
                   accessibilityLabel="Foto seguinte"
                   accessibilityState={{
@@ -222,7 +273,7 @@ export function PlantProfile({
                   >
                     ›
                   </Text>
-                </Pressable>
+                </Pressable>}
               </View>
             )}
           </>
@@ -232,8 +283,9 @@ export function PlantProfile({
             <Text style={styles.muted}>Foto em preparação</Text>
           </View>
         ) : null}
-        <View {...swipe.panHandlers}>
-        <View style={styles.identity}>
+        </View>
+        <View style={desktop && styles.desktopInformation} {...(!desktop ? swipe.panHandlers : {})}>
+        <View style={[styles.identity, desktop && styles.desktopIdentity]}>
           <Text
             style={[
               styles.primaryName,
@@ -324,7 +376,8 @@ export function PlantProfile({
             {relatedPlants.filter((p) => p.id !== plant.id).map((p) => (
               <Pressable key={p.id} style={styles.relatedLink} accessibilityRole="button"
                 accessibilityLabel={`Abrir ${p.scientificName}`} onPress={() => onOpenPlant(p)}>
-                <Text style={styles.body}>{p.commonName} · {p.scientificName} ›</Text>
+                <Text style={[styles.body, { flex: 1 }]}>{p.commonName} · {p.scientificName}</Text>
+                <ForwardIcon color={palette.pine} size={25} />
               </Pressable>
             ))}
           </Section>
@@ -384,17 +437,20 @@ export function PlantProfile({
         />
       )}
     </Animated.ScrollView>
+    </View>
   );
 }
 function PhotoFrame({
   photo,
   name,
   size,
+  desktop,
   onOpen,
 }: {
   photo: PlantPhoto;
   name: string;
   size: number;
+  desktop: boolean;
   onOpen: () => void;
 }) {
   const [failed, setFailed] = useState(false);
@@ -422,8 +478,18 @@ function PhotoFrame({
           <Text style={styles.muted}>Foto em preparação</Text>
         </View>
       )}
-      <PlantPhotoMarkers markers={photo.markers} />
-      <View style={styles.credit}><PhotoCredit photo={photo} /></View>
+      {desktop ? (
+        <View style={styles.desktopPhotoMetadata} testID={`photo-metadata-${photo.id}`} pointerEvents="box-none">
+          <View style={styles.desktopPhotoMarkers}><PlantPhotoMarkers markers={photo.markers} inline /></View>
+          <View style={styles.desktopCaptionSpace} pointerEvents="none">
+            {!!photo.caption && <Text style={styles.desktopPhotoCaption}>{photo.caption}</Text>}
+          </View>
+          <View style={styles.desktopPhotoCredit}><PhotoCredit photo={photo} /></View>
+        </View>
+      ) : <>
+        <PlantPhotoMarkers markers={photo.markers} />
+        <View style={styles.credit}><PhotoCredit photo={photo} /></View>
+      </>}
     </View>
   );
 }
@@ -434,19 +500,33 @@ function Section({
   title: string;
   children: React.ReactNode;
 }) {
+  const {width}=useWindowDimensions();
+  const desktop=Platform.OS==='web'&&width>=1024;
   return (
-    <View style={styles.section}>
+    <View style={[styles.section, desktop && styles.desktopSection]}>
       <Text style={styles.sectionTitle}>{title}</Text>
       {children}
     </View>
   );
 }
 const styles = StyleSheet.create({
-  relatedLink: { paddingVertical: 12, borderBottomWidth: 1, borderBottomColor: palette.border },
+  relatedLink: { paddingVertical: 12, borderBottomWidth: 1, borderBottomColor: palette.border, flexDirection: "row", alignItems: "center", gap: 8 },
   municipalRecord: { paddingVertical: 12, gap: 4, borderBottomWidth: 1, borderBottomColor: palette.border },
   screen: { flex: 1, backgroundColor: palette.paper },
   content: { paddingBottom: 20 },
   profile: { width: "100%", maxWidth: 640, alignSelf: "center" },
+  desktopProfile: { maxWidth: 1440, paddingHorizontal: 24, flexDirection: "row", alignItems: "flex-start", gap: 20 },
+  desktopInformation: { flex: 1, minWidth: 0 },
+  desktopIdentity: { paddingVertical: 12 },
+  desktopSection: { paddingVertical: 14 },
+  profileNavigation: { flexShrink: 0, width: "100%", maxWidth: 1440, alignSelf: "center", flexDirection: "row", alignItems: "center", justifyContent: "space-between", paddingHorizontal: 24, paddingVertical: 6 },
+  dragHint: { color: palette.muted, fontSize: 11, paddingHorizontal: 16, paddingTop: 8 },
+  profileNavigationButton: { minHeight: 44, flexDirection: "row", alignItems: "center", gap: 8, paddingHorizontal: 6 },
+  profileNavigationLabel: { color: palette.ink, fontSize: 14, fontWeight: "600" },
+  nextArrow: { transform: [{ rotate: "180deg" }] },
+  desktopPhotoArrow: { position: "absolute", zIndex: 2, width: 44, height: 44, alignItems: "center", justifyContent: "center", borderWidth: 2, borderColor: palette.paper, backgroundColor: palette.ink, borderRadius: 22, boxShadow: "0 2px 8px rgba(36,49,39,0.22)" },
+  photoArrowDisabled: { opacity: 0.4 },
+  photoCount: { color: palette.ink, fontSize: 13, marginRight: 12 },
   photo: { backgroundColor: palette.moss, position: "relative" },
   photoImage: { width: "100%", height: "100%" },
   photoFallback: {
@@ -473,6 +553,11 @@ const styles = StyleSheet.create({
   },
   creditText: { color: palette.paper, fontSize: 9, lineHeight: 12 },
   photoCaption: { paddingHorizontal: 16, paddingTop: 8, gap: 3 },
+  desktopPhotoMetadata: { position: "absolute", left: 8, right: 8, bottom: 8, flexDirection: "row", alignItems: "flex-end", gap: 8 },
+  desktopPhotoMarkers: { maxWidth: "26%", flexShrink: 0 },
+  desktopCaptionSpace: { flex: 1, minWidth: 0, alignItems: "center" },
+  desktopPhotoCaption: { color: palette.paper, fontSize: 11, lineHeight: 16, textAlign: "center", backgroundColor: "rgba(36,49,39,0.82)", borderRadius: 6, paddingHorizontal: 8, paddingVertical: 6 },
+  desktopPhotoCredit: { maxWidth: "30%", backgroundColor: "rgba(36,49,39,0.72)", borderRadius: 5, paddingHorizontal: 6, paddingVertical: 1 },
   galleryNavigation: {
     flexDirection: "row",
     alignItems: "center",

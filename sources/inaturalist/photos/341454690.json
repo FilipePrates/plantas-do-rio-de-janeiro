@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/194278610",
+  "photo": {
+    "id": 341454690,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1080,
+      "height": 1440
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341454690/square.jpg",
+    "attribution": "(c) Felipe Horton, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Felipe Horton",
+  "observation": {
+    "id": 194278610,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 206261,
+      "name": "Echinodorus grandiflorus"
+    },
+    "observerLogin": "hortonf"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341454690/large.jpg",
+    "sha256": "2ad60b8aeac1a7aa370cd093311f6eed5550f784a406d50ba4b844917a60c34b",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

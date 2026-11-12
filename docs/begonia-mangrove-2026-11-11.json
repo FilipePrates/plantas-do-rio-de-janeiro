@@ -1,0 +1,1655 @@
+{
+  "date": "2026-11-11",
+  "newProfiles": 26,
+  "expandedProfiles": 12,
+  "newBegoniaceae": 11,
+  "newPhotos": 52,
+  "newPhotoLicenses": {
+    "cc0": 28,
+    "cc-by": 24
+  },
+  "correctedExistingCaptions": 2,
+  "addedOriginalMiB": 22.58,
+  "entries": 413,
+  "representedSpecies": 534,
+  "photos": 685,
+  "illustratedProfiles": 253,
+  "workbookSpecies": 3114,
+  "workbookUnrepresented": 2764,
+  "catalogSha256": "0699b989b15470da67c01ef16c65e5c6acf20b6663636eabe9b1fcc97b394954",
+  "priorityChecklist": [
+    {
+      "scientificName": "Andira legalis",
+      "commonName": "Angelim-da-praia",
+      "photos": 1,
+      "action": "new profile"
+    },
+    {
+      "scientificName": "Psidium cattleyanum",
+      "commonName": "Araçá",
+      "photos": 5,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Schinus terebinthifolia",
+      "commonName": "Aroeira-vermelha",
+      "photos": 3,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Cordia superba",
+      "commonName": "Babosa-branca",
+      "photos": 2,
+      "action": "new profile"
+    },
+    {
+      "scientificName": "Tabebuia cassinoides",
+      "commonName": "caixeta",
+      "photos": 3,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Cedrela fissilis",
+      "commonName": "Cedro-rosa",
+      "photos": 3,
+      "action": "completed/expanded"
+    },
+    {
+      "scientificName": "Clusia fluminensis",
+      "commonName": "Clúsia",
+      "photos": 3,
+      "action": "completed/expanded"
+    },
+    {
+      "scientificName": "Melocactus violaceus",
+      "commonName": "Coroa-de-frade",
+      "photos": 2,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Cecropia glaziovii",
+      "commonName": "Embaúba-vermelha",
+      "photos": 2,
+      "action": "completed/expanded"
+    },
+    {
+      "scientificName": "Cecropia hololeuca",
+      "commonName": "Embaúba-prateada",
+      "photos": 2,
+      "action": "completed/expanded"
+    },
+    {
+      "scientificName": "Eugenia brasiliensis",
+      "commonName": "Grumixama",
+      "photos": 3,
+      "action": "completed/expanded"
+    },
+    {
+      "scientificName": "Schizolobium parahyba",
+      "commonName": "Guapuruvu",
+      "photos": 3,
+      "action": "new profile"
+    },
+    {
+      "scientificName": "Dalbergia nigra",
+      "commonName": "Jacarandá-da-bahia",
+      "photos": 2,
+      "action": "completed/expanded"
+    },
+    {
+      "scientificName": "Hymenaea courbaril",
+      "commonName": "Jatobá",
+      "photos": 2,
+      "action": "new profile"
+    },
+    {
+      "scientificName": "Genipa americana",
+      "commonName": "Jenipapo",
+      "photos": 2,
+      "action": "completed/expanded"
+    },
+    {
+      "scientificName": "Cariniana estrellensis",
+      "commonName": "Jequitibá-branco",
+      "photos": 1,
+      "action": "completed/expanded"
+    },
+    {
+      "scientificName": "Cariniana legalis",
+      "commonName": "Jequitibá-rosa",
+      "photos": 1,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Syagrus romanzoffiana",
+      "commonName": "Jerivá",
+      "photos": 5,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Pleroma mutabile",
+      "commonName": "Manacá-da-serra",
+      "photos": 2,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Manilkara subsericea",
+      "commonName": "Maçaranduba",
+      "photos": 3,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Byrsonima sericea",
+      "commonName": "Murici",
+      "photos": 2,
+      "action": "new profile"
+    },
+    {
+      "scientificName": "Ormosia arborea",
+      "commonName": "Olho-de-cabra",
+      "photos": 2,
+      "action": "new profile"
+    },
+    {
+      "scientificName": "Ceiba speciosa",
+      "commonName": "Paineira",
+      "photos": 3,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Euterpe edulis",
+      "commonName": "Palmito-juçara",
+      "photos": 4,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Bauhinia forficata",
+      "commonName": "Pata-de-vaca",
+      "photos": 2,
+      "action": "new profile"
+    },
+    {
+      "scientificName": "Paubrasilia echinata",
+      "commonName": "Pau-brasil",
+      "photos": 6,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Eugenia uniflora",
+      "commonName": "Pitanga",
+      "photos": 3,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Pleroma granulosum",
+      "commonName": "Quaresmeira",
+      "photos": 3,
+      "action": "existing profile retained"
+    },
+    {
+      "scientificName": "Sideroxylon obtusifolium",
+      "commonName": "Quixabeira",
+      "photos": 2,
+      "action": "new profile"
+    },
+    {
+      "scientificName": "Lecythis pisonis",
+      "commonName": "Sapucaia",
+      "photos": 2,
+      "action": "existing profile retained"
+    }
+  ],
+  "families": [
+    {
+      "family": "Acanthaceae",
+      "entries": 3,
+      "illustratedProfiles": 2,
+      "illustratedReferences": 0,
+      "workbookSpecies": 40,
+      "workbookUnrepresented": 37
+    },
+    {
+      "family": "Achariaceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Achatocarpaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Adoxaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Alismataceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Amaranthaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Anacardiaceae",
+      "entries": 3,
+      "illustratedProfiles": 3,
+      "illustratedReferences": 0,
+      "workbookSpecies": 16,
+      "workbookUnrepresented": 13
+    },
+    {
+      "family": "Annonaceae",
+      "entries": 13,
+      "illustratedProfiles": 4,
+      "illustratedReferences": 1,
+      "workbookSpecies": 43,
+      "workbookUnrepresented": 30
+    },
+    {
+      "family": "Apocynaceae",
+      "entries": 3,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 2,
+      "workbookSpecies": 36,
+      "workbookUnrepresented": 33
+    },
+    {
+      "family": "Aptandraceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Aquifoliaceae",
+      "entries": 1,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 15,
+      "workbookUnrepresented": 14
+    },
+    {
+      "family": "Araceae",
+      "entries": 22,
+      "illustratedProfiles": 21,
+      "illustratedReferences": 1,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Araliaceae",
+      "entries": 3,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 1,
+      "workbookSpecies": 13,
+      "workbookUnrepresented": 10
+    },
+    {
+      "family": "Araucariaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Arecaceae",
+      "entries": 15,
+      "illustratedProfiles": 10,
+      "illustratedReferences": 4,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Asteraceae",
+      "entries": 9,
+      "illustratedProfiles": 3,
+      "illustratedReferences": 0,
+      "workbookSpecies": 167,
+      "workbookUnrepresented": 158
+    },
+    {
+      "family": "Begoniaceae",
+      "entries": 11,
+      "illustratedProfiles": 11,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Berberidaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 3,
+      "workbookUnrepresented": 3
+    },
+    {
+      "family": "Bignoniaceae",
+      "entries": 8,
+      "illustratedProfiles": 7,
+      "illustratedReferences": 1,
+      "workbookSpecies": 42,
+      "workbookUnrepresented": 34
+    },
+    {
+      "family": "Bixaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Bonnetiaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Bromeliaceae",
+      "entries": 46,
+      "illustratedProfiles": 45,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Burseraceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 5,
+      "workbookUnrepresented": 5
+    },
+    {
+      "family": "Cactaceae",
+      "entries": 17,
+      "illustratedProfiles": 17,
+      "illustratedReferences": 0,
+      "workbookSpecies": 10,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Calophyllaceae",
+      "entries": 3,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 9,
+      "workbookUnrepresented": 6
+    },
+    {
+      "family": "Campanulaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 8,
+      "workbookUnrepresented": 8
+    },
+    {
+      "family": "Canellaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Cannabaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 7,
+      "workbookUnrepresented": 7
+    },
+    {
+      "family": "Capparaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 6,
+      "workbookUnrepresented": 6
+    },
+    {
+      "family": "Cardiopteridaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 3,
+      "workbookUnrepresented": 3
+    },
+    {
+      "family": "Caricaceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 4,
+      "workbookUnrepresented": 3
+    },
+    {
+      "family": "Caryocaraceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Celastraceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 37,
+      "workbookUnrepresented": 37
+    },
+    {
+      "family": "Chloranthaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Chrysobalanaceae",
+      "entries": 3,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 27,
+      "workbookUnrepresented": 24
+    },
+    {
+      "family": "Cleomaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 5,
+      "workbookUnrepresented": 5
+    },
+    {
+      "family": "Clethraceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Clusiaceae",
+      "entries": 5,
+      "illustratedProfiles": 5,
+      "illustratedReferences": 0,
+      "workbookSpecies": 21,
+      "workbookUnrepresented": 16
+    },
+    {
+      "family": "Combretaceae",
+      "entries": 3,
+      "illustratedProfiles": 2,
+      "illustratedReferences": 0,
+      "workbookSpecies": 16,
+      "workbookUnrepresented": 13
+    },
+    {
+      "family": "Commelinaceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Connaraceae",
+      "entries": 1,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 8,
+      "workbookUnrepresented": 7
+    },
+    {
+      "family": "Convolvulaceae",
+      "entries": 2,
+      "illustratedProfiles": 2,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Cordiaceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 20,
+      "workbookUnrepresented": 19
+    },
+    {
+      "family": "Costaceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Cunoniaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 6,
+      "workbookUnrepresented": 6
+    },
+    {
+      "family": "Cyatheaceae",
+      "entries": 2,
+      "illustratedProfiles": 2,
+      "illustratedReferences": 0,
+      "workbookSpecies": 17,
+      "workbookUnrepresented": 15
+    },
+    {
+      "family": "Cyperaceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Dichapetalaceae",
+      "entries": 1,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 3,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Dicksoniaceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Dilleniaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 5,
+      "workbookUnrepresented": 5
+    },
+    {
+      "family": "Ebenaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 4,
+      "workbookUnrepresented": 4
+    },
+    {
+      "family": "Elaeocarpaceae",
+      "entries": 1,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 5,
+      "workbookUnrepresented": 4
+    },
+    {
+      "family": "Ericaceae",
+      "entries": 2,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 20,
+      "workbookUnrepresented": 18
+    },
+    {
+      "family": "Erythropalaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Erythroxylaceae",
+      "entries": 4,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 29,
+      "workbookUnrepresented": 25
+    },
+    {
+      "family": "Escalloniaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Euphorbiaceae",
+      "entries": 2,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 110,
+      "workbookUnrepresented": 108
+    },
+    {
+      "family": "Fabaceae",
+      "entries": 41,
+      "illustratedProfiles": 25,
+      "illustratedReferences": 2,
+      "workbookSpecies": 298,
+      "workbookUnrepresented": 260
+    },
+    {
+      "family": "Gentianaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 4,
+      "workbookUnrepresented": 4
+    },
+    {
+      "family": "Gesneriaceae",
+      "entries": 6,
+      "illustratedProfiles": 3,
+      "illustratedReferences": 2,
+      "workbookSpecies": 10,
+      "workbookUnrepresented": 7
+    },
+    {
+      "family": "Goodeniaceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Griseliniaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Heliconiaceae",
+      "entries": 2,
+      "illustratedProfiles": 2,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Heliotropiaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 10,
+      "workbookUnrepresented": 10
+    },
+    {
+      "family": "Hernandiaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 3,
+      "workbookUnrepresented": 3
+    },
+    {
+      "family": "Humiriaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 3,
+      "workbookUnrepresented": 3
+    },
+    {
+      "family": "Hydroleaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Hypericaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 4,
+      "workbookUnrepresented": 4
+    },
+    {
+      "family": "Icacinaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Lacistemataceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 3,
+      "workbookUnrepresented": 3
+    },
+    {
+      "family": "Lamiaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 41,
+      "workbookUnrepresented": 41
+    },
+    {
+      "family": "Lauraceae",
+      "entries": 7,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 3,
+      "workbookSpecies": 119,
+      "workbookUnrepresented": 112
+    },
+    {
+      "family": "Lecythidaceae",
+      "entries": 8,
+      "illustratedProfiles": 4,
+      "illustratedReferences": 2,
+      "workbookSpecies": 10,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Loganiaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 8,
+      "workbookUnrepresented": 8
+    },
+    {
+      "family": "Lythraceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Magnoliaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Malpighiaceae",
+      "entries": 3,
+      "illustratedProfiles": 2,
+      "illustratedReferences": 0,
+      "workbookSpecies": 38,
+      "workbookUnrepresented": 35
+    },
+    {
+      "family": "Malvaceae",
+      "entries": 8,
+      "illustratedProfiles": 5,
+      "illustratedReferences": 0,
+      "workbookSpecies": 126,
+      "workbookUnrepresented": 118
+    },
+    {
+      "family": "Marantaceae",
+      "entries": 2,
+      "illustratedProfiles": 2,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Marcgraviaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Melastomataceae",
+      "entries": 15,
+      "illustratedProfiles": 6,
+      "illustratedReferences": 3,
+      "workbookSpecies": 265,
+      "workbookUnrepresented": 250
+    },
+    {
+      "family": "Meliaceae",
+      "entries": 2,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 1,
+      "workbookSpecies": 22,
+      "workbookUnrepresented": 20
+    },
+    {
+      "family": "Monimiaceae",
+      "entries": 3,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 1,
+      "workbookSpecies": 34,
+      "workbookUnrepresented": 31
+    },
+    {
+      "family": "Moraceae",
+      "entries": 6,
+      "illustratedProfiles": 4,
+      "illustratedReferences": 1,
+      "workbookSpecies": 41,
+      "workbookUnrepresented": 36
+    },
+    {
+      "family": "Myristicaceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 3,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Myrtaceae",
+      "entries": 35,
+      "illustratedProfiles": 24,
+      "illustratedReferences": 3,
+      "workbookSpecies": 302,
+      "workbookUnrepresented": 200
+    },
+    {
+      "family": "Nyctaginaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 18,
+      "workbookUnrepresented": 18
+    },
+    {
+      "family": "Ochnaceae",
+      "entries": 2,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 21,
+      "workbookUnrepresented": 19
+    },
+    {
+      "family": "Olacaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Oleaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 5,
+      "workbookUnrepresented": 5
+    },
+    {
+      "family": "Onagraceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 13,
+      "workbookUnrepresented": 13
+    },
+    {
+      "family": "Opiliaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Orchidaceae",
+      "entries": 4,
+      "illustratedProfiles": 3,
+      "illustratedReferences": 1,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Orobanchaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 4,
+      "workbookUnrepresented": 4
+    },
+    {
+      "family": "Oxalidaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Passifloraceae",
+      "entries": 3,
+      "illustratedProfiles": 3,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Pentaphylacaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Peraceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 4,
+      "workbookUnrepresented": 4
+    },
+    {
+      "family": "Phyllanthaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 16,
+      "workbookUnrepresented": 16
+    },
+    {
+      "family": "Phytolaccaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 5,
+      "workbookUnrepresented": 5
+    },
+    {
+      "family": "Picramniaceae",
+      "entries": 1,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 7,
+      "workbookUnrepresented": 6
+    },
+    {
+      "family": "Piperaceae",
+      "entries": 8,
+      "illustratedProfiles": 3,
+      "illustratedReferences": 0,
+      "workbookSpecies": 98,
+      "workbookUnrepresented": 91
+    },
+    {
+      "family": "Plantaginaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Plumbaginaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Poaceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Podocarpaceae",
+      "entries": 1,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 1,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Polygalaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 7,
+      "workbookUnrepresented": 7
+    },
+    {
+      "family": "Polygonaceae",
+      "entries": 1,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 16,
+      "workbookUnrepresented": 15
+    },
+    {
+      "family": "Polypodiaceae",
+      "entries": 2,
+      "illustratedProfiles": 2,
+      "illustratedReferences": 0,
+      "workbookSpecies": 0,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Primulaceae",
+      "entries": 3,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 36,
+      "workbookUnrepresented": 33
+    },
+    {
+      "family": "Proteaceae",
+      "entries": 2,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 14,
+      "workbookUnrepresented": 12
+    },
+    {
+      "family": "Putranjivaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Quiinaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Rhamnaceae",
+      "entries": 2,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 2,
+      "workbookSpecies": 9,
+      "workbookUnrepresented": 7
+    },
+    {
+      "family": "Rhizophoraceae",
+      "entries": 1,
+      "illustratedProfiles": 1,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 0
+    },
+    {
+      "family": "Rosaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 3,
+      "workbookUnrepresented": 3
+    },
+    {
+      "family": "Rubiaceae",
+      "entries": 20,
+      "illustratedProfiles": 5,
+      "illustratedReferences": 2,
+      "workbookSpecies": 236,
+      "workbookUnrepresented": 216
+    },
+    {
+      "family": "Rutaceae",
+      "entries": 3,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 46,
+      "workbookUnrepresented": 43
+    },
+    {
+      "family": "Sabiaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Salicaceae",
+      "entries": 1,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 25,
+      "workbookUnrepresented": 24
+    },
+    {
+      "family": "Sapindaceae",
+      "entries": 3,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 1,
+      "workbookSpecies": 49,
+      "workbookUnrepresented": 46
+    },
+    {
+      "family": "Sapotaceae",
+      "entries": 9,
+      "illustratedProfiles": 4,
+      "illustratedReferences": 0,
+      "workbookSpecies": 45,
+      "workbookUnrepresented": 36
+    },
+    {
+      "family": "Schlegeliaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Schoepfiaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Scrophulariaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 5,
+      "workbookUnrepresented": 5
+    },
+    {
+      "family": "Simaroubaceae",
+      "entries": 1,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 6,
+      "workbookUnrepresented": 5
+    },
+    {
+      "family": "Siparunaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 4,
+      "workbookUnrepresented": 4
+    },
+    {
+      "family": "Solanaceae",
+      "entries": 5,
+      "illustratedProfiles": 2,
+      "illustratedReferences": 0,
+      "workbookSpecies": 127,
+      "workbookUnrepresented": 122
+    },
+    {
+      "family": "Strombosiaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Styracaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 11,
+      "workbookUnrepresented": 11
+    },
+    {
+      "family": "Symplocaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 22,
+      "workbookUnrepresented": 22
+    },
+    {
+      "family": "Theaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Thymelaeaceae",
+      "entries": 2,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 12,
+      "workbookUnrepresented": 10
+    },
+    {
+      "family": "Trigoniaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 10,
+      "workbookUnrepresented": 10
+    },
+    {
+      "family": "Turneraceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 8,
+      "workbookUnrepresented": 8
+    },
+    {
+      "family": "Ulmaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 2,
+      "workbookUnrepresented": 2
+    },
+    {
+      "family": "Urticaceae",
+      "entries": 5,
+      "illustratedProfiles": 4,
+      "illustratedReferences": 0,
+      "workbookSpecies": 20,
+      "workbookUnrepresented": 15
+    },
+    {
+      "family": "Verbenaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 23,
+      "workbookUnrepresented": 23
+    },
+    {
+      "family": "Violaceae",
+      "entries": 1,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 10,
+      "workbookUnrepresented": 9
+    },
+    {
+      "family": "Vitaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Vochysiaceae",
+      "entries": 1,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 19,
+      "workbookUnrepresented": 18
+    },
+    {
+      "family": "Winteraceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    },
+    {
+      "family": "Ximeniaceae",
+      "entries": 0,
+      "illustratedProfiles": 0,
+      "illustratedReferences": 0,
+      "workbookSpecies": 1,
+      "workbookUnrepresented": 1
+    }
+  ],
+  "nextCandidates": [
+    {
+      "family": "Nyctaginaceae",
+      "scientificName": "Guapira opposita",
+      "workbookRow": 2142,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Nyctaginaceae",
+      "scientificName": "Guapira pernambucensis",
+      "workbookRow": 2143,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Euphorbiaceae",
+      "scientificName": "Alchornea triplinervia",
+      "workbookRow": 679,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Euphorbiaceae",
+      "scientificName": "Croton floribundus",
+      "workbookRow": 684,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Sapindaceae",
+      "scientificName": "Allophylus edulis",
+      "workbookRow": 2736,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Sapindaceae",
+      "scientificName": "Sapindus saponaria",
+      "workbookRow": 2749,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Rutaceae",
+      "scientificName": "Zanthoxylum rhoifolium",
+      "workbookRow": 2703,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Rutaceae",
+      "scientificName": "Esenbeckia leiocarpa",
+      "workbookRow": 2683,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Piperaceae",
+      "scientificName": "Piper cernuum",
+      "workbookRow": 2249,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Piperaceae",
+      "scientificName": "Piper amalago",
+      "workbookRow": 2240,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Erythroxylaceae",
+      "scientificName": "Erythroxylum ovalifolium",
+      "workbookRow": 660,
+      "current": "reference only",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Erythroxylaceae",
+      "scientificName": "Erythroxylum pulchrum",
+      "workbookRow": 662,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Ochnaceae",
+      "scientificName": "Ouratea cuspidata",
+      "workbookRow": 2155,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Ochnaceae",
+      "scientificName": "Ouratea multiflora",
+      "workbookRow": 2161,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Polygonaceae",
+      "scientificName": "Coccoloba arborescens",
+      "workbookRow": 2347,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Asteraceae",
+      "scientificName": "Baccharis dracunculifolia",
+      "workbookRow": 179,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Asteraceae",
+      "scientificName": "Vernonanthura polyanthes",
+      "workbookRow": 335,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Solanaceae",
+      "scientificName": "Solanum paniculatum",
+      "workbookRow": 2926,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Solanaceae",
+      "scientificName": "Solanum mauritianum",
+      "workbookRow": 2921,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Sapotaceae",
+      "scientificName": "Pouteria venosa",
+      "workbookRow": 2814,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    },
+    {
+      "family": "Cannabaceae",
+      "scientificName": "Trema micranthum",
+      "workbookRow": 424,
+      "current": "absent",
+      "nextAction": "Survey eligible, visually diagnostic photos; then write a sourced profile."
+    }
+  ],
+  "species": [
+    {
+      "scientificName": "Avicennia germinans",
+      "commonName": "Mangue-preto",
+      "family": "Acanthaceae",
+      "photos": 3
+    },
+    {
+      "scientificName": "Andira legalis",
+      "commonName": "Angelim-da-praia",
+      "family": "Fabaceae",
+      "photos": 1
+    },
+    {
+      "scientificName": "Cordia superba",
+      "commonName": "Babosa-branca",
+      "family": "Cordiaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Schizolobium parahyba",
+      "commonName": "Guapuruvu",
+      "family": "Fabaceae",
+      "photos": 3
+    },
+    {
+      "scientificName": "Hymenaea courbaril",
+      "commonName": "Jatobá",
+      "family": "Fabaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Byrsonima sericea",
+      "commonName": "Murici",
+      "family": "Malpighiaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Ormosia arborea",
+      "commonName": "Olho-de-cabra",
+      "family": "Fabaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Bauhinia forficata",
+      "commonName": "Pata-de-vaca",
+      "family": "Fabaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Sideroxylon obtusifolium",
+      "commonName": "Quixabeira",
+      "family": "Sapotaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Microgramma vacciniifolia",
+      "commonName": "Cipó-cabeludo",
+      "family": "Polypodiaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Phlebodium decumanum",
+      "commonName": "Samambaia-do-mato-grosso",
+      "family": "Polypodiaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Cyperus ligularis",
+      "commonName": "Cyperus ligularis",
+      "family": "Cyperaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Piper aduncum",
+      "commonName": "Pimenta-de-macaco",
+      "family": "Piperaceae",
+      "photos": 3
+    },
+    {
+      "scientificName": "Peperomia obtusifolia",
+      "commonName": "Peperômia",
+      "family": "Piperaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Echinodorus grandiflorus",
+      "commonName": "Chapéu-de-couro",
+      "family": "Alismataceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Begonia arborescens",
+      "commonName": "Begonia arborescens",
+      "family": "Begoniaceae",
+      "photos": 1
+    },
+    {
+      "scientificName": "Begonia convolvulacea",
+      "commonName": "Begonia convolvulacea",
+      "family": "Begoniaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Begonia cucullata",
+      "commonName": "Begonia cucullata",
+      "family": "Begoniaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Begonia fischeri",
+      "commonName": "Begonia fischeri",
+      "family": "Begoniaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Begonia hirtella",
+      "commonName": "Begonia hirtella",
+      "family": "Begoniaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Begonia luxurians",
+      "commonName": "Begonia luxurians",
+      "family": "Begoniaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Begonia maculata",
+      "commonName": "Begonia maculata",
+      "family": "Begoniaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Begonia reniformis",
+      "commonName": "Begonia reniformis",
+      "family": "Begoniaceae",
+      "photos": 1
+    },
+    {
+      "scientificName": "Begonia solananthera",
+      "commonName": "Begonia solananthera",
+      "family": "Begoniaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Begonia ulmifolia",
+      "commonName": "Begonia ulmifolia",
+      "family": "Begoniaceae",
+      "photos": 2
+    },
+    {
+      "scientificName": "Begonia angulata",
+      "commonName": "Begonia angulata",
+      "family": "Begoniaceae",
+      "photos": 2
+    }
+  ]
+}

@@ -5,13 +5,16 @@
     "version": "0.1.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "icon": "./assets/branding/app-icon.png",
+    "icon": "./assets/branding/mandevilla-app-icon.png",
+    "web": {
+      "favicon": "./assets/branding/mandevilla-favicon.png"
+    },
     "plugins": [
       [
         "expo-splash-screen",
         {
-          "image": "./assets/branding/leaf-foreground.png",
-          "imageWidth": 240,
+          "image": "./assets/branding/mandevilla-logo.png",
+          "imageWidth": 180,
           "backgroundColor": "#FFFDF7"
         }
       ]
@@ -26,8 +29,8 @@
       "package": "br.com.avesdosbrasis.plantasdorio",
       "versionCode": 1,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/branding/leaf-foreground.png",
-        "monochromeImage": "./assets/branding/leaf-foreground.png",
+        "foregroundImage": "./assets/branding/mandevilla-foreground.png",
+        "monochromeImage": "./assets/branding/mandevilla-monochrome.png",
         "backgroundColor": "#FFFDF7"
       },
       "allowBackup": false,

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/271070497",
+  "photo": {
+    "id": 487553452,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1536
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487553452/square.jpeg",
+    "attribution": "(c) agujaceratops, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "agujaceratops",
+  "observation": {
+    "id": 271070497,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 84480,
+      "name": "Byrsonima sericea"
+    },
+    "observerLogin": "agujaceratops"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487553452/large.jpeg",
+    "sha256": "6829c39219e4e3a4a25be834febb91f2736f657d466a66da147e37a9f5988256",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

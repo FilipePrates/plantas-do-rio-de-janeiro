@@ -2,6 +2,7 @@ import React, { useMemo } from "react";
 import { Pressable, SectionList, StyleSheet, Text, View } from "react-native";
 import type { ChecklistRow, Plant } from "../catalog.mjs";
 import { palette } from "../theme";
+import { ForwardIcon } from "./icons";
 
 export function SpeciesChecklist({ rows, onOpen, onOpenFamily }: {
   rows: ChecklistRow[];
@@ -35,7 +36,7 @@ export function SpeciesChecklist({ rows, onOpen, onOpenFamily }: {
           <Text style={styles.familyName}>{section.title}</Text>
           <Pressable style={styles.guideButton} onPress={() => onOpenFamily(section.title, [...new Map(section.data.map((row) => [row.plant.id, row.plant])).values()])}
             accessibilityRole="button" accessibilityLabel={`Ver ${section.title} no guia`}>
-            <Text style={styles.familyLink}>Ver no guia ›</Text>
+            <Text style={styles.familyLink}>Ver no guia</Text><ForwardIcon color={palette.pine} size={16} />
           </Pressable>
         </View>
       )}
@@ -54,7 +55,7 @@ export function SpeciesChecklist({ rows, onOpen, onOpenFamily }: {
               {item.plant.reviewStatus === "draft" ? " · em revisão" : ""}
             </Text>
           </View>
-          <Text style={styles.arrow}>›</Text>
+          <ForwardIcon color={palette.pine} size={25} />
         </Pressable>
       )}
       ListEmptyComponent={<Text style={styles.introduction}>Nenhuma espécie encontrada neste recorte.</Text>}
@@ -66,12 +67,11 @@ const styles = StyleSheet.create({
   introduction: { color: palette.muted, fontSize: 13, lineHeight: 19, padding: 16 },
   family: { backgroundColor: palette.moss, paddingHorizontal: 16, paddingVertical: 10, flexDirection: "row", alignItems: "center", gap: 8 },
   familyName: { color: palette.ink, fontWeight: "700", flex: 1 },
-  guideButton: { minHeight: 44, justifyContent: "center", backgroundColor: palette.paper, borderColor: palette.pine, borderWidth: 1, borderRadius: 6, paddingHorizontal: 12, paddingVertical: 8 },
+  guideButton: { minHeight: 44, flexDirection: "row", alignItems: "center", gap: 4, justifyContent: "center", backgroundColor: palette.paper, borderColor: palette.pine, borderWidth: 1, borderRadius: 6, paddingHorizontal: 12, paddingVertical: 8 },
   familyLink: { color: palette.pine, fontSize: 12, fontWeight: "700" },
   row: { paddingHorizontal: 16, paddingVertical: 14, borderBottomWidth: 1, borderBottomColor: palette.border, flexDirection: "row", alignItems: "center", gap: 10 },
   names: { flex: 1, gap: 4 },
   name: { color: palette.ink, fontSize: 16, fontStyle: "italic" },
   secondary: { color: palette.muted, fontSize: 13 },
   kind: { color: palette.pine, fontSize: 12 },
-  arrow: { color: palette.pine, fontSize: 25 },
 });

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/24099405",
+  "photo": {
+    "id": 37269050,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37269050/square.jpeg",
+    "attribution": "(c) Anabela Plos, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Anabela Plos",
+  "observation": {
+    "id": 24099405,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 139568,
+      "name": "Bauhinia forficata"
+    },
+    "observerLogin": "anabela2"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37269050/large.jpeg",
+    "sha256": "c46d6bbbed759b6efa3b061bc66b6f7c6287870f0d92f5bebae230a4c3cf26c8",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

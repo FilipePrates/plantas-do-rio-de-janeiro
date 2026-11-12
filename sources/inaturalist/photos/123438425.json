@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/75469262",
+  "photo": {
+    "id": 123438425,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 1536,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123438425/square.jpeg",
+    "attribution": "(c) Victor Farjalla Pontes, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Victor Farjalla Pontes",
+  "observation": {
+    "id": 75469262,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 1062041,
+      "name": "Croton floribundus"
+    },
+    "observerLogin": "vfarjalla"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123438425/large.jpeg",
+    "sha256": "76658c5dcfb59d1f18d66a6ceb4dea4366068e53bbd1126e34f2b6380b9cece3",
+    "retrievedAt": "2026-11-12T00:16:37Z"
+  }
+}

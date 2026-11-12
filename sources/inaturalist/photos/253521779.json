@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/147342099",
+  "photo": {
+    "id": 253521779,
+    "license_code": "cc-by",
+    "original_dimensions": {
+      "width": 2048,
+      "height": 1362
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253521779/square.jpeg",
+    "attribution": "(c) Andrea Gantzer, some rights reserved (CC BY)",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Andrea Gantzer",
+  "observation": {
+    "id": 147342099,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 460752,
+      "name": "Allophylus edulis"
+    },
+    "observerLogin": "andreaargentinat"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253521779/large.jpeg",
+    "sha256": "22643127599162c1408679bf4d3f9169e9292a1ba3cb0ff8291a2fe4f30ee41e",
+    "retrievedAt": "2026-11-12T00:16:37Z"
+  }
+}

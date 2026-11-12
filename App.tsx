@@ -20,6 +20,7 @@ import {
 import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 import {
   BackIcon,
+  ForwardIcon,
   BookIcon,
   BrandLeafIcon,
   GridModeIcon,
@@ -44,6 +45,7 @@ import type { SavedState } from "./src/storage";
 import { createPlantSearch } from "./src/plantSearch.mjs";
 import { palette } from "./src/theme";
 import { PlantProfile } from "./src/components/PlantProfile";
+import { PlantLogo } from "./src/components/PlantLogo";
 import { PlantPhotoMarker } from "./src/components/PlantPhotoMarkers";
 import { CatalogBrowser } from "./src/components/CatalogBrowser";
 import { DesktopGallerySize } from "./src/components/DesktopGallerySize";
@@ -53,6 +55,11 @@ import { formatPlantNameForWrap, getPlantName, getMainPhoto, mainPhotoKinds } fr
 
 const catalog = parseCatalog(catalogJson);
 const prepareGuideSearch = createPlantSearch(catalog.plants);
+const mainTabs = [
+  { id: "families", label: "Famílias", icon: ListIcon },
+  { id: "guide", label: "Guia", icon: BookIcon },
+  { id: "habitats", label: "Fitofisionomias", icon: LeafIcon },
+] as const;
 const allIds = new Set(catalog.plants.map((p) => p.id));
 const profiles = catalog.plants.filter(isProfile);
 const byName = [...catalog.plants].sort((a, b) =>
@@ -117,11 +124,11 @@ function Guide() {
   const { width } = useWindowDimensions();
   const [guideWidth, setGuideWidth] = useState(width);
   const desktop = Platform.OS === "web" && width >= 1024;
-  const [tileSize, setTileSize] = useState(112);
+  const [desktopColumns, setDesktopColumns] = useState(10);
   const availableWidth = Math.min(guideWidth, width);
-  const gridColumns = desktop ? Math.max(3, Math.ceil((availableWidth - 26) / (tileSize + 6))) : 3;
+  const gridColumns = desktop ? desktopColumns : 3;
   const gridCardSize = Math.max(1, desktop
-    ? (availableWidth - 32 - (gridColumns - 1) * 6) / gridColumns
+    ? (availableWidth - 32 - (gridColumns - 1)) / gridColumns
     : (availableWidth - 4) / 3);
   const [saved, setSaved] = useState(defaultState);
   const [hydrated, setHydrated] = useState(false);
@@ -248,6 +255,16 @@ function Guide() {
     setSaved((value) => ({ ...value, familyFilter: guideReturn.familyFilter }));
     setGuideReturn(null);
   }
+  function changeMainTab(next: typeof mainTabs[number]["id"]) {
+    if (tab === next && !detail && !settings) return;
+    withTabLoading(() => {
+      setDetailId(null);
+      setDetailHistory([]);
+      setSettings(false);
+      restoreGuide();
+      setTab(next);
+    });
+  }
   function goBack() {
     if (settings) setSettings(false);
     else if (detail) {
@@ -269,7 +286,33 @@ function Guide() {
       <StatusBar barStyle="light-content" backgroundColor="#000000" />
       <SafeAreaView edges={["top"]} style={styles.statusBarSafe}>
         <View style={[styles.header, desktop && styles.desktopHeader]}>
-          {isSubscreen || (tab === "guide" && guideReturn) || (tab === "families" && browser.section === "species" && browser.origin) ? (
+          {desktop ? (
+            <>
+            <View style={styles.desktopHeaderSide}>
+              <View style={styles.desktopBrand}>
+                <PlantLogo size={44} />
+                <View style={styles.desktopBrandCopy}>
+                  <Text style={styles.desktopBrandTitle} numberOfLines={1}>Plantas do Rio</Text>
+                  <Text style={styles.desktopBrandSubtitle} numberOfLines={1}>{isSubscreen ? formatPlantNameForWrap(title) : 'Rio de Janeiro'}</Text>
+                </View>
+              </View>
+            </View>
+            <View accessibilityRole="tablist" accessibilityLabel="Navegação principal" style={styles.desktopHeaderNavigation}>
+              {[mainTabs[1], mainTabs[0], mainTabs[2]].map((item) => (
+                <Pressable key={item.id} accessibilityRole="tab" accessibilityLabel={item.label}
+                  accessibilityState={{ selected: tab === item.id && !settings }}
+                  onPress={() => changeMainTab(item.id)}
+                  style={[styles.desktopHeaderTab, tab === item.id && !settings && styles.desktopHeaderTabSelected]}>
+                  <item.icon size={22} color={palette.paper} />
+                  <Text style={styles.desktopHeaderTabLabel}>{item.label}</Text>
+                </Pressable>
+              ))}
+            </View>
+            <View style={[styles.desktopHeaderSide,styles.desktopHeaderActions]}>
+              {!settings ? <IconButton label="Configurações" icon={SettingsIcon} onPress={()=>setSettings(true)} light/> : <View style={styles.iconButton}/>}
+            </View>
+            </>
+          ) : isSubscreen || (tab === "guide" && guideReturn) || (tab === "families" && browser.section === "species" && browser.origin) ? (
             <IconButton label="Voltar" icon={BackIcon} onPress={goBack} light />
           ) : tab === "guide" ? (
             <IconButton
@@ -281,15 +324,18 @@ function Guide() {
           ) : (
             <View style={styles.iconButton} />
           )}
-          <View style={styles.headerTitleWrap}>
+          {!desktop&&<View style={[styles.headerTitleWrap, !isSubscreen && styles.mobileBrand]}>
+            {!isSubscreen && <PlantLogo size={34} />}
+            <View style={styles.mobileBrandCopy}>
             <Text style={styles.headerTitle} numberOfLines={2}>
               {formatPlantNameForWrap(title)}
             </Text>
             {!isSubscreen && (
               <Text style={styles.headerSubtitle}>do Rio de Janeiro</Text>
             )}
-          </View>
-          {!settings && (
+            </View>
+          </View>}
+          {!desktop&&!settings && (
             <IconButton
               label="Configurações"
               icon={SettingsIcon}
@@ -299,7 +345,7 @@ function Guide() {
               light
             />
           )}
-          {settings && <View style={styles.iconButton} />}
+          {!desktop&&settings && <View style={styles.iconButton} />}
         </View>
       </SafeAreaView>
       {!!storageError && (
@@ -311,39 +357,26 @@ function Guide() {
       {!hydrated ? (
         <LoadingBrand />
       ) : settings ? (
-        <ScrollView contentContainerStyle={styles.content}>
+        <ScrollView contentContainerStyle={styles.settingsContent}>
           <Card title="Exibição">
-            <Text style={styles.settingLabel}>Nome principal</Text>
-            <View style={styles.wrap}>
-              <Chip
-                text="Português"
-                selected={saved.principalName === "common"}
-                onPress={() =>
-                  setSaved((v) => ({ ...v, principalName: "common" }))
-                }
-              />
-              <Chip
-                text="Científico"
-                selected={saved.principalName === "scientific"}
-                onPress={() =>
-                  setSaved((v) => ({ ...v, principalName: "scientific" }))
-                }
-              />
-            </View>
-            <Setting
-              label="Modo avançado: lista por família"
-              value={saved.advanced}
-              onChange={(advanced) => setSaved((v) => ({ ...v, advanced }))}
+            <DisplayChoice label="Nome principal" description="Nome em destaque no guia."
+              options={[{ label: "Português", value: "common" }, { label: "Científico", value: "scientific" }]}
+              value={saved.principalName}
+              onChange={(principalName) => setSaved((v) => ({ ...v, principalName }))}
+            />
+            <DisplayChoice label="Visualização" description="Como as plantas aparecem no guia."
+              options={[{ label: "Grade de fotos", value: "grid" }, { label: "Lista avançada", value: "list" }]}
+              value={saved.advanced ? "list" : "grid"}
+              onChange={(value) => setSaved((v) => ({ ...v, advanced: value === "list" }))}
+            />
+            <DisplayChoice label="Ordenação" description="Agrupe por família ou ordene pelo nome principal."
+              options={[{ label: "Por família", value: "family" }, { label: "Alfabética", value: "name" }]}
+              value={saved.alphabetical ? "name" : "family"}
+              onChange={(value) => setSaved((v) => ({ ...v, alphabetical: value === "name" }))}
             />
             <Setting
-              label="Ordenar pelo nome principal"
-              value={saved.alphabetical}
-              onChange={(alphabetical) =>
-                setSaved((v) => ({ ...v, alphabetical }))
-              }
-            />
-            <Setting
-              label="Mostrar apenas plantas com fotos"
+              label="Apenas plantas com fotos"
+              description="Oculta as fichas que ainda não têm imagem."
               value={saved.photosOnly}
               onChange={(photosOnly) =>
                 setSaved((v) => ({ ...v, photosOnly }))
@@ -406,7 +439,7 @@ function Guide() {
                 });
               }}>
               <Text style={styles.habitatName}>{name}</Text>
-              <Text style={styles.habitatArrow}>›</Text>
+              <ForwardIcon color={palette.pine} size={25} />
             </Pressable>
           ))}
         </ScrollView>
@@ -466,7 +499,10 @@ function Guide() {
                 </View>
               )}
             </View>
-            {desktop && !saved.advanced && <DesktopGallerySize value={tileSize} columns={gridColumns} onChange={setTileSize} />}
+            {desktop && !saved.advanced && <DesktopGallerySize value={desktopColumns} columns={gridColumns} onChange={setDesktopColumns} />}
+            {desktop && <IconButton label={saved.advanced ? "Exibir grade" : "Exibir lista avançada"}
+              icon={saved.advanced ? GridModeIcon : ListModeIcon}
+              onPress={() => setSaved((value) => ({ ...value, advanced: !value.advanced }))} />}
           </View>
           <View style={styles.flex} accessibilityState={{ busy: searchPending }}>
             <GuideResults visible={visible} sections={sections} saved={saved} gridCardSize={gridCardSize} gridColumns={gridColumns} desktop={desktop} openPlant={openPlant} />
@@ -502,36 +538,20 @@ function Guide() {
       )}
       {tabLoading && <View style={styles.tabLoadingOverlay}><LoadingBrand /></View>}
       </View>
-      <SafeAreaView edges={["bottom"]} style={styles.navSafe}>
-        <View style={[styles.nav, desktop && styles.desktopNav]}>
-          {(
-            [
-              { id: "families", label: "Famílias", icon: ListIcon },
-              { id: "guide", label: "Guia", icon: BookIcon },
-              { id: "habitats", label: "Fitofisionomias", icon: LeafIcon },
-            ] as const
-          ).map((item) => (
+      {!desktop && <SafeAreaView edges={["bottom"]} style={styles.navSafe} testID="mobile-bottom-navigation">
+        <View style={styles.nav}>
+          {mainTabs.map((item) => (
             <Pressable
               key={item.id}
               accessibilityRole="tab"
               accessibilityState={{ selected: tab === item.id }}
               accessibilityLabel={item.label}
-              style={[styles.navItem, desktop && styles.desktopNavItem]}
-              onPress={() => {
-                if (tab === item.id && !detail && !settings) return;
-                withTabLoading(() => {
-                  setDetailId(null);
-                  setDetailHistory([]);
-                  setSettings(false);
-                  restoreGuide();
-                  setTab(item.id);
-                });
-              }}
+              style={styles.navItem}
+              onPress={() => changeMainTab(item.id)}
             >
               <View
                 style={[
                   styles.navIconWrap,
-                  desktop && styles.desktopNavIcon,
                   tab === item.id && styles.navSelected,
                 ]}
               >
@@ -539,12 +559,11 @@ function Guide() {
                   size={25}
                   color={tab === item.id ? palette.pine : palette.muted}
                 />
-                {desktop && <Text style={[styles.desktopNavLabel, tab === item.id && styles.desktopNavLabelSelected]}>{item.label}</Text>}
               </View>
             </Pressable>
           ))}
         </View>
-      </SafeAreaView>
+      </SafeAreaView>}
     </SafeAreaView>
   );
 }
@@ -662,7 +681,7 @@ saved.advanced ? (
 function LoadingBrand() {
   return (
     <View style={styles.loadingBrand} accessibilityRole="progressbar" accessibilityLabel="Carregando Plantas do Rio de Janeiro">
-      <View style={styles.loadingLogo}><BrandLeafIcon size={52} color={palette.pine} /></View>
+      <View style={styles.loadingLogo}><PlantLogo size={64} /></View>
     </View>
   );
 }
@@ -785,22 +804,58 @@ function Card({
 }
 function Setting({
   label,
+  description,
   value,
   onChange,
 }: {
   label: string;
+  description: string;
   value: boolean;
   onChange: (v: boolean) => void;
 }) {
   return (
     <View style={styles.setting}>
-      <Text style={[styles.body, styles.flex]}>{label}</Text>
+      <View style={[styles.flex, styles.settingCopy]}>
+        <Text style={styles.settingLabel}>{label}</Text>
+        <Text style={styles.muted}>{description}</Text>
+      </View>
       <Switch
         accessibilityLabel={label}
         value={value}
         onValueChange={onChange}
-        trackColor={{ true: palette.pine }}
+        trackColor={{ false: palette.border, true: palette.pine }}
+        thumbColor={palette.white}
       />
+    </View>
+  );
+}
+function DisplayChoice<T extends string>({ label, description, options, value, onChange }: {
+  label: string;
+  description: string;
+  options: { label: string; value: T }[];
+  value: T;
+  onChange: (value: T) => void;
+}) {
+  const { width } = useWindowDimensions();
+  return (
+    <View style={[styles.displayChoice, width >= 700 && styles.displayChoiceWide]}>
+      <View style={[styles.flex, styles.settingCopy]}>
+        <Text style={styles.settingLabel}>{label}</Text>
+        <Text style={styles.muted}>{description}</Text>
+      </View>
+      <View accessibilityRole="radiogroup" accessibilityLabel={label}
+        style={[styles.segmentedControl, width >= 700 && styles.segmentedControlWide]}>
+        {options.map((option) => (
+          <Pressable key={option.value} accessibilityRole="radio"
+            accessibilityLabel={`${label}: ${option.label}`}
+            accessibilityState={{ checked: value === option.value }}
+            aria-checked={value === option.value}
+            onPress={() => onChange(option.value)}
+            style={[styles.segment, value === option.value && styles.segmentSelected]}>
+            <Text style={[styles.segmentLabel, value === option.value && styles.segmentLabelSelected]}>{option.label}</Text>
+          </Pressable>
+        ))}
+      </View>
     </View>
   );
 }
@@ -834,6 +889,8 @@ const styles = StyleSheet.create({
     paddingVertical: 10,
   },
   headerTitleWrap: { flex: 1, minWidth: 0, alignItems: "center", gap: 2 },
+  mobileBrand: { flexDirection: "row", justifyContent: "center", gap: 8 },
+  mobileBrandCopy: { flexShrink: 1, minWidth: 0, alignItems: "center", gap: 2 },
   headerTitle: {
     width: "100%",
     textAlign: "center",
@@ -845,14 +902,19 @@ const styles = StyleSheet.create({
   desktopHeader: { minHeight: 68, paddingVertical: 6, paddingHorizontal: 20 },
   desktopToolbar: { flexDirection: "row", alignItems: "center", gap: 24, paddingHorizontal: 16, paddingVertical: 12, backgroundColor: palette.sand },
   desktopSearch: { flex: 1, borderWidth: 1, borderColor: palette.border, borderRadius: 12 },
-  desktopGrid: { paddingHorizontal: 16, paddingTop: 0, paddingBottom: 16, gap: 6, backgroundColor: palette.sand },
-  desktopGridRow: { gap: 6 },
-  desktopGridCard: { borderRadius: 6 },
-  desktopNav: { justifyContent: "center", gap: 12, paddingVertical: 8 },
-  desktopNavItem: { flex: 0 },
-  desktopNavIcon: { width: "auto", height: 40, paddingHorizontal: 22, flexDirection: "row", gap: 9, borderRadius: 12 },
-  desktopNavLabel: { color: palette.muted, fontSize: 13, fontWeight: "600" },
-  desktopNavLabelSelected: { color: palette.pine },
+  desktopGrid: { paddingHorizontal: 16, paddingTop: 0, paddingBottom: 16, gap: 1, backgroundColor: palette.sand },
+  desktopGridRow: { gap: 1 },
+  desktopGridCard: { borderRadius: 0 },
+  desktopHeaderSide: { flex: 1, minWidth: 0 },
+  desktopHeaderActions: { alignItems: "flex-end" },
+  desktopBrand: { flexDirection: "row", alignItems: "center", gap: 10, paddingRight: 20 },
+  desktopBrandCopy: { flexShrink: 1, minWidth: 0, gap: 3 },
+  desktopBrandTitle: { color: palette.paper, fontSize: 20, fontWeight: "700", letterSpacing: -0.3 },
+  desktopBrandSubtitle: { color: "rgba(255,253,247,0.78)", fontSize: 11 },
+  desktopHeaderNavigation: { flexDirection: "row", alignItems: "center", justifyContent: "center", flexShrink: 0, gap: 6 },
+  desktopHeaderTab: { minHeight: 44, flexDirection: "row", alignItems: "center", gap: 8, paddingHorizontal: 14, borderRadius: 10, borderWidth: 1, borderColor: "transparent" },
+  desktopHeaderTabSelected: { backgroundColor: "rgba(255,253,247,0.12)", borderColor: "rgba(255,253,247,0.4)" },
+  desktopHeaderTabLabel: { color: palette.paper, fontSize: 13, fontWeight: "600" },
   iconButton: {
     minWidth: 44,
     minHeight: 44,
@@ -860,9 +922,18 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   content: { padding: 16, gap: 14, paddingBottom: 30 },
+  settingsContent: { padding: 16, gap: 14, paddingBottom: 30, width: "100%", maxWidth: 860, alignSelf: "center" },
+  settingCopy: { gap: 4 },
+  displayChoice: { gap: 12, paddingVertical: 14, borderBottomWidth: 1, borderBottomColor: palette.border },
+  displayChoiceWide: { flexDirection: "row", alignItems: "center", gap: 24 },
+  segmentedControl: { flexDirection: "row", padding: 3, gap: 3, backgroundColor: palette.sand, borderRadius: 8 },
+  segmentedControlWide: { width: 296 },
+  segment: { flex: 1, minHeight: 44, paddingHorizontal: 8, paddingVertical: 10, justifyContent: "center", alignItems: "center", borderWidth: 1, borderColor: "transparent", borderRadius: 5 },
+  segmentSelected: { backgroundColor: palette.moss, borderColor: palette.pine },
+  segmentLabel: { fontSize: 13, color: palette.muted, textAlign: "center" },
+  segmentLabelSelected: { color: palette.ink, fontWeight: "700" },
   habitatRow: { minHeight: 58, flexDirection: "row", alignItems: "center", borderBottomWidth: 1, borderBottomColor: palette.border, gap: 12 },
   habitatName: { flex: 1, color: palette.ink, fontSize: 16, lineHeight: 22, fontWeight: "600" },
-  habitatArrow: { color: palette.pine, fontSize: 25 },
   tabLoadingOverlay: { ...StyleSheet.absoluteFillObject, zIndex: 5, backgroundColor: palette.paper },
   loadingBrand: { flex: 1, alignItems: "center", justifyContent: "center", backgroundColor: palette.paper },
   loadingLogo: { width: 84, height: 84, alignItems: "center", justifyContent: "center", borderRadius: 18, backgroundColor: palette.white },
@@ -1139,7 +1210,7 @@ const styles = StyleSheet.create({
   photoChoiceSelected: { backgroundColor: palette.moss, borderColor: palette.pine },
   photoChoiceLabel: { color: palette.ink, fontSize: 11, textAlign: "center" },
   photoChoiceCheck: { color: palette.pine, fontSize: 12, lineHeight: 14 },
-  setting: { flexDirection: "row", alignItems: "center", gap: 12 },
+  setting: { flexDirection: "row", alignItems: "center", gap: 16, paddingVertical: 14 },
   empty: { padding: 30, gap: 12, alignItems: "center" },
   locked: { opacity: 0.55 },
   error: {

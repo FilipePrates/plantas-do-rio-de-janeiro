@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/12764992",
+  "photo": {
+    "id": 18497974,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1984,
+      "height": 1488
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18497974/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Carlos Henrique Russi",
+  "observation": {
+    "id": 12764992,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 273932,
+      "name": "Begonia fischeri"
+    },
+    "observerLogin": "carloshrussi"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18497974/large.jpeg",
+    "sha256": "d2595f35c8f48f36b72f68768281f234cde26bd2590fe7ca155d2b8d8b77d1fc",
+    "retrievedAt": "2026-11-11T18:03:18Z"
+  }
+}

@@ -56,6 +56,10 @@ The updated APK is `android/app/build/outputs/apk/release/app-release.apk`.
 Run prebuild after changing `app.json` or native icon and splash assets; Gradle
 uses the files already generated in `android/` and does not update them from
 Expo configuration on its own.
+
+Web publishing to `plantas.avesdobrasil.app` uses a separate Cloudflare Worker:
+see [web deployment](docs/web-deployment.md). Run `npm run web:build` to export
+the website or `npm run web:deploy` to build and publish after Wrangler login.
 This bundles the current catalog, photos and JavaScript for use without Metro.
 The current release variant uses this plant project's debug signing configuration,
 so this is a locally installable test APK; store signing remains separate work.
@@ -256,3 +260,13 @@ saving, JSON round trips, or app import. The editor shows an amber warning and
 the catalog CLI prints a warning. Original iNaturalist names and license evidence
 remain unchanged, so botanical synonyms or identification differences can be
 reviewed without rewriting photo provenance.
+
+The [11 November mangrove, Begoniaceae and priority-tree pass](docs/begonia-mangrove-2026-11-11.md)
+adds 26 illustrated species, completes or expands 12 existing profiles, and
+provides a coverage table for all 30 requested trees. Its photo-level CSV records
+52 individually captioned/tagged CC0 or CC BY photos; all new content remains
+draft. The report also lists the next family/genus gaps with workbook row numbers.
+
+The subsequent [family-gap and orchid pass](docs/family-gaps-2026-11-11.md)
+adds 16 species and 36 individually annotated photos, completes Cattleya guttata,
+and brings the catalog to 429 entries, 550 represented species and 721 photos.
