@@ -37,6 +37,58 @@
 - The sibling plant editor works locally; synchronize with `npm run editor:sync`.
   Never point it at the production bird Supabase project or R2 buckets.
 
+## Creating fichas in batches
+
+- Work efficiently: choose a useful batch size from the evidence available,
+  rather than pursuing a fixed quota or stopping after a predetermined number.
+  Reuse cached research and existing photos when appropriate. Keep research,
+  verification and reports proportionate to the task and the user's budget.
+- Compare `docs/Arvores_Arbustos_Nativos_RJ.xlsx` and existing genus groups
+  with the catalog before selecting species. The workbook is a candidate index,
+  not proof of municipal occurrence, and does not cover all life forms. Check
+  for existing profiles, grouped members, accepted names and synonyms to avoid
+  duplicates. Prefer relevant or well-documented species; useful licensed
+  photos are a benefit, not a prerequisite. Defer unresolved taxa.
+- Confirm accepted name, native status, Rio state occurrence and Atlantic
+  Forest scope using Flora e Funga do Brasil and species-specific botanical
+  sources. Record source URLs, access dates and page or specimen references when
+  available, along with taxonomic conflicts and uncertainty. For Syagrus, use
+  the Noblick (2017) revision in `docs/` as a primary morphological source.
+  Assign `rio-city` only with specific municipal evidence; iNaturalist or a
+  cultivated plant alone does not establish native municipal occurrence.
+- Write original, readable Portuguese descriptions, identification guidance
+  and ecology grounded in the sources. Explain how to distinguish similar
+  species and where identification remains uncertain. Attribute dated
+  conservation assessments; do not infer edibility or replace approved
+  professional text with generic drafts.
+- When photos are available, check each iNaturalist photo's license and source,
+  archive acquisition evidence and hashes, and use the verified downloader or
+  importer. Select images that show identifying features, with a caption and
+  markers describing that individual image. Record identification uncertainty;
+  a research-grade observation or a valid license does not replace human visual
+  review. New text, photos and markers remain drafts until reviewed. Species
+  without eligible pictures may still receive fichas; the photo-only filter
+  hides them until disabled.
+- Stage research and record additions, photo choices, unresolved issues and
+  before/after counts. Preserve unrelated local changes. When splitting a genus,
+  transfer the member's exact photos and evidence, retain IDs and redirects,
+  remove duplicate membership and update the group's dated counts and text.
+  Ensure no other species, records or photos are lost. If parallel agents are
+  explicitly requested, give them separate research tasks and have one lead
+  integrate changes to the canonical catalog.
+- After integration run `npm run check`, and `npm run catalog:generate` when
+  photo membership changes. Synchronize the local editor with
+  `npm run editor:sync`; never seed or overwrite its active cloud catalog.
+  On Windows, use the workspace `.tools/python` on `PATH` and set `PYTHONUTF8=1`
+  if scripts invoke `python3`. The release check requires reviewed text and
+  existing photos, but does not require a photo for every profile.
+- Keep draft status honest: inspecting a photo or running automated checks is
+  not human review. Explicit web deployment authorization permits publishing
+  the requested drafts with their status intact; it does not mean they were
+  reviewed or that a native app was updated. For an authorized deployment,
+  follow the isolated export, browser, live bundle and documentation checks
+  below. Never infer deployment authorization from a request to make fichas.
+
 ## Web UI and navigation
 
 - The active identity is the Mandevilla flower. Source artwork and exports are

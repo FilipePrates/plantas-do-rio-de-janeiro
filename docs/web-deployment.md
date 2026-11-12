@@ -1,5 +1,17 @@
 # Web deployment
 
+## November 12, 2026 workbook batch deployment
+
+Published version `22b35f7f-5644-4407-b219-4675c0141457` from
+`dist/web-workbook-20261112`. Six new draft profiles and six CC0 images bring
+the guide to 438 entries, 559 represented species and 727 photographs. The
+63 tests, TypeScript, catalog validation and all media hashes passed. Local and
+live browser checks at 390 and 1440 pixels verified all six profiles, their
+images and the HTML-referenced bundle SHA-256
+`9a66c9e3459f2dc1fc7ab7317b3f1bf4674e58eb3a7a21e01f565c9a3463a2ea`.
+Text, image identification and markers remain draft pending human review.
+This deployment does not update installed Android apps.
+
 ## November 12, 2026 Syagrus batch deployment
 
 Published version `0a27a9db-de66-4a90-bbb7-900c91cf5a42` from the isolated
