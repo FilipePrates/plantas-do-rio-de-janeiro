@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/258165510",
+  "photo": {
+    "id": 463145515,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 1369,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463145515/square.jpg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "filipeprates",
+  "observation": {
+    "id": 258165510,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 980923,
+      "name": "Ouratea cuspidata"
+    },
+    "observerLogin": "filipeprates"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463145515/large.jpg",
+    "sha256": "02a970806e6a002842e5f55a93e6c238a676e812d36c9603abc642e80b1b2d0e",
+    "retrievedAt": "2026-11-12T09:46:28Z"
+  }
+}

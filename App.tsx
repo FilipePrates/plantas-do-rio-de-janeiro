@@ -416,11 +416,11 @@ function Guide() {
               value={saved.principalName}
               onChange={(principalName) => setSaved((v) => ({ ...v, principalName }))}
             />
-            <DisplayChoice label="Visualização" description="Como as plantas aparecem no guia."
+            {desktop && <DisplayChoice label="Visualização" description="Como as plantas aparecem no guia."
               options={[{ label: "Grade de fotos", value: "grid" }, { label: "Lista avançada", value: "list" }]}
               value={saved.advanced ? "list" : "grid"}
               onChange={(value) => setSaved((v) => ({ ...v, advanced: value === "list" }))}
-            />
+            />}
             <DisplayChoice label="Ordenação" description="Agrupe por família ou ordene pelo nome principal."
               options={[{ label: "Por família", value: "family" }, { label: "Alfabética", value: "name" }]}
               value={saved.alphabetical ? "name" : "family"}
@@ -512,7 +512,7 @@ function Guide() {
                 placeholderTextColor={palette.muted}
                 value={query}
                 onChangeText={setQuery}
-                style={[styles.searchInput, desktop && styles.desktopSearchInput]}
+                style={[styles.searchInput, desktop && styles.desktopSearchInput, desktop && Platform.OS === "web" && { outlineWidth: 0 }]}
               />
               {searchPending && (
                 <View style={styles.searchProgress} accessibilityRole="progressbar" accessibilityLabel="Atualizando resultados" testID="guide-search-loading">
@@ -552,11 +552,11 @@ function Guide() {
               )}
             </View>
             {desktop && !saved.advanced && <View style={styles.desktopToolbarControl}><DesktopGallerySize value={desktopColumns} columns={gridColumns} onChange={setDesktopColumns} /></View>}
-            <View style={desktop && styles.desktopToolbarControl}>
+            {desktop && <View style={styles.desktopToolbarControl}>
             <IconButton label={saved.advanced ? "Exibir grade" : "Exibir lista avançada"}
               icon={saved.advanced ? GridModeIcon : ListModeIcon}
               onPress={() => setSaved((value) => ({ ...value, advanced: !value.advanced }))} />
-            </View>
+            </View>}
           </View>
           <View style={styles.flex} accessibilityState={{ busy: searchPending }}>
             <GuideResults visible={visible} sections={sections} saved={saved} gridCardSize={gridCardSize} gridColumns={gridColumns} desktop={desktop} openPlant={openPlant} />
@@ -671,7 +671,7 @@ const GuideResults = memo(function GuideResults({ visible, sections, saved, grid
     </Pressable>
   );
   return (
-saved.advanced ? (
+desktop && saved.advanced ? (
           desktop ? (
             <FlatList
               data={sections}

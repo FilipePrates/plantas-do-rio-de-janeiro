@@ -906,5 +906,41 @@
     "photos": 2,
     "photoLicense": "cc-by",
     "matchingObservationCount": 2
+  },
+  {
+    "id": "baccharis-dracunculifolia",
+    "photos": 1,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 23
+  },
+  {
+    "id": "piper-amalago",
+    "photos": 1,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 1
+  },
+  {
+    "id": "erythroxylum-pulchrum",
+    "photos": 1,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 1
+  },
+  {
+    "id": "ouratea-cuspidata",
+    "photos": 1,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 1
+  },
+  {
+    "id": "solanum-paniculatum",
+    "photos": 1,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 7
+  },
+  {
+    "id": "solanum-mauritianum",
+    "photos": 1,
+    "photoLicense": "cc0",
+    "matchingObservationCount": 398
   }
 ]

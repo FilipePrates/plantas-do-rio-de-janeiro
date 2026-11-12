@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://api.inaturalist.org/v1/observations/262861297",
+  "photo": {
+    "id": 472115434,
+    "license_code": "cc0",
+    "original_dimensions": {
+      "width": 946,
+      "height": 2048
+    },
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472115434/square.jpeg",
+    "attribution": "no rights reserved",
+    "flags": [],
+    "moderator_actions": [],
+    "hidden": false
+  },
+  "creator": "Taize Santos",
+  "observation": {
+    "id": 262861297,
+    "quality_grade": "research",
+    "taxon": {
+      "id": 707418,
+      "name": "Solanum paniculatum"
+    },
+    "observerLogin": "taize"
+  },
+  "download": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472115434/large.jpeg",
+    "sha256": "c29209c96e2861c12e494fff8266c61a7ce24dba84994d760e9bcca03cb0a446",
+    "retrievedAt": "2026-11-12T09:46:32Z"
+  }
+}

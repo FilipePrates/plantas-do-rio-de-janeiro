@@ -62,7 +62,8 @@ try {
     # Windows PowerShell represents native stderr warnings as error records.
     # Gradle's exit status determines success, including harmless SDK warnings.
     $ErrorActionPreference = 'Continue'
-    & .\gradlew.bat :app:assembleRelease '-PreactNativeArchitectures=arm64-v8a,armeabi-v7a' --no-daemon --max-workers=2 --console=plain *> $logPath
+    Write-Host "Building the Android test APK. Progress is also saved to $logPath"
+    & .\gradlew.bat :app:assembleRelease '-PreactNativeArchitectures=arm64-v8a,armeabi-v7a' --no-daemon --max-workers=2 --console=plain 2>&1 | Tee-Object -FilePath $logPath
     $gradleExitCode = $LASTEXITCODE
 } finally {
     $ErrorActionPreference = $buildErrorPreference

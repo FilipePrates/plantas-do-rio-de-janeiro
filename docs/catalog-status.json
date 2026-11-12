@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T00:18:00.731Z",
-  "entries": 429,
-  "profiles": 270,
-  "checklistOnly": 159,
-  "representedSpecies": 550,
+  "generatedAt": "2026-11-12T09:47:09.606Z",
+  "entries": 438,
+  "profiles": 281,
+  "checklistOnly": 157,
+  "representedSpecies": 559,
   "families": 73,
   "invasiveEntries": 5,
   "groupedGenera": [
@@ -28,10 +28,23 @@
       "terrestrialSpecies": 33
     }
   ],
-  "cc0Photos": 491,
+  "cc0Photos": 497,
   "ccByPhotos": 230,
-  "illustratedEntries": 304,
-  "missingPhotos": [],
-  "draftEntries": 329,
-  "draftPhotos": 656
+  "illustratedEntries": 310,
+  "missingPhotos": [
+    {
+      "id": "syagrus-pseudococos",
+      "scientificName": "Syagrus pseudococos"
+    },
+    {
+      "id": "syagrus-insignis",
+      "scientificName": "Syagrus insignis"
+    },
+    {
+      "id": "syagrus-macrocarpa",
+      "scientificName": "Syagrus macrocarpa"
+    }
+  ],
+  "draftEntries": 339,
+  "draftPhotos": 662
 }

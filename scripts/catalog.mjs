@@ -31,9 +31,9 @@ function verify(catalog, release = false) {
     ? read(thumbnailManifestPath)
     : {};
   for (const plant of catalog.plants) {
-    if (release && (plant.reviewStatus !== "reviewed" || (isProfile(plant) && !plant.photos.length)))
+    if (release && plant.reviewStatus !== "reviewed")
       throw new Error(
-        `${plant.scientificName}: revise o texto e inclua uma foto antes do lançamento.`,
+        `${plant.scientificName}: revise o texto antes do lançamento.`,
       );
     for (const photo of plant.photos) {
       if (!photoMatchesPlant(plant, photo.taxonName))

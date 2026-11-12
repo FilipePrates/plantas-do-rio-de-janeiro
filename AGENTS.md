@@ -28,6 +28,10 @@
   photo in a phenologically annotated observation. Human visual review required.
 - Draft-generated text and images must remain draft until reviewed. Counts in
   grouped descriptions are state-level, source-dated, and derived from members.
+- Photos are optional: include important, relevant or well-documented species
+  even when no eligible photograph is available. Do not invent images or delay
+  a supported profile solely for lack of photos. The photo-only guide filter
+  hides these profiles until disabled.
 - Run `npx tsc --noEmit`, `npm test`, and `npm run catalog:check` after meaningful
   changes. Run `npm run catalog:generate` after changes to photo membership.
 - The sibling plant editor works locally; synchronize with `npm run editor:sync`.
