@@ -10,12 +10,13 @@ const catalog = parseCatalog(read("../src/data/plants.json"));
 const before = read("../sources/family-gaps-2026-11-11/catalog-before.json");
 const audit = read("../sources/family-gaps-2026-11-11/audit.json");
 const added = new Set(audit.addedPlantIds);
+const subsequentPalms = new Set(["syagrus-pseudococos", "syagrus-insignis", "syagrus-macrocarpa"]);
 
 test("family expansion preserves every earlier photo and field except the audited Cattleya completion", () => {
-  const restored = { ...catalog, plants: catalog.plants.filter(p => !added.has(p.id)).map(beforeFamilyGapReview) };
+  const restored = { ...catalog, plants: catalog.plants.filter(p => !added.has(p.id) && !subsequentPalms.has(p.id)).map(beforeFamilyGapReview) };
   assert.deepEqual(withoutRepeatedCommonNames(restored), withoutRepeatedCommonNames(before));
   assert.equal(added.size, 16);
-  assert.equal(representedSpeciesCount(catalog), representedSpeciesCount(before) + 16);
+  assert.equal(representedSpeciesCount(catalog), representedSpeciesCount(before) + 16 + subsequentPalms.size);
   assert.deepEqual(audit.updatedProfiles.map(row => row.plantId), ["cattleya-guttata"]);
   assert.ok(audit.originalMediaBytesAdded < 25 * 1024 ** 2);
 });

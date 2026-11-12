@@ -83,7 +83,14 @@ const familyEntries = [...new Set(catalog.plants.map((plant) => plant.family))]
     speciesCount: speciesRows.filter((row) => row.family === name).length,
   }));
 const unitEntries = conservationUnitIndex(speciesRows);
+// These national Flora do Brasil categories describe Amazonian formations;
+// plant-level associations do not establish that the formations occur in Rio.
+const nonRioHabitats = new Set([
+  "Campinarana", "Campo de Várzea", "Floresta de Igapó", "Floresta de Terra Firme",
+  "Floresta de Várzea", "Floresta Estacional Perenifólia", "Savana Amazônica",
+]);
 const habitatNames = [...new Set(catalog.plants.flatMap((plant) => plant.habitats))]
+  .filter((name) => !nonRioHabitats.has(name))
   .sort((a, b) => a.localeCompare(b, "pt-BR"));
 const habitatEntries = habitatNames.map(name => ({ name, speciesCount: speciesRows.filter(row => row.plant.habitats.includes(name)).length }));
 const allFamilies = new Set(familyEntries.map((family) => family.name));
@@ -636,8 +643,55 @@ const GuideResults = memo(function GuideResults({ visible, sections, saved, grid
   desktop: boolean;
   openPlant: (plant: Plant) => void;
 }) {
+  const { width } = useWindowDimensions();
+  const listColumns = width >= 1500 ? 3 : 2;
+  const renderPlantRow = (item: Plant) => (
+    <Pressable
+      style={[styles.plantRow, desktop && styles.desktopPlantRow]}
+      accessibilityRole="button"
+      accessibilityLabel={`Abrir ${getPlantName(item, saved.principalName)}`}
+      onPress={() => openPlant(item)}
+    >
+      <View style={styles.rowArt}>
+        <PlantArtwork plant={item} photo={getMainPhoto(item, saved.mainPhoto)} compact />
+      </View>
+      <View style={styles.listNames}>
+        <Text style={[styles.name, (saved.principalName === "scientific" || !hasCommonName(item)) && styles.italicName]}>
+          {formatPlantNameForWrap(getPlantName(item, saved.principalName), saved.principalName)}
+        </Text>
+        {hasCommonName(item) && <Text style={saved.principalName === "scientific" ? styles.rowSecondaryName : styles.scientificSmall}>
+          {saved.principalName === "scientific" ? item.commonName : item.scientificName}
+        </Text>}
+        {!!item.alternateNames.length && (
+          <Text style={styles.rowSecondaryName} numberOfLines={desktop ? undefined : 1}>
+            {item.alternateNames.join(" · ")}
+          </Text>
+        )}
+      </View>
+    </Pressable>
+  );
   return (
 saved.advanced ? (
+          desktop ? (
+            <FlatList
+              data={sections}
+              keyExtractor={(section) => section.title}
+              contentContainerStyle={[styles.advancedListContent, styles.desktopResultsPadding]}
+              renderItem={({ item: section }) => (
+                <View>
+                  <Text style={styles.familyHeading}>{section.title}</Text>
+                  <View style={styles.desktopListFamily}>
+                    {section.data.map((plant) => (
+                      <View key={plant.id} style={{ width: `${100 / listColumns}%`, padding: 4 }}>
+                        {renderPlantRow(plant)}
+                      </View>
+                    ))}
+                  </View>
+                </View>
+              )}
+              ListEmptyComponent={<Empty text="Nenhuma planta encontrada." />}
+            />
+          ) : (
             <SectionList
               sections={sections}
               keyExtractor={(p) => p.id}
@@ -646,50 +700,10 @@ saved.advanced ? (
               renderSectionHeader={({ section }) => (
                 <Text style={styles.familyHeading}>{section.title}</Text>
               )}
-              renderItem={({ item }) => (
-                <Pressable
-                  style={styles.plantRow}
-                  accessibilityRole="button"
-                  accessibilityLabel={`Abrir ${getPlantName(item, saved.principalName)}`}
-                  onPress={() => openPlant(item)}
-                >
-                  <View style={styles.rowArt}>
-                    <PlantArtwork plant={item} photo={getMainPhoto(item, saved.mainPhoto)} compact />
-                  </View>
-                  <View style={styles.flex}>
-                    <Text
-                      style={[
-                        styles.name,
-                        (saved.principalName === "scientific" || !hasCommonName(item)) &&
-                          styles.italicName,
-                      ]}
-                    >
-                      {formatPlantNameForWrap(
-                        getPlantName(item, saved.principalName),
-                        saved.principalName,
-                      )}
-                    </Text>
-                    {hasCommonName(item) && <Text
-                      style={
-                        saved.principalName === "scientific"
-                          ? styles.rowSecondaryName
-                          : styles.scientificSmall
-                      }
-                    >
-                      {saved.principalName === "scientific"
-                        ? item.commonName
-                        : item.scientificName}
-                    </Text>}
-                    {!!item.alternateNames.length && (
-                      <Text style={styles.rowSecondaryName} numberOfLines={1}>
-                        {item.alternateNames.join(" · ")}
-                      </Text>
-                    )}
-                  </View>
-                </Pressable>
-              )}
+              renderItem={({ item }) => renderPlantRow(item)}
               ListEmptyComponent={<Empty text="Nenhuma planta encontrada." />}
             />
+          )
           ) : (
             <FlatList
               key={`grid-${desktop}-${gridColumns}`}
@@ -719,6 +733,8 @@ saved.advanced ? (
                         styles.gridLabel,
                         (saved.principalName === "scientific" || !hasCommonName(item)) &&
                           styles.italicName,
+                        (saved.principalName === "scientific" || !hasCommonName(item)) &&
+                          styles.gridScientificName,
                       ]}
                       textBreakStrategy="simple"
                       numberOfLines={desktop ? 2 : undefined}
@@ -1111,6 +1127,7 @@ const styles = StyleSheet.create({
     letterSpacing: -0.1,
   },
   italicName: { fontStyle: "italic", fontWeight: "400" },
+  gridScientificName: { fontWeight: "700" },
   artwork: {
     width: "100%",
     aspectRatio: 1,
@@ -1230,6 +1247,9 @@ const styles = StyleSheet.create({
   navSelected: { backgroundColor: "#EEF3E3" },
   settingLabel: { color: palette.ink, fontSize: 15, fontWeight: "700" },
   advancedListContent: { paddingHorizontal: 8, paddingBottom: 12 },
+  desktopListFamily: { flexDirection: "row", flexWrap: "wrap", marginHorizontal: -4 },
+  desktopPlantRow: { flex: 1, marginBottom: 0, minHeight: 76 },
+  listNames: { flex: 1, minWidth: 0 },
   familyHeading: {
     fontSize: 16,
     lineHeight: 20,

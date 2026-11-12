@@ -10,9 +10,20 @@ import { ForwardIcon, LeafIcon, ListIcon } from "./icons";
 
 const tabs: { id: BrowserSection; label: string; prompt: string }[] = [
   { id: "families", label: "Famílias", prompt: "Buscar família…" },
-  { id: "units", label: "Unidades de Conservação", prompt: "Buscar unidade de conservação…" },
   { id: "habitats", label: "Fitofisionomias", prompt: "Buscar fitofisionomia…" },
+  { id: "units", label: "Unidades de Conservação", prompt: "Buscar unidade de conservação…" },
 ];
+// Landscape credits and license evidence: docs/habitat-photo-sources.md.
+const habitatPhotos: Record<string, number> = {
+  "Caatinga (stricto sensu)": require("../../assets/caatinga-habitat.jpg"),
+  "Cerrado (lato sensu)": require("../../assets/cerrado-habitat.jpg"),
+  "Manguezal": require("../../assets/manguezal-habitat.jpg"),
+  "Floresta Ciliar ou Galeria": require("../../assets/ciliar-habitat.jpg"),
+  "Floresta Ombrófila (= Floresta Pluvial)": require("../../assets/ombrofila-habitat.jpg"),
+  "Floresta Ombrófila Mista": require("../../assets/mista-habitat.jpg"),
+  "Vegetação Sobre Afloramentos Rochosos": require("../../assets/afloramento-habitat.jpg"),
+  "Área Antrópica": require("../../assets/urbana-habitat.jpg"),
+};
 
 export function DesktopCatalogBrowser({ state, dispatch, rows, allRows, families, units, habitats, onHabitat, onOpen, onGuide, onTabChange }: CatalogBrowserProps) {
   const { width } = useWindowDimensions();
@@ -87,7 +98,6 @@ export function DesktopCatalogBrowser({ state, dispatch, rows, allRows, families
         ListEmptyComponent={<Text style={styles.empty}>Nenhuma unidade encontrada.</Text>}
         renderItem={({ item }) => <Pressable accessibilityRole="button" accessibilityLabel={`Ver ${item.name} no guia`} testID={`desktop-unit-${item.name}`}
           onPress={() => onGuide(plantsForRows(rowsForConservationUnit(allRows, item.name)), item.name)} style={[styles.unitCard, { maxWidth: cardWidth }]}>
-          <View style={styles.unitIcon}><LeafIcon color={palette.pine} size={27} /></View>
           <Text style={styles.cardTitle}>{item.name}</Text>
           <Text style={styles.cardCount}>{item.speciesCount} {item.speciesCount === 1 ? "espécie registrada" : "espécies registradas"}</Text>
           <View style={styles.unitFooter}><Text style={styles.actionLabel}>Explorar no guia</Text><ForwardIcon color={palette.pine} size={21} /></View>
@@ -98,11 +108,13 @@ export function DesktopCatalogBrowser({ state, dispatch, rows, allRows, families
         contentContainerStyle={styles.grid} columnWrapperStyle={styles.gridRow}
         ListEmptyComponent={<Text style={styles.empty}>Nenhuma fitofisionomia encontrada.</Text>}
         renderItem={({ item }) => <Pressable accessibilityRole="button" accessibilityLabel={`Ver ${item.name} no guia`}
-          onPress={() => onHabitat(item.name)} style={[styles.unitCard, { maxWidth: cardWidth }]}>
-          <View style={styles.unitIcon}><LeafIcon color={palette.pine} size={27} /></View>
-          <Text style={styles.cardTitle}>{item.name}</Text>
-          <Text style={styles.cardCount}>{item.speciesCount} {item.speciesCount === 1 ? "espécie registrada" : "espécies registradas"}</Text>
-          <View style={styles.unitFooter}><Text style={styles.actionLabel}>Explorar no guia</Text><ForwardIcon color={palette.pine} size={21} /></View>
+          onPress={() => onHabitat(item.name)} style={[styles.familyCard, { maxWidth: cardWidth }]}>
+          {habitatPhotos[item.name] ? <Image source={habitatPhotos[item.name]} style={styles.habitatPhoto} resizeMode="cover" />
+            : <View style={styles.habitatPlaceholder}><LeafIcon color={palette.sage} size={40} /></View>}
+          <View style={styles.cardBody}>
+            <View style={styles.cardTitleRow}><Text style={styles.cardTitle}>{item.name}</Text><ForwardIcon color={palette.pine} size={21} /></View>
+            <Text style={styles.cardCount}>{item.speciesCount} {item.speciesCount === 1 ? "espécie registrada" : "espécies registradas"}</Text>
+          </View>
         </Pressable>} />
     </View>
     <View style={[styles.content, state.section !== "species" && styles.hidden]}>
@@ -162,14 +174,15 @@ const styles = StyleSheet.create({
   familyCard: { flex: 1, maxWidth: "33.333%", borderRadius: 12, borderWidth: 1, borderColor: palette.border, backgroundColor: palette.paper, overflow: "hidden" },
   previewStrip: { height: 104, flexDirection: "row", gap: 2, backgroundColor: palette.moss },
   previewImage: { flex: 1, height: "100%" },
+  habitatPhoto: { width: "100%", height: 140, backgroundColor: palette.moss },
+  habitatPlaceholder: { width: "100%", height: 140, backgroundColor: palette.moss, alignItems: "center", justifyContent: "center" },
   previewEmpty: { flex: 1, alignItems: "center", justifyContent: "center" },
   cardBody: { padding: 16, gap: 6 },
   cardTitleRow: { flexDirection: "row", gap: 8, alignItems: "center" },
   cardTitle: { flex: 1, color: palette.ink, fontSize: 17, lineHeight: 23, fontWeight: "700" },
   cardCount: { color: palette.pine, fontSize: 13, fontWeight: "600" },
   cardNote: { color: palette.muted, fontSize: 11, lineHeight: 16, fontWeight: "400" },
-  unitCard: { flex: 1, maxWidth: "33.333%", minHeight: 224, backgroundColor: palette.paper, borderWidth: 1, borderColor: palette.border, borderRadius: 12, padding: 20, gap: 12 },
-  unitIcon: { width: 44, height: 44, borderRadius: 10, backgroundColor: palette.moss, alignItems: "center", justifyContent: "center" },
+  unitCard: { flex: 1, maxWidth: "33.333%", minHeight: 144, backgroundColor: palette.paper, borderWidth: 1, borderColor: palette.border, borderRadius: 12, padding: 20, gap: 12 },
   unitFooter: { flexDirection: "row", alignItems: "center", justifyContent: "space-between", gap: 8, paddingTop: 8 },
   actionLabel: { color: palette.pine, fontSize: 12, fontWeight: "600" },
   speciesContent: { width: "100%", maxWidth: 1488, alignSelf: "center", paddingHorizontal: 32, paddingBottom: 28 },

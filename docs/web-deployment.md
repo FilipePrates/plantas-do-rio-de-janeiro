@@ -1,5 +1,45 @@
 # Web deployment
 
+## November 12, 2026 Syagrus batch deployment
+
+Published version `0a27a9db-de66-4a90-bbb7-900c91cf5a42` from the isolated
+`dist/web-prod-20261112-current` export. The guide contains 432 entries, 553
+represented species and 721 photos. Three additional Syagrus profiles remain
+drafts and have no photos; the photo-only preference hides them until disabled.
+TypeScript, 63 tests, catalog validation, all catalog/media export hashes and
+mobile/desktop browser checks passed. Live checks confirmed the five palm
+profiles and the HTML-referenced bundle SHA-256
+`3c4c72c9178878fd7c94003d26944e1a9ebddc42b7f79994b3aa024a6da5455d`.
+This deployment does not update an installed Android application.
+
+## November 12, 2026 desktop advanced list
+
+Published version `67fdc799-b4f6-404a-bad2-57b77b488018` with a desktop
+family-grouped advanced list using two or three columns and wrapping all
+alternate names. Mobile keeps its single-column list. TypeScript, 63 tests,
+catalog validation, all media hashes and export verification passed. Local
+and live browser checks covered list layout and profile navigation at 390,
+1024 and 1600 pixels, with no page errors or failed assets. The live bundle
+matched the verified export, SHA-256
+`25cca97870a3d65bec772a36cfd33924e69c02a7aad314304180f4fe1316d067`.
+
+## November 12, 2026 current guide deployment
+
+Published version `737d0cb8-3c27-4d37-8888-cd0b5e3c5a4e` with the current
+desktop habitat cards, habitat filtering, name styling and two Syagrus draft
+profiles. The catalog remains 429 entries, 550 represented species and 721
+photos. The isolated build passed TypeScript, 63 tests, catalog validation,
+catalog text and all original-photo and thumbnail hash checks. Local and live
+mobile and desktop checks covered both palm profiles and their images without
+page errors or failed assets. On November 12 the observed live bundle was
+`index-d932b12565290d491d5d38bb98c6e07a.js`, SHA-256
+`25cca97870a3d65bec772a36cfd33924e69c02a7aad314304180f4fe1316d067`,
+matching `verification-list.json`. The previously recorded hash referred to
+`verification-current.json`, a different export. Both reports record the same
+catalog hash and counts.
+The export and verification are retained in `backups/syagrus-deploy-2026-11-12/`.
+Text and photo review remains pending; no installed native app was updated.
+
 Public address: https://plantas.avesdobrasil.app
 
 This app uses its own Cloudflare Worker, `plantas-do-rio`, to serve the

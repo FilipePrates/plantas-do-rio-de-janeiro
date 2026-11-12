@@ -1,0 +1,18 @@
+{
+  "catalogSha256": "a34d618596d21012cd7fdaef37a8b4e6dcecf08c2f9a850a926e2a354979e3b3",
+  "entries": 432,
+  "representedSpecies": 553,
+  "originalPhotos": 721,
+  "thumbnails": 721,
+  "currentCatalogStringsVerified": 1794,
+  "allMediaHashesVerified": true,
+  "searchLoadingIndicatorVerified": true,
+  "bundles": [
+    {
+      "path": "/_expo/static/js/web/index-f31d5750412b4288935caae0a7b6025f.js",
+      "sha256": "3c4c72c9178878fd7c94003d26944e1a9ebddc42b7f79994b3aa024a6da5455d",
+      "bytes": 3656508
+    }
+  ],
+  "htmlSha256": "d23107165075d5eee090c4595312e4301358a07a417ac49b01b3f4edfb2e6a1b"
+}
