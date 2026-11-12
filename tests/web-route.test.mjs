@@ -7,15 +7,17 @@ import { createWebRouteReader, defaultWebRoute, webRouteSearch, webRoutePageKey,
 const catalog = parseCatalog(JSON.parse(readFileSync(new URL('../src/data/plants.json', import.meta.url), 'utf8')));
 const read = createWebRouteReader(catalog);
 
-test('profile links preserve both the selected species and complete list/display context', () => {
+test('profile links preserve the selected species and shareable list context without personal display preferences', () => {
   const route = defaultWebRoute();
   route.plantId = 'euterpe-edulis';
   route.query = 'juçara & flor/folha # 1?';
   route.familyFilter = 'Arecaceae';
   route.habitat = catalog.plants.find(plant => plant.id === route.plantId).habitats[0];
-  route.preferences = { photosOnly: false, alphabetical: true, principalName: 'scientific', advanced: true, mainPhoto: 'fruit' };
-  route.columns = 18;
-  assert.deepEqual(read(webRouteSearch(route)), route);
+  const search = webRouteSearch(route);
+  assert.deepEqual(read(search), route);
+  for (const key of ['photos', 'sort', 'names', 'mode', 'photo', 'cols']) {
+    assert.equal(new URLSearchParams(search).has(key), false);
+  }
 });
 
 test('a shared catalog selection restores family, section, search and return origin', () => {
@@ -35,7 +37,6 @@ test('conservation-unit links encode the actual named unit and filter in a fresh
   assert.deepEqual(route.scope, { kind: 'unit', name: unit });
   assert.equal(route.tab, 'guide');
   assert.equal(route.plantId, null);
-  assert.equal(route.preferences.photosOnly, true);
   route.scope = { kind: 'family', name: 'Myrtaceae' };
   assert.deepEqual(read(webRouteSearch(route)), route);
 });
@@ -49,10 +50,15 @@ test('unknown catalog ids, units, families and invalid display values safely fal
   if (renamed) assert.equal(read(`?plant=${renamed.previousIds[0]}`).plantId, renamed.id);
 });
 
+test('legacy display parameters are ignored and removed when a route is serialized again', () => {
+  const route = read('?tab=guide&bfamily=Arecaceae&photos=1&sort=family&names=scientific&mode=grid&cols=11&photo=fruit');
+  assert.equal(webRouteSearch(route), '?tab=guide&bfamily=Arecaceae');
+});
+
 test('typing and display changes do not add page history, while pages and filters do', () => {
   const route = defaultWebRoute();
   const typing = structuredClone(route);
-  typing.query = 'palmito'; typing.preferences.principalName = 'scientific'; typing.columns = 12;
+  typing.query = 'palmito';
   assert.equal(webRoutePageKey(route), webRoutePageKey(typing));
   for (const update of [{ plantId: 'euterpe-edulis' }, { tab: 'families' }, { settings: true }, { familyFilter: 'Arecaceae' }, { habitat: 'Floresta Ombrófila' }, { scope: { kind: 'unit', name: 'Tijuca' } }]) {
     assert.notEqual(webRoutePageKey(route), webRoutePageKey({ ...route, ...update }));

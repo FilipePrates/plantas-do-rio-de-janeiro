@@ -54,7 +54,7 @@ import { createWebRouteReader, webRouteSearch } from "./src/webRoute.mjs";
 import type { WebRoute } from "./src/webRoute.mjs";
 import { useWebNavigation } from "./src/useWebNavigation";
 import type { BrowserSection } from "./src/catalogBrowser.mjs";
-import { formatPlantNameForWrap, getPlantName, getMainPhoto, mainPhotoKinds } from "./src/presentation.mjs";
+import { hasCommonName, formatPlantNameForWrap, getPlantName, getMainPhoto, mainPhotoKinds } from "./src/presentation.mjs";
 
 const catalog = parseCatalog(catalogJson);
 const prepareGuideSearch = createPlantSearch(catalog.plants);
@@ -66,7 +66,7 @@ const mainTabs = [
 const allIds = new Set(catalog.plants.map((p) => p.id));
 const profiles = catalog.plants.filter(isProfile);
 const byName = [...catalog.plants].sort((a, b) =>
-  a.commonName.localeCompare(b.commonName, "pt-BR"),
+  getPlantName(a, "common").localeCompare(getPlantName(b, "common"), "pt-BR"),
 );
 const byFamily = [...catalog.plants].sort(
   (a, b) =>
@@ -138,6 +138,8 @@ function Guide() {
     ? (availableWidth - 32 - (gridColumns - 1)) / gridColumns
     : (availableWidth - 4) / 3);
   const [saved, setSaved] = useState(defaultState);
+  const savedRef = useRef(saved);
+  savedRef.current = saved;
   const [hydrated, setHydrated] = useState(false);
   const [storageError, setStorageError] = useState("");
   const [saveEnabled, setSaveEnabled] = useState(true);
@@ -146,7 +148,10 @@ function Guide() {
     let mounted = true;
     loadState(allIds, allFamilies, catalog.plants)
       .then((value) => {
-        if (mounted) setSaved(value);
+        if (mounted) {
+          setSaved(value);
+          setDesktopColumns(value.desktopColumns);
+        }
       })
       .catch(() => {
         if (mounted) {
@@ -166,14 +171,14 @@ function Guide() {
   useEffect(() => {
     if (!hydrated || !saveEnabled) return;
     try {
-      saveState(saved);
+      saveState({ ...saved, desktopColumns });
       setStorageError("");
     } catch {
       setStorageError(
         "Não foi possível salvar suas alterações neste dispositivo.",
       );
     }
-  }, [saved, hydrated, saveEnabled]);
+  }, [saved, desktopColumns, hydrated, saveEnabled]);
   useEffect(() => {
     const handler = BackHandler.addEventListener("hardwareBackPress", () => {
       return goBack();
@@ -236,21 +241,20 @@ function Guide() {
     setHabitat(route.habitat);
     setSettings(route.settings);
     dispatchBrowser({ type: 'restore', state: route.browser });
-    setDesktopColumns(route.columns);
-    setSaved(value => ({ ...value, ...route.preferences, familyFilter: route.familyFilter }));
+    setSaved(value => ({ ...value, familyFilter: route.familyFilter }));
+    const preferences = savedRef.current;
     const matches = prepareGuideSearch(route.query);
-    const ordered = route.preferences.alphabetical ? route.preferences.principalName === 'scientific' ? byScientificName : byName : byFamily;
+    const ordered = preferences.alphabetical ? preferences.principalName === 'scientific' ? byScientificName : byName : byFamily;
     setDetailSequence(route.tab === 'families' ? plantsForRows(filterBrowserRows(speciesRows, route.browser)) : ordered.filter(plant =>
       (!scopePlants || scopePlants.some(member => member.id === plant.id)) && matches(plant) &&
-      (!route.preferences.photosOnly || plant.photos.length > 0) && (!route.familyFilter || plant.family === route.familyFilter) &&
+      (!preferences.photosOnly || plant.photos.length > 0) && (!route.familyFilter || plant.family === route.familyFilter) &&
       (!route.habitat || plant.habitats.includes(route.habitat))));
   }, []);
   const webRoute = useMemo<WebRoute>(() => ({
     tab, plantId: detailId, settings, query, habitat, familyFilter: saved.familyFilter,
     scope: guideScope ? { kind: guideScope.kind, name: guideScope.label } : null,
-    browser, columns: desktopColumns,
-    preferences: { photosOnly: saved.photosOnly, alphabetical: saved.alphabetical, principalName: saved.principalName, advanced: saved.advanced, mainPhoto: saved.mainPhoto },
-  }), [tab, detailId, settings, query, habitat, saved, guideScope, browser, desktopColumns]);
+    browser,
+  }), [tab, detailId, settings, query, habitat, saved.familyFilter, guideScope, browser]);
   const goWebBack = useWebNavigation(webRoute, hydrated, restoreWebRoute, readWebRoute);
   const openPlant = useCallback((plant: Plant, sequence = visible) => {
     setDetailSequence(sequence);
@@ -502,7 +506,7 @@ function Guide() {
                 placeholderTextColor={palette.muted}
                 value={query}
                 onChangeText={setQuery}
-                style={styles.searchInput}
+                style={[styles.searchInput, desktop && styles.desktopSearchInput]}
               />
               {searchPending && (
                 <View style={styles.searchProgress} accessibilityRole="progressbar" accessibilityLabel="Atualizando resultados" testID="guide-search-loading">
@@ -636,7 +640,7 @@ saved.advanced ? (
                 <Pressable
                   style={styles.plantRow}
                   accessibilityRole="button"
-                  accessibilityLabel={`Abrir ${item.commonName}`}
+                  accessibilityLabel={`Abrir ${getPlantName(item, saved.principalName)}`}
                   onPress={() => openPlant(item)}
                 >
                   <View style={styles.rowArt}>
@@ -646,7 +650,7 @@ saved.advanced ? (
                     <Text
                       style={[
                         styles.name,
-                        saved.principalName === "scientific" &&
+                        (saved.principalName === "scientific" || !hasCommonName(item)) &&
                           styles.italicName,
                       ]}
                     >
@@ -655,7 +659,7 @@ saved.advanced ? (
                         saved.principalName,
                       )}
                     </Text>
-                    <Text
+                    {hasCommonName(item) && <Text
                       style={
                         saved.principalName === "scientific"
                           ? styles.rowSecondaryName
@@ -665,7 +669,7 @@ saved.advanced ? (
                       {saved.principalName === "scientific"
                         ? item.commonName
                         : item.scientificName}
-                    </Text>
+                    </Text>}
                     {!!item.alternateNames.length && (
                       <Text style={styles.rowSecondaryName} numberOfLines={1}>
                         {item.alternateNames.join(" · ")}
@@ -703,7 +707,7 @@ saved.advanced ? (
                     <Text
                       style={[
                         styles.gridLabel,
-                        saved.principalName === "scientific" &&
+                        (saved.principalName === "scientific" || !hasCommonName(item)) &&
                           styles.italicName,
                       ]}
                       textBreakStrategy="simple"
@@ -753,7 +757,7 @@ function PlantArtwork({
     <View style={[styles.artwork, flush && styles.gridArtwork]}>
       {source && !failed ? (
         <Image
-          accessibilityLabel={`${plant.commonName}: ${photo.caption || "foto iNaturalist"}`}
+          accessibilityLabel={`${getPlantName(plant, "common")}: ${photo.caption || "foto iNaturalist"}`}
           source={source}
           style={styles.image}
           resizeMode={compact ? "cover" : "contain"}
@@ -947,9 +951,10 @@ const styles = StyleSheet.create({
   },
   headerSubtitle: { fontSize: 14, color: "rgba(255,255,255,0.86)" },
   desktopHeader: { minHeight: 68, paddingVertical: 6, paddingHorizontal: 20 },
-  desktopToolbar: { flexDirection: "row", alignItems: "center", gap: 24, paddingHorizontal: 16, paddingVertical: 12, backgroundColor: palette.sand },
+  desktopToolbar: { flexDirection: "row", alignItems: "center", gap: 24, paddingHorizontal: 16, paddingVertical: 4, backgroundColor: palette.sand },
   desktopGuideLayout: { flexDirection: "column-reverse" },
   desktopSearch: { flex: 1, borderWidth: 1, borderColor: palette.border, borderRadius: 12 },
+  desktopSearchInput: { paddingVertical: 6 },
   desktopGrid: { paddingHorizontal: 16, paddingTop: 0, paddingBottom: 16, gap: 1, backgroundColor: palette.sand },
   desktopGridRow: { gap: 1 },
   desktopGridCard: { borderRadius: 0 },
@@ -1093,7 +1098,7 @@ const styles = StyleSheet.create({
     fontWeight: "700",
     letterSpacing: -0.1,
   },
-  italicName: { fontStyle: "italic" },
+  italicName: { fontStyle: "italic", fontWeight: "400" },
   artwork: {
     width: "100%",
     aspectRatio: 1,

@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
 import test from "node:test";
+import { withoutRepeatedCommonNames } from "./helpers/common-names.mjs";
 import { parseCatalog, representedSpeciesCount, inaturalistPhotoRights } from "../src/catalog.mjs";
 import { beforeFamilyGapReview } from "./helpers/family-gaps.mjs";
 const read = path => JSON.parse(readFileSync(new URL(path, import.meta.url), "utf8"));
@@ -12,7 +13,7 @@ const added = new Set(audit.addedPlantIds);
 
 test("family expansion preserves every earlier photo and field except the audited Cattleya completion", () => {
   const restored = { ...catalog, plants: catalog.plants.filter(p => !added.has(p.id)).map(beforeFamilyGapReview) };
-  assert.deepEqual(restored, before);
+  assert.deepEqual(withoutRepeatedCommonNames(restored), withoutRepeatedCommonNames(before));
   assert.equal(added.size, 16);
   assert.equal(representedSpeciesCount(catalog), representedSpeciesCount(before) + 16);
   assert.deepEqual(audit.updatedProfiles.map(row => row.plantId), ["cattleya-guttata"]);

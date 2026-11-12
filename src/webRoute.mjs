@@ -1,13 +1,10 @@
 import { checklistRows, resolveSavedIds } from './catalog.mjs';
 import { conservationUnitIndex } from './catalogBrowser.mjs';
-import { mainPhotoKinds } from './presentation.mjs';
 
 export function defaultWebRoute() {
   return {
     tab: 'guide', plantId: null, settings: false, query: '', habitat: '', familyFilter: null, scope: null,
     browser: { section: 'families', family: null, origin: null, queries: { families: '', species: '', units: '' } },
-    preferences: { photosOnly: true, alphabetical: false, principalName: 'common', advanced: false, mainPhoto: 'default' },
-    columns: 10,
   };
 }
 
@@ -32,13 +29,6 @@ export function createWebRouteReader(catalog) {
     route.browser.family = families.has(params.get('bfamily')) ? params.get('bfamily') : null;
     route.browser.origin = route.browser.family && route.browser.section === 'species' ? 'families' : null;
     route.browser.queries = { families: params.get('fq') ?? '', species: params.get('sq') ?? '', units: params.get('uq') ?? '' };
-    route.preferences = {
-      photosOnly: params.get('photos') !== '0', alphabetical: params.get('sort') === 'name',
-      principalName: params.get('names') === 'scientific' ? 'scientific' : 'common',
-      advanced: params.get('mode') === 'list', mainPhoto: mainPhotoKinds.includes(params.get('photo')) ? params.get('photo') : 'default',
-    };
-    const columns = Number(params.get('cols'));
-    route.columns = Number.isInteger(columns) && columns >= 6 && columns <= 22 ? columns : 10;
     return route;
   };
 }
@@ -56,12 +46,6 @@ export function webRouteSearch(route) {
   for (const [section, key] of [['families', 'fq'], ['species', 'sq'], ['units', 'uq']]) {
     if (route.browser.queries[section]) params.set(key, route.browser.queries[section]);
   }
-  params.set('photos', route.preferences.photosOnly ? '1' : '0');
-  params.set('sort', route.preferences.alphabetical ? 'name' : 'family');
-  params.set('names', route.preferences.principalName);
-  params.set('mode', route.preferences.advanced ? 'list' : 'grid');
-  if (route.preferences.mainPhoto !== 'default') params.set('photo', route.preferences.mainPhoto);
-  if (route.columns !== 10) params.set('cols', String(route.columns));
   if (route.settings) params.set('settings', '1');
   return `?${params}`;
 }

@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
   section: { padding: 16, borderTopWidth: 1, borderTopColor: palette.border, gap: 8 },
   title: { color: palette.ink, fontSize: 15, fontWeight: "700" },
   record: { gap: 5, marginBottom: 4 },
-  species: { color: palette.ink, fontSize: 15, fontStyle: "italic", fontWeight: "600", marginTop: 6 },
+  species: { color: palette.ink, fontSize: 15, fontStyle: "italic", fontWeight: "400", marginTop: 6 },
   body: { color: palette.ink, fontSize: 15, lineHeight: 22 },
   unit: { color: palette.ink, fontSize: 14, lineHeight: 20 },
   muted: { color: palette.muted, fontSize: 12, lineHeight: 18 },

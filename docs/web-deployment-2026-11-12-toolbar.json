@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-12",
+  "url": "https://plantas.avesdobrasil.app",
+  "version": "eda6a497-3c73-4339-aaf5-38432cdadab5",
+  "previousVersion": "c82a74ea-cb2f-42bc-b1d8-982303514f87",
+  "baseCommit": "e55b7d09eea50dc5991a3c063b9afde1c68a54ff",
+  "source": "isolated snapshot with the names and desktop catalog toolbar changes",
+  "excludedConcurrentFiles": ["src/useWebNavigation.web.ts"],
+  "exportDirectory": "backups/web-deploy-2026-11-12-toolbar/source/dist/web",
+  "catalogSha256": "1a924bedaf1fe4df875d92810fe9fa0f74442c0231885f6e2e9f9cbab76777be",
+  "htmlSha256": "47a2995cdfe74b323ad35ce39e20628ff60069e88a1518609ea6c54d694e1f7d",
+  "bundles": [
+    {
+      "path": "/_expo/static/js/web/index-22322985f8050450f0713e2f07046a3b.js",
+      "sha256": "a9d7d77d71946a9828c3eea5570338e7ae3ebeb2fc983a877d748c2e01b0f080",
+      "bytes": 3644311
+    }
+  ],
+  "catalog": {
+    "entries": 429,
+    "representedSpecies": 550,
+    "originalPhotos": 721,
+    "thumbnails": 721,
+    "repeatedCommonNamesCleared": 220,
+    "allMediaHashesVerified": true
+  },
+  "checks": {
+    "typecheck": true,
+    "testsPassed": 61,
+    "catalogValidation": true,
+    "localAndLiveWidths": [1024, 1440, 1920, 390],
+    "exactHtmlReferencedBundleHashes": true,
+    "desktopSingleRowToolbar": true,
+    "familySearchAndReturn": true,
+    "scientificNamesRegularItalic": true,
+    "singleScientificProfileHeading": true,
+    "profileReloadAndPhotos": true,
+    "mobileLayoutPreserved": true,
+    "pageErrors": [],
+    "failedAssets": []
+  },
+  "editorDeployed": false,
+  "cloudDatabaseChanged": false,
+  "artifacts": "backups/web-deploy-2026-11-12-toolbar"
+}

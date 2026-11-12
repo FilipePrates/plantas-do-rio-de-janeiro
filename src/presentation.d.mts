@@ -13,3 +13,5 @@ export type MainPhoto = "default" | Exclude<PhotoMarker, "unknown">;
 export const mainPhotoKinds: MainPhoto[];
 export function normalizeMainPhoto(value: unknown): MainPhoto;
 export function getMainPhoto(plant: Plant, preference?: MainPhoto): PlantPhoto | undefined;
+
+export function hasCommonName(plant: Plant): boolean;

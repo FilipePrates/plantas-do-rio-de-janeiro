@@ -160,3 +160,54 @@ two- and three-photo cycling in both directions, single-photo closing from
 both sides, double-click zoom, mobile controls and exact exported bundle hashes
 without page errors. Artifact:
 `backups/web-deploy-2026-11-11/live/viewer-cycle-result.json`.
+
+## November 12, 2026 names and catalog toolbar update
+
+Published version `eda6a497-3c73-4339-aaf5-38432cdadab5`. Scientific names use
+regular-weight italics. The catalog stores an empty primary common name for
+220 entries that previously repeated their scientific name, and profiles show
+that scientific name once as their fallback heading. The desktop catalog title,
+result count, search and section tabs share a compact toolbar. Mobile keeps its
+existing catalog layout.
+
+The isolated source passed TypeScript, all 61 tests and catalog validation.
+The export verified every original photo and thumbnail hash. Local and live
+browser checks at 1024, 1440, 1920 and 390 pixels verified the exact
+HTML-referenced bundle, search and family return navigation, profile reloads,
+photos and name styling, without page errors or failed assets. The separate
+navigation edit in progress was excluded from this deployment. The plant editor
+and its cloud database were not deployed or changed.
+
+See the [deployment record](web-deployment-2026-11-12-toolbar.json). The tested
+export, logs and screenshots are retained under
+`backups/web-deploy-2026-11-12-toolbar/`.
+
+## November 12, 2026 completed navigation update
+
+Published version `3473c635-1795-403a-81b5-c62d986f5bb3` with the pending
+profile scroll-restoration changes and the latest compact desktop toolbars.
+Scroll restoration now cancels stale animation callbacks so an earlier profile
+cannot reset the next profile's position. Zero-position profiles do not schedule
+a delayed reset. Existing scientific-name and optional common-name behavior is
+preserved.
+
+TypeScript, all 61 tests and catalog validation passed. The exact exported
+bundle passed local and live checks at 1024, 1440, 1920 and 390 pixels for
+Back/Forward, reloads, saved profile positions, conservation-unit links, search,
+family navigation, name styling and photos. No page errors or failed assets were
+observed. The catalog remains at 429 entries, 550 represented species and 721
+photos, with catalog hash
+`1a924bedaf1fe4df875d92810fe9fa0f74442c0231885f6e2e9f9cbab76777be`.
+The deployed bundle is `index-cdd726b06f35e1728eba33ddbae96a98.js`, SHA-256
+`3a350e10fa35d56ddfc87c345552936dd635131be0f1d179c30128630e6a19d4`.
+Artifacts: `backups/web-deploy-2026-11-12-finish/`; the tested export is
+`dist/web-finish-20261112-nav/`.
+
+The separate plant editor was published as
+`d4696c0c-ff17-4c82-9827-2ac422893fdb`. Its 14 tests and isolated local save/export
+checks passed. Live checks verified login, exact asset hashes and authenticated
+API/media protection without editing shared records. The tested database
+migration cleared 220 repeated common names, preserving unrelated records,
+drafts, editorial states and all old history while recording new revisions.
+Private backups and editor checks are retained in that repository's
+`.local/deploy-finish-20261112/`.

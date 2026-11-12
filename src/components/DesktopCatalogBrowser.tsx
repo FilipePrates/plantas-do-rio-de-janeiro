@@ -17,7 +17,9 @@ const tabs: { id: BrowserSection; label: string; prompt: string }[] = [
 export function DesktopCatalogBrowser({ state, dispatch, rows, allRows, families, units, onOpen, onGuide, onTabChange }: CatalogBrowserProps) {
   const { width } = useWindowDimensions();
   const columns = width >= 1500 ? 4 : 3;
+  const familyColumns = width >= 1500 ? 5 : width >= 1100 ? 4 : 3;
   const cardWidth = (Math.min(width, 1488) - 64 - 18 * (columns - 1)) / columns;
+  const familyCardWidth = (Math.min(width, 1488) - 64 - 18 * (familyColumns - 1)) / familyColumns;
   const query = state.queries[state.section];
   const tab = tabs.find(tab => tab.id === state.section)!;
   const familyPlants = useMemo(() => {
@@ -37,8 +39,18 @@ export function DesktopCatalogBrowser({ state, dispatch, rows, allRows, families
   return <View style={styles.screen} testID="desktop-catalog-browser">
     <View style={styles.heading}>
       <View style={styles.headingCopy}>
-        <Text style={styles.title}>{state.section === "species" && state.family ? state.family : tab.label}</Text>
-        <Text style={styles.subtitle}>{state.section === "families" ? "Explore as famílias da flora do Rio de Janeiro." : state.section === "units" ? "Consulte espécies com registros nas áreas protegidas." : "Encontre uma espécie e abra sua ficha."}</Text>
+        <View style={styles.headingTitleRow}>
+          <Text style={styles.title} numberOfLines={1}>{state.section === "species" && state.family ? state.family : tab.label}</Text>
+          <Text style={styles.resultCount}>{count} {state.section === "families" ? "famílias" : state.section === "units" ? "unidades" : count === 1 ? "espécie" : "espécies"}</Text>
+        </View>
+        {state.section === "species" && state.family && <Pressable accessibilityRole="button" accessibilityLabel="Voltar às famílias" onPress={() => dispatch({ type: "back" })} style={styles.back}>
+          <Text style={styles.backLabel}>Todas as famílias</Text>
+        </Pressable>}
+      </View>
+      <View style={styles.search}>
+        <TextInput accessibilityLabel={tab.prompt} placeholder={tab.prompt} placeholderTextColor={palette.muted} value={query}
+          onChangeText={query => dispatch({ type: "query", query })} style={styles.input} />
+        {!!query && <Pressable accessibilityRole="button" accessibilityLabel="Limpar busca" style={styles.clear} onPress={() => dispatch({ type: "query", query: "" })}><Text style={styles.clearText}>×</Text></Pressable>}
       </View>
       <View accessibilityRole="tablist" accessibilityLabel="Explorar catálogo" style={styles.tabs}>
         {tabs.map(item => <Pressable key={item.id} accessibilityRole="tab" accessibilityLabel={item.label} accessibilityState={{ selected: item.id === state.section }}
@@ -47,26 +59,15 @@ export function DesktopCatalogBrowser({ state, dispatch, rows, allRows, families
         </Pressable>)}
       </View>
     </View>
-    <View style={styles.controls}>
-      {state.section === "species" && state.family && <Pressable accessibilityRole="button" accessibilityLabel="Voltar às famílias" onPress={() => dispatch({ type: "back" })} style={styles.back}>
-        <Text style={styles.backLabel}>Todas as famílias</Text>
-      </Pressable>}
-      <View style={styles.search}>
-        <TextInput accessibilityLabel={tab.prompt} placeholder={tab.prompt} placeholderTextColor={palette.muted} value={query}
-          onChangeText={query => dispatch({ type: "query", query })} style={styles.input} />
-        {!!query && <Pressable accessibilityRole="button" accessibilityLabel="Limpar busca" style={styles.clear} onPress={() => dispatch({ type: "query", query: "" })}><Text style={styles.clearText}>×</Text></Pressable>}
-      </View>
-      <Text style={styles.resultCount}>{count} {state.section === "families" ? "famílias" : state.section === "units" ? "unidades" : count === 1 ? "espécie" : "espécies"}</Text>
-    </View>
     <View style={[styles.content, state.section !== "families" && styles.hidden]}>
-      <FlatList key={`families-${columns}`} data={visibleFamilies} numColumns={columns} keyExtractor={item => item.name}
-        initialNumToRender={columns * 6} contentContainerStyle={styles.grid} columnWrapperStyle={styles.gridRow}
+      <FlatList key={`families-${familyColumns}`} data={visibleFamilies} numColumns={familyColumns} keyExtractor={item => item.name}
+        initialNumToRender={familyColumns * 6} contentContainerStyle={styles.grid} columnWrapperStyle={styles.gridRow}
         ListEmptyComponent={<Text style={styles.empty}>Nenhuma família encontrada.</Text>}
         renderItem={({ item }) => {
           const members = familyPlants.get(item.name) ?? [];
           const illustrated = members.filter(plant => plant.photos.some(photo => plantThumbnails[photo.fileName]));
           return <Pressable accessibilityRole="button" accessibilityLabel={`Ver espécies de ${item.name}`} testID={`desktop-family-${item.name}`}
-            onPress={() => dispatch({ type: "select", family: item.name })} style={[styles.familyCard, { maxWidth: cardWidth }]}>
+            onPress={() => dispatch({ type: "select", family: item.name })} style={[styles.familyCard, { maxWidth: familyCardWidth }]}>
             <View style={styles.previewStrip}>
               {illustrated.length ? illustrated.slice(0, 3).map(plant => <Image key={plant.id} source={plantThumbnails[plant.photos.find(photo => plantThumbnails[photo.fileName])!.fileName]} style={styles.previewImage} resizeMode="cover" />)
                 : <View style={styles.previewEmpty}><ListIcon color={palette.pine} size={32} /></View>}
@@ -125,23 +126,22 @@ function SpeciesCard({ row, onOpen }: { row: ChecklistRow; onOpen: () => void })
 }
 
 const styles = StyleSheet.create({
-  screen: { flex: 1, backgroundColor: palette.sand, paddingTop: 22 },
-  heading: { width: "100%", maxWidth: 1488, alignSelf: "center", paddingHorizontal: 32, flexDirection: "row", alignItems: "center", gap: 24 },
+  screen: { flex: 1, backgroundColor: palette.sand, paddingTop: 12 },
+  heading: { width: "100%", maxWidth: 1488, alignSelf: "center", paddingHorizontal: 32, paddingBottom: 8, flexDirection: "row", alignItems: "center", gap: 16 },
   headingCopy: { flex: 1, minWidth: 0, gap: 6 },
+  headingTitleRow: { flexDirection: "row", alignItems: "baseline", gap: 10 },
   title: { color: palette.ink, fontSize: 27, fontWeight: "800" },
-  subtitle: { color: palette.muted, fontSize: 13, lineHeight: 19 },
   tabs: { flexDirection: "row", borderWidth: 1, borderColor: palette.border, borderRadius: 10, padding: 4, backgroundColor: palette.paper },
   tab: { minHeight: 40, paddingHorizontal: 14, justifyContent: "center", borderWidth: 1, borderColor: "transparent", borderRadius: 7 },
   selectedTab: { borderColor: palette.pine },
   tabText: { fontSize: 13, color: palette.muted },
   selectedText: { color: palette.ink, fontWeight: "700" },
-  controls: { width: "100%", maxWidth: 1488, alignSelf: "center", flexDirection: "row", alignItems: "center", gap: 16, paddingHorizontal: 32, paddingVertical: 20 },
-  search: { flex: 1, maxWidth: 640, minWidth: 0, flexDirection: "row", alignItems: "center", backgroundColor: palette.paper, borderWidth: 1, borderColor: palette.border, borderRadius: 10 },
+  search: { flex: 1.3, maxWidth: 640, minWidth: 180, flexDirection: "row", alignItems: "center", backgroundColor: palette.paper, borderWidth: 1, borderColor: palette.border, borderRadius: 10 },
   input: { flex: 1, minWidth: 0, minHeight: 46, paddingHorizontal: 14, fontSize: 14, color: palette.ink },
   clear: { width: 44, minHeight: 44, alignItems: "center", justifyContent: "center" },
   clearText: { fontSize: 22, color: palette.pine },
   resultCount: { color: palette.muted, fontSize: 12 },
-  back: { minHeight: 44, justifyContent: "center" },
+  back: { minHeight: 24, justifyContent: "center" },
   backLabel: { color: palette.pine, fontSize: 13, textDecorationLine: "underline" },
   content: { flex: 1 }, hidden: { display: "none" },
   grid: { width: "100%", maxWidth: 1488, alignSelf: "center", paddingHorizontal: 32, paddingBottom: 28, gap: 18 },
@@ -169,7 +169,7 @@ const styles = StyleSheet.create({
   speciesPhoto: { width: 64, height: 80, borderRadius: 6, backgroundColor: palette.moss },
   speciesPhotoFallback: { width: 64, height: 80, borderRadius: 6, backgroundColor: palette.moss, alignItems: "center", justifyContent: "center" },
   speciesNames: { flex: 1, minWidth: 0, gap: 4 },
-  speciesName: { color: palette.ink, fontSize: 14, lineHeight: 20, fontStyle: "italic", fontWeight: "600" },
+  speciesName: { color: palette.ink, fontSize: 14, lineHeight: 20, fontStyle: "italic", fontWeight: "400" },
   commonName: { color: palette.ink, fontSize: 12, lineHeight: 17 },
   recordKind: { color: palette.pine, fontSize: 10, lineHeight: 15 },
   empty: { color: palette.muted, fontSize: 14, paddingVertical: 24 },

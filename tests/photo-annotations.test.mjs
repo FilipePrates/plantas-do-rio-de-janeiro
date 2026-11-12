@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import test from "node:test";
+import { withoutRepeatedCommonNames } from "./helpers/common-names.mjs";
 import { beforeVisualAnnotations } from "./helpers/photo-annotations.mjs";
 import { beforeCactusProfileReview } from "./helpers/cactaceae.mjs";
 import { beforePriorityBatchReview, beforePriorityPhotoReview } from "./helpers/priority-batch.mjs";
@@ -19,7 +20,7 @@ test("visual annotation pass preserves complete plant records, photo order, righ
   const previousIds = new Set(before.plants.map((plant) => plant.id));
   const restored = { ...structuredClone(catalog), plants: structuredClone(catalog.plants.filter((plant) => previousIds.has(plant.id)).map(beforeFamilyGapReview).map(beforePriorityBatchReview).map(beforeCactusProfileReview)) };
   for (const plant of restored.plants) plant.photos = plant.photos.map(beforeVisualAnnotations);
-  assert.deepEqual(restored, before);
+  assert.deepEqual(withoutRepeatedCommonNames(restored), withoutRepeatedCommonNames(before));
   const changedIds = new Set(audit.changes.map((change) => change.photoId));
   assert.equal(changedIds.size, audit.changedPhotos);
   for (const change of audit.changes) {

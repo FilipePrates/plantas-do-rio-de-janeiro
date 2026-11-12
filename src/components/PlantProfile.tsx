@@ -15,7 +15,7 @@ import {
 import type { Plant, PlantPhoto } from "../catalog.mjs";
 import { conservationCodesForSpecies, originLabels } from "../catalog.mjs";
 import type { MainPhoto, PrincipalName } from "../presentation.mjs";
-import { formatPlantNameForWrap, getPlantName, getMainPhoto } from "../presentation.mjs";
+import { hasCommonName, formatPlantNameForWrap, getPlantName, getMainPhoto } from "../presentation.mjs";
 import { plantImages } from "../data/plant-images";
 import { palette } from "../theme";
 import { BackIcon, BrandLeafIcon, ForwardIcon } from "./icons";
@@ -108,14 +108,15 @@ export function PlantProfile({
     setActiveIndex(next);
   }
   const names = <>
-    <Text style={[styles.primaryName, principalName === "scientific" && styles.scientific, desktop && styles.desktopPrimaryName]}>
+    <Text style={[styles.primaryName, (principalName === "scientific" || !hasCommonName(plant)) && styles.scientific, desktop && styles.desktopPrimaryName]}>
       {formatPlantNameForWrap(getPlantName(plant, principalName), principalName)}
     </Text>
-    <Text style={[styles.secondaryName, principalName === "common" && styles.scientific, desktop && styles.desktopSecondaryName]}>
+    {hasCommonName(plant) && <Text style={[styles.secondaryName, principalName === "common" && styles.scientific, desktop && styles.desktopSecondaryName]}>
       {principalName === "common"
         ? `${plant.scientificName} ${plant.authorship}`.trim()
         : formatPlantNameForWrap(plant.commonName)}
-    </Text>
+    </Text>}
+    {!hasCommonName(plant) && !!plant.authorship && <Text style={[styles.secondaryName, desktop && styles.desktopSecondaryName]}>{plant.authorship}</Text>}
   </>;
   const municipalSection = (
     !!plant.municipalEvidence?.length && (
@@ -194,7 +195,7 @@ export function PlantProfile({
               }
               scrollEventThrottle={32}
               renderItem={({ item, index }) => (
-                <PhotoFrame photo={item} name={plant.commonName} size={size} desktop={desktop} onOpen={() => setViewerIndex(index)} />
+                <PhotoFrame photo={item} name={getPlantName(plant, "common")} size={size} desktop={desktop} onOpen={() => setViewerIndex(index)} />
               )}
             />
             </PhotoDragArea>
@@ -371,7 +372,7 @@ export function PlantProfile({
             {relatedPlants.filter((p) => p.id !== plant.id).map((p) => (
               <Pressable key={p.id} style={styles.relatedLink} accessibilityRole="button"
                 accessibilityLabel={`Abrir ${p.scientificName}`} onPress={() => onOpenPlant(p)}>
-                <Text style={[styles.body, { flex: 1 }]}>{p.commonName} · {p.scientificName}</Text>
+                <Text style={[styles.body, { flex: 1 }]}>{hasCommonName(p) && `${p.commonName} · `}<Text style={styles.scientific}>{p.scientificName}</Text></Text>
                 <ForwardIcon color={palette.pine} size={25} />
               </Pressable>
             ))}
@@ -427,7 +428,7 @@ export function PlantProfile({
           key={plant.id}
           photos={plant.photos}
           initialIndex={viewerIndex}
-          name={plant.commonName}
+          name={getPlantName(plant, "common")}
           onClose={() => setViewerIndex(null)}
         />
       )}
@@ -595,7 +596,7 @@ const styles = StyleSheet.create({
   identity: { padding: 16, gap: 5 },
   primaryName: { color: palette.ink, fontSize: 23, fontWeight: "800" },
   secondaryName: { color: palette.muted, fontSize: 16 },
-  scientific: { fontStyle: "italic" },
+  scientific: { fontStyle: "italic", fontWeight: "400" },
   identityMeta: {
     flexDirection: "row",
     flexWrap: "wrap",

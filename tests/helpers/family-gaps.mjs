@@ -7,7 +7,8 @@ export function beforeFamilyGapReview(plant) {
   if (!change) return plant;
   const original = { ...plant };
   for (const [field, value] of Object.entries(change.after)) {
-    assert.deepEqual(plant[field], value, `${plant.id}: audited family ${field}`);
+    const expected = field === "commonName" && value === plant.scientificName ? "" : value;
+    assert.deepEqual(plant[field], expected, `${plant.id}: audited family ${field}`);
     if (change.before[field] === null) delete original[field];
     else original[field] = change.before[field];
   }

@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
 import test from "node:test";
+import { withoutRepeatedCommonNames } from "./helpers/common-names.mjs";
 import { parseCatalog, representedSpeciesCount, inaturalistPhotoRights } from "../src/catalog.mjs";
 import { beforePriorityBatchReview } from "./helpers/priority-batch.mjs";
 import { beforeFamilyGapReview } from "./helpers/family-gaps.mjs";
@@ -22,7 +23,7 @@ test("priority batch preserves every prior field except its enumerated profile a
   const historicalIds = new Set([...before.plants.map(p => p.id), ...newIds]);
   const historical = { ...catalog, plants: catalog.plants.filter(p => historicalIds.has(p.id)).map(beforeFamilyGapReview) };
   const restored = { ...historical, plants: historical.plants.filter(p => !newIds.has(p.id)).map(beforePriorityBatchReview) };
-  assert.deepEqual(restored, before);
+  assert.deepEqual(withoutRepeatedCommonNames(restored), withoutRepeatedCommonNames(before));
   assert.equal(newIds.size, 26);
   assert.equal(audit.updatedProfiles.length, 12);
   assert.equal(representedSpeciesCount(historical), representedSpeciesCount(before) + 26);

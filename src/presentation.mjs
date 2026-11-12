@@ -1,7 +1,11 @@
+export function hasCommonName(plant) {
+  return !!plant.commonName.trim() && plant.commonName.trim().toLocaleLowerCase("pt-BR") !== plant.scientificName.trim().toLocaleLowerCase("pt-BR");
+}
+
 export function getPlantName(plant, principalName) {
   return principalName === "scientific"
     ? plant.scientificName
-    : plant.commonName;
+    : hasCommonName(plant) ? plant.commonName : plant.scientificName;
 }
 
 // Same explicit hyphen break used by Aves do Brasil's Portuguese name labels.

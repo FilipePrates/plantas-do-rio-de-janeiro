@@ -17,6 +17,7 @@ export interface SavedState {
   photosOnly: boolean;
   principalName: PrincipalName;
   mainPhoto: MainPhoto;
+  desktopColumns: number;
   // Retain legacy lists on disk when updating preferences.
   lists: SavedList[];
   familyFilter: string | null;
@@ -27,6 +28,7 @@ export const defaultState: SavedState = {
   photosOnly: true,
   principalName: "common",
   mainPhoto: "default",
+  desktopColumns: 10,
   familyFilter: null,
   lists: [{ id: "minha-lista", name: "Minha lista", plantIds: [] }],
 };
@@ -81,6 +83,10 @@ export async function loadState(
     principalName:
       value.principalName === "scientific" ? "scientific" : "common",
     mainPhoto: normalizeMainPhoto(value.mainPhoto),
+    desktopColumns:
+      Number.isInteger(value.desktopColumns) && value.desktopColumns! >= 6 && value.desktopColumns! <= 22
+        ? value.desktopColumns!
+        : defaultState.desktopColumns,
     lists,
     familyFilter:
       typeof value.familyFilter === "string" &&
