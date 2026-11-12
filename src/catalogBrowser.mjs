@@ -2,7 +2,7 @@ import { conservationUnitNames, matchesChecklistRow, normalize } from './catalog
 
 export const initialBrowserState = {
   section: 'families', family: null, origin: null,
-  queries: { families: '', species: '', units: '' },
+  queries: { families: '', species: '', units: '', habitats: '' },
 };
 
 export function browserReducer(state, action) {

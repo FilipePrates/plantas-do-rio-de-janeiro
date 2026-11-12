@@ -24,8 +24,18 @@ test('a shared catalog selection restores family, section, search and return ori
   const route = defaultWebRoute();
   route.tab = 'families';
   route.plantId = 'carpotroche-brasiliensis';
-  route.browser = { section: 'species', family: 'Achariaceae', origin: 'families', queries: { families: 'acharia', species: 'sapucainha', units: 'tijuca' } };
+  route.browser = { section: 'species', family: 'Achariaceae', origin: 'families', queries: { families: 'acharia', species: 'sapucainha', units: 'tijuca', habitats: '' } };
   assert.deepEqual(read(webRouteSearch(route)), route);
+});
+
+test('habitat index search and legacy habitat tab restore', () => {
+  const route = defaultWebRoute();
+  route.tab = 'families';
+  route.browser.section = 'habitats';
+  route.browser.queries.habitats = 'restinga';
+  assert.deepEqual(read(webRouteSearch(route)), route);
+  assert.equal(read('?tab=habitats').browser.section, 'habitats');
+  assert.equal(read('?tab=habitats').tab, 'families');
 });
 
 test('conservation-unit links encode the actual named unit and filter in a fresh browser', () => {

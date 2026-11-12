@@ -59,9 +59,8 @@ import { hasCommonName, formatPlantNameForWrap, getPlantName, getMainPhoto, main
 const catalog = parseCatalog(catalogJson);
 const prepareGuideSearch = createPlantSearch(catalog.plants);
 const mainTabs = [
-  { id: "families", label: "Famílias", icon: ListIcon },
+  { id: "families", label: "Explorar", icon: ListIcon },
   { id: "guide", label: "Guia", icon: BookIcon },
-  { id: "habitats", label: "Fitofisionomias", icon: LeafIcon },
 ] as const;
 const allIds = new Set(catalog.plants.map((p) => p.id));
 const profiles = catalog.plants.filter(isProfile);
@@ -86,6 +85,7 @@ const familyEntries = [...new Set(catalog.plants.map((plant) => plant.family))]
 const unitEntries = conservationUnitIndex(speciesRows);
 const habitatNames = [...new Set(catalog.plants.flatMap((plant) => plant.habitats))]
   .sort((a, b) => a.localeCompare(b, "pt-BR"));
+const habitatEntries = habitatNames.map(name => ({ name, speciesCount: speciesRows.filter(row => row.plant.habitats.includes(name)).length }));
 const allFamilies = new Set(familyEntries.map((family) => family.name));
 const readWebRoute = createWebRouteReader(catalog);
 type Tab = "guide" | "families" | "habitats";
@@ -341,13 +341,12 @@ function Guide() {
               <View style={styles.desktopBrand}>
                 <PlantLogo size={44} />
                 <View style={styles.desktopBrandCopy}>
-                  <Text style={styles.desktopBrandTitle} numberOfLines={1}>Plantas do Rio</Text>
-                  <Text style={styles.desktopBrandSubtitle} numberOfLines={1}>{isSubscreen ? formatPlantNameForWrap(title) : 'Rio de Janeiro'}</Text>
+                  <Text style={styles.desktopBrandTitle} numberOfLines={1}>Plantas do Rio de Janeiro</Text>
                 </View>
               </View>
             </View>
             <View accessibilityRole="tablist" accessibilityLabel="Navegação principal" style={styles.desktopHeaderNavigation}>
-              {[mainTabs[1], mainTabs[0], mainTabs[2]].map((item) => (
+              {[mainTabs[1], mainTabs[0]].map((item) => (
                 <Pressable key={item.id} accessibilityRole="tab" accessibilityLabel={item.label}
                   accessibilityState={{ selected: tab === item.id && !settings }}
                   onPress={() => changeMainTab(item.id)}
@@ -545,10 +544,12 @@ function Guide() {
                 </View>
               )}
             </View>
-            {desktop && !saved.advanced && <DesktopGallerySize value={desktopColumns} columns={gridColumns} onChange={setDesktopColumns} />}
+            {desktop && !saved.advanced && <View style={styles.desktopToolbarControl}><DesktopGallerySize value={desktopColumns} columns={gridColumns} onChange={setDesktopColumns} /></View>}
+            <View style={desktop && styles.desktopToolbarControl}>
             <IconButton label={saved.advanced ? "Exibir grade" : "Exibir lista avançada"}
               icon={saved.advanced ? GridModeIcon : ListModeIcon}
               onPress={() => setSaved((value) => ({ ...value, advanced: !value.advanced }))} />
+            </View>
           </View>
           <View style={styles.flex} accessibilityState={{ busy: searchPending }}>
             <GuideResults visible={visible} sections={sections} saved={saved} gridCardSize={gridCardSize} gridColumns={gridColumns} desktop={desktop} openPlant={openPlant} />
@@ -559,7 +560,16 @@ function Guide() {
         <View style={[styles.detailOverlay, (tab !== "families" || settings) && styles.hidden]}
           accessibilityElementsHidden={Boolean(detail)} importantForAccessibility={detail ? "no-hide-descendants" : "auto"}>
           <CatalogBrowser state={browser} dispatch={dispatchBrowser} rows={browserRows} allRows={speciesRows}
-            families={familyEntries} units={unitEntries} onOpen={openPlant} onGuide={openSelectionInGuide}
+            families={familyEntries} units={unitEntries} habitats={habitatEntries} onHabitat={(name) => {
+              rememberGuide();
+              withTabLoading(() => {
+                setSaved(value => ({ ...value, familyFilter: null }));
+                setGuideScope(null);
+                setHabitat(name);
+                setQuery("");
+                setTab("guide");
+              });
+            }} onOpen={openPlant} onGuide={openSelectionInGuide}
             onTabChange={changeBrowserTab} />
         </View>
       )}
@@ -632,7 +642,7 @@ saved.advanced ? (
               sections={sections}
               keyExtractor={(p) => p.id}
               stickySectionHeadersEnabled={false}
-              contentContainerStyle={styles.advancedListContent}
+              contentContainerStyle={[styles.advancedListContent, desktop && styles.desktopResultsPadding]}
               renderSectionHeader={({ section }) => (
                 <Text style={styles.familyHeading}>{section.title}</Text>
               )}
@@ -951,11 +961,13 @@ const styles = StyleSheet.create({
   },
   headerSubtitle: { fontSize: 14, color: "rgba(255,255,255,0.86)" },
   desktopHeader: { minHeight: 68, paddingVertical: 6, paddingHorizontal: 20 },
-  desktopToolbar: { flexDirection: "row", alignItems: "center", gap: 24, paddingHorizontal: 16, paddingVertical: 4, backgroundColor: palette.sand },
+  desktopToolbar: { position: "absolute", bottom: 0, left: 0, right: 0, zIndex: 1, flexDirection: "row", alignItems: "center", gap: 12, paddingHorizontal: 16, paddingVertical: 4, backgroundColor: "transparent" },
+  desktopToolbarControl: { backgroundColor: palette.paper, borderWidth: 1, borderColor: palette.border, borderRadius: 12, paddingHorizontal: 8, minHeight: 44, justifyContent: "center" },
   desktopGuideLayout: { flexDirection: "column-reverse" },
-  desktopSearch: { flex: 1, borderWidth: 1, borderColor: palette.border, borderRadius: 12 },
+  desktopSearch: { flex: 1, alignSelf: "stretch", borderWidth: 1, borderColor: palette.border, borderRadius: 12 },
   desktopSearchInput: { paddingVertical: 6 },
-  desktopGrid: { paddingHorizontal: 16, paddingTop: 0, paddingBottom: 16, gap: 1, backgroundColor: palette.sand },
+  desktopGrid: { paddingHorizontal: 16, paddingTop: 0, paddingBottom: 64, gap: 1, backgroundColor: palette.sand },
+  desktopResultsPadding: { paddingBottom: 64 },
   desktopGridRow: { gap: 1 },
   desktopGridCard: { borderRadius: 0 },
   desktopHeaderSide: { flex: 1, minWidth: 0 },

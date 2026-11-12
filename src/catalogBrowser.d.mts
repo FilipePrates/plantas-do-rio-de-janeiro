@@ -1,5 +1,5 @@
 import type { ChecklistRow, Plant } from './catalog.mjs';
-export type BrowserSection = 'families' | 'species' | 'units';
+export type BrowserSection = 'families' | 'species' | 'units' | 'habitats';
 export interface BrowserState {
   section: BrowserSection;
   family: string | null;

@@ -4,7 +4,7 @@ import { conservationUnitIndex } from './catalogBrowser.mjs';
 export function defaultWebRoute() {
   return {
     tab: 'guide', plantId: null, settings: false, query: '', habitat: '', familyFilter: null, scope: null,
-    browser: { section: 'families', family: null, origin: null, queries: { families: '', species: '', units: '' } },
+    browser: { section: 'families', family: null, origin: null, queries: { families: '', species: '', units: '', habitats: '' } },
   };
 }
 
@@ -12,12 +12,13 @@ export function createWebRouteReader(catalog) {
   const families = new Set(catalog.plants.map(plant => plant.family));
   const habitats = new Set(catalog.plants.flatMap(plant => plant.habitats));
   const units = new Set(conservationUnitIndex(checklistRows(catalog)).map(unit => unit.name));
-  const recognized = ['plant', 'tab', 'q', 'family', 'habitat', 'uc', 'scopeFamily', 'section', 'bfamily', 'fq', 'sq', 'uq', 'photos', 'sort', 'names', 'mode', 'photo', 'cols', 'settings'];
+  const recognized = ['plant', 'tab', 'q', 'family', 'habitat', 'uc', 'scopeFamily', 'section', 'bfamily', 'fq', 'sq', 'uq', 'hq', 'photos', 'sort', 'names', 'mode', 'photo', 'cols', 'settings'];
   return search => {
     const params = new URLSearchParams(search);
     if (!recognized.some(key => params.has(key))) return null;
     const route = defaultWebRoute();
     route.tab = ['guide', 'families', 'habitats'].includes(params.get('tab')) ? params.get('tab') : 'guide';
+    if (route.tab === 'habitats') route.tab = 'families';
     route.plantId = resolveSavedIds([params.get('plant') ?? ''], catalog.plants)[0] ?? null;
     route.settings = params.get('settings') === '1';
     route.query = params.get('q') ?? '';
@@ -25,10 +26,10 @@ export function createWebRouteReader(catalog) {
     route.habitat = habitats.has(params.get('habitat')) ? params.get('habitat') : '';
     if (units.has(params.get('uc'))) route.scope = { kind: 'unit', name: params.get('uc') };
     else if (families.has(params.get('scopeFamily'))) route.scope = { kind: 'family', name: params.get('scopeFamily') };
-    route.browser.section = ['families', 'species', 'units'].includes(params.get('section')) ? params.get('section') : 'families';
+    route.browser.section = params.get('tab') === 'habitats' ? 'habitats' : ['families', 'species', 'units', 'habitats'].includes(params.get('section')) ? params.get('section') : 'families';
     route.browser.family = families.has(params.get('bfamily')) ? params.get('bfamily') : null;
     route.browser.origin = route.browser.family && route.browser.section === 'species' ? 'families' : null;
-    route.browser.queries = { families: params.get('fq') ?? '', species: params.get('sq') ?? '', units: params.get('uq') ?? '' };
+    route.browser.queries = { families: params.get('fq') ?? '', species: params.get('sq') ?? '', units: params.get('uq') ?? '', habitats: params.get('hq') ?? '' };
     return route;
   };
 }
@@ -43,7 +44,7 @@ export function webRouteSearch(route) {
   if (route.scope) params.set(route.scope.kind === 'unit' ? 'uc' : 'scopeFamily', route.scope.name);
   if (route.browser.section !== 'families') params.set('section', route.browser.section);
   if (route.browser.family) params.set('bfamily', route.browser.family);
-  for (const [section, key] of [['families', 'fq'], ['species', 'sq'], ['units', 'uq']]) {
+  for (const [section, key] of [['families', 'fq'], ['species', 'sq'], ['units', 'uq'], ['habitats', 'hq']]) {
     if (route.browser.queries[section]) params.set(key, route.browser.queries[section]);
   }
   if (route.settings) params.set('settings', '1');

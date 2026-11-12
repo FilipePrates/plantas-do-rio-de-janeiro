@@ -10,10 +10,10 @@ import { DesktopCatalogBrowser } from "./DesktopCatalogBrowser";
 
 const tabs: { id: BrowserSection; label: string }[] = [
   { id: "families", label: "Famílias" },
-  { id: "species", label: "Espécies" },
   { id: "units", label: "Unidades de Conservação" },
+  { id: "habitats", label: "Fitofisionomias" },
 ];
-const prompts = { families: "Buscar família…", species: "Buscar espécie, família ou unidade…", units: "Buscar unidade de conservação…" };
+const prompts = { families: "Buscar família…", species: "Buscar espécie, família ou unidade…", units: "Buscar unidade de conservação…", habitats: "Buscar fitofisionomia…" };
 
 export interface CatalogBrowserProps {
   state: BrowserState;
@@ -22,13 +22,15 @@ export interface CatalogBrowserProps {
   allRows: ChecklistRow[];
   families: CatalogIndexEntry[];
   units: CatalogIndexEntry[];
+  habitats: CatalogIndexEntry[];
+  onHabitat: (name: string) => void;
   onOpen: (plant: Plant, sequence: Plant[]) => void;
   onGuide: (plants: Plant[], label: string) => void;
   onTabChange: (section: BrowserSection) => void;
 }
 
 export function CatalogBrowser(props: CatalogBrowserProps) {
-  const { state, dispatch, rows, allRows, families, units, onOpen, onGuide, onTabChange } = props;
+  const { state, dispatch, rows, allRows, families, units, habitats, onHabitat, onOpen, onGuide, onTabChange } = props;
   const { width } = useWindowDimensions();
   const plants = useMemo(() => plantsForRows(rows), [rows]);
   const query = state.queries[state.section];
@@ -58,11 +60,15 @@ export function CatalogBrowser(props: CatalogBrowserProps) {
       {/* Keep each index mounted so Back and tab changes retain scroll position. */}
       <View style={[styles.list, state.section !== "families" && styles.hidden]}>
         <IndexList entries={families} query={state.queries.families} empty="Nenhuma família encontrada."
-          onSelect={(name) => dispatch({ type: "select", family: name })} />
+          onSelect={(name) => onGuide(plantsForRows(allRows.filter(row => row.family === name)), name)} guide />
       </View>
       <View style={[styles.list, state.section !== "units" && styles.hidden]}>
         <IndexList entries={units} query={state.queries.units} empty="Nenhuma unidade encontrada."
           onSelect={(name) => onGuide(plantsForRows(rowsForConservationUnit(allRows, name)), name)} recorded guide />
+      </View>
+      <View style={[styles.list, state.section !== "habitats" && styles.hidden]}>
+        <IndexList entries={habitats} query={state.queries.habitats} empty="Nenhuma fitofisionomia encontrada."
+          onSelect={onHabitat} recorded guide />
       </View>
       <View style={[styles.list, state.section !== "species" && styles.hidden]}>
         <SpeciesChecklist key={`${state.family}:${state.queries.species}`} rows={rows}

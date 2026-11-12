@@ -134,6 +134,64 @@ export function PlantProfile({
       </View>
     )
   );
+  const supplementarySections = (
+    <>
+        {relatedPlants.some((p) => p.id !== plant.id) && onOpenPlant && (
+          <Section title="Outras do Gênero">
+            {relatedPlants.filter((p) => p.id !== plant.id).map((p) => (
+              <Pressable key={p.id} style={styles.relatedLink} accessibilityRole="button"
+                accessibilityLabel={`Abrir ${p.scientificName}`} onPress={() => onOpenPlant(p)}>
+                <Text style={[styles.body, { flex: 1 }]}>{hasCommonName(p) && `${p.commonName} · `}<Text style={styles.scientific}>{p.scientificName}</Text></Text>
+                <ForwardIcon color={palette.pine} size={25} />
+              </Pressable>
+            ))}
+          </Section>
+        )}
+        {plant.rank === "genus" && municipalSection}
+        <View style={styles.section}>
+          <Pressable
+            accessibilityRole="button"
+            accessibilityState={{ expanded: showSources }}
+            onPress={() => setShowSources((v) => !v)}
+          >
+            <Text style={styles.sectionTitle}>
+              Fontes e distribuição {showSources ? "−" : "+"}
+            </Text>
+          </Pressable>
+          {showSources && (
+            <>
+              <Text style={styles.body}>
+                {plant.geography === "rio-city"
+                  ? "Município do Rio de Janeiro"
+                  : "Estado do Rio de Janeiro"}
+              </Text>
+              <Text style={styles.muted}>
+                Ambientes registrados no Brasil:{" "}
+                {plant.habitats.join(" · ") || "em revisão"}
+              </Text>
+              <Text style={styles.muted}>
+                {[...plant.lifeForms, ...plant.substrates].join(" · ")}
+              </Text>
+              {plant.sources.map((source) => (
+                <Pressable
+                  key={source.url}
+                  accessibilityRole="link"
+                  onPress={() => openUrl(source.url)}
+                >
+                  <Text style={styles.link}>{source.title} ↗</Text>
+                  <Text style={styles.small}>
+                    Consulta: {source.retrievedAt.slice(0, 10)}
+                  </Text>
+                </Pressable>
+              ))}
+            </>
+          )}
+          {plant.reviewStatus === "draft" && (
+            <Text style={styles.review}>Conteúdo em revisão</Text>
+          )}
+        </View>
+    </>
+  );
   return (
     <View style={styles.screen}>
       {desktop && (
@@ -299,6 +357,7 @@ export function PlantProfile({
             <Text style={styles.muted}>Foto em preparação</Text>
           </View>
         ) : null}
+        {desktop && supplementarySections}
         </View>
         <View style={desktop && styles.desktopInformation} testID="profile-information" {...(!desktop ? swipe.panHandlers : {})}>
         <View style={[styles.identity, desktop && styles.desktopIdentity]} testID="profile-identity-details">
@@ -367,60 +426,7 @@ export function PlantProfile({
         )}
         {plant.rank !== "genus" && municipalSection}
         <RegionalRecords key={plant.id} plant={plant} onOpenUnit={onOpenUnit} unitHref={unitHref} />
-        {relatedPlants.some((p) => p.id !== plant.id) && onOpenPlant && (
-          <Section title="Outras do Gênero">
-            {relatedPlants.filter((p) => p.id !== plant.id).map((p) => (
-              <Pressable key={p.id} style={styles.relatedLink} accessibilityRole="button"
-                accessibilityLabel={`Abrir ${p.scientificName}`} onPress={() => onOpenPlant(p)}>
-                <Text style={[styles.body, { flex: 1 }]}>{hasCommonName(p) && `${p.commonName} · `}<Text style={styles.scientific}>{p.scientificName}</Text></Text>
-                <ForwardIcon color={palette.pine} size={25} />
-              </Pressable>
-            ))}
-          </Section>
-        )}
-        {plant.rank === "genus" && municipalSection}
-        <View style={styles.section}>
-          <Pressable
-            accessibilityRole="button"
-            accessibilityState={{ expanded: showSources }}
-            onPress={() => setShowSources((v) => !v)}
-          >
-            <Text style={styles.sectionTitle}>
-              Fontes e distribuição {showSources ? "−" : "+"}
-            </Text>
-          </Pressable>
-          {showSources && (
-            <>
-              <Text style={styles.body}>
-                {plant.geography === "rio-city"
-                  ? "Município do Rio de Janeiro"
-                  : "Estado do Rio de Janeiro"}
-              </Text>
-              <Text style={styles.muted}>
-                Ambientes registrados no Brasil:{" "}
-                {plant.habitats.join(" · ") || "em revisão"}
-              </Text>
-              <Text style={styles.muted}>
-                {[...plant.lifeForms, ...plant.substrates].join(" · ")}
-              </Text>
-              {plant.sources.map((source) => (
-                <Pressable
-                  key={source.url}
-                  accessibilityRole="link"
-                  onPress={() => openUrl(source.url)}
-                >
-                  <Text style={styles.link}>{source.title} ↗</Text>
-                  <Text style={styles.small}>
-                    Consulta: {source.retrievedAt.slice(0, 10)}
-                  </Text>
-                </Pressable>
-              ))}
-            </>
-          )}
-          {plant.reviewStatus === "draft" && (
-            <Text style={styles.review}>Conteúdo em revisão</Text>
-          )}
-        </View>
+        {!desktop && supplementarySections}
         </View>
       </View>
       {viewerIndex !== null && (

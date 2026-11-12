@@ -10,18 +10,18 @@ import { ForwardIcon, LeafIcon, ListIcon } from "./icons";
 
 const tabs: { id: BrowserSection; label: string; prompt: string }[] = [
   { id: "families", label: "Famílias", prompt: "Buscar família…" },
-  { id: "species", label: "Espécies", prompt: "Buscar espécie, família ou unidade…" },
   { id: "units", label: "Unidades de Conservação", prompt: "Buscar unidade de conservação…" },
+  { id: "habitats", label: "Fitofisionomias", prompt: "Buscar fitofisionomia…" },
 ];
 
-export function DesktopCatalogBrowser({ state, dispatch, rows, allRows, families, units, onOpen, onGuide, onTabChange }: CatalogBrowserProps) {
+export function DesktopCatalogBrowser({ state, dispatch, rows, allRows, families, units, habitats, onHabitat, onOpen, onGuide, onTabChange }: CatalogBrowserProps) {
   const { width } = useWindowDimensions();
   const columns = width >= 1500 ? 4 : 3;
   const familyColumns = width >= 1500 ? 5 : width >= 1100 ? 4 : 3;
   const cardWidth = (Math.min(width, 1488) - 64 - 18 * (columns - 1)) / columns;
   const familyCardWidth = (Math.min(width, 1488) - 64 - 18 * (familyColumns - 1)) / familyColumns;
   const query = state.queries[state.section];
-  const tab = tabs.find(tab => tab.id === state.section)!;
+  const tab = tabs.find(tab => tab.id === state.section) ?? { id: "species", label: "Espécies", prompt: "Buscar espécie…" };
   const familyPlants = useMemo(() => {
     const groups = new Map<string, Plant[]>();
     for (const plant of plantsForRows(allRows)) groups.set(plant.family, [...(groups.get(plant.family) ?? []), plant]);
@@ -29,19 +29,20 @@ export function DesktopCatalogBrowser({ state, dispatch, rows, allRows, families
   }, [allRows]);
   const visibleFamilies = useMemo(() => families.filter(item => matchesIndexName(item.name, state.queries.families)), [families, state.queries.families]);
   const visibleUnits = useMemo(() => units.filter(item => matchesIndexName(item.name, state.queries.units)), [units, state.queries.units]);
+  const visibleHabitats = useMemo(() => habitats.filter(item => matchesIndexName(item.name, state.queries.habitats)), [habitats, state.queries.habitats]);
   const sequence = useMemo(() => plantsForRows(rows), [rows]);
   const sections = useMemo(() => {
     const groups = new Map<string, ChecklistRow[]>();
     for (const row of rows) groups.set(row.family, [...(groups.get(row.family) ?? []), row]);
     return [...groups].map(([title, members]) => ({ title, members, data: Array.from({ length: Math.ceil(members.length / columns) }, (_, i) => members.slice(i * columns, (i + 1) * columns)) }));
   }, [rows, columns]);
-  const count = state.section === "families" ? visibleFamilies.length : state.section === "units" ? visibleUnits.length : rows.length;
+  const count = state.section === "families" ? visibleFamilies.length : state.section === "units" ? visibleUnits.length : state.section === "habitats" ? visibleHabitats.length : rows.length;
   return <View style={styles.screen} testID="desktop-catalog-browser">
     <View style={styles.heading}>
       <View style={styles.headingCopy}>
         <View style={styles.headingTitleRow}>
-          <Text style={styles.title} numberOfLines={1}>{state.section === "species" && state.family ? state.family : tab.label}</Text>
-          <Text style={styles.resultCount}>{count} {state.section === "families" ? "famílias" : state.section === "units" ? "unidades" : count === 1 ? "espécie" : "espécies"}</Text>
+          <Text style={styles.title} numberOfLines={1}>{state.section === "species" && state.family ? state.family : "Explorar"}</Text>
+          <Text style={styles.resultCount}>{count} {state.section === "families" ? "famílias" : state.section === "units" ? "unidades" : state.section === "habitats" ? "fitofisionomias" : count === 1 ? "espécie" : "espécies"}</Text>
         </View>
         {state.section === "species" && state.family && <Pressable accessibilityRole="button" accessibilityLabel="Voltar às famílias" onPress={() => dispatch({ type: "back" })} style={styles.back}>
           <Text style={styles.backLabel}>Todas as famílias</Text>
@@ -67,7 +68,7 @@ export function DesktopCatalogBrowser({ state, dispatch, rows, allRows, families
           const members = familyPlants.get(item.name) ?? [];
           const illustrated = members.filter(plant => plant.photos.some(photo => plantThumbnails[photo.fileName]));
           return <Pressable accessibilityRole="button" accessibilityLabel={`Ver espécies de ${item.name}`} testID={`desktop-family-${item.name}`}
-            onPress={() => dispatch({ type: "select", family: item.name })} style={[styles.familyCard, { maxWidth: familyCardWidth }]}>
+            onPress={() => onGuide(plantsForRows(allRows.filter(row => row.family === item.name)), item.name)} style={[styles.familyCard, { maxWidth: familyCardWidth }]}>
             <View style={styles.previewStrip}>
               {illustrated.length ? illustrated.slice(0, 3).map(plant => <Image key={plant.id} source={plantThumbnails[plant.photos.find(photo => plantThumbnails[photo.fileName])!.fileName]} style={styles.previewImage} resizeMode="cover" />)
                 : <View style={styles.previewEmpty}><ListIcon color={palette.pine} size={32} /></View>}
@@ -86,6 +87,18 @@ export function DesktopCatalogBrowser({ state, dispatch, rows, allRows, families
         ListEmptyComponent={<Text style={styles.empty}>Nenhuma unidade encontrada.</Text>}
         renderItem={({ item }) => <Pressable accessibilityRole="button" accessibilityLabel={`Ver ${item.name} no guia`} testID={`desktop-unit-${item.name}`}
           onPress={() => onGuide(plantsForRows(rowsForConservationUnit(allRows, item.name)), item.name)} style={[styles.unitCard, { maxWidth: cardWidth }]}>
+          <View style={styles.unitIcon}><LeafIcon color={palette.pine} size={27} /></View>
+          <Text style={styles.cardTitle}>{item.name}</Text>
+          <Text style={styles.cardCount}>{item.speciesCount} {item.speciesCount === 1 ? "espécie registrada" : "espécies registradas"}</Text>
+          <View style={styles.unitFooter}><Text style={styles.actionLabel}>Explorar no guia</Text><ForwardIcon color={palette.pine} size={21} /></View>
+        </Pressable>} />
+    </View>
+    <View style={[styles.content, state.section !== "habitats" && styles.hidden]}>
+      <FlatList key={`habitats-${columns}`} data={visibleHabitats} numColumns={columns} keyExtractor={item => item.name}
+        contentContainerStyle={styles.grid} columnWrapperStyle={styles.gridRow}
+        ListEmptyComponent={<Text style={styles.empty}>Nenhuma fitofisionomia encontrada.</Text>}
+        renderItem={({ item }) => <Pressable accessibilityRole="button" accessibilityLabel={`Ver ${item.name} no guia`}
+          onPress={() => onHabitat(item.name)} style={[styles.unitCard, { maxWidth: cardWidth }]}>
           <View style={styles.unitIcon}><LeafIcon color={palette.pine} size={27} /></View>
           <Text style={styles.cardTitle}>{item.name}</Text>
           <Text style={styles.cardCount}>{item.speciesCount} {item.speciesCount === 1 ? "espécie registrada" : "espécies registradas"}</Text>
