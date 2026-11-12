@@ -512,7 +512,7 @@ function Guide() {
                 placeholderTextColor={palette.muted}
                 value={query}
                 onChangeText={setQuery}
-                style={[styles.searchInput, desktop && styles.desktopSearchInput, desktop && Platform.OS === "web" && { outlineWidth: 0 }]}
+                style={[styles.searchInput, desktop && styles.desktopSearchInput, Platform.OS === "web" && { outlineStyle: "solid", outlineWidth: 0 }]}
               />
               {searchPending && (
                 <View style={styles.searchProgress} accessibilityRole="progressbar" accessibilityLabel="Atualizando resultados" testID="guide-search-loading">

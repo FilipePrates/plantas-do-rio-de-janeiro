@@ -1,5 +1,23 @@
 # Web deployment
 
+## November 12, 2026 search focus ring correction
+
+Published version `9586b351-f5d7-499d-bd80-01fcf461047d` from
+`dist/web-focus-ring-fix`. Chrome still drew its automatic focus ring with
+the previous zero-width setting; explicitly setting the outline style fixes it.
+Project and export checks passed. A focused mobile screenshot confirmed the
+ring was gone, and live mobile and desktop search checks passed. The bundle
+SHA-256 is `9ed55e45faf385362e6a00d5c1dc57daaa3446c096faadec5304ec2466f6c785`.
+
+## November 12, 2026 mobile search focus
+
+Published version `b80d8b60-1018-4339-b9f5-1425cbb151db` from
+`dist/web-mobile-focus`. The guide search focus outline is removed on mobile
+web as well as desktop. Project checks and catalog/media export verification
+passed. Local and live browser checks at 390 and 1440 pixels confirmed the
+focus style, search results and guide layout without page errors. The exported
+bundle SHA-256 is `934249c41f59997821c8b039c69783b8af8b8548512a2a7521105edeaa178149`.
+
 ## November 12, 2026 workbook batch deployment
 
 Published version `22b35f7f-5644-4407-b219-4675c0141457` from
