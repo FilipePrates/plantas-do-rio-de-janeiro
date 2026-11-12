@@ -81,7 +81,7 @@
   `npm run editor:sync`; never seed or overwrite its active cloud catalog.
   On Windows, use the workspace `.tools/python` on `PATH` and set `PYTHONUTF8=1`
   if scripts invoke `python3`. The release check requires reviewed text and
-  existing photos, but does not require a photo for every profile.
+  review of any photos present, but does not require a photo for every profile.
 - Keep draft status honest: inspecting a photo or running automated checks is
   not human review. Explicit web deployment authorization permits publishing
   the requested drafts with their status intact; it does not mean they were
