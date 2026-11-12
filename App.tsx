@@ -49,7 +49,10 @@ import { PlantLogo } from "./src/components/PlantLogo";
 import { PlantPhotoMarker } from "./src/components/PlantPhotoMarkers";
 import { CatalogBrowser } from "./src/components/CatalogBrowser";
 import { DesktopGallerySize } from "./src/components/DesktopGallerySize";
-import { browserReducer, initialBrowserState, filterBrowserRows, conservationUnitIndex } from "./src/catalogBrowser.mjs";
+import { browserReducer, initialBrowserState, filterBrowserRows, conservationUnitIndex, plantsForRows, rowsForConservationUnit } from "./src/catalogBrowser.mjs";
+import { createWebRouteReader, webRouteSearch } from "./src/webRoute.mjs";
+import type { WebRoute } from "./src/webRoute.mjs";
+import { useWebNavigation } from "./src/useWebNavigation";
 import type { BrowserSection } from "./src/catalogBrowser.mjs";
 import { formatPlantNameForWrap, getPlantName, getMainPhoto, mainPhotoKinds } from "./src/presentation.mjs";
 
@@ -84,15 +87,19 @@ const unitEntries = conservationUnitIndex(speciesRows);
 const habitatNames = [...new Set(catalog.plants.flatMap((plant) => plant.habitats))]
   .sort((a, b) => a.localeCompare(b, "pt-BR"));
 const allFamilies = new Set(familyEntries.map((family) => family.name));
+const readWebRoute = createWebRouteReader(catalog);
 type Tab = "guide" | "families" | "habitats";
 type Icon = typeof LeafIcon;
-type GuideScope = { plantIds: string[]; label: string } | null;
+type GuideScope = { plantIds: string[]; label: string; kind: 'unit' | 'family' } | null;
 type GuideReturn = {
   tab: Tab;
   query: string;
   habitat: string;
   familyFilter: string | null;
   scope: GuideScope;
+  detailId: string | null;
+  detailHistory: string[];
+  detailSequence: Plant[];
 };
 export default function App() {
   return (
@@ -213,18 +220,52 @@ function Guide() {
     }
     return [...groups].map(([title, data]) => ({ title, data }));
   }, [visible, saved.alphabetical, saved.principalName]);
+  const restoreWebRoute = useCallback((route: WebRoute) => {
+    tabTransition.current++;
+    if (tabLoadingTimer.current) clearTimeout(tabLoadingTimer.current);
+    setTabLoading(false);
+    const scopePlants = route.scope?.kind === 'unit'
+      ? plantsForRows(rowsForConservationUnit(speciesRows, route.scope.name))
+      : route.scope ? catalog.plants.filter(plant => plant.family === route.scope!.name) : null;
+    setTab(route.tab);
+    setDetailId(route.plantId);
+    setDetailHistory([]);
+    setGuideReturn(null);
+    setGuideScope(route.scope && scopePlants ? { plantIds: scopePlants.map(plant => plant.id), label: route.scope.name, kind: route.scope.kind } : null);
+    setQuery(route.query);
+    setHabitat(route.habitat);
+    setSettings(route.settings);
+    dispatchBrowser({ type: 'restore', state: route.browser });
+    setDesktopColumns(route.columns);
+    setSaved(value => ({ ...value, ...route.preferences, familyFilter: route.familyFilter }));
+    const matches = prepareGuideSearch(route.query);
+    const ordered = route.preferences.alphabetical ? route.preferences.principalName === 'scientific' ? byScientificName : byName : byFamily;
+    setDetailSequence(route.tab === 'families' ? plantsForRows(filterBrowserRows(speciesRows, route.browser)) : ordered.filter(plant =>
+      (!scopePlants || scopePlants.some(member => member.id === plant.id)) && matches(plant) &&
+      (!route.preferences.photosOnly || plant.photos.length > 0) && (!route.familyFilter || plant.family === route.familyFilter) &&
+      (!route.habitat || plant.habitats.includes(route.habitat))));
+  }, []);
+  const webRoute = useMemo<WebRoute>(() => ({
+    tab, plantId: detailId, settings, query, habitat, familyFilter: saved.familyFilter,
+    scope: guideScope ? { kind: guideScope.kind, name: guideScope.label } : null,
+    browser, columns: desktopColumns,
+    preferences: { photosOnly: saved.photosOnly, alphabetical: saved.alphabetical, principalName: saved.principalName, advanced: saved.advanced, mainPhoto: saved.mainPhoto },
+  }), [tab, detailId, settings, query, habitat, saved, guideScope, browser, desktopColumns]);
+  const goWebBack = useWebNavigation(webRoute, hydrated, restoreWebRoute, readWebRoute);
   const openPlant = useCallback((plant: Plant, sequence = visible) => {
     setDetailSequence(sequence);
     setDetailHistory([]);
     setDetailId(plant.id);
   }, [visible]);
   function rememberGuide() {
-    setGuideReturn({ tab, query, habitat, familyFilter: saved.familyFilter, scope: guideScope });
+    setGuideReturn({ tab, query, habitat, familyFilter: saved.familyFilter, scope: guideScope, detailId, detailHistory, detailSequence });
   }
   function openSelectionInGuide(plants: Plant[], label: string) {
     rememberGuide();
     withTabLoading(() => {
-      setGuideScope({ plantIds: plants.map((plant) => plant.id), label });
+      setGuideScope({ plantIds: plants.map((plant) => plant.id), label, kind: unitEntries.some(unit => unit.name === label) ? 'unit' : 'family' });
+      setDetailId(null);
+      setDetailHistory([]);
       setSaved((value) => ({ ...value, familyFilter: null }));
       setQuery("");
       setHabitat("");
@@ -247,12 +288,17 @@ function Guide() {
     if (browser.section === section && !browser.origin) return;
     withTabLoading(() => dispatchBrowser({ type: "tab", section }));
   }
-  function restoreGuide() {
+  function restoreGuide(includeDetail = false) {
     if (!guideReturn) return;
     setQuery(guideReturn.query);
     setHabitat(guideReturn.habitat);
     setGuideScope(guideReturn.scope);
     setSaved((value) => ({ ...value, familyFilter: guideReturn.familyFilter }));
+    if (includeDetail) {
+      setDetailId(guideReturn.detailId);
+      setDetailHistory(guideReturn.detailHistory);
+      setDetailSequence(guideReturn.detailSequence);
+    }
     setGuideReturn(null);
   }
   function changeMainTab(next: typeof mainTabs[number]["id"]) {
@@ -266,13 +312,14 @@ function Guide() {
     });
   }
   function goBack() {
+    if (goWebBack()) return true;
     if (settings) setSettings(false);
     else if (detail) {
       setDetailId(detailHistory.at(-1) || null);
       setDetailHistory((history) => history.slice(0, -1));
     } else if (tab === "guide" && guideReturn) {
       setTab(guideReturn.tab);
-      restoreGuide();
+      restoreGuide(true);
     } else if (tab === "families" && browser.section === "species" && browser.origin) {
       dispatchBrowser({ type: "back" });
     } else if (tab !== "guide") setTab("guide");
@@ -281,10 +328,8 @@ function Guide() {
   }
   const isSubscreen = Boolean(detail || settings);
   const title = settings ? "Configurações" : detail?.commonName || "Plantas";
-  return (
-    <SafeAreaView style={styles.safe} edges={["left", "right"]}>
-      <StatusBar barStyle="light-content" backgroundColor="#000000" />
-      <SafeAreaView edges={["top"]} style={styles.statusBarSafe}>
+  const navigationBar = (
+      <SafeAreaView edges={desktop ? ["bottom"] : ["top"]} style={[styles.statusBarSafe, desktop && styles.desktopBottomBar]} testID={desktop ? "desktop-bottom-navigation" : "mobile-top-header"}>
         <View style={[styles.header, desktop && styles.desktopHeader]}>
           {desktop ? (
             <>
@@ -314,18 +359,10 @@ function Guide() {
             </>
           ) : isSubscreen || (tab === "guide" && guideReturn) || (tab === "families" && browser.section === "species" && browser.origin) ? (
             <IconButton label="Voltar" icon={BackIcon} onPress={goBack} light />
-          ) : tab === "guide" ? (
-            <IconButton
-              label={saved.advanced ? "Exibir grade" : "Exibir lista avançada"}
-              icon={saved.advanced ? GridModeIcon : ListModeIcon}
-              onPress={() => setSaved((v) => ({ ...v, advanced: !v.advanced }))}
-              light
-            />
           ) : (
-            <View style={styles.iconButton} />
+            <View style={styles.iconButton}><PlantLogo size={34} /></View>
           )}
           {!desktop&&<View style={[styles.headerTitleWrap, !isSubscreen && styles.mobileBrand]}>
-            {!isSubscreen && <PlantLogo size={34} />}
             <View style={styles.mobileBrandCopy}>
             <Text style={styles.headerTitle} numberOfLines={2}>
               {formatPlantNameForWrap(title)}
@@ -348,6 +385,11 @@ function Guide() {
           {!desktop&&settings && <View style={styles.iconButton} />}
         </View>
       </SafeAreaView>
+  );
+  return (
+    <SafeAreaView style={styles.safe} edges={["left", "right"]}>
+      <StatusBar barStyle="light-content" backgroundColor="#000000" />
+      {!desktop && navigationBar}
       {!!storageError && (
         <Text accessibilityRole="alert" style={styles.error}>
           {storageError}
@@ -447,7 +489,7 @@ function Guide() {
         <View style={styles.flex} />
       ) : (
         <View
-          style={styles.flex}
+          style={[styles.flex, desktop && styles.desktopGuideLayout]}
           onLayout={(event) => setGuideWidth(event.nativeEvent.layout.width)}
           accessibilityElementsHidden={Boolean(detail)}
           importantForAccessibility={detail ? "no-hide-descendants" : "auto"}
@@ -500,9 +542,9 @@ function Guide() {
               )}
             </View>
             {desktop && !saved.advanced && <DesktopGallerySize value={desktopColumns} columns={gridColumns} onChange={setDesktopColumns} />}
-            {desktop && <IconButton label={saved.advanced ? "Exibir grade" : "Exibir lista avançada"}
+            <IconButton label={saved.advanced ? "Exibir grade" : "Exibir lista avançada"}
               icon={saved.advanced ? GridModeIcon : ListModeIcon}
-              onPress={() => setSaved((value) => ({ ...value, advanced: !value.advanced }))} />}
+              onPress={() => setSaved((value) => ({ ...value, advanced: !value.advanced }))} />
           </View>
           <View style={styles.flex} accessibilityState={{ busy: searchPending }}>
             <GuideResults visible={visible} sections={sections} saved={saved} gridCardSize={gridCardSize} gridColumns={gridColumns} desktop={desktop} openPlant={openPlant} />
@@ -524,6 +566,9 @@ function Guide() {
             plant={detail}
             principalName={saved.principalName}
             mainPhoto={saved.mainPhoto}
+            onOpenUnit={(name) => openSelectionInGuide(plantsForRows(rowsForConservationUnit(speciesRows, name)), name)}
+            unitHref={Platform.OS === 'web' ? name => '/' + webRouteSearch({ ...webRoute, tab: 'guide', plantId: null, settings: false,
+              query: '', habitat: '', familyFilter: null, scope: { kind: 'unit', name } }) : undefined}
             onPrevious={detailPosition > 0
               ? () => setDetailId(detailSequence[detailPosition - 1].id) : undefined}
             onNext={detailPosition >= 0 && detailPosition < detailSequence.length - 1
@@ -538,6 +583,7 @@ function Guide() {
       )}
       {tabLoading && <View style={styles.tabLoadingOverlay}><LoadingBrand /></View>}
       </View>
+      {desktop && navigationBar}
       {!desktop && <SafeAreaView edges={["bottom"]} style={styles.navSafe} testID="mobile-bottom-navigation">
         <View style={styles.nav}>
           {mainTabs.map((item) => (
@@ -875,6 +921,7 @@ const styles = StyleSheet.create({
   hidden: { display: "none" },
   safe: { flex: 1, backgroundColor: palette.sand },
   statusBarSafe: { backgroundColor: "#000000" },
+  desktopBottomBar: { flexShrink: 0, backgroundColor: palette.pine, borderTopWidth: 1, borderTopColor: "rgba(255,253,247,0.2)" },
   flex: { flex: 1 },
   detailOverlay: {
     ...StyleSheet.absoluteFillObject,
@@ -901,6 +948,7 @@ const styles = StyleSheet.create({
   headerSubtitle: { fontSize: 14, color: "rgba(255,255,255,0.86)" },
   desktopHeader: { minHeight: 68, paddingVertical: 6, paddingHorizontal: 20 },
   desktopToolbar: { flexDirection: "row", alignItems: "center", gap: 24, paddingHorizontal: 16, paddingVertical: 12, backgroundColor: palette.sand },
+  desktopGuideLayout: { flexDirection: "column-reverse" },
   desktopSearch: { flex: 1, borderWidth: 1, borderColor: palette.border, borderRadius: 12 },
   desktopGrid: { paddingHorizontal: 16, paddingTop: 0, paddingBottom: 16, gap: 1, backgroundColor: palette.sand },
   desktopGridRow: { gap: 1 },

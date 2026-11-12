@@ -7,6 +7,7 @@ export interface BrowserState {
   queries: Record<BrowserSection, string>;
 }
 export type BrowserAction =
+  | { type: 'restore'; state: BrowserState }
   | { type: 'tab'; section: BrowserSection }
   | { type: 'query'; query: string }
   | { type: 'select'; family: string }

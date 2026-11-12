@@ -6,13 +6,22 @@ import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 const { parse } = require('@babel/parser');
 const root = resolve(import.meta.dirname, '..');
-const directory = join(root, 'dist/web');
+const directory = resolve(root, process.argv[2] || 'dist/web');
 const hash = value => createHash('sha256').update(value).digest('hex');
 const catalogBytes = readFileSync(join(root, 'src/data/plants.json'));
 const catalog = JSON.parse(catalogBytes);
 const thumbnails = JSON.parse(readFileSync(join(root, 'src/data/plant-thumbnail-manifest.json'), 'utf8'));
 const walk = path => readdirSync(path, { withFileTypes: true }).flatMap(entry => entry.isDirectory() ? walk(join(path, entry.name)) : [join(path, entry.name)]);
 const files = walk(directory);
+const html = readFileSync(join(directory, 'index.html'), 'utf8');
+const entryScripts = [...html.matchAll(/<script\b[^>]*\bsrc=["']([^"']+)["']/gi)].map(match => {
+  const url = new URL(match[1], 'https://export.local');
+  assert.equal(url.origin, 'https://export.local', 'Unexpected external script in export');
+  const path = join(directory, decodeURIComponent(url.pathname));
+  assert.ok(files.includes(path), `HTML references a missing script: ${url.pathname}`);
+  return path;
+});
+assert.ok(entryScripts.length, 'Export HTML must reference an app bundle');
 const actualMedia = new Set(files.filter(path => /\.(?:jpg|jpeg|png|webp)$/i.test(path)).map(path => hash(readFileSync(path))));
 const photos = catalog.plants.flatMap(plant => plant.photos);
 for (const photo of photos) assert.ok(actualMedia.has(photo.sha256), `Missing original photo: ${photo.fileName}`);
@@ -20,7 +29,7 @@ for (const thumbnail of Object.values(thumbnails)) assert.ok(actualMedia.has(thu
 const expected = new Set(catalog.plants.flatMap(plant => [plant.scientificName, plant.description, plant.identification, plant.ecology, ...plant.photos.map(photo => photo.caption)]).filter(value => value.trim()));
 const literals = new Set();
 const bundles = [];
-for (const path of files.filter(path => path.endsWith('.js'))) {
+for (const path of entryScripts) {
   const bytes = readFileSync(path);
   const ast = parse(bytes.toString('utf8'), { sourceType: 'unambiguous' });
   const stack = [ast];
@@ -43,5 +52,5 @@ const result = { catalogSha256: hash(catalogBytes), entries: catalog.plants.leng
   representedSpecies: new Set(catalog.plants.flatMap(plant => plant.rank === 'genus' ? plant.regionalSpecies.map(member => member.scientificName) : [plant.scientificName])).size,
   originalPhotos: photos.length, thumbnails: Object.keys(thumbnails).length, currentCatalogStringsVerified: expected.size,
   allMediaHashesVerified: true, searchLoadingIndicatorVerified: true, bundles, htmlSha256: hash(readFileSync(join(directory, 'index.html'))) };
-writeFileSync(join(root, 'backups/web-deploy-2026-11-11/export-verification.json'), JSON.stringify(result, null, 2) + '\n');
+writeFileSync(resolve(root, process.argv[3] || 'backups/web-deploy-2026-11-11/export-verification.json'), JSON.stringify(result, null, 2) + '\n');
 console.log(JSON.stringify(result, null, 2));

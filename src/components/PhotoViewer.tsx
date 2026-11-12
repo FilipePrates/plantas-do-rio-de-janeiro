@@ -25,9 +25,8 @@ export function PhotoViewer({ photos, initialIndex, name, onClose }: {
   const [resetVersion, setResetVersion] = useState(0);
   const photo = photos[index];
   function navigateFromBackground(direction: -1 | 1) {
-    const next = index + direction;
-    if (next < 0 || next >= photos.length) onClose();
-    else setIndex(next);
+    if (photos.length <= 1) onClose();
+    else setIndex(current => (current + direction + photos.length) % photos.length);
   }
   return (
     <Modal visible animationType="fade" onRequestClose={onClose} presentationStyle="fullScreen" statusBarTranslucent navigationBarTranslucent>
@@ -48,6 +47,7 @@ export function PhotoViewer({ photos, initialIndex, name, onClose }: {
               width={viewport.width}
               height={viewport.height}
               resetVersion={resetVersion}
+              singlePhoto={photos.length === 1}
               onBackgroundPrevious={desktop ? () => navigateFromBackground(-1) : undefined}
               onBackgroundNext={desktop ? () => navigateFromBackground(1) : undefined}
             />
@@ -75,8 +75,9 @@ export function PhotoViewer({ photos, initialIndex, name, onClose }: {
   );
 }
 
-function ZoomablePhoto({ photo, name, width, height, resetVersion, onBackgroundPrevious, onBackgroundNext }: {
+function ZoomablePhoto({ photo, name, width, height, resetVersion, singlePhoto, onBackgroundPrevious, onBackgroundNext }: {
   photo: PlantPhoto; name: string; width: number; height: number; resetVersion: number;
+  singlePhoto: boolean;
   onBackgroundPrevious?: () => void; onBackgroundNext?: () => void;
 }) {
   const source = plantImages[photo.fileName];
@@ -182,11 +183,11 @@ function ZoomablePhoto({ photo, name, width, height, resetVersion, onBackgroundP
       </View>
       </GestureDetector>
       {onBackgroundPrevious && <Animated.View style={[styles.backgroundSide, { left: 0 }, leftBackgroundStyle]}>
-        <Pressable testID="photo-viewer-background-left" accessibilityRole="button" accessibilityLabel="Fundo à esquerda: foto anterior ou fechar"
+        <Pressable testID="photo-viewer-background-left" accessibilityRole="button" accessibilityLabel={singlePhoto ? "Fundo à esquerda: fechar foto ampliada" : "Fundo à esquerda: foto anterior"}
           onPress={onBackgroundPrevious} style={StyleSheet.absoluteFillObject} />
       </Animated.View>}
       {onBackgroundNext && <Animated.View style={[styles.backgroundSide, { right: 0 }, rightBackgroundStyle]}>
-        <Pressable testID="photo-viewer-background-right" accessibilityRole="button" accessibilityLabel="Fundo à direita: foto seguinte ou fechar"
+        <Pressable testID="photo-viewer-background-right" accessibilityRole="button" accessibilityLabel={singlePhoto ? "Fundo à direita: fechar foto ampliada" : "Fundo à direita: foto seguinte"}
           onPress={onBackgroundNext} style={StyleSheet.absoluteFillObject} />
       </Animated.View>}
     </View>

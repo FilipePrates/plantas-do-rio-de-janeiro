@@ -36,6 +36,8 @@ export function PlantProfile({
   onPrevious,
   onNext,
   onOpenPlant,
+  onOpenUnit,
+  unitHref,
 }: {
   plant: Plant;
   principalName: PrincipalName;
@@ -44,10 +46,12 @@ export function PlantProfile({
   onNext?: () => void;
   relatedPlants?: Plant[];
   onOpenPlant?: (plant: Plant) => void;
+  onOpenUnit?: (name: string) => void;
+  unitHref?: (name: string) => string;
 }) {
   const { width, height } = useWindowDimensions();
   const desktop = Platform.OS === "web" && width >= 1024;
-  const galleryWidth = Math.min(540, (Math.min(width, 1440) - 72) * 0.42, Math.max(260, height - 206));
+  const galleryWidth = Math.min(700, (Math.min(width, 1440) - 72) * 0.5, Math.max(260, height - 212));
   const [size, setSize] = useState(Math.min(width, 640));
   const firstPhotoIndex = Math.max(0, plant.photos.indexOf(getMainPhoto(plant, mainPhoto)!));
   const [activeIndex, setActiveIndex] = useState(firstPhotoIndex);
@@ -103,6 +107,16 @@ export function PlantProfile({
     gallery.current?.scrollToIndex({ index: next, animated: true });
     setActiveIndex(next);
   }
+  const names = <>
+    <Text style={[styles.primaryName, principalName === "scientific" && styles.scientific, desktop && styles.desktopPrimaryName]}>
+      {formatPlantNameForWrap(getPlantName(plant, principalName), principalName)}
+    </Text>
+    <Text style={[styles.secondaryName, principalName === "common" && styles.scientific, desktop && styles.desktopSecondaryName]}>
+      {principalName === "common"
+        ? `${plant.scientificName} ${plant.authorship}`.trim()
+        : formatPlantNameForWrap(plant.commonName)}
+    </Text>
+  </>;
   const municipalSection = (
     !!plant.municipalEvidence?.length && (
       <View style={styles.section}>
@@ -121,14 +135,15 @@ export function PlantProfile({
   );
   return (
     <View style={styles.screen}>
-      {desktop && (onPrevious || onNext) && (
-        <View style={styles.profileNavigation}>
+      {desktop && (
+        <View style={styles.profileNavigation} testID="profile-sticky-navigation">
           <Pressable accessibilityRole="button" accessibilityLabel="Ficha anterior" disabled={!onPrevious}
             onPress={onPrevious} style={[styles.profileNavigationButton, !onPrevious && styles.disabled]}>
             <BackIcon size={26} color={palette.ink} /><Text style={styles.profileNavigationLabel}>Anterior</Text>
           </Pressable>
+          <View style={styles.desktopProfileNames} testID="profile-sticky-names">{names}<Text style={styles.desktopFamily}>{plant.family}</Text></View>
           <Pressable accessibilityRole="button" accessibilityLabel="Próxima ficha" disabled={!onNext}
-            onPress={onNext} style={[styles.profileNavigationButton, !onNext && styles.disabled]}>
+            onPress={onNext} style={[styles.profileNavigationButton, styles.profileNavigationNext, !onNext && styles.disabled]}>
             <Text style={styles.profileNavigationLabel}>Próxima</Text><View style={styles.nextArrow}><BackIcon size={26} color={palette.ink} /></View>
           </Pressable>
         </View>
@@ -284,34 +299,14 @@ export function PlantProfile({
           </View>
         ) : null}
         </View>
-        <View style={desktop && styles.desktopInformation} {...(!desktop ? swipe.panHandlers : {})}>
-        <View style={[styles.identity, desktop && styles.desktopIdentity]}>
-          <Text
-            style={[
-              styles.primaryName,
-              principalName === "scientific" && styles.scientific,
-            ]}
-          >
-            {formatPlantNameForWrap(
-              getPlantName(plant, principalName),
-              principalName,
-            )}
-          </Text>
-          <Text
-            style={[
-              styles.secondaryName,
-              principalName === "common" && styles.scientific,
-            ]}
-          >
-            {principalName === "common"
-              ? `${plant.scientificName} ${plant.authorship}`.trim()
-              : formatPlantNameForWrap(plant.commonName)}
-          </Text>
+        <View style={desktop && styles.desktopInformation} testID="profile-information" {...(!desktop ? swipe.panHandlers : {})}>
+        <View style={[styles.identity, desktop && styles.desktopIdentity]} testID="profile-identity-details">
+          {!desktop && names}
           <View style={styles.identityMeta}>
-            <Text style={styles.muted}>{plant.family}</Text>
-            <Text style={styles.muted}>
+            {!desktop && <Text style={styles.muted}>{plant.family}</Text>}
+            {!desktop && <Text style={styles.muted}>
               {plant.geography === "rio-city" ? "Município do Rio" : "Estado do RJ"}
-            </Text>
+            </Text>}
             {plant.origin !== "native" && (
               <View style={styles.origin}>
                 <Text style={styles.originText}>
@@ -370,7 +365,7 @@ export function PlantProfile({
           </Section>
         )}
         {plant.rank !== "genus" && municipalSection}
-        <RegionalRecords key={plant.id} plant={plant} />
+        <RegionalRecords key={plant.id} plant={plant} onOpenUnit={onOpenUnit} unitHref={unitHref} />
         {relatedPlants.some((p) => p.id !== plant.id) && onOpenPlant && (
           <Section title="Outras do Gênero">
             {relatedPlants.filter((p) => p.id !== plant.id).map((p) => (
@@ -515,13 +510,18 @@ const styles = StyleSheet.create({
   screen: { flex: 1, backgroundColor: palette.paper },
   content: { paddingBottom: 20 },
   profile: { width: "100%", maxWidth: 640, alignSelf: "center" },
-  desktopProfile: { maxWidth: 1440, paddingHorizontal: 24, flexDirection: "row", alignItems: "flex-start", gap: 20 },
-  desktopInformation: { flex: 1, minWidth: 0 },
-  desktopIdentity: { paddingVertical: 12 },
+  desktopProfile: { maxWidth: 1440, paddingHorizontal: 24, flexDirection: "row", alignItems: "flex-start", justifyContent: "center", gap: 24 },
+  desktopInformation: { flex: 1, minWidth: 0, maxWidth: 660 },
+  desktopIdentity: { paddingTop: 0, paddingBottom: 10 },
   desktopSection: { paddingVertical: 14 },
-  profileNavigation: { flexShrink: 0, width: "100%", maxWidth: 1440, alignSelf: "center", flexDirection: "row", alignItems: "center", justifyContent: "space-between", paddingHorizontal: 24, paddingVertical: 6 },
+  profileNavigation: { flexShrink: 0, width: "100%", maxWidth: 1440, alignSelf: "center", flexDirection: "row", alignItems: "center", justifyContent: "space-between", gap: 16, paddingHorizontal: 24, paddingVertical: 6, minHeight: 68 },
+  desktopProfileNames: { flex: 1, minWidth: 0, alignItems: "center", gap: 2 },
+  desktopPrimaryName: { fontSize: 21, lineHeight: 26, textAlign: "center" },
+  desktopSecondaryName: { fontSize: 14, lineHeight: 20, textAlign: "center" },
+  desktopFamily: { color: palette.muted, fontSize: 11, lineHeight: 16 },
   dragHint: { color: palette.muted, fontSize: 11, paddingHorizontal: 16, paddingTop: 8 },
-  profileNavigationButton: { minHeight: 44, flexDirection: "row", alignItems: "center", gap: 8, paddingHorizontal: 6 },
+  profileNavigationButton: { width: 112, minHeight: 44, flexDirection: "row", alignItems: "center", gap: 8, paddingHorizontal: 6 },
+  profileNavigationNext: { justifyContent: "flex-end" },
   profileNavigationLabel: { color: palette.ink, fontSize: 14, fontWeight: "600" },
   nextArrow: { transform: [{ rotate: "180deg" }] },
   desktopPhotoArrow: { position: "absolute", zIndex: 2, width: 44, height: 44, alignItems: "center", justifyContent: "center", borderWidth: 2, borderColor: palette.paper, backgroundColor: palette.ink, borderRadius: 22, boxShadow: "0 2px 8px rgba(36,49,39,0.22)" },

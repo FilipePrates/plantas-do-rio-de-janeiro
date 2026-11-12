@@ -1,11 +1,12 @@
 import React, { useMemo } from "react";
-import { FlatList, Pressable, StyleSheet, Text, TextInput, View } from "react-native";
+import { FlatList, Platform, Pressable, StyleSheet, Text, TextInput, View, useWindowDimensions } from "react-native";
 import type { ChecklistRow, Plant } from "../catalog.mjs";
 import type { BrowserAction, BrowserSection, BrowserState, CatalogIndexEntry } from "../catalogBrowser.mjs";
 import { matchesIndexName, plantsForRows, rowsForConservationUnit } from "../catalogBrowser.mjs";
 import { palette } from "../theme";
 import { SpeciesChecklist } from "./SpeciesChecklist";
 import { ForwardIcon } from "./icons";
+import { DesktopCatalogBrowser } from "./DesktopCatalogBrowser";
 
 const tabs: { id: BrowserSection; label: string }[] = [
   { id: "families", label: "Famílias" },
@@ -14,7 +15,7 @@ const tabs: { id: BrowserSection; label: string }[] = [
 ];
 const prompts = { families: "Buscar família…", species: "Buscar espécie, família ou unidade…", units: "Buscar unidade de conservação…" };
 
-export function CatalogBrowser({ state, dispatch, rows, allRows, families, units, onOpen, onGuide, onTabChange }: {
+export interface CatalogBrowserProps {
   state: BrowserState;
   dispatch: (action: BrowserAction) => void;
   rows: ChecklistRow[];
@@ -24,9 +25,14 @@ export function CatalogBrowser({ state, dispatch, rows, allRows, families, units
   onOpen: (plant: Plant, sequence: Plant[]) => void;
   onGuide: (plants: Plant[], label: string) => void;
   onTabChange: (section: BrowserSection) => void;
-}) {
+}
+
+export function CatalogBrowser(props: CatalogBrowserProps) {
+  const { state, dispatch, rows, allRows, families, units, onOpen, onGuide, onTabChange } = props;
+  const { width } = useWindowDimensions();
   const plants = useMemo(() => plantsForRows(rows), [rows]);
   const query = state.queries[state.section];
+  if (Platform.OS === "web" && width >= 1024) return <DesktopCatalogBrowser {...props} />;
   return (
     <View style={styles.screen}>
       <View style={styles.tabs}>

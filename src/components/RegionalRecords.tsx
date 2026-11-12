@@ -3,6 +3,7 @@ import { Linking, Pressable, StyleSheet, Text, View } from "react-native";
 import type { Plant, RegionalEvidence } from "../catalog.mjs";
 import { conservationLabels } from "../catalog.mjs";
 import { palette } from "../theme";
+import { ConservationUnitLink } from './ConservationUnitLink';
 
 const scopeLabels = {
   brazil: "Brasil",
@@ -15,7 +16,7 @@ function openUrl(url: string) {
   void Linking.openURL(url).catch(() => undefined);
 }
 
-export function RegionalRecords({ plant }: { plant: Plant }) {
+export function RegionalRecords({ plant, onOpenUnit, unitHref }: { plant: Plant; onOpenUnit?: (name: string) => void; unitHref?: (name: string) => string }) {
   const records = (plant.regionalEvidence ?? []).filter((record) => record.conservationUnits.length);
   if (!records.length) return null;
   const sources = [...new Map(records.map((record) => [record.source.url, record.source])).values()];
@@ -23,7 +24,7 @@ export function RegionalRecords({ plant }: { plant: Plant }) {
     <View style={styles.section}>
       <Text style={styles.title}>Unidades de Conservação</Text>
       {records.map((record) => (
-        <SpeciesRecords key={`${record.scientificName}:${record.source.url}`} record={record} showName={plant.rank === "genus"} />
+        <SpeciesRecords key={`${record.scientificName}:${record.source.url}`} record={record} showName={plant.rank === "genus"} onOpenUnit={onOpenUnit} unitHref={unitHref} />
       ))}
       <Text style={styles.context}>Esses registros são datados; as listas não cobrem todas as áreas de ocorrência.</Text>
       {sources.map((source) => (
@@ -35,7 +36,7 @@ export function RegionalRecords({ plant }: { plant: Plant }) {
   );
 }
 
-function SpeciesRecords({ record, showName }: { record: RegionalEvidence; showName: boolean }) {
+function SpeciesRecords({ record, showName, onOpenUnit, unitHref }: { record: RegionalEvidence; showName: boolean; onOpenUnit?: (name: string) => void; unitHref?: (name: string) => string }) {
   const units = [...record.conservationUnits].sort((a, b) =>
     Number(Boolean(b.municipality)) - Number(Boolean(a.municipality)) || a.name.localeCompare(b.name, "pt-BR"));
   return (
@@ -43,7 +44,7 @@ function SpeciesRecords({ record, showName }: { record: RegionalEvidence; showNa
       {showName && <Text style={styles.species}>{record.scientificName}</Text>}
       {units.map((unit) => (
         <Text key={unit.name} style={styles.unit}>
-          {unit.name}{unit.municipality ? ` · ${unit.municipality}` : ""}
+          {onOpenUnit ? <ConservationUnitLink name={unit.name} onOpen={onOpenUnit} href={unitHref?.(unit.name)} /> : unit.name}{unit.municipality ? ` · ${unit.municipality}` : ""}
         </Text>
       ))}
     </View>

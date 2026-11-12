@@ -8,8 +8,10 @@
 - Do not run build, prebuild, install-to-device, signing, release, or Gradle
   commands unless the user explicitly asks to run them. Typechecks, content
   validation, tests, and local development servers are allowed.
-- Preserve custom state navigation, the earthy palette, square photos, a fixed
-  three-column grid, and family-grouped advanced list. No audio or maps.
+- Preserve custom state navigation, the earthy palette and square photos.
+  Mobile uses a three-column guide and family-grouped advanced list. Desktop
+  supports adjustable guide columns and card-based family/species/unit indexes.
+  No audio or maps.
 - The canonical catalog is `src/data/plants.json`. Species and grouped genera
   share one schema in `src/catalog.mjs` / `src/catalog.d.mts`.
 - At most 1,500 represented species, including every listed member of a grouped
@@ -30,3 +32,39 @@
   changes. Run `npm run catalog:generate` after changes to photo membership.
 - The sibling plant editor works locally; synchronize with `npm run editor:sync`.
   Never point it at the production bird Supabase project or R2 buckets.
+
+## Web UI and navigation
+
+- The active identity is the Mandevilla flower. Source artwork and exports are
+  in `assets/branding`; see `docs/branding-mandevilla.md` and
+  `scripts/export_branding.mjs`. Keep branding artwork separate from catalog
+  photographs. Native icon/splash changes require a later native build.
+- Desktop currently places the green brand/tab/settings bar at the bottom.
+  Profile names remain in a fixed row with previous/next controls, including
+  single-result selections. Keep descriptions near the top and text readable;
+  size galleries to the viewport so controls remain reachable.
+- Mobile and desktop changes must be checked independently. Do not apply a
+  desktop-only layout request to native/mobile screens by accident.
+- Shared URLs must restore the selected profile or filtered list in a fresh
+  browser, without depending on the sender's storage. Preserve recipient lists.
+  Check reload, browser Back/Forward, catalog context and profile scroll return.
+- Conservation-unit names in profiles should link to that unit's filtered
+  guide, retaining their text appearance. Support normal clicks, copied links
+  and opening a new tab. Retain species-specific evidence for grouped genera.
+- Desktop viewer background clicks cycle galleries in both directions. With
+  only one photo they close the viewer. Keep image zoom and explicit close.
+
+## Verification and publishing
+
+- Public guide: https://plantas.avesdobrasil.app. Deployment instructions live
+  in `docs/web-deployment.md`; the plant editor has its own deployment.
+- Use `npm run check` for application changes. Browser checks should cover
+  affected desktop widths and mobile, navigation, search and relevant media.
+- Test using isolated browser contexts. Never clear a user's browser storage
+  or modify real editor records merely to verify a layout.
+- Preserve concurrent source changes and exports. Use a dedicated export
+  directory if needed; `scripts/verify_web_export.mjs` accepts an export directory
+  and report path. Check HTML-referenced bundles and catalog/media hashes.
+- Publish only within the user's authorized scope. Verify the live page after
+  deployment and record the version and checks. Do not equate a successful
+  export with a live deployment or an updated installed APK.

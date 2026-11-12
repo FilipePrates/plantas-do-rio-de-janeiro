@@ -7,6 +7,7 @@ export const initialBrowserState = {
 
 export function browserReducer(state, action) {
   switch (action.type) {
+    case 'restore': return action.state;
     case 'tab': return {
       ...state, section: action.section, origin: null,
       // The Espécies tab is the complete index; selections belong to an index-to-list visit.

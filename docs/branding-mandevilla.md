@@ -5,6 +5,9 @@ user's attached Mandevilla crassinoda photograph. White five-lobed petals,
 yellow throat, and a dark green contour keep the flower readable on light and
 dark browser tabs. The prior Pitcairnia concepts remain archived.
 
+The matching catalog photo is iNaturalist 568679468 by filipeprates (CC0),
+observation 314838994. The original photo and its catalog metadata are preserved.
+
 Run `node scripts/export_branding.mjs` to export platform sizes from the master.
 App configuration uses these assets for a later native build. Updating the
 website does not replace the icon in an already installed APK.
