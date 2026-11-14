@@ -1,5 +1,21 @@
 # Web deployment
 
+## November 13, 2026 desktop minimum four
+
+Published version `b40c48ec-4496-4112-804d-d067c580a3f5` from
+`dist/web-min-four-20261113`. The desktop grid permits 4–22 columns and
+defaults to 12. Top navigation/search and the three-column mobile grid remain
+unchanged. Saved values below four fall back to the default.
+
+TypeScript, all 63 tests, catalog validation and exported catalog/media checks
+passed. After one local preview reload timeout, the browser check retry passed.
+Local and live checks at 1024, 1440, 1920 and 390 pixels verified toolbar
+positions, default 12, minimum four with reload persistence, mobile layout,
+search, profile photos and navigation without page errors. The public bundle
+matches the tested export, SHA-256
+`46870e26c17d2a439949fcd6d575567adbb6d3317c597913947873b39c5ab243`.
+Reports and screenshots are retained in `backups/min-four-20261113/`.
+
 ## November 13, 2026 navigation regression correction
 
 Published version `c30b66e7-5355-4be3-82a1-8047fb935557` from
