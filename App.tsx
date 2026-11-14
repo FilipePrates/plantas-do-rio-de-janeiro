@@ -138,7 +138,7 @@ function Guide() {
   const { width } = useWindowDimensions();
   const [guideWidth, setGuideWidth] = useState(width);
   const desktop = Platform.OS === "web" && width >= 1024;
-  const [desktopColumns, setDesktopColumns] = useState(10);
+  const [desktopColumns, setDesktopColumns] = useState(12);
   const availableWidth = Math.min(guideWidth, width);
   const gridColumns = desktop ? desktopColumns : 3;
   const gridCardSize = Math.max(1, desktop
@@ -340,7 +340,7 @@ function Guide() {
   const isSubscreen = Boolean(detail || settings);
   const title = settings ? "Configurações" : detail?.commonName || "Plantas";
   const navigationBar = (
-      <SafeAreaView edges={desktop ? ["bottom"] : ["top"]} style={[styles.statusBarSafe, desktop && styles.desktopBottomBar]} testID={desktop ? "desktop-bottom-navigation" : "mobile-top-header"}>
+      <SafeAreaView edges={["top"]} style={[styles.statusBarSafe, desktop && styles.desktopTopBar]} testID={desktop ? "desktop-top-navigation" : "mobile-top-header"}>
         <View style={[styles.header, desktop && styles.desktopHeader]}>
           {desktop ? (
             <>
@@ -399,7 +399,7 @@ function Guide() {
   return (
     <SafeAreaView style={styles.safe} edges={["left", "right"]}>
       <StatusBar barStyle="light-content" backgroundColor="#000000" />
-      {!desktop && navigationBar}
+      {navigationBar}
       {!!storageError && (
         <Text accessibilityRole="alert" style={styles.error}>
           {storageError}
@@ -604,7 +604,6 @@ function Guide() {
       )}
       {tabLoading && <View style={styles.tabLoadingOverlay}><LoadingBrand /></View>}
       </View>
-      {desktop && navigationBar}
       {!desktop && <SafeAreaView edges={["bottom"]} style={styles.navSafe} testID="mobile-bottom-navigation">
         <View style={styles.nav}>
           {mainTabs.map((item) => (
@@ -951,7 +950,7 @@ const styles = StyleSheet.create({
   hidden: { display: "none" },
   safe: { flex: 1, backgroundColor: palette.sand },
   statusBarSafe: { backgroundColor: "#000000" },
-  desktopBottomBar: { flexShrink: 0, backgroundColor: palette.pine, borderTopWidth: 1, borderTopColor: "rgba(255,253,247,0.2)" },
+  desktopTopBar: { flexShrink: 0, backgroundColor: palette.pine, borderBottomWidth: 1, borderBottomColor: "rgba(255,253,247,0.2)" },
   flex: { flex: 1 },
   detailOverlay: {
     ...StyleSheet.absoluteFillObject,
@@ -977,13 +976,13 @@ const styles = StyleSheet.create({
   },
   headerSubtitle: { fontSize: 14, color: "rgba(255,255,255,0.86)" },
   desktopHeader: { minHeight: 68, paddingVertical: 6, paddingHorizontal: 20 },
-  desktopToolbar: { position: "absolute", bottom: 0, left: 0, right: 0, zIndex: 1, flexDirection: "row", alignItems: "center", gap: 12, paddingHorizontal: 16, paddingVertical: 4, backgroundColor: "transparent" },
+  desktopToolbar: { flexDirection: "row", alignItems: "center", gap: 12, paddingHorizontal: 16, paddingVertical: 4, backgroundColor: "transparent" },
   desktopToolbarControl: { backgroundColor: palette.paper, borderWidth: 1, borderColor: palette.border, borderRadius: 12, paddingHorizontal: 8, minHeight: 44, justifyContent: "center" },
-  desktopGuideLayout: { flexDirection: "column-reverse" },
+  desktopGuideLayout: { flexDirection: "column" },
   desktopSearch: { flex: 1, alignSelf: "stretch", borderWidth: 1, borderColor: palette.border, borderRadius: 12 },
   desktopSearchInput: { paddingVertical: 6 },
-  desktopGrid: { paddingHorizontal: 16, paddingTop: 0, paddingBottom: 64, gap: 1, backgroundColor: palette.sand },
-  desktopResultsPadding: { paddingBottom: 64 },
+  desktopGrid: { paddingHorizontal: 16, paddingTop: 0, paddingBottom: 12, gap: 1, backgroundColor: palette.sand },
+  desktopResultsPadding: { paddingBottom: 12 },
   desktopGridRow: { gap: 1 },
   desktopGridCard: { borderRadius: 0 },
   desktopHeaderSide: { flex: 1, minWidth: 0 },

@@ -9,7 +9,7 @@ export function DesktopGallerySize({ value, columns, onChange }: DesktopGalleryS
       <span style={{ minWidth: 66, fontVariantNumeric: "tabular-nums", color: palette.pine }}>
         {columns} por linha
       </span>
-      <input type="range" min={6} max={22} step={1} value={value}
+      <input type="range" min={4} max={22} step={1} value={value}
         aria-label="Fotos por linha" aria-valuetext={`${columns} fotos por linha`}
         onChange={(event) => onChange(Number(event.currentTarget.value))}
         style={{ width: 140, height: 24, margin: 0, accentColor: palette.pine, cursor: "pointer" }} />

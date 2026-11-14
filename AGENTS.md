@@ -95,7 +95,9 @@
   in `assets/branding`; see `docs/branding-mandevilla.md` and
   `scripts/export_branding.mjs`. Keep branding artwork separate from catalog
   photographs. Native icon/splash changes require a later native build.
-- Desktop currently places the green brand/tab/settings bar at the bottom.
+- Desktop places the green brand/tab/settings bar at the top, with guide
+  search and photo-grid controls below it. The grid defaults to 12 columns
+  and allows 4–22; preserve the separate three-column mobile guide.
   Profile names remain in a fixed row with previous/next controls, including
   single-result selections. Keep descriptions near the top and text readable;
   size galleries to the viewport so controls remain reachable.

@@ -28,7 +28,7 @@ export const defaultState: SavedState = {
   photosOnly: true,
   principalName: "common",
   mainPhoto: "default",
-  desktopColumns: 10,
+  desktopColumns: 12,
   familyFilter: null,
   lists: [{ id: "minha-lista", name: "Minha lista", plantIds: [] }],
 };
@@ -84,7 +84,7 @@ export async function loadState(
       value.principalName === "scientific" ? "scientific" : "common",
     mainPhoto: normalizeMainPhoto(value.mainPhoto),
     desktopColumns:
-      Number.isInteger(value.desktopColumns) && value.desktopColumns! >= 6 && value.desktopColumns! <= 22
+      Number.isInteger(value.desktopColumns) && value.desktopColumns! >= 4 && value.desktopColumns! <= 22
         ? value.desktopColumns!
         : defaultState.desktopColumns,
     lists,

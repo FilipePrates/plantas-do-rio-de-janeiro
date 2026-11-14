@@ -1,5 +1,44 @@
 # Web deployment
 
+## November 13, 2026 navigation regression correction
+
+Published version `c30b66e7-5355-4be3-82a1-8047fb935557` from
+`dist/web-top-grid-20261113`. Desktop navigation is at the top, followed by
+guide search and grid controls. The grid defaults to 12 columns and permits
+3–22. Existing valid saved choices remain intact; mobile keeps three columns.
+Catalog content and media are unchanged.
+
+Fetched and compared both repository branches: `master` and
+`feat/botanical-curation` both retained the outdated bottom-toolbar layout.
+The correction also updates the obsolete layout instruction in `AGENTS.md`.
+TypeScript, all 63 tests, catalog validation and exported media hashes passed.
+Local and live browser checks at 1024, 1440, 1920 and 390 pixels verified
+navigation/search positions, a fresh desktop default of 12, minimum 3 with
+reload persistence, mobile layout, search, profile photos and return navigation.
+No page errors occurred. The public HTML-referenced bundle matches the export,
+SHA-256 `5b73e22320135b49840d573cadcbec17b008219803b24a02f33df6b43a8a0dc0`.
+Reports and screenshots are retained in `backups/top-grid-20261113/`.
+
+## November 13, 2026 desktop grid minimum
+
+Superseded: this deployment retained an outdated bottom navigation/search
+layout and default of 10. Its browser checks did not assert toolbar positions
+or the requested default. See the corrective deployment above.
+
+Published version `77740637-3e9b-4ceb-8208-dbcda738a42e` from the isolated
+`dist/web-grid-min-three-20261113` export. The desktop photo-grid slider now
+allows 3–22 photos per row, and saved preferences accept the new minimum.
+The default remains 10; mobile retains three columns.
+
+TypeScript, all 63 tests, catalog validation and exported catalog/media hashes
+passed. Local and live browser checks at 1024, 1440 and 390 pixels verified
+three-column layout, desktop preference persistence after reload, search,
+profile photos and return navigation without page errors. The live bundle
+matches the verified export, SHA-256
+`ce9a46b46a39cfe069ac41e641495e1349e39d57e18343ecb9b7371ff09e7dae`.
+Verification records are retained in `backups/grid-min-three-20261113/`.
+This web deployment does not update installed native apps.
+
 ## November 12, 2026 search focus ring correction
 
 Published version `9586b351-f5d7-499d-bd80-01fcf461047d` from
